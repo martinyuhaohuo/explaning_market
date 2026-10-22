@@ -2,7 +2,11 @@ from pydantic import BaseModel, Field
 
 class Analysis(BaseModel):
     """A concrete analysis."""
-    prediction: float = Field(description="A single percentile in [0, 1].")
+    prediction: float = Field(
+        ge=0.0,
+        le=1.0,
+        description="A single percentile in [0, 1].",
+    )
     reasons: str = Field(description="3-5 reasons that support your prediction.")
 
 class Critique(BaseModel):

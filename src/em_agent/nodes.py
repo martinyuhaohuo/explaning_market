@@ -1,16 +1,12 @@
 import os
-import subprocess
-import sys
 import json
-from pathlib import Path
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_openai import ChatOpenAI
-from langchain_anthropic import ChatAnthropic
 from langchain_core.messages import HumanMessage
 from langchain_core.messages import SystemMessage
 from langgraph.runtime import Runtime
-from langgraph.graph import StateGraph, START, END
+from langgraph.graph import END
 
 from .state import AnalysisState
 from .context import AnalysisContext
@@ -18,12 +14,18 @@ from .prompts import ANALYSIS_SYSTEM, CRITIQUE_SYSTEM
 from .schemas import Analysis, Critique
 
 load_dotenv()
-try:
-    OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
-    ANTHROPIC_API_KEY = os.environ['ANTHROPIC_API_KEY']
-    GOOGLE_API_KEY = os.environ['GOOGLE_API_KEY']
-except:
-    print("LLM API key not found")
+
+
+def _require_env(name: str) -> str:
+    value = os.environ.get(name)
+    if not value:
+        raise RuntimeError(f"{name} is required to use em_agent")
+    return value
+
+
+# Only require credentials for providers this module actually uses.
+OPENAI_API_KEY = _require_env("OPENAI_API_KEY")
+GOOGLE_API_KEY = _require_env("GOOGLE_API_KEY")
 
 FORMAT_MODEL = "gemini-3.1-flash-lite-preview"
 PROPOSE_MODEL  = "gpt-6-luna"
@@ -80,20 +82,28 @@ def analysis_maker(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> A
     if critique is None:
         user = (
             f"Firm stock ticker:\n{ctx.stock_id}\n\n"
+            f"Event date:\n{ctx.earnings_call_date}\n\n"
+            f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
             f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
             f"Earning preview:\n{earnings_preview}\n\n"
             f"Option relevant statistics:\n{option_stats}\n\n"
             f"Constraint:\n{ctx.constraints}\n\n"
+            "Do not use facts, prices, market reactions, or outcomes learned "
+            "after the knowledge cutoff.\n\n"
             f"Analyze the given information and provide your prediction."
         )
     else:
         prev = state["current_analysis"]
         user = (
             f"Firm stock ticker:\n{ctx.stock_id}\n\n"
+            f"Event date:\n{ctx.earnings_call_date}\n\n"
+            f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
             f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
             f"Earning preview:\n{earnings_preview}\n\n"
             f"Option relevant statistics:\n{option_stats}\n\n"
             f"Constraint:\n{ctx.constraints}\n\n"
+            "Do not use facts, prices, market reactions, or outcomes learned "
+            "after the knowledge cutoff.\n\n"
             f"Your previous analysis:\n{prev.model_dump_json(indent=2)}\n\n"
             f"Vice president's critique:\n{critique.model_dump_json(indent=2)}\n\n"
             f"Revise. Return one revised analysis toegther with your prediction."
@@ -118,10 +128,14 @@ def analysis_evaluator(state: AnalysisState, runtime: Runtime[AnalysisContext]) 
         option_stats = "Not avaliable"
     user = (
         f"Firm stock ticker:\n{ctx.stock_id}\n\n"
+        f"Event date:\n{ctx.earnings_call_date}\n\n"
+        f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
         f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
         f"Earning preview:\n{earnings_preview}\n\n"
         f"Option relevant statistics:\n{option_stats}\n\n"
         f"Constraint:\n{ctx.constraints}\n\n"
+        "Do not use facts, prices, market reactions, or outcomes learned "
+        "after the knowledge cutoff.\n\n"
         f"Analysis and prediction under review:\n{analysis.model_dump_json(indent=2)}\n\n"
         f"Evaluate it."
     )

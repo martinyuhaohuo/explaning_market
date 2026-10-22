@@ -2,13 +2,19 @@ import os
 from dotenv import load_dotenv
 from langfuse import get_client
 from langfuse.langchain import CallbackHandler
+from langchain_core.callbacks import BaseCallbackHandler
 
 load_dotenv()
-for k in ('LANGFUSE_HOST', 'LANGFUSE_PUBLIC_KEY', 'LANGFUSE_SECRET_KEY'):
-    assert os.environ.get(k), f'missing {k} in .env'
-print('env OK')
+_LANGFUSE_KEYS = (
+    "LANGFUSE_HOST",
+    "LANGFUSE_PUBLIC_KEY",
+    "LANGFUSE_SECRET_KEY",
+)
 
-# Initialize Langfuse client
-langfuse = get_client()
-# Initialize Langfuse CallbackHandler for Langchain (tracing)
-langfuse_handler = CallbackHandler()
+if all(os.environ.get(key) for key in _LANGFUSE_KEYS):
+    langfuse = get_client()
+    langfuse_handler = CallbackHandler()
+else:
+    # Keep callers' callback lists valid while making tracing optional.
+    langfuse = None
+    langfuse_handler = BaseCallbackHandler()
