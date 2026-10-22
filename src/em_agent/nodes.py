@@ -83,13 +83,10 @@ def analysis_maker(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> A
         user = (
             f"Firm stock ticker:\n{ctx.stock_id}\n\n"
             f"Event date:\n{ctx.earnings_call_date}\n\n"
-            f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
             f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
             f"Earning preview:\n{earnings_preview}\n\n"
             f"Option relevant statistics:\n{option_stats}\n\n"
             f"Constraint:\n{ctx.constraints}\n\n"
-            "Do not use facts, prices, market reactions, or outcomes learned "
-            "after the knowledge cutoff.\n\n"
             f"Analyze the given information and provide your prediction."
         )
     else:
@@ -97,13 +94,10 @@ def analysis_maker(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> A
         user = (
             f"Firm stock ticker:\n{ctx.stock_id}\n\n"
             f"Event date:\n{ctx.earnings_call_date}\n\n"
-            f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
             f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
             f"Earning preview:\n{earnings_preview}\n\n"
             f"Option relevant statistics:\n{option_stats}\n\n"
             f"Constraint:\n{ctx.constraints}\n\n"
-            "Do not use facts, prices, market reactions, or outcomes learned "
-            "after the knowledge cutoff.\n\n"
             f"Your previous analysis:\n{prev.model_dump_json(indent=2)}\n\n"
             f"Vice president's critique:\n{critique.model_dump_json(indent=2)}\n\n"
             f"Revise. Return one revised analysis toegther with your prediction."
@@ -129,13 +123,10 @@ def analysis_evaluator(state: AnalysisState, runtime: Runtime[AnalysisContext]) 
     user = (
         f"Firm stock ticker:\n{ctx.stock_id}\n\n"
         f"Event date:\n{ctx.earnings_call_date}\n\n"
-        f"Knowledge cutoff:\n{ctx.knowledge_cutoff}\n\n"
         f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
         f"Earning preview:\n{earnings_preview}\n\n"
         f"Option relevant statistics:\n{option_stats}\n\n"
         f"Constraint:\n{ctx.constraints}\n\n"
-        "Do not use facts, prices, market reactions, or outcomes learned "
-        "after the knowledge cutoff.\n\n"
         f"Analysis and prediction under review:\n{analysis.model_dump_json(indent=2)}\n\n"
         f"Evaluate it."
     )
