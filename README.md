@@ -94,7 +94,8 @@ cp .env.example .env
 
 That's the whole secret setup — Modal reads `.env` automatically at deploy time, so
 there's no command to run. (`.env` is gitignored; never commit it. Add
-`OPENAI_API_KEY` here too if you want real LLM predictions instead of the baseline.)
+Add `OPENAI_API_KEY` and `GOOGLE_API_KEY` here too if you want real agent
+predictions instead of the neutral baseline.)
 
 ### 4. Deploy
 
@@ -139,9 +140,9 @@ asset's next-day abnormal (market-adjusted) return will rank across **all of the
 quarter's event outcomes**: 0 = the quarter's most negative reaction, 0.50 =
 median, 1 = its most positive. It's a cross-sectional rank across the quarter's
 events, *not* a percentile within the asset's own history. The default
-implementation asks an OpenAI model for a calibrated percentile; with no
-`OPENAI_API_KEY` set it returns `0.5` so the round-trip works before you plug in
-your real model.
+implementation runs the `em_agent` analyst/critic graph using OpenAI and Google
+models for one round. If either `OPENAI_API_KEY` or `GOOGLE_API_KEY` is missing,
+or the agent fails, it returns `0.5` so the round-trip still completes.
 
 Re-deploy after editing:
 

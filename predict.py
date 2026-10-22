@@ -4,35 +4,21 @@
 already been verified for you. Return one prediction per focal asset. Everything
 else in this repo (webhook verification, dedupe, submission) is plumbing.
 
-The default implementation asks an OpenAI model for a calibrated percentile. If
-`OPENAI_API_KEY` is not set, it returns a 0.5 baseline so the full deploy →
-receive → submit round-trip still works without burning credits. Replace the body
-of `predict` with whatever strategy you like — the only contract is the return
-shape documented below.
+The default implementation runs the multi-model ``em_agent`` graph. If either
+required provider key is missing, or the graph fails, it returns a 0.5 baseline
+so the receive → predict → submit round-trip still completes.
 """
 
 from __future__ import annotations
 
-import json
 import os
 
 import httpx
-from openai import OpenAI
-from pydantic import BaseModel, Field
 
-from explaining_markets.config import openai_model
+_agent_warned = False
 
-_openai: OpenAI | None = None  # lazy: importing this file must not require a key
-_openai_warned = False         # one-shot warning when no key is configured
-
-# Timeouts, sized against the 5-minute prediction window that opens when your
-# handler ACKs the webhook. Worst case is 15 + (120 x 2) + 15 = 270s, which
-# fits with ~30s to spare. Nothing upstream retries a failed prediction — once
-# the delivery is ACKed the platform considers it done — so the one retry here
-# is the only one you get. Raising either value can push you past the deadline.
+# Keep the disclosure fetch bounded within the five-minute prediction window.
 SUMMARY_TIMEOUT_SECONDS = 15.0
-LLM_TIMEOUT_SECONDS = 120.0
-LLM_MAX_RETRIES = 1
 
 
 def predict(event: dict) -> list[dict]:
@@ -58,17 +44,13 @@ def predict(event: dict) -> list[dict]:
     summary.raise_for_status()
     summary_json = summary.json()
 
-    # One model call per focal asset, in series — so the LLM budget below is
-    # per asset, not per event. Today every event carries a single asset; if
-    # that changes and you need several, run them concurrently rather than
-    # raising the timeout.
     return [
         {
             "identifier_value": asset["identifier_value"],
-            "predicted_percentile": _ask_llm(
-                summary=summary_json,
+            "predicted_percentile": _ask_agent(
+                event=event,
+                disclosure=summary_json,
                 ticker=asset["identifier_value"],
-                event_type=event["event_type"],
             ),
         }
         for asset in event["focal_assets"]
@@ -189,94 +171,71 @@ def format_materials(bundle: object) -> str:
     return "\n\n".join(sections)
 
 
-# ----------------------------------------------------------------------
-# Default strategy: a single calibrated LLM call per asset.
-# Swap this out, or rewrite `predict` entirely, to enter your own model.
-# ----------------------------------------------------------------------
+def _bundle_content(bundle: object, item_id: str) -> object | None:
+    """Return an event material's content by ID, independent of item order."""
+    if not isinstance(bundle, dict) or not isinstance(bundle.get("items"), list):
+        return None
+    for item in bundle["items"]:
+        if isinstance(item, dict) and item.get("id") == item_id:
+            return item.get("content")
+    return None
 
 
-class Prediction(BaseModel):
-    """Structured response shape for the LLM call.
+def _ask_agent(*, event: dict, disclosure: object, ticker: str) -> float:
+    """Run one bounded agent round and return its final prediction.
 
-    The `Field(ge=0, le=1)` constraint flows through into the JSON schema OpenAI's
-    structured-outputs mode enforces during decoding, so the model is guaranteed to
-    return a percentile in [0, 1] — no manual clamping or fallback parsing needed.
+    Missing provider credentials and runtime failures fall back to the neutral
+    percentile so an event still receives a valid competition submission.
     """
-
-    predicted_percentile: float = Field(ge=0.0, le=1.0)
-
-
-SYSTEM_PROMPT = """\
-You are a senior equity analyst predicting how a stock will react to an event.
-
-Predict a single percentile in [0, 1] for how the focal asset's next-day
-abnormal return will rank across all of the quarter's event outcomes:
-0 = the quarter's most negative reaction, 0.50 = median, 1 = its most positive.
-The relevant return is the *unexpected*, market-adjusted return — a
-great-but-fully-priced-in beat is not a top-decile event.
-
-Calibration discipline:
-- Long-run base rates: about 25% of events land "up" (>0.75), 50% "neutral"
-  (0.25-0.75), 25% "down" (<0.25). Default toward 0.40-0.60 when signals are
-  mixed or modest.
-- Reserve values above 0.80 or below 0.20 for cases with unambiguous,
-  multi-signal evidence. Do not exceed 0.90 or fall below 0.10 without
-  overwhelming, lopsided evidence.
-- Tone alone (confident vs hedging language) should move you no more than
-  ~0.03 absent quantitative confirmation.
-"""
-
-
-def _ask_llm(*, summary: dict, ticker: str, event_type: str) -> float:
-    """Ask the configured model for a calibrated percentile via structured outputs.
-
-    Returns the model's `predicted_percentile`. Falls back to 0.5 if no
-    `OPENAI_API_KEY` is configured or the model refuses; the [0, 1] bound is
-    enforced by the JSON schema, not by us.
-    """
-    global _openai, _openai_warned
-    if not os.environ.get("OPENAI_API_KEY"):
-        if not _openai_warned:
+    global _agent_warned
+    required_keys = ("OPENAI_API_KEY", "GOOGLE_API_KEY")
+    missing = [name for name in required_keys if not os.environ.get(name)]
+    if missing:
+        if not _agent_warned:
             print(
-                "[WARN] OPENAI_API_KEY not set — submitting 0.5 placeholder. "
-                "Set the key (or edit predict.py) for real predictions."
+                f"[WARN] Missing {', '.join(missing)} — submitting 0.5 placeholder."
             )
-            _openai_warned = True
+            _agent_warned = True
         return 0.5
-    if _openai is None:
-        # picks up OPENAI_API_KEY from env
-        _openai = OpenAI(
-            timeout=LLM_TIMEOUT_SECONDS, max_retries=LLM_MAX_RETRIES
+
+    try:
+        # Lazy imports keep importing predict.py cheap and allow the credential
+        # fallback above to work without initializing provider clients.
+        from em_agent.context import AnalysisContext
+        from em_agent.graph import graph
+        from em_agent.tracing import langfuse_handler
+
+        context = AnalysisContext(
+            stock_id=ticker,
+            earnings_call_date=event.get("event_datetime") or "unknown",
+            earnings_call_facts=_bundle_content(disclosure, FACTS_ID) or [],
+            earnings_preview=_bundle_content(disclosure, PREVIEW_ID),
+            option_stats=_bundle_content(disclosure, OPTION_STATS_ID),
+            knowledge_cutoff=(
+                event.get("knowledge_cutoff")
+                or event.get("event_datetime")
+                or "unknown"
+            ),
+            # Four sequential LLM calls already occur in one round. Start with
+            # one round to stay safely inside the five-minute submission window.
+            num_rounds=2,
         )
-
-    materials = format_materials(summary)
-    if not materials:
-        # Not a bundle this code recognises. Show the model what arrived rather
-        # than nothing.
-        materials = json.dumps(summary)[:PREVIEW_MAX_CHARS]
-
-    user_prompt = (
-        f"Event type: {event_type}\n"
-        f"Ticker: {ticker}\n\n"
-        f"Event materials:\n{materials}\n\n"
-        "Weigh, in roughly this order:\n"
-        "  1. Quantitative surprise vs expectations — revenue, EPS, segment metrics.\n"
-        "  2. Guidance / outlook — raises, holds, cuts vs the prior trajectory.\n"
-        "  3. Strategic shifts — product launches, M&A, capital allocation, leadership.\n"
-        "  4. Tone and confidence in management commentary (small weight).\n"
-        "  5. Risks called out — regulatory, supply chain, demand, competition.\n\n"
-        f"Predict the next-day unexpected-return percentile for {ticker}."
-    )
-
-    resp = _openai.chat.completions.parse(
-        model=openai_model(),
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-        response_format=Prediction,
-    )
-    parsed = resp.choices[0].message.parsed
-    if parsed is None:
-        return 0.5  # model refused; competition expects a number
-    return parsed.predicted_percentile
+        result = graph.invoke(
+            {},
+            context=context,
+            config={
+                "callbacks": [langfuse_handler],
+                "metadata": {
+                    "event_id": event.get("event_id"),
+                    "ticker": ticker,
+                    "knowledge_cutoff": context.knowledge_cutoff,
+                },
+            },
+        )
+        return result["current_analysis"].prediction
+    except Exception as exc:
+        print(
+            f"[ERROR] agent prediction failed for event {event.get('event_id')} "
+            f"ticker {ticker}: {exc}"
+        )
+        return 0.5

@@ -26,7 +26,8 @@ a local file), create a named secret once:
 
 ```bash
 uv run modal secret create explaining-markets \
-  EM_API_KEY=... EM_WEBHOOK_SECRET=whsec_... OPENAI_API_KEY=...
+  EM_API_KEY=... EM_WEBHOOK_SECRET=whsec_... \
+  OPENAI_API_KEY=... GOOGLE_API_KEY=...
 ```
 
 then swap the decorator in `modal_app.py`:
@@ -61,9 +62,9 @@ prediction window and a hard failure against your delivery budget.
 
 The work runs as a spawned Modal function with its own container, so it survives
 the web container scaling down. Once you ACK, the platform will not redeliver, so
-Modal's function retries (and the single retry on the model call in `predict.py`)
-are your durability layer. `modal.Queue` is for fan-out or rate-limiting, not
-durability.
+The agent catches prediction failures and submits a neutral `0.5` fallback so a
+provider error does not leave the event without a submission. `modal.Queue` is
+for fan-out or rate-limiting, not durability.
 
 ## Idempotency
 

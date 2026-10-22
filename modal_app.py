@@ -42,8 +42,19 @@ app = modal.App("explaining-markets-starter")
 
 image = (
     modal.Image.debian_slim()
-    .pip_install("fastapi[standard]", "httpx", "openai", "pydantic")
-    .add_local_python_source("explaining_markets", "predict")
+    .pip_install(
+        "fastapi[standard]",
+        "httpx",
+        "openai",
+        "pydantic",
+        "python-dotenv",
+        "langgraph>=1.2.14",
+        "langchain>=1.4.4",
+        "langchain-openai>=1.7.0",
+        "langchain-google-genai>=4.4.1",
+        "langfuse>=4.17.0",
+    )
+    .add_local_python_source("explaining_markets", "em_agent", "predict")
 )
 
 # Distributed key-value store for idempotency, keyed on the Webhook-Id header.
