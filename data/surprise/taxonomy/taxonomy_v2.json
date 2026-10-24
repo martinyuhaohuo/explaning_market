@@ -1,0 +1,201 @@
+{
+  "dimensions": [
+    {
+      "key": "forward_guidance",
+      "name": "Financial and operating outlook",
+      "definition": "Surprises in management's forecasts, targets, or outlook for future financial results or recurring operating KPIs, including their timing, qualifications, reaffirmation, or withdrawal. Covers company-wide, segment, and product-level outlooks.",
+      "includes": [
+        "Revenue, EPS, EBITDA, margin, or cash-flow guidance",
+        "Future ARR growth, expense, capex, liquidity, or leverage targets",
+        "A qualified long-term target or an expected guidance update not provided",
+        "Projected profitability, savings, business mix, or revenue contributions"
+      ],
+      "excludes": "Reported results belong to their underlying metric dimensions, even when compared with prior guidance. Product launches, trials, filings, and construction schedules go to development_execution_regulatory. Financing proposals and transactions go to financing_capital_structure; buyback authorizations and investment decisions go to capital_allocation. Market forecasts go to external_environment. Explicit price-setting decisions and contract terms go to commercial_economics. Current funding sufficiency and runway assessments go to cash_balance_sheet_liquidity, even when expressed as a funded-through date."
+    },
+    {
+      "key": "revenue",
+      "name": "Reported revenue and sales",
+      "definition": "Surprises in recognized revenue, sales, or their growth rates for any reporting period. Includes consolidated, segment, geographic, product, brand, and channel revenue, whether reported, organic, pro forma, or constant-currency.",
+      "includes": [
+        "Consolidated revenue relative to consensus",
+        "Product, brand, or geographic sales relative to estimates",
+        "Organic growth differing from reported growth",
+        "Recognized licensing, milestone, or commercial-remuneration revenue"
+      ],
+      "excludes": "Future sales forecasts go to forward_guidance. Bookings, ARR, transaction volume, and backlog go to operating_kpis; recognized sales growth does not become a KPI merely because it concerns a product or brand. Revenue composition or pricing mechanisms go to commercial_economics when those, rather than the revenue amount or growth rate, are focal. Gross profit and other profit measures go to operating_profitability. A revenue-recognition policy or discrete accounting adjustment goes to accounting_tax_special_items only when that policy or adjustment is the focal surprise."
+    },
+    {
+      "key": "operating_kpis",
+      "name": "Recurring operating, demand, and activity KPIs",
+      "definition": "Surprises in recurring measures of operating scale, demand, engagement, productivity, performance, or economic-development activity that are not recognized revenue, accounting profit, or expense measures. Includes aggregate contracted demand, forward revenue coverage, and company-supported investment or employment activity.",
+      "includes": [
+        "Bookings, backlog, ARR, ACV, AUM, book-to-bill, or aggregate contract awards",
+        "Subscribers, customers, traffic, orders, churn, or same-store sales",
+        "Production, utilization, lead times, capture rates, claims experience, or investment returns",
+        "Company-supported economic-development investment and associated jobs"
+      ],
+      "excludes": "Forecasts of recurring metrics go to forward_guidance. Recognized product or brand sales go to revenue. Identified customer wins, specific contract terms, pricing, and product or customer mix—including penetration measured as a share of sales—go to commercial_economics. Construction, deployment milestones, and capacity-expansion initiatives go to development_execution_regulatory. Working-capital metrics go to cash_balance_sheet_liquidity; accounting margins and ROE go to operating_profitability. The company's own capital commitments go to capital_allocation, not economic-development activity measures. Changes to KPI reporting methodology go to accounting_tax_special_items."
+    },
+    {
+      "key": "operating_profitability",
+      "name": "Operating profit, margins, and returns",
+      "definition": "Surprises in reported gross profit, operating income, EBITDA and related profit measures, margins, or accounting profitability ratios. Applies equally to consolidated and business-unit results.",
+      "includes": [
+        "Adjusted EBITDA or operating loss",
+        "Gross margin or segment operating margin",
+        "Fee-related earnings and their margin",
+        "Return on equity or net interest margin"
+      ],
+      "excludes": "Net income, pretax bottom-line earnings, and per-share earnings go to bottom_line_earnings. Expense amounts or expense-to-revenue ratios go to costs_expenses. Future profitability targets go to forward_guidance. Operating capture, hold, utilization, or investment-return metrics go to operating_kpis. A separately foregrounded exceptional charge goes to accounting_tax_special_items."
+    },
+    {
+      "key": "bottom_line_earnings",
+      "name": "EPS and bottom-line earnings",
+      "definition": "Surprises in reported earnings per share, net income or loss, or total pretax bottom-line earnings. Includes GAAP, adjusted, continuing-operations, and comparable distributable or operating earnings per share.",
+      "includes": [
+        "GAAP or non-GAAP EPS relative to estimates",
+        "Net income instead of an expected loss",
+        "Adjusted pretax loss relative to a modeled loss",
+        "Distributable earnings per share"
+      ],
+      "excludes": "EBITDA, operating income, segment profit, and margins go to operating_profitability. Future EPS or net-income forecasts go to forward_guidance. Tax rates, accounting adjustments, and special charges go to accounting_tax_special_items when those items themselves are focal; their explanatory contribution does not override an EPS or net-income surprise."
+    },
+    {
+      "key": "cash_balance_sheet_liquidity",
+      "name": "Cash flow, working capital, and financial position",
+      "definition": "Surprises in reported cash generation, working capital, cash availability, debt balances, leverage, financial obligations, or liquidity constraints. Includes current assessments of funding sufficiency, funded runway, and covenant status.",
+      "includes": [
+        "Operating or free cash flow and cash conversion",
+        "Cash balances, restricted cash, or available liquidity",
+        "DSO, inventory balances, principal recoveries, or working-capital outflows",
+        "Leverage, covenant status, or a current assessment of funding through a specified date"
+      ],
+      "excludes": "Future cash-flow forecasts and targets for cash, debt, or leverage go to forward_guidance; a current funded-through assessment remains here. A financing proposal, refinancing, conversion, or negotiated debt transaction goes to financing_capital_structure. Deliberate cash principal repayment goes to capital_allocation when the repayment action is focal; a debt or leverage level, including early attainment of a leverage target, belongs here unless repayment itself is the focal surprise. An asset-sale agreement goes to strategy_corporate_events. Exceptional accounting remeasurement goes to accounting_tax_special_items."
+    },
+    {
+      "key": "development_execution_regulatory",
+      "name": "Development, operational execution, and regulatory milestones",
+      "definition": "Surprises in the status, timing, scope, or technical outcome of product development, commercial launches, operational projects, or company-specific regulatory processes. Includes implementation progress rather than recurring operating performance.",
+      "includes": [
+        "Trial enrollment, efficacy data, study design, or readout timing",
+        "Product launches, retail rollouts, or production readiness",
+        "Plant turnarounds, construction progress, or capacity-expansion plans",
+        "Approval decisions, regulatory filings, or utility rate-case outcomes"
+      ],
+      "excludes": "Recurring production, capacity, adoption, or utilization measures go to operating_kpis, as do aggregate orders even when delivery is scheduled for a future period or the orders concern a new technology. Recognized sales go to revenue and financial forecasts go to forward_guidance. Identified customer contracts go to commercial_economics. Broad legislation and industry-wide policy go to external_environment. M&A, corporate partnerships, and portfolio strategy go to strategy_corporate_events."
+    },
+    {
+      "key": "commercial_economics",
+      "name": "Customer relationships, pricing, and business mix",
+      "definition": "Surprises in specific commercial relationships, customer or supplier commitments, pricing decisions, contract economics, monetization mechanisms, or the composition of business activity. Includes qualitative demand evidence tied to identifiable opportunities.",
+      "includes": [
+        "A named customer award or a specific take-or-pay commitment",
+        "Contracted pricing, royalty escalators, or licensing economics",
+        "Product, customer, geographic, or channel mix, including sales penetration",
+        "Advanced customer negotiations, customer attrition, or a supplier departure"
+      ],
+      "excludes": "Aggregate bookings, backlog, awarded-but-unsigned contract totals, customer counts, take rates, and other recurring KPIs go to operating_kpis. Recognized contract or remuneration revenue goes to revenue. Forecasted revenue contributions, quantified customer-related financial headwinds, and future mix targets go to forward_guidance when the forecast is focal. Product availability or launch execution goes to development_execution_regulatory. Corporate acquisitions and broader strategic alliances go to strategy_corporate_events; sales-representation and distribution agreements remain here when commercial terms are focal. Market prices and addressable-market size go to external_environment."
+    },
+    {
+      "key": "capital_allocation",
+      "name": "Capital deployment and shareholder distributions",
+      "definition": "Surprises in decisions or completed actions governing the use of capital, including shareholder returns, capital expenditure, investment commitments, and cash debt repayment. Includes stated priorities among competing uses of funds.",
+      "includes": [
+        "Dividends, share repurchases, or repurchase authorizations",
+        "Actual capex, equipment prepayments, or project investment",
+        "Minority investments or investment-platform commitments",
+        "Cash debt repayment or prioritizing growth investment over buybacks"
+      ],
+      "excludes": "Forecasted capex or debt levels go to forward_guidance. Acquisitions of businesses or strategic operating assets go to strategy_corporate_events. Raising or restructuring capital, including principal payments required by a newly negotiated amendment when that agreement is focal, goes to financing_capital_structure. Resulting cash, debt, or leverage levels go to cash_balance_sheet_liquidity; early attainment of a leverage target alone is not a capital-allocation action. Ordinary operating spending goes to costs_expenses. Facilitated third-party economic-development investment and jobs go to operating_kpis."
+    },
+    {
+      "key": "costs_expenses",
+      "name": "Costs and expense efficiency",
+      "definition": "Surprises in reported recurring input costs, personnel costs, overhead, operating expenses, financing expenses, or cost efficiency. Includes cost-recovery shortfalls, expense ratios, and savings already realized or secured through completed actions when the expense effect is focal.",
+      "includes": [
+        "R&D, G&A, SG&A, or infrastructure spending",
+        "Labor hours, wage costs, or cost per production unit",
+        "Expense-to-revenue ratios and overhead leverage",
+        "Interest expense, unrecovered fuel costs, or savings secured by completed cost actions"
+      ],
+      "excludes": "Future expense forecasts and unimplemented savings targets go to forward_guidance. A stated annualized saving belongs here only when it describes the recurring effect of an already completed action, rather than a future performance target. Profit and margin outcomes go to operating_profitability. Discrete settlements, impairments, tax effects, and exceptional charges go to accounting_tax_special_items. Announced reorganizations or cost-reduction programs go to strategy_corporate_events when the program is focal. Lease terms go to commercial_economics and refinancing agreements go to financing_capital_structure when those arrangements, rather than their expense effects, are focal."
+    },
+    {
+      "key": "strategy_corporate_events",
+      "name": "Corporate strategy, transactions, and organization",
+      "definition": "Surprises in corporate scope, strategic priorities, M&A, divestitures, organizational design, leadership, or broad operating-model choices. Includes announced initiatives whose focal content is a change in how the business is organized or managed, and substantive updates on strategic-review processes.",
+      "includes": [
+        "Acquisitions, asset-sale processes, spin-offs, or strategic-review status and timing",
+        "Strategic alliances or co-development partnerships",
+        "Leadership departures, workforce restructuring, or cost-reduction programs",
+        "Product withdrawals, operating-model changes, or a new primary financial objective"
+      ],
+      "excludes": "Customer and supplier agreements go to commercial_economics. Routine launch and project execution go to development_execution_regulatory. Financing arrangements go to financing_capital_structure and capital-use priorities go to capital_allocation. Discrete restructuring charges or litigation accounting go to accounting_tax_special_items when the financial item is focal; realized expense changes go to costs_expenses. A substantive strategic-review update belongs here even without an announced transaction; only an unresolved, specifically expected disclosure gap goes to disclosure_delivery."
+    },
+    {
+      "key": "accounting_tax_special_items",
+      "name": "Accounting, reporting practices, taxes, and special items",
+      "definition": "Surprises specifically about accounting treatment, financial or operating-metric reporting practices, tax rates or credits, valuation adjustments, or separately identified exceptional gains, losses, charges, and settlements. Includes changes to what metrics a company reports and how it defines or presents them; tax surprises belong here whether recurring or nonrecurring.",
+      "includes": [
+        "Goodwill impairments, fair-value marks, sale gains, or debt-extinguishment charges",
+        "Tariff refunds, litigation settlements, or nonroutine insurance adjustments",
+        "Effective tax rates, deferred tax assets, rebates, or tax-credit expiration",
+        "Discontinuing an operating indicator, changing order-reporting periods, or altering revenue-recognition methods"
+      ],
+      "excludes": "A reported revenue, earnings, margin, or cash result stays in its metric dimension when a special item merely explains that result, including an EPS comparison adjusted to remove a refund. Ordinary expenses go to costs_expenses. An underlying acquisition, restructuring, lawsuit, or financing transaction goes to its event dimension when the event rather than its accounting effect is focal. Failure to provide a specifically anticipated disclosure without an announced reporting-policy change goes to disclosure_delivery. Broad proposed tax policy and non-accounting market-relative asset valuations go to external_environment."
+    },
+    {
+      "key": "external_environment",
+      "name": "Market environment, policy, opportunity size, and market valuation",
+      "definition": "Surprises in external market conditions, industry demand, benchmark prices, competitive or technological forces, broad public policy, addressable opportunity size, or market-relative valuation assessments. Includes management's newly quantified exposure or sensitivity to external conditions and comparisons of estimated asset value with traded enterprise value.",
+      "includes": [
+        "Refining benchmarks, commodity spreads, or power-price basis",
+        "Industry capacity outages or macro-driven customer spending delays",
+        "AI-driven disruption, industry-growth forecasts, or proposed legislation",
+        "Addressable-market estimates, transferable-right prices, or asset-value comparisons with market valuation"
+      ],
+      "excludes": "Company-realized pricing and specific contract terms go to commercial_economics. Company results and forecasts go to their metric dimensions or forward_guidance when external conditions are explanatory, including company organic growth or unit-growth and conversion metrics. Company-specific filings, approvals, and rate cases go to development_execution_regulatory. Actual tax effects, accounting valuation marks, and impairments go to accounting_tax_special_items. A newly adopted corporate strategy goes to strategy_corporate_events rather than here."
+    },
+    {
+      "key": "financing_capital_structure",
+      "name": "Financing transactions and capital structure",
+      "definition": "Surprises in obtaining, pursuing, refinancing, restructuring, or converting identified financing and in the associated terms, dilution, security, or collateral. Includes specific funding proposals, grants, awards, or contingent funding sources, rather than ordinary customer payments or generic funding aspirations.",
+      "includes": [
+        "ATM issuance, follow-on offerings, or strategic equity financing",
+        "New credit facilities, refinancing plans, amendments, or maturity extensions",
+        "Debt-to-equity conversion, warrants, preferred financing, or contractual interest-rate step-downs",
+        "Government funding proposals, grant tranches, collaboration funding ceilings, or prize eligibility"
+      ],
+      "excludes": "Cash, debt balances, leverage, current funding sufficiency, runway, and covenant status go to cash_balance_sheet_liquidity; a statement that no equity is currently needed is not itself a financing transaction. Ordinary cash principal repayment and shareholder distributions go to capital_allocation, but repayment obligations negotiated within a financing amendment remain here when the amendment is focal. Realized or secured interest-expense savings go to costs_expenses when the expense effect is focal. Accounting financing gains or losses go to accounting_tax_special_items. Customer licensing, milestone, and royalty arrangements go to commercial_economics; merely describing them as non-dilutive does not make them financing. Regulatory eligibility for a monetizable right goes to development_execution_regulatory when no funding arrangement is identified."
+    },
+    {
+      "key": "disclosure_delivery",
+      "name": "Delivery of specifically expected disclosures",
+      "definition": "Surprises consisting of the absence, incompleteness, or unexpected provision of a specifically anticipated non-guidance disclosure. Use only when disclosure delivery itself is the focal surprise and no substantive result, event, or reporting-policy change resolves it.",
+      "includes": [
+        "Expected transaction consideration or operating terms not disclosed",
+        "A promised portfolio-change explanation not supplied",
+        "No reported listing-compliance plan despite an explicit expectation",
+        "Launch commentary without specifically requested traction evidence"
+      ],
+      "excludes": "Missing or withdrawn financial guidance goes to forward_guidance. A substantive result, transaction, commercial update, or milestone goes to its subject dimension even if previously undisclosed or less detailed than hoped. Strategic-review status or timing updates go to strategy_corporate_events. Announced changes in reported indicators, metric definitions, or reporting periods go to accounting_tax_special_items. General management confidence, hedging, or credibility impressions do not qualify without a concrete expected disclosure."
+    }
+  ],
+  "changes": [
+    "Reordered dimensions by assigned frequency, retaining counts only as ordering evidence rather than estimating reassigned totals.",
+    "Extended operating_kpis to cover recurring company-supported economic-development investment and jobs, absorbing the lone other item; distinguished facilitated activity from the company's own capital deployment.",
+    "Tightened operating_kpis and revenue boundaries: recognized product or brand sales belong to revenue, sales penetration and business mix to commercial_economics, and aggregate awards to operating_kpis.",
+    "Clarified forward_guidance coverage of future savings, business-mix targets, and quantified financial contributions, while distinguishing current funded runway from future financial targets.",
+    "Clarified cash_balance_sheet_liquidity coverage of current funding sufficiency, principal recoveries, and early leverage-target attainment; separated balances from repayment actions and asset-sale agreements.",
+    "Tightened development_execution_regulatory to exclude aggregate orders, including new-technology orders with future delivery dates.",
+    "Tightened commercial_economics to exclude aggregate awarded-but-unsigned contracts, recognized remuneration revenue, and focal financial forecasts; clarified sales-penetration and sales-representation coverage.",
+    "Tightened capital_allocation to distinguish repayment decisions from resulting leverage levels, negotiated amendment obligations, and facilitated third-party investment.",
+    "Clarified costs_expenses coverage of savings already realized or secured by completed actions, versus future savings targets, restructuring programs, and focal refinancing or lease arrangements.",
+    "Clarified strategy_corporate_events coverage of substantive strategic-review status and timing updates, addressing an item assigned to disclosure_delivery despite an actual process update.",
+    "Separated reporting-practice changes from disclosure-delivery gaps and incorporated them into the expanded accounting_tax_special_items dimension, avoiding a small standalone reporting category.",
+    "Tightened accounting_tax_special_items to keep focal EPS comparisons in bottom_line_earnings when special items merely explain the result.",
+    "Extended external_environment to cover non-accounting market-relative valuation assessments; tightened exclusions for company revenue and operating-metric results explained by external conditions.",
+    "Clarified financing_capital_structure coverage of identified proposals, contingent funding ceilings, refinancing plans, amendments, and contractual rate changes; excluded generic non-dilutive revenue aspirations, current funding sufficiency, and focal expense savings.",
+    "Tightened disclosure_delivery to exclude substantive strategic updates and announced reporting-policy changes, retaining it for concrete unresolved disclosure gaps."
+  ]
+}

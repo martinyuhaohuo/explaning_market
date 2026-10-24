@@ -20,12 +20,15 @@ dependencies = [
     "langchain-anthropic>=1.7.5",
     "langfuse>=4.17.0",
     "pandas>=2.3.3",
+    "yfinance>=1.7.0",
+    "scikit-learn>=1.5",
 ]
 
 [dependency-groups]
 dev = [
     "ipykernel>=7.3.0",
     "jupyterlab>=4.6.4",
+    "matplotlib>=3.9",
     "pytest>=8.3",
 ]
 
@@ -51,4 +54,6 @@ build-backend = "hatchling.build"
 packages = [
     "src/explaining_markets",
     "src/em_agent",
+    "src/suprise_dim",
+    "src/ml",
 ]

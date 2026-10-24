@@ -1,0 +1,199 @@
+{
+  "dimensions": [
+    {
+      "key": "revenue",
+      "name": "Revenue and sales",
+      "definition": "Surprises about recognized revenue, sales growth, or revenue outlooks, at either company or business-line level. Includes reported, organic, constant-currency, recurring, and product revenue.",
+      "includes": [
+        "Quarterly revenue differs from consensus",
+        "Full-year sales guidance is maintained, revised, or withdrawn",
+        "A product or geographic business reports unexpected sales growth",
+        "Underlying sales differ from the headline reported result"
+      ],
+      "excludes": "Orders, backlog, premiums written, and other pre-revenue demand measures go to demand_customer_activity. Prices, monetization rates, and revenue composition without a focal sales result go to pricing_monetization_mix. A separately highlighted accounting adjustment goes to accounting_tax_special_items; an adjustment explaining a revenue surprise does not displace revenue."
+    },
+    {
+      "key": "earnings",
+      "name": "Net earnings and per-share income",
+      "definition": "Surprises about bottom-line income or loss, per-share earnings, and equivalent distributable earnings measures, including their outlooks. Includes GAAP and adjusted measures.",
+      "includes": [
+        "EPS differs from consensus or a buy-side expectation",
+        "Net income replaces an expected net loss",
+        "AFFO or distributable earnings per share exceeds a model",
+        "An EPS guidance range differs from expectations"
+      ],
+      "excludes": "Gross profit, operating income, EBITDA, and profitability ratios go to operating_profitability. Investment income reported as a revenue stream goes to revenue. A separately highlighted tax rate, valuation gain, or accounting charge goes to accounting_tax_special_items."
+    },
+    {
+      "key": "operating_profitability",
+      "name": "Operating profit and profitability ratios",
+      "definition": "Surprises about gross profit, operating income, EBITDA, contribution profit, margins, operating leverage, or equivalent business profitability measures. Applies to both realized performance and normalized or forecast profitability.",
+      "includes": [
+        "Gross margin differs from the expected range",
+        "Adjusted EBITDA or segment operating income exceeds a model",
+        "A combined ratio or loss ratio differs from expectations",
+        "Management provides an unexpected normalized margin endpoint"
+      ],
+      "excludes": "Net income and per-share earnings go to earnings. Expense amounts, expense ratios, and savings targets go to costs_efficiency. Prices and take rates go to pricing_monetization_mix. A standalone reserve release or impairment goes to accounting_tax_special_items rather than here."
+    },
+    {
+      "key": "demand_customer_activity",
+      "name": "Demand, customer activity, and commercial pipeline",
+      "definition": "Surprises about demand strength, customer adoption or retention, transaction activity, and the stock or flow of prospective business. Includes corresponding forecasts and broad end-market demand commentary.",
+      "includes": [
+        "Orders, bookings, backlog, RPO, or sales funnel differ from expectations",
+        "Subscribers, prescriptions, attendance, or customer retention change unexpectedly",
+        "Assets under management or customer fund flows differ from a model",
+        "Industry demand or customer spending conditions change unexpectedly"
+      ],
+      "excludes": "Recognized sales go to revenue. Prices, customer concentration, and mix shares go to pricing_monetization_mix. Specific named agreements, renewals, or customer wins go to commercial_agreements_access. Internal production, deployment, and service-delivery performance go to operating_execution_capacity."
+    },
+    {
+      "key": "costs_efficiency",
+      "name": "Costs, expenses, and efficiency savings",
+      "definition": "Surprises about expense levels, cost pressures, expense ratios, or quantified cost savings, including future spending and savings plans. Includes recurring financing costs, depreciation, tariffs, and currency effects when the focal surprise is their cost burden.",
+      "includes": [
+        "R&D or SG&A differs from the expected run rate",
+        "Input inflation or freight costs create an unexpected headwind",
+        "An expense ratio falls more than expected",
+        "Management announces or accelerates a quantified savings program"
+      ],
+      "excludes": "Profit amounts and profitability margins go to operating_profitability. Capital expenditures go to capital_allocation. Taxes and separately identified exceptional charges or credits go to accounting_tax_special_items. Productivity measured in throughput or cycle time rather than money goes to operating_execution_capacity."
+    },
+    {
+      "key": "cash_flow",
+      "name": "Cash generation and cash conversion",
+      "definition": "Surprises about operating cash flow, free cash flow, cash burn, cash collections, or cash conversion, including their timing and outlooks. Includes working-capital effects when the focal surprise concerns cash generation.",
+      "includes": [
+        "Free cash flow differs from an expected breakeven result",
+        "Cash burn exceeds the modeled quarterly pace",
+        "Working-capital timing temporarily boosts operating cash flow",
+        "Management changes its cash-conversion or free-cash-flow outlook"
+      ],
+      "excludes": "Cash balances, liquidity availability, debt levels, and financing arrangements go to balance_sheet_financing. Deliberate buybacks, dividends, debt repayments, and capital spending go to capital_allocation. A separately highlighted tariff refund or exceptional receipt goes to accounting_tax_special_items unless the focal result is cash flow."
+    },
+    {
+      "key": "balance_sheet_financing",
+      "name": "Balance sheet, asset quality, liquidity, and financing",
+      "definition": "Surprises about financial position, asset carrying values or recoverability, leverage, liquidity, funding availability, and financing terms. Includes completed or prospective financing and credit-facility changes.",
+      "includes": [
+        "Quarter-end cash, debt, leverage, inventory, or book value differs from a model",
+        "A refinancing extends maturities or changes covenants",
+        "A project receives an unexpected funding plan or capital commitment",
+        "Loan defaults, collateral recoveries, or portfolio valuation pressure change"
+      ],
+      "excludes": "Cash generation during a period goes to cash_flow. Discretionary debt repayment and shareholder distributions go to capital_allocation; a mandatory repayment imposed by a lender amendment stays here. A booked impairment, reserve remeasurement, or accounting gain goes to accounting_tax_special_items. Customer AUM and customer fund flows go to demand_customer_activity."
+    },
+    {
+      "key": "pricing_monetization_mix",
+      "name": "Pricing, monetization, and business mix",
+      "definition": "Surprises about realized or planned prices, monetization mechanics, revenue yield per unit, and the composition or concentration of business. Includes commercial economics that are not themselves recognized revenue or profitability.",
+      "includes": [
+        "ASP, CPC, take rate, or revenue per account differs from expectations",
+        "Gross-to-net deductions or rebate assumptions change",
+        "Government customers represent an unexpected share of revenue",
+        "Management discloses previously unknown fee or carry terms"
+      ],
+      "excludes": "Revenue amounts and growth rates go to revenue. Profit margins go to operating_profitability. Customer counts, retention, and absolute activity volumes go to demand_customer_activity. The signing or extension of a specific agreement goes to commercial_agreements_access, even when its terms help explain the surprise."
+    },
+    {
+      "key": "capital_allocation",
+      "name": "Capital spending and distributions",
+      "definition": "Surprises about how management deploys or returns financial capital through capital expenditure, shareholder distributions, discretionary debt reduction, or treasury-asset purchases and sales. Includes authorizations, execution, pauses, and spending outlooks.",
+      "includes": [
+        "A buyback authorization or repurchase pace differs from expectations",
+        "Management initiates or changes a dividend",
+        "Capital expenditure plans are increased, reduced, or newly quantified",
+        "Management repays debt voluntarily or changes its Bitcoin treasury policy"
+      ],
+      "excludes": "Financing sources, lender-required repayments, and resulting leverage balances go to balance_sheet_financing. Acquisitions and business divestitures go to corporate_strategy_transactions. Physical capacity or deployment progress without a focal spending decision goes to operating_execution_capacity. Operating expenses go to costs_efficiency."
+    },
+    {
+      "key": "operating_execution_capacity",
+      "name": "Operating execution, delivery, and capacity",
+      "definition": "Surprises about the ability to produce, deploy, deliver, or service existing offerings, including capacity, utilization, staffing rollout, productivity, and operational disruptions. Includes physical expansion or contraction plans when operational scale or timing is the focal issue.",
+      "includes": [
+        "Production yield, output, or utilization differs from expectations",
+        "Supply-chain bottlenecks delay shipments",
+        "Clinic openings, equipment deployments, or sales-force rollout occur at a different pace",
+        "Engineering throughput or service fill rates improve unexpectedly"
+      ],
+      "excludes": "Customer demand, adoption, and commercial pipeline go to demand_customer_activity. Product invention, clinical studies, qualification testing, and regulatory development go to product_development_regulation. Capital spending amounts go to capital_allocation. Monetary expense savings go to costs_efficiency."
+    },
+    {
+      "key": "product_development_regulation",
+      "name": "Product development, technical validation, and regulatory policy",
+      "definition": "Surprises about developing, validating, qualifying, or authorizing offerings, including technical capabilities, clinical evidence, launch readiness, and development timelines. Also includes standalone changes in regulatory, reimbursement, subsidy, or market-access policy.",
+      "includes": [
+        "Clinical trial results or data-readout timing differ from expectations",
+        "A prototype, qualification test, or technical performance milestone is disclosed",
+        "A new product launch or development program is announced",
+        "An FDA milestone or prospective reimbursement-policy change alters the opportunity"
+      ],
+      "excludes": "Commercial uptake of an available offering goes to demand_customer_activity. Routine manufacturing yields, supply disruptions, and delivery execution go to operating_execution_capacity. Specific payer or distribution agreements go to commercial_agreements_access. Quantified recognized credits, refunds, or tax effects go to accounting_tax_special_items."
+    },
+    {
+      "key": "commercial_agreements_access",
+      "name": "Commercial agreements and market access",
+      "definition": "Surprises about specific customer, supplier, distribution, payer, or commercial partnership relationships and their contractual status or scope. Includes wins, losses, renewals, extensions, and negotiated access arrangements.",
+      "includes": [
+        "A definitive customer contract replaces an expected unsigned agreement",
+        "A named customer expands capacity or extends contract duration",
+        "A supplier departure proves less disruptive than expected",
+        "A distribution or payer arrangement expands commercial access"
+      ],
+      "excludes": "Aggregate bookings, backlog, pipeline, and adoption metrics go to demand_customer_activity. Financing partnerships go to balance_sheet_financing. M&A, business sales, and ownership-changing joint ventures go to corporate_strategy_transactions. Product evaluation or technical co-development without a focal commercial agreement goes to product_development_regulation."
+    },
+    {
+      "key": "accounting_tax_special_items",
+      "name": "Accounting adjustments, taxes, and separately identified special items",
+      "definition": "Surprises whose focal subject is an accounting treatment, tax rate or credit, remeasurement, reserve development, exceptional charge, or non-recurring receipt. The item must concern the adjustment itself, rather than merely cite it as an explanation for another headline result.",
+      "includes": [
+        "An unexpected impairment or contract-loss charge is recorded",
+        "A tariff refund, insurance reimbursement, or lease termination fee is disclosed",
+        "A tax-rate change or valuation allowance creates an earnings effect",
+        "Reserve releases or portfolio cash-curve remeasurements alter reported income"
+      ],
+      "excludes": "A revenue, earnings, margin, or cash-flow surprise stays in its metric dimension when the special item is explanatory context. Recurring input and financing costs go to costs_efficiency. Unbooked asset-quality concerns go to balance_sheet_financing. Prospective policy changes without a focal recognized adjustment go to product_development_regulation."
+    },
+    {
+      "key": "corporate_strategy_transactions",
+      "name": "Corporate strategy, transactions, and organizational change",
+      "definition": "Surprises about corporate scope, ownership, strategic direction, leadership, or organizational structure. Includes strategic reviews, acquisitions, divestitures, business exits, rebranding, and material portfolio or operating-model decisions.",
+      "includes": [
+        "Management initiates a strategic-alternatives review",
+        "An acquisition, proposed business sale, or acquisition pipeline is disclosed",
+        "A CFO transition or exchange and ticker change is announced",
+        "The company exits a business or materially changes its product-portfolio strategy"
+      ],
+      "excludes": "Ordinary customer and supplier partnerships go to commercial_agreements_access. Buybacks, dividends, treasury assets, and capex go to capital_allocation. Quantified restructuring savings go to costs_efficiency when savings are the focal surprise. Individual product launches go to product_development_regulation."
+    },
+    {
+      "key": "disclosure_management_communication",
+      "name": "Disclosure practices and management assertions",
+      "definition": "Surprises about what management chooses to disclose, how it changes reporting practices, or an unsupported confidence, credibility, or valuation assertion. Use only when communication itself—not a substantive financial or operating development—is the focal surprise.",
+      "includes": [
+        "Management stops reporting a previously emphasized leading indicator",
+        "An expected dollar-denominated proof point remains undisclosed",
+        "Management makes a new explicit enterprise-value or peer-valuation claim",
+        "Management changes its confidence language without supplying a new substantive outlook"
+      ],
+      "excludes": "Quantified or qualitative forecasts belong to the dimension of their underlying subject, even if cautiously worded. An actual missed milestone goes to its substantive dimension rather than credibility. Missing expected financial guidance goes to the relevant metric dimension; this dimension covers missing supporting disclosures or changed reporting practices."
+    }
+  ],
+  "changes": [
+    "Adopt subject-first coding across all dimensions: reported results, guidance, targets, and qualitative outlooks use the same underlying subject dimension; direction, magnitude, and forecast horizon do not determine the code.",
+    "For each item, code the focal departure from expectations, not its explanation or counterpoint. If multiple independent surprises are equally focal, use the first independently asserted surprise in textual order; for a simultaneous metric bundle, use the first listed metric. Do not assign multiple codes.",
+    "Drop forward guidance as a standalone dimension because it overlaps every financial and operating subject; guidance issuance, revision, reaffirmation, and withdrawal follow the underlying metric.",
+    "Drop segment or product-line performance as a standalone dimension; organizational scope does not change whether a surprise concerns revenue, profitability, demand, or another subject.",
+    "Keep revenue and earnings separate, while explicitly including business-line results, organic measures, and equivalent distributable or per-share income measures.",
+    "Keep operating profitability separate from costs: profit amounts and profit ratios belong to profitability, while expense amounts, expense ratios, and monetary savings belong to costs.",
+    "Split operating KPIs into demand/customer activity, pricing/monetization/mix, and operating execution/capacity because these frequent subjects describe different economic mechanisms.",
+    "Split cash flow from balance sheet/liquidity, and expand the latter to include financing terms, asset quality, recoverability, and funding availability.",
+    "Keep capital allocation, distinguishing discretionary capital deployment from financing arrangements and lender-mandated repayments.",
+    "Add product development/regulation to accommodate clinical evidence, technical qualification, launch readiness, and standalone policy developments across industries.",
+    "Separate specific commercial agreements and market access from corporate strategy and transactions; aggregate orders and pipelines remain demand indicators.",
+    "Retain a narrowly bounded accounting/tax/special-items dimension for separately highlighted adjustments, not every result influenced by a non-recurring cause.",
+    "Replace broad management tone and credibility with disclosure practices and management assertions; substantive outlooks and missed commitments stay with their underlying subjects."
+  ]
+}
