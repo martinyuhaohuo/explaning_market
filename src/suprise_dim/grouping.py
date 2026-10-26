@@ -202,6 +202,22 @@ def done_item_ids(version: str) -> set[str]:
         return {json.loads(line)["item_id"] for line in f if line.strip()}
 
 
+def make_assigner(taxonomy: Taxonomy, model: str = ASSIGN_MODEL, effort: str = ASSIGN_EFFORT):
+    return _structured(_assignment_schema([d.key for d in taxonomy.dimensions]), model, effort)
+
+
+def assign_batch(batch: pd.DataFrame, taxonomy: Taxonomy, assigner=None, *, tag: str = "assign_dimensions") -> list[dict]:
+    """Assign one batch of items in memory; returns `{item_id, dimension}` for each item the model numbered correctly."""
+    if batch.empty:
+        return []
+    assigner = assigner or make_assigner(taxonomy)
+    user = f"Codebook:\n{format_taxonomy(taxonomy)}\n\nItems:\n{format_items(batch['description'].tolist())}"
+    result = assigner.invoke([SystemMessage(ASSIGN_SYSTEM), HumanMessage(user)], config={"tags": [tag]})
+    ids = batch["item_id"].tolist()
+    by_index = {a.index: a.dimension for a in result.assignments if 0 <= a.index < len(ids)}
+    return [{"item_id": ids[i], "dimension": dim} for i, dim in sorted(by_index.items())]
+
+
 def assign_items(
     items: pd.DataFrame,
     taxonomy: Taxonomy,
@@ -224,19 +240,11 @@ def assign_items(
         print(f"All {len(items)} items already assigned under {version}")
         return summary
 
-    assigner = _structured(_assignment_schema([d.key for d in taxonomy.dimensions]), model, effort)
-    codebook = format_taxonomy(taxonomy)
+    assigner = make_assigner(taxonomy, model, effort)
     batches = [todo.iloc[i:i + batch_size] for i in range(0, len(todo), batch_size)]
 
     def run(batch: pd.DataFrame) -> list[dict]:
-        user = f"Codebook:\n{codebook}\n\nItems:\n{format_items(batch['description'].tolist())}"
-        result = assigner.invoke(
-            [SystemMessage(ASSIGN_SYSTEM), HumanMessage(user)],
-            config={"tags": ["assign_dimensions"], "metadata": {"version": version}},
-        )
-        ids = batch["item_id"].tolist()
-        by_index = {a.index: a.dimension for a in result.assignments if 0 <= a.index < len(ids)}
-        return [{"item_id": ids[i], "dimension": dim} for i, dim in sorted(by_index.items())]
+        return assign_batch(batch, taxonomy, assigner)
 
     print(f"Assigning {len(todo)} items in {len(batches)} batches ({summary['skipped']} already done) with {model}...")
     path = assignments_path(version)

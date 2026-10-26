@@ -4,9 +4,17 @@
 already been verified for you. Return one prediction per focal asset. Everything
 else in this repo (webhook verification, dedupe, submission) is plumbing.
 
-The default implementation runs the multi-model ``em_agent`` graph. If either
-required provider key is missing, or the graph fails, it returns a 0.5 baseline
-so the receive → predict → submit round-trip still completes.
+The default implementation runs ``em_agent``'s surprise graph: with a preview
+(the competition's, or our own made before the knowledge cutoff by the shadow
+job), it extracts and classifies surprises, builds the feature vector and
+scores it with the pooled ridge model; with no preview at all, it makes one
+direct LLM prediction. If OPENAI_API_KEY is missing, or the graph fails, it
+returns a 0.5 baseline so the receive → predict → submit round-trip still
+completes.
+
+On Modal every event's previews, surprises, feature vector and prediction are
+recorded on the shadow Volume (see ``shadow.store``); download them with
+``shadow.sync.download()``.
 """
 
 from __future__ import annotations
@@ -44,17 +52,15 @@ def predict(event: dict) -> list[dict]:
     summary.raise_for_status()
     summary_json = summary.json()
 
-    return [
-        {
-            "identifier_value": asset["identifier_value"],
-            "predicted_percentile": _ask_agent(
-                event=event,
-                disclosure=summary_json,
-                ticker=asset["identifier_value"],
-            ),
-        }
+    store = _store()
+    own_preview = _own_preview(store, event)
+    result = _ask_agent(event=event, disclosure=summary_json, own_preview=own_preview)
+    predictions = [
+        {"identifier_value": asset["identifier_value"], "predicted_percentile": result["prediction"]}
         for asset in event["focal_assets"]
     ]
+    _record(store, event, summary_json, result, predictions)
+    return predictions
 
 
 # ----------------------------------------------------------------------
@@ -181,61 +187,101 @@ def _bundle_content(bundle: object, item_id: str) -> object | None:
     return None
 
 
-def _ask_agent(*, event: dict, disclosure: object, ticker: str) -> float:
-    """Run one bounded agent round and return its final prediction.
+def _ask_agent(*, event: dict, disclosure: object, own_preview: str | None = None) -> dict:
+    """Run the surprise graph once for the event; returns its final state plus the preview source.
 
+    Every focal asset gets this prediction (calendar events carry one asset).
     Missing provider credentials and runtime failures fall back to the neutral
     percentile so an event still receives a valid competition submission.
     """
     global _agent_warned
-    required_keys = ("OPENAI_API_KEY", "GOOGLE_API_KEY")
-    missing = [name for name in required_keys if not os.environ.get(name)]
-    if missing:
+    if not os.environ.get("OPENAI_API_KEY"):
         if not _agent_warned:
-            print(
-                f"[WARN] Missing {', '.join(missing)} — submitting 0.5 placeholder."
-            )
+            print("[WARN] Missing OPENAI_API_KEY — submitting 0.5 placeholder.")
             _agent_warned = True
-        return 0.5
+        return {"prediction": 0.5, "branch": "fallback", "error": "OPENAI_API_KEY missing", "preview_source": None}
 
+    preview_source = None
     try:
         # Lazy imports keep importing predict.py cheap and allow the credential
         # fallback above to work without initializing provider clients.
-        from em_agent.context import AnalysisContext
+        from em_agent.context import build_context
         from em_agent.graph import graph
         from em_agent.tracing import langfuse_handler
 
-        context = AnalysisContext(
-            stock_id=ticker,
-            earnings_call_date=event.get("event_datetime") or "unknown",
-            earnings_call_facts=_bundle_content(disclosure, FACTS_ID) or [],
-            earnings_preview=_bundle_content(disclosure, PREVIEW_ID),
-            option_stats=_bundle_content(disclosure, OPTION_STATS_ID),
-            knowledge_cutoff=(
-                event.get("knowledge_cutoff")
-                or event.get("event_datetime")
-                or "unknown"
-            ),
-            # Four sequential LLM calls already occur in one round. Start with
-            # one round to stay safely inside the five-minute submission window.
-            num_rounds=2,
-        )
-        result = graph.invoke(
+        context = build_context(event, disclosure if isinstance(disclosure, dict) else {}, own_preview)
+        preview_source = context.preview_source
+        state = graph.invoke(
             {},
             context=context,
             config={
                 "callbacks": [langfuse_handler],
                 "metadata": {
                     "event_id": event.get("event_id"),
-                    "ticker": ticker,
+                    "preview_source": preview_source,
                     "knowledge_cutoff": context.knowledge_cutoff,
                 },
             },
         )
-        return result["current_analysis"].prediction
+        prediction = min(max(float(state["prediction"]), 0.0), 1.0)
+        return {**state, "prediction": prediction, "preview_source": preview_source}
     except Exception as exc:
-        print(
-            f"[ERROR] agent prediction failed for event {event.get('event_id')} "
-            f"ticker {ticker}: {exc}"
-        )
-        return 0.5
+        print(f"[ERROR] agent prediction failed for event {event.get('event_id')}: {exc}")
+        return {"prediction": 0.5, "branch": "fallback", "error": str(exc), "preview_source": preview_source}
+
+
+# ----------------------------------------------------------------------
+# Shadow-mode records: never allowed to break a submission.
+# ----------------------------------------------------------------------
+
+
+def _store():
+    try:
+        from shadow.store import configured_store
+
+        return configured_store()
+    except Exception as exc:
+        print(f"[WARN] shadow store unavailable: {exc}")
+        return None
+
+
+def _own_preview(store, event: dict) -> str | None:
+    if store is None or not event.get("event_id"):
+        return None
+    try:
+        return store.own_preview(event["event_id"])
+    except Exception as exc:
+        print(f"[WARN] could not read own preview for {event.get('event_id')}: {exc}")
+        return None
+
+
+def _record(store, event: dict, bundle: object, result: dict, predictions: list[dict]) -> None:
+    if store is None or not event.get("event_id"):
+        return
+    from datetime import datetime, timezone
+
+    from shadow import store as names
+
+    event_id = event["event_id"]
+    try:
+        competition_preview = _bundle_content(bundle, PREVIEW_ID)
+        if isinstance(competition_preview, str) and competition_preview.strip():
+            store.write_text(event_id, names.COMPETITION_PREVIEW, competition_preview)
+        if result.get("surprises") is not None or result.get("items") is not None:
+            store.write_json(event_id, names.SURPRISES, {"surprises": result.get("surprises"), "items": result.get("items")})
+        if result.get("features") is not None:
+            store.write_json(event_id, names.FEATURES, {"preview_source": result.get("preview_source"), "features": result["features"]})
+        store.write_json(event_id, names.PREDICTION, {
+            "event_id": event_id,
+            "event_datetime": event.get("event_datetime"),
+            "knowledge_cutoff": event.get("knowledge_cutoff"),
+            "preview_source": result.get("preview_source"),
+            "branch": result.get("branch"),
+            "reasons": result.get("reasons"),
+            "error": result.get("error"),
+            "model": "em_agent/artifacts/pooled_ridge_v2.joblib" if result.get("branch") == "surprise_ridge" else None,
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "predictions": predictions,
+        })
+    except Exception as exc:
+        print(f"[WARN] could not record shadow data for {event_id}: {exc}")

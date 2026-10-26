@@ -22,6 +22,7 @@ OPTION_COLUMNS = [
     "opt_skew_25_delta",
 ]
 FLAG_COLUMNS = ["no_surprises", "has_option_stats"]
+SENTIMENT_TOTALS = ["net_sentiment", "net_sentiment_first3"]
 TOTAL_COLUMNS = ["n_items", "n_pos", "n_neg", "n_mixed_unclear", "net", "net_w", "net_first3", "net_w_first3", "net_per_item"]
 
 
@@ -37,17 +38,24 @@ def feature_sets(columns) -> dict[str, list[str]]:
     - net: magnitude-weighted net per dimension (15) + first-3 net, item count + flags and options.
     - posneg: positive and negative parts per dimension (30) + the same extras.
     - all: every surprise feature, flag and option statistic.
+    - net_sent, all_sent: `net` and `all` plus management sentiment, only when
+      the table has sentiment columns (`sent__<dim>`, `net_sentiment*`).
     """
     columns = list(columns)
     net_dims = [c for c in columns if c.startswith("net_w__")]
     posneg_dims = [c for c in columns if c.startswith(("pos_w__", "neg_w__"))]
     extras = FLAG_COLUMNS + OPTION_COLUMNS
-    return {
+    sets = {
         "totals": ["net_w", "net_w_first3", "net_per_item", "n_items", "n_mixed_unclear"] + extras,
         "net": net_dims + ["net_w_first3", "n_items"] + extras,
         "posneg": posneg_dims + ["net_w_first3", "n_items"] + extras,
         "all": net_dims + posneg_dims + TOTAL_COLUMNS + extras,
     }
+    sentiment = [c for c in columns if c.startswith("sent__")] + [c for c in SENTIMENT_TOTALS if c in columns]
+    if sentiment:
+        sets["net_sent"] = sets["net"] + sentiment
+        sets["all_sent"] = sets["all"] + sentiment
+    return sets
 
 
 def build_preprocessor(features: list[str], *, log_counts: bool = True) -> ColumnTransformer:
@@ -75,3 +83,35 @@ def missing_summary(frame: pd.DataFrame, columns: list[str], by: str = "split") 
     table = frame.groupby(by)[columns].apply(lambda g: g.isna().mean()).T
     table["all"] = frame[columns].isna().mean()
     return table[table["all"] > 0].round(3)
+
+
+# Main scores whose slope may differ by preview source (full competition preview vs our thin one).
+SOURCE_INTERACTIONS = ["net_w", "net_w_first3", "n_items", "no_surprises"]
+
+
+def add_source_features(frame: pd.DataFrame, source: str, *, sources=("competition", "own"),
+                        reference: str = "competition", interact=SOURCE_INTERACTIONS) -> pd.DataFrame:
+    """Tag a feature table whose rows all come from one preview `source`.
+
+    Adds `preview_source`, a 0/1 flag `src_<s>` for every source other than the
+    reference, and `<col>__x__src_<s>` interactions so a pooled model can give
+    each source its own slope on the main scores. Tag each source's table, then
+    concatenate them.
+    """
+    if source not in sources:
+        raise ValueError(f"unknown preview source {source!r}; expected one of {sources}")
+    out = frame.copy()
+    out["preview_source"] = source
+    for s in sources:
+        if s == reference:
+            continue
+        flag = f"src_{s}"
+        out[flag] = int(source == s)
+        for col in interact:
+            out[f"{col}__x__{flag}"] = out[col] * out[flag]
+    return out
+
+
+def with_source(features: list[str], columns) -> list[str]:
+    """`features` plus the source flags and interactions present in `columns`."""
+    return features + [c for c in columns if c.startswith("src_") or "__x__src_" in c]

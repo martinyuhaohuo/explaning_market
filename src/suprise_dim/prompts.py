@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from .data import FACTS_ID, PREVIEW_ID, items_by_id, ticker
 
 EXTRACTION_SYSTEM = """You compare an earnings release against what was expected before it.
@@ -27,6 +29,37 @@ def build_user_message(event: dict) -> str:
         + "\n".join(f"{n}. {fact}" for n, fact in enumerate(facts, start=1))
         + "\n\nResearch preview written BEFORE the release (expectations, not results):\n"
         + preview
+    )
+
+
+# Variant for events without a preview. The preview prompt above stays unchanged,
+# so extractions made with it remain comparable.
+EXTRACTION_SYSTEM_NO_PREVIEW = """You compare an earnings release against what was expected before it.
+
+You receive facts from the earnings call, written after the release. No research preview is available, so the only expectations you can use are the ones the call itself states: analyst consensus or estimates the call mentions, the company's prior guidance or targets, or what management says it or the market expected.
+
+List every distinct way the reported results, guidance, or commentary differ from those stated expectations. Cover everything the facts allow: headline numbers, guidance, segments, margins, operating metrics, capital allocation, one-off items, and management tone.
+
+Rules:
+- One item per distinct surprise. Do not merge unrelated surprises; do not split one into many.
+- Describe each surprise concretely in plain language. Do not label it with an abstract category; the categories will be derived later from many releases.
+- A surprise needs a stated expectation. Growth or a change against the prior year or prior quarter is not a surprise by itself; list it only if the call compares it with guidance, consensus or a stated target.
+- When the call stresses something as better or worse than anticipated but names no benchmark, you may list it with expectation_source "none" and leave expectation_evidence empty; judge its magnitude conservatively.
+- Management presents its own results. Judge direction from the substance of each fact, not from upbeat or cautious wording.
+- Results the call reports as in line with guidance or consensus go under in_line.
+- Use only the material provided. Do not use outside knowledge of this company or of how its stock traded.
+- Do not predict the stock reaction."""
+
+
+def build_user_message_no_preview(event: dict) -> str:
+    """Ticker, release time and call facts only; any preview the event carries is left out."""
+    facts = items_by_id(event)[FACTS_ID]["content"]
+    return (
+        f"Ticker: {ticker(event)}\n"
+        f"Release time: {event.get('event_datetime') or 'unknown'}\n\n"
+        "Facts from the earnings call:\n"
+        + "\n".join(f"{n}. {fact}" for n, fact in enumerate(facts, start=1))
+        + "\n\nResearch preview: not available for this release."
     )
 
 
@@ -88,3 +121,42 @@ def format_taxonomy(taxonomy) -> str:
 
 def format_items(texts: list[str]) -> str:
     return "\n".join(f"{n}. {text}" for n, text in enumerate(texts))
+
+
+LABEL_SYSTEM = """You label surprises from earnings releases.
+
+You receive a numbered list of surprises, possibly from different companies. Each surprise is one way a company's reported results, guidance or commentary differed from what was expected before the release. Each comes with its category, a description, the earnings-call evidence, the pre-release expectation evidence, and where the expectation came from (the research preview, the call itself, or implicit). Judge each surprise on its own, from this information only.
+
+For each surprise, give:
+- direction: 1 if it is good news for shareholders relative to what was expected, -1 if bad news, 0 if it combines good and bad parts that roughly offset. null only if the information does not let you tell.
+- magnitude: the size of the gap relative to the expectation, not how important the topic is. 1 small (a slight beat or miss, within normal noise), 2 moderate (clearly outside the expected range), 3 large (far outside it, or a reset of the outlook). null when direction is null.
+- sentiment: management's tone about this topic in the call evidence, separate from the numbers themselves. 1 confident or upbeat, -1 cautious, defensive or negative, 0 neutral or purely factual. null if the call evidence carries no management framing.
+- reason: one short sentence.
+
+Rules:
+- Judge each surprise against the expectation, not against the prior year.
+- Use the category only to understand what the surprise is about.
+- Do not use outside knowledge of the companies or of how their stocks traded.
+- Do not predict the stock reaction.
+- Return exactly one label per surprise, using its number."""
+
+
+def build_label_message(items) -> str:
+    """The numbered surprises with their category, description, evidence and expectation source.
+
+    `items` needs `dimension_name`, `description`, `fact_evidence`,
+    `expectation_evidence` and `expectation_source` columns.
+    """
+    def text(value) -> str:
+        # Empty evidence comes back from CSV as NaN.
+        return value.strip() if isinstance(value, str) and value.strip() else "-"
+
+    parts = ["Surprises to label:"]
+    for n, row in enumerate(items.itertuples(index=False)):
+        parts += [
+            f"{n}. [{row.dimension_name}] {text(row.description)}",
+            f"   Call evidence: {text(row.fact_evidence)}",
+            f"   Expectation evidence: {text(row.expectation_evidence)}",
+            f"   Expectation source: {text(row.expectation_source)}",
+        ]
+    return "\n".join(parts)

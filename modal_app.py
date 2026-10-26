@@ -29,6 +29,15 @@ on the web container staying alive.
 Deliveries are deduped on the `Webhook-Id` header (the server retries on
 4xx/5xx/timeout, so the same event can arrive more than once).
 
+Shadow mode (see src/shadow): `schedule_previews` runs every 15 minutes, finds
+calendar events whose knowledge cutoff is less than 2 hours away, and spawns
+`generate_own_preview` for each, which runs the earnings-preview skill with the
+Claude Agent SDK (cheap preset, stopped at the cutoff). At release, predict()
+uses the competition's preview when the event has one, otherwise ours. Every
+event's previews, surprises, feature vector and prediction are written to the
+`em-shadow-data` Volume; download with `shadow.sync.download()` or
+`uv run modal volume get em-shadow-data / data/surprise/live`.
+
 Note: we deliberately do NOT use `from __future__ import annotations` here. The
 route handlers are defined inside `web()`, and FastAPI must see the real `Request`
 / `Response` classes (not stringized annotations it can't resolve from this nested
@@ -53,8 +62,24 @@ image = (
         "langchain-openai>=1.7.0",
         "langchain-google-genai>=4.4.1",
         "langfuse>=4.17.0",
+        # Pooled ridge model. scikit-learn is pinned to the version that
+        # trained src/em_agent/artifacts/pooled_ridge_v2.joblib.
+        "scikit-learn==1.9.1",
+        "joblib==1.6.0",
+        "pandas==3.0.6",
+        "numpy==2.5.4",
+        # Shadow previews: the Agent SDK ships its own Claude Code binary.
+        "claude-agent-sdk==0.2.174",
+        "yfinance>=1.7.0",
     )
-    .add_local_python_source("explaining_markets", "em_agent", "predict")
+    # Non-Python files are kept on purpose (Modal drops them by default): the
+    # earnings-preview skill (preview_agent/workspace/.claude/...) and the model
+    # and taxonomy artifacts (em_agent/artifacts/). em_agent loads the model with
+    # `ml`; it does not need the research package suprise_dim.
+    .add_local_python_source(
+        "explaining_markets", "em_agent", "ml", "predict", "preview_agent", "shadow",
+        ignore=lambda path: "__pycache__" in path.parts or path.suffix == ".pyc",
+    )
 )
 
 # Distributed key-value store for idempotency, keyed on the Webhook-Id header.
@@ -72,6 +97,15 @@ seen_webhooks = modal.Dict.from_name("em-webhook-dedupe", create_if_missing=True
 # Credentials are read from your local .env at deploy time (see .env.example).
 # Prefer Modal's secret store instead? See docs/advanced.md.
 secrets = [modal.Secret.from_dotenv(__file__)]
+
+# Shadow mode: one folder per event on this Volume (own preview, competition
+# preview, surprises, features, prediction), and atomic claims so each event's
+# preview is generated once.
+SHADOW_VOLUME = "em-shadow-data"
+SHADOW_MOUNT = "/shadow"
+shadow_volume = modal.Volume.from_name(SHADOW_VOLUME, create_if_missing=True)
+preview_claims = modal.Dict.from_name("em-preview-claims", create_if_missing=True)
+shadow_env = {"SHADOW_VOLUME": SHADOW_VOLUME}
 
 
 def _claim(webhook_id):
@@ -108,7 +142,8 @@ def _release(webhook_id, submitted):
         seen_webhooks.pop(webhook_id, None)
 
 
-@app.function(image=image, secrets=secrets, timeout=600, retries=0)
+@app.function(image=image, secrets=secrets, timeout=600, retries=0,
+              volumes={SHADOW_MOUNT: shadow_volume}, env=shadow_env)
 def predict_and_submit(event: dict, webhook_id: str | None = None):
     """Run the model and submit the prediction, off the request path.
 
@@ -136,6 +171,50 @@ def predict_and_submit(event: dict, webhook_id: str | None = None):
         print(f"[ERROR] prediction failed for event {event.get('event_id')}: {exc}")
     finally:
         _release(webhook_id, submitted)
+
+
+@app.function(image=image, secrets=secrets, schedule=modal.Period(minutes=15), timeout=300,
+              volumes={SHADOW_MOUNT: shadow_volume}, env=shadow_env)
+def schedule_previews():
+    """Every 15 minutes: spawn a preview run for each event whose cutoff is under 2 hours away."""
+    from preview_agent.events import fetch_events
+    from shadow.schedule import calendar_window, claim, due_events
+    from shadow.store import from_env
+
+    store = from_env()
+    store.refresh()
+    start, end = calendar_window()
+    due = due_events(fetch_events(start, end), store=store)
+    spawned = 0
+    for event in due:
+        if claim(preview_claims, event["event_id"]):
+            generate_own_preview.spawn(event)
+            spawned += 1
+    print(f"[shadow] {len(due)} events due, {spawned} preview runs started")
+
+
+@app.function(image=image, secrets=secrets, timeout=900, retries=0,
+              volumes={SHADOW_MOUNT: shadow_volume}, env=shadow_env)
+def generate_own_preview(event: dict):
+    """Generate and store our own preview for one event (stopped at its knowledge cutoff)."""
+    from preview_agent.generator import SKILL_PATH
+    from shadow.runner import run_preview
+    from shadow.schedule import release
+    from shadow.store import from_env
+
+    done = False
+    try:
+        if not SKILL_PATH.exists():
+            raise RuntimeError(f"earnings-preview skill missing from the image: {SKILL_PATH}")
+        record = run_preview(event, from_env())
+        done = True
+        print(f"[shadow] {event['event_id']}: {record.get('subtype')}, usable {record.get('usable')}, "
+              f"cost ${record.get('total_cost_usd') or 0:.3f}")
+    except Exception as exc:
+        print(f"[ERROR] own preview failed for {event.get('event_id')}: {exc}")
+    finally:
+        # Free the claim on failure so a later check retries while the cutoff is still ahead.
+        release(preview_claims, event["event_id"], done=done)
 
 
 @app.function(image=image, secrets=secrets)

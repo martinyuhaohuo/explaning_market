@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Sales were $64.9 million, about 10% above the $58.98 million consensus and above even the preview\u2019s $63 million bull case. The preview\u2019s $60 million base case and roughly $60\u201361 million buy-side bar were also substantially exceeded.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ1 FY2027 consolidated net sales rose 18.9% year-over-year to $64.9 million.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q1 FY27 Consensus | $58.98M\u201d; the scenario analysis gave a \u201cBase\u201d revenue of \u201c$60.0M\u201d and \u201cBull\u201d revenue of \u201c$63.0M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Diluted EPS of $0.27 far exceeded both the $0.09 consensus and the preview\u2019s $0.11\u2013$0.12 base case, and was above its $0.16\u2013$0.18 bull range. Operating income also reached $5.1 million, or 7.9% of sales, indicating much stronger profitability than the preview\u2019s modeled operating leverage implied.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOperating income increased over 400% to $5.1 million (7.9% of sales)\u201d; \u201cdiluted EPS reached $0.27 versus $0.13.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS (GAAP) | Q1 FY27 Consensus | $0.09\u201d; the preview\u2019s base case was \u201c$0.11\u20130.12\u201d and bull case \u201c$0.16\u20130.18.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin reached 34.6%, well above the preview\u2019s roughly 31.3% model. A 170-basis-point tariff refund was non-recurring, but excluding it leaves margin at about 32.9%, still above the modeled level.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cConsolidated gross margin expanded to 34.6% from 31.0%, though 170 basis points of the improvement came from a non-recurring IEEPA tariff refund that management cautioned may not continue.\u201d",
+      "expectation_evidence": "\u201cGross margin | n/a (model: ~31.3%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Backlog rose to $184.4 million, up $20 million sequentially, rather than declining modestly as the preview said would be tolerable. It also substantially exceeded the preview\u2019s $170 million bull-case marker.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal backlog grew to $184.4 million, up $20 million (about 12% sequentially) from fiscal 2026 year-end.\u201d",
+      "expectation_evidence": "\u201cQ1 is seasonally softer and Q4 likely pulled shipments forward, so a modest sequential decline is tolerable\u201d; the bull case cited \u201cbacklog >$170M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "PMT sales were $46.6 million excluding legacy healthcare, above the preview\u2019s roughly $43 million base/whisper and near its $46 million bull-case estimate. The reported 23.1% growth excluding legacy healthcare is consistent with stronger-than-base semiconductor and RF/microwave demand.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPMT sales grew 19.7% (23.1% excluding legacy healthcare, to $46.6 million), driven by semiconductor wafer fab and RF/microwave products in SATCOM, radar, and defense markets.\u201d",
+      "expectation_evidence": "The preview\u2019s base case estimated \u201cPMT ~$43M\u201d; its catalyst checklist called \u201c~$43M\u201d the whisper, while the bull case estimated \u201cPMT ~$46M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GES sales rose 27.1%, about $2 million, and management now expects double-digit growth for all of FY2027. That is stronger near-term growth framing than the preview\u2019s roughly $8 million quarterly base and its characterization of FY2027 as a pipeline-building year, with meaningful BESS revenue growth expected in FY2028.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGES sales rose 27.1% ($2.0 million) with growth mostly from wind products, and management expects double-digit GES growth for full-year FY2027.\u201d",
+      "expectation_evidence": "The preview\u2019s base case estimated \u201cGES ~$8M\u201d and described FY27 as a \u201cpipeline-building\u201d year, with \u201cmeaningful revenue growth expected in fiscal 2028.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Operating cash flow was $5.9 million and cash rose to $36.9 million, above the $31.8 million cash balance cited in the preview. The preview did not set a cash-flow expectation, so this is an unanticipated improvement rather than a miss against a stated forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash operating activities generated $5.9 million versus $1.4 million a year earlier, boosting cash and equivalents to $36.9 million from $31.8 million, with the company remaining debt-free.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Sales were $64.9 million, about 10% above the $58.98 million consensus and above even the preview\u2019s $63 million bull case. The preview\u2019s $60 million base case and roughly $60\u201361 million buy-side bar were also substantially exceeded.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ1 FY2027 consolidated net sales rose 18.9% year-over-year to $64.9 million.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q1 FY27 Consensus | $58.98M\u201d; the scenario analysis gave a \u201cBase\u201d revenue of \u201c$60.0M\u201d and \u201cBull\u201d revenue of \u201c$63.0M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Diluted EPS of $0.27 far exceeded both the $0.09 consensus and the preview\u2019s $0.11\u2013$0.12 base case, and was above its $0.16\u2013$0.18 bull range. Operating income also reached $5.1 million, or 7.9% of sales, indicating much stronger profitability than the preview\u2019s modeled operating leverage implied.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOperating income increased over 400% to $5.1 million (7.9% of sales)\u201d; \u201cdiluted EPS reached $0.27 versus $0.13.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS (GAAP) | Q1 FY27 Consensus | $0.09\u201d; the preview\u2019s base case was \u201c$0.11\u20130.12\u201d and bull case \u201c$0.16\u20130.18.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "Gross margin reached 34.6%, well above the preview\u2019s roughly 31.3% model. A 170-basis-point tariff refund was non-recurring, but excluding it leaves margin at about 32.9%, still above the modeled level.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cConsolidated gross margin expanded to 34.6% from 31.0%, though 170 basis points of the improvement came from a non-recurring IEEPA tariff refund that management cautioned may not continue.\u201d",
+      "expectation_evidence": "\u201cGross margin | n/a (model: ~31.3%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Backlog rose to $184.4 million, up $20 million sequentially, rather than declining modestly as the preview said would be tolerable. It also substantially exceeded the preview\u2019s $170 million bull-case marker.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal backlog grew to $184.4 million, up $20 million (about 12% sequentially) from fiscal 2026 year-end.\u201d",
+      "expectation_evidence": "\u201cQ1 is seasonally softer and Q4 likely pulled shipments forward, so a modest sequential decline is tolerable\u201d; the bull case cited \u201cbacklog >$170M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "PMT sales were $46.6 million excluding legacy healthcare, above the preview\u2019s roughly $43 million base/whisper and near its $46 million bull-case estimate. The reported 23.1% growth excluding legacy healthcare is consistent with stronger-than-base semiconductor and RF/microwave demand.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPMT sales grew 19.7% (23.1% excluding legacy healthcare, to $46.6 million), driven by semiconductor wafer fab and RF/microwave products in SATCOM, radar, and defense markets.\u201d",
+      "expectation_evidence": "The preview\u2019s base case estimated \u201cPMT ~$43M\u201d; its catalyst checklist called \u201c~$43M\u201d the whisper, while the bull case estimated \u201cPMT ~$46M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "GES sales rose 27.1%, about $2 million, and management now expects double-digit growth for all of FY2027. That is stronger near-term growth framing than the preview\u2019s roughly $8 million quarterly base and its characterization of FY2027 as a pipeline-building year, with meaningful BESS revenue growth expected in FY2028.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGES sales rose 27.1% ($2.0 million) with growth mostly from wind products, and management expects double-digit GES growth for full-year FY2027.\u201d",
+      "expectation_evidence": "The preview\u2019s base case estimated \u201cGES ~$8M\u201d and described FY27 as a \u201cpipeline-building\u201d year, with \u201cmeaningful revenue growth expected in fiscal 2028.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Operating cash flow was $5.9 million and cash rose to $36.9 million, above the $31.8 million cash balance cited in the preview. The preview did not set a cash-flow expectation, so this is an unanticipated improvement rather than a miss against a stated forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash operating activities generated $5.9 million versus $1.4 million a year earlier, boosting cash and equivalents to $36.9 million from $31.8 million, with the company remaining debt-free.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

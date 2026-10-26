@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_SAR_Q2_2027",
+  "event_datetime": "2026-10-07T14:00:00+00:00",
+  "knowledge_cutoff": "2026-10-06T20:00:00+00:00",
+  "preview_source": null,
+  "branch": "direct",
+  "reasons": "1. NAV per share fell 4.6% sequentially, with $0.82 of credit-related markdowns indicating meaningful asset-quality deterioration despite buyback accretion.\n2. Adjusted NII of $0.46 covers only about 61% of the $0.75 quarterly base dividend. With spillover reduced to roughly $1 per share, distribution sustainability is a material concern.\n3. Earnings pressure appears persistent: refinancing increased interest expense, while replacement originations carried spreads 220 basis points below the loans repaid.\n4. Important offsets limit the downside forecast: nonaccruals reached zero after asset sales, the CLO reset restores fees and interest income, and refinancing reduced near-term maturity risk.\n5. The shares already trade roughly 25% below reported NAV, suggesting some distress may be priced in. With no stated consensus comparison or option-market data, an extreme negative surprise ranking is not warranted.",
+  "error": null,
+  "model": null,
+  "created_at": "2026-10-26T06:09:07.395131+00:00",
+  "predictions": [
+    {
+      "identifier_value": "SAR",
+      "predicted_percentile": 0.24
+    }
+  ]
+}

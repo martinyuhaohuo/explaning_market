@@ -1,23 +1,23 @@
-from langgraph.graph import StateGraph, START, END
-from .state import AnalysisState
-from .context import AnalysisContext
-from .nodes import analysis_maker, format_analysis, analysis_evaluator, format_critique, route_after_format_critique
+"""With a preview: extract -> classify -> features -> pooled ridge. Without: one direct prediction."""
 
+from langgraph.graph import END, START, StateGraph
 
-graph = (
-    StateGraph(AnalysisState, context_schema=AnalysisContext)
-    .add_node("analysis_maker", analysis_maker)
-    .add_node("format_analysis", format_analysis)
-    .add_node("analysis_evaluator", analysis_evaluator)
-    .add_node("format_critique", format_critique)
-    .add_edge(START, "analysis_maker")
-    .add_edge("analysis_maker", "format_analysis")
-    .add_edge("format_analysis", "analysis_evaluator")
-    .add_edge("analysis_evaluator", "format_critique")
-    .add_conditional_edges(
-        "format_critique",
-        route_after_format_critique,
-        {"analysis_maker": "analysis_maker", END: END},
-    )
-    .compile()
-)
+from .context import SurpriseContext
+from .nodes import build_features, classify_surprises, direct_predict, extract_surprises, ridge_predict, route_by_preview
+from .state import SurpriseState
+
+builder = StateGraph(SurpriseState, context_schema=SurpriseContext)
+builder.add_node("extract_surprises", extract_surprises)
+builder.add_node("classify_surprises", classify_surprises)
+builder.add_node("build_features", build_features)
+builder.add_node("ridge_predict", ridge_predict)
+builder.add_node("direct_predict", direct_predict)
+
+builder.add_conditional_edges(START, route_by_preview, ["extract_surprises", "direct_predict"])
+builder.add_edge("extract_surprises", "classify_surprises")
+builder.add_edge("classify_surprises", "build_features")
+builder.add_edge("build_features", "ridge_predict")
+builder.add_edge("ridge_predict", END)
+builder.add_edge("direct_predict", END)
+
+graph = builder.compile()

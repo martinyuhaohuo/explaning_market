@@ -1,157 +1,99 @@
-import os
-import json
-from dotenv import load_dotenv
-from langchain_google_genai import ChatGoogleGenerativeAI
+"""Graph nodes. LLM clients and artifacts are built once and cached; tests patch the factories."""
+
+from functools import lru_cache
+from pathlib import Path
+
+import pandas as pd
+
+from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_openai import ChatOpenAI
-from langchain_core.messages import HumanMessage
-from langchain_core.messages import SystemMessage
 from langgraph.runtime import Runtime
-from langgraph.graph import END
+from ml.model import FittedModel, load_model
 
-from .state import AnalysisState
-from .context import AnalysisContext
-from .prompts import ANALYSIS_SYSTEM, CRITIQUE_SYSTEM
-from .schemas import Analysis, Critique
-
-load_dotenv()
-
-
-def _require_env(name: str) -> str:
-    value = os.environ.get(name)
-    if not value:
-        raise RuntimeError(f"{name} is required to use em_agent")
-    return value
-
-
-# Only require credentials for providers this module actually uses.
-OPENAI_API_KEY = _require_env("OPENAI_API_KEY")
-GOOGLE_API_KEY = _require_env("GOOGLE_API_KEY")
-
-FORMAT_MODEL = "gemini-3.1-flash-lite-preview"
-PROPOSE_MODEL  = "gpt-6-luna"
-CRITIQUE_MODEL = "gpt-6.1-sol"
-
-proposer = ChatOpenAI(
-    model = PROPOSE_MODEL,
-    reasoning = {"effort": "low", "summary": "auto"},
-    api_key = OPENAI_API_KEY,
+from .context import SurpriseContext
+from .features import live_features
+from .prompts import (
+    ASSIGN_SYSTEM, DIRECT_SYSTEM, EXTRACTION_SYSTEM, build_direct_message, build_extraction_message,
+    format_items, format_taxonomy,
 )
+from .schemas import OTHER, Analysis, SurpriseExtraction, Taxonomy, assignment_schema
+from .state import SurpriseState
 
-critic = ChatOpenAI(
-    model = CRITIQUE_MODEL,
-    reasoning = {"effort": "medium", "summary": "auto"},
-    api_key = OPENAI_API_KEY,
-)
+ARTIFACTS = Path(__file__).parent / "artifacts"
+MODEL_PATH = ARTIFACTS / "pooled_ridge_v2.joblib"
+TAXONOMY_PATH = ARTIFACTS / "taxonomy_v2.json"
 
-formatter_llm = ChatGoogleGenerativeAI(
-    model=FORMAT_MODEL,
-    temperature=0.0,
-    google_api_key=GOOGLE_API_KEY,
-)
+EXTRACT_MODEL, EXTRACT_EFFORT = "gpt-6-luna", "medium"
+ASSIGN_MODEL, ASSIGN_EFFORT = "gpt-6-luna", "low"
+DIRECT_MODEL, DIRECT_EFFORT = "gpt-6.1-sol", "medium"
 
-def make_formatter(schema, input_field: str, output_field: str, tag: str):
-    """Build a node that converts state[input_field] (str) into a `schema` instance
-    and writes it to state[output_field]. Tags the LLM call so the logger
-    can attribute it."""
-    structured = formatter_llm.with_structured_output(schema)
-    sys = SystemMessage(
-        f"You are a formatter. Convert the user's text into a {schema.__name__} "
-        f"object. Preserve all substantive content. Do not invent new facts. "
-        f"If a field is not explicitly stated, infer it conservatively from context."
+
+@lru_cache
+def taxonomy() -> Taxonomy:
+    return Taxonomy.model_validate_json(TAXONOMY_PATH.read_text())
+
+
+@lru_cache
+def pooled_model() -> FittedModel:
+    return load_model(MODEL_PATH)
+
+
+@lru_cache
+def extractor():
+    return ChatOpenAI(model=EXTRACT_MODEL, reasoning={"effort": EXTRACT_EFFORT}).with_structured_output(SurpriseExtraction)
+
+
+@lru_cache
+def assigner():
+    schema = assignment_schema([d.key for d in taxonomy().dimensions])
+    return ChatOpenAI(model=ASSIGN_MODEL, reasoning={"effort": ASSIGN_EFFORT}).with_structured_output(schema)
+
+
+@lru_cache
+def direct_predictor():
+    return ChatOpenAI(model=DIRECT_MODEL, reasoning={"effort": DIRECT_EFFORT}).with_structured_output(Analysis)
+
+
+def route_by_preview(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> str:
+    return "extract_surprises" if runtime.context.preview_source else "direct_predict"
+
+
+def extract_surprises(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> dict:
+    event = runtime.context.event
+    result = extractor().invoke(
+        [SystemMessage(EXTRACTION_SYSTEM), HumanMessage(build_extraction_message(event))],
+        config={"tags": ["surprise_extraction"], "metadata": {"event_id": event["event_id"]}},
     )
+    return {"surprises": [s.model_dump() for s in result.surprises]}
 
-    def formatter(state, runtime):
-        raw = state[input_field]
-        obj = structured.invoke([sys, HumanMessage(raw)], config={"tags": [tag]})
-        return {output_field: obj}
-    return formatter
 
-def analysis_maker(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> AnalysisState:
+def classify_surprises(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> dict:
+    """One call for the event's surprises; any the model skips or misnumbers count as "other"."""
+    surprises = state.get("surprises") or []
+    items = [{"position": i, **s, "dimension": OTHER} for i, s in enumerate(surprises)]
+    if items:
+        user = f"Codebook:\n{format_taxonomy(taxonomy())}\n\nItems:\n{format_items([s['description'] for s in surprises])}"
+        result = assigner().invoke([SystemMessage(ASSIGN_SYSTEM), HumanMessage(user)], config={"tags": ["assign_dimensions"]})
+        for a in result.assignments:
+            if 0 <= a.index < len(items):
+                items[a.index]["dimension"] = a.dimension
+    return {"items": items}
+
+
+def build_features(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> dict:
     ctx = runtime.context
-    round_n = state.get("round", 0) + 1
-    critique = state.get("current_critique")
-    if ctx.earnings_preview is not None:
-        earnings_preview = str(ctx.earnings_preview)
-    else:
-        earnings_preview = "Not avaliable"
-    if ctx.option_stats is not None:
-        option_stats = str(ctx.option_stats)
-    else:
-        option_stats = "Not avaliable"
+    return {"features": live_features(ctx.event, state.get("items") or [], taxonomy(), ctx.preview_source)}
 
-    if critique is None:
-        user = (
-            f"Firm stock ticker:\n{ctx.stock_id}\n\n"
-            f"Event date:\n{ctx.earnings_call_date}\n\n"
-            f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
-            f"Earning preview:\n{earnings_preview}\n\n"
-            f"Option relevant statistics:\n{option_stats}\n\n"
-            f"Constraint:\n{ctx.constraints}\n\n"
-            f"Analyze the given information and provide your prediction."
-        )
-    else:
-        prev = state["current_analysis"]
-        user = (
-            f"Firm stock ticker:\n{ctx.stock_id}\n\n"
-            f"Event date:\n{ctx.earnings_call_date}\n\n"
-            f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
-            f"Earning preview:\n{earnings_preview}\n\n"
-            f"Option relevant statistics:\n{option_stats}\n\n"
-            f"Constraint:\n{ctx.constraints}\n\n"
-            f"Your previous analysis:\n{prev.model_dump_json(indent=2)}\n\n"
-            f"Vice president's critique:\n{critique.model_dump_json(indent=2)}\n\n"
-            f"Revise. Return one revised analysis toegther with your prediction."
-        )
 
-    msg = proposer.invoke(
-        [SystemMessage(ANALYSIS_SYSTEM), HumanMessage(user)],
-        config={"tags": ["analysis_maker"]},
+def ridge_predict(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> dict:
+    prediction = pooled_model().predict(pd.DataFrame([state["features"]]))[0]
+    return {"prediction": float(prediction), "branch": "surprise_ridge"}
+
+
+def direct_predict(state: SurpriseState, runtime: Runtime[SurpriseContext]) -> dict:
+    event = runtime.context.event
+    result = direct_predictor().invoke(
+        [SystemMessage(DIRECT_SYSTEM), HumanMessage(build_direct_message(event))],
+        config={"tags": ["direct_prediction"], "metadata": {"event_id": event["event_id"]}},
     )
-    return {"raw_analysis": msg.text, "round": round_n}
-
-def analysis_evaluator(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> AnalysisState:
-    ctx = runtime.context
-    analysis = state["current_analysis"]
-    if ctx.earnings_preview is not None:
-        earnings_preview = str(ctx.earnings_preview)
-    else:
-        earnings_preview = "Not avaliable"
-    if ctx.option_stats is not None:
-        option_stats = str(ctx.option_stats)
-    else:
-        option_stats = "Not avaliable"
-    user = (
-        f"Firm stock ticker:\n{ctx.stock_id}\n\n"
-        f"Event date:\n{ctx.earnings_call_date}\n\n"
-        f"Earning call facts:\n{ctx.earnings_call_facts}\n\n"
-        f"Earning preview:\n{earnings_preview}\n\n"
-        f"Option relevant statistics:\n{option_stats}\n\n"
-        f"Constraint:\n{ctx.constraints}\n\n"
-        f"Analysis and prediction under review:\n{analysis.model_dump_json(indent=2)}\n\n"
-        f"Evaluate it."
-    )
-    msg = critic.invoke(
-        [SystemMessage(CRITIQUE_SYSTEM), HumanMessage(user)],
-        config={"tags": ["analysis_evaluator"]},
-    )
-    return {"raw_critique": msg.text}
-
-format_analysis = make_formatter(
-    schema=Analysis,
-    input_field="raw_analysis",
-    output_field="current_analysis",
-    tag="format_idea",
-)
-
-
-format_critique = make_formatter(
-    schema=Critique,
-    input_field="raw_critique",
-    output_field="current_critique",
-    tag="format_critique",
-)
-
-def route_after_format_critique(state: AnalysisState, runtime: Runtime[AnalysisContext]) -> str:
-    if state["round"] < runtime.context.num_rounds:
-        return "analysis_maker"
-    return END
+    return {"prediction": result.prediction, "reasons": result.reasons, "branch": "direct"}

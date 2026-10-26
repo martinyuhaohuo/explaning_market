@@ -58,3 +58,43 @@ class Taxonomy(BaseModel):
     changes: list[str] = Field(
         description="What changed relative to the starting list and why, one line per change."
     )
+
+
+class SurpriseLabel(BaseModel):
+    """Labels for one numbered surprise."""
+
+    index: int = Field(description="The surprise's number.")
+    reason: str = Field(description="One short sentence justifying the labels.")
+    direction: Literal[-1, 0, 1] | None = Field(
+        description="1 good news for shareholders, -1 bad, 0 mixed or offsetting; null if it cannot be told."
+    )
+    magnitude: Literal[1, 2, 3] | None = Field(
+        description="Size of the gap vs the expectation: 1 small, 2 moderate, 3 large; null when direction is null."
+    )
+    sentiment: Literal[-1, 0, 1] | None = Field(
+        description="Management's tone about this topic in the call: 1 upbeat, -1 cautious or negative, 0 neutral; null if no management framing."
+    )
+
+
+class SurpriseLabels(BaseModel):
+    """Labels for every surprise of one release."""
+
+    labels: list[SurpriseLabel] = Field(description="Exactly one label per numbered surprise.")
+
+
+class SurpriseItemNoPreview(SurpriseItem):
+    """A surprise extracted without a preview: the expectation can only come from the call."""
+
+    expectation_evidence: str = Field(
+        description="The call's statement of the expectation (consensus, prior guidance, a target), quoted closely. Empty if none."
+    )
+    expectation_source: Literal["call", "none"] = Field(
+        description="'call' if the call itself states the expectation, 'none' if it is only implied."
+    )
+
+
+class SurpriseExtractionNoPreview(SurpriseExtraction):
+    """All surprises in one earnings release, extracted from the call facts alone."""
+
+    surprises: list[SurpriseItemNoPreview] = Field(description="Every distinct surprise, most important first.")
+    in_line: list[str] = Field(description="Results the call reports as in line with guidance or consensus.")

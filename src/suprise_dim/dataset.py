@@ -46,6 +46,28 @@ def surprises_path(taxonomy_version: str) -> Path:
     return OUT_DIR / f"surprises_{taxonomy_version}.csv"
 
 
+def _set_frame(records: list[dict], assignments: pd.DataFrame, label: str, taxonomy_version: str) -> pd.DataFrame:
+    items = surprise_items(records)
+    models = {r["event_id"]: r.get("model") for r in records}
+    return items.merge(assignments[["item_id", "dimension"]], on="item_id", how="left").assign(
+        split=label,
+        taxonomy_version=taxonomy_version,
+        extraction_model=lambda t: t["event_id"].map(models),
+    )
+
+
+def _finish(frames: list[pd.DataFrame], taxonomy_version: str, quarter: str) -> pd.DataFrame:
+    if not frames:
+        return pd.DataFrame(columns=COLUMNS)
+    names = {d.key: d.name for d in load_taxonomy(taxonomy_version).dimensions} | {"other": "Other"}
+    frame = pd.concat(frames, ignore_index=True)
+    frame["n_items"] = frame.groupby("event_id")["item_id"].transform("size")
+    frame["earnings_surprise"] = frame["event_id"].map(quarter_earnings_surprise(quarter))
+    frame["earnings_surprise_pct"] = frame["event_id"].map(quarter_earnings_surprise_pct(quarter))
+    frame["dimension_name"] = frame["dimension"].map(names)
+    return frame[COLUMNS]
+
+
 def build_surprise_frame(
     split: dict, taxonomy_version: str = "v2", sets: tuple[str, ...] = SETS, quarter: str = "2026Q3"
 ) -> pd.DataFrame:
@@ -55,7 +77,6 @@ def build_surprise_frame(
     records from an earlier split are ignored. Items not yet assigned keep a
     missing `dimension`. Events whose extraction found no surprise have no row.
     """
-    names = {d.key: d.name for d in load_taxonomy(taxonomy_version).dimensions} | {"other": "Other"}
     set_ids = {
         "discovery": set(split["discovery"]),
         "train_rest": set(split["train"]) - set(split["discovery"]),
@@ -64,24 +85,26 @@ def build_surprise_frame(
     frames = []
     for name in sets:
         records = [r for r in load_extractions(extractions_path(name)) if r["event_id"] in set_ids[name]]
-        if not records:
-            continue
-        items = surprise_items(records)
-        models = {r["event_id"]: r.get("model") for r in records}
-        assignments = load_assignments(assignment_version(taxonomy_version, name))
-        frames.append(
-            items.merge(assignments[["item_id", "dimension"]], on="item_id", how="left").assign(
-                split=name,
-                taxonomy_version=taxonomy_version,
-                extraction_model=lambda t: t["event_id"].map(models),
-            )
-        )
-    if not frames:
-        return pd.DataFrame(columns=COLUMNS)
+        if records:
+            frames.append(_set_frame(records, load_assignments(assignment_version(taxonomy_version, name)), name, taxonomy_version))
+    return _finish(frames, taxonomy_version, quarter)
 
-    frame = pd.concat(frames, ignore_index=True)
-    frame["n_items"] = frame.groupby("event_id")["item_id"].transform("size")
-    frame["earnings_surprise"] = frame["event_id"].map(quarter_earnings_surprise(quarter))
-    frame["earnings_surprise_pct"] = frame["event_id"].map(quarter_earnings_surprise_pct(quarter))
-    frame["dimension_name"] = frame["dimension"].map(names)
-    return frame[COLUMNS]
+
+def build_extraction_frame(
+    extraction_name: str,
+    assignment_name: str,
+    labels: dict[str, str],
+    taxonomy_version: str = "v2",
+    quarter: str = "2026Q3",
+) -> pd.DataFrame:
+    """The same table for any extraction run: `data/surprise/<extraction_name>_extractions.jsonl`
+    with assignments `taxonomy/assignments_<assignment_name>.jsonl`.
+
+    `labels` maps each event id to keep onto its `split` label (e.g. "train" / "test").
+    """
+    records = [r for r in load_extractions(extractions_path(extraction_name)) if r["event_id"] in labels]
+    frames = [
+        _set_frame([r for r in records if labels[r["event_id"]] == label], load_assignments(assignment_name), label, taxonomy_version)
+        for label in sorted({labels[r["event_id"]] for r in records})
+    ]
+    return _finish(frames, taxonomy_version, quarter)

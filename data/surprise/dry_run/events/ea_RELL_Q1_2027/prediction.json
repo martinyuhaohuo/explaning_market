@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_RELL_Q1_2027",
+  "event_datetime": "2026-10-08T14:00:00+00:00",
+  "knowledge_cutoff": "2026-10-07T20:00:00+00:00",
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-26T06:08:57.157359+00:00",
+  "predictions": [
+    {
+      "identifier_value": "RELL",
+      "predicted_percentile": 0.6973223169361228
+    }
+  ]
+}

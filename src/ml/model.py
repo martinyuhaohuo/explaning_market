@@ -88,6 +88,39 @@ def fit(train: pd.DataFrame, features: list[str], alpha: float, *, target_mode: 
     return FittedModel(pipeline, features, target_mode, center)
 
 
+def out_of_fold(
+    train: pd.DataFrame,
+    features: list[str],
+    alpha: float,
+    *,
+    target_mode: str = "raw",
+    log_counts: bool = True,
+    n_splits: int = 5,
+    predict_on: pd.DataFrame | None = None,
+) -> tuple[pd.DataFrame, list[float]]:
+    """Out-of-fold predictions (column `oof`, NaN for the first block, which is never validated) and per-fold ΔR².
+
+    Returns `train` sorted by time with the `oof` column added, so two runs on
+    the same events line up row by row. With `predict_on` (the same events
+    under another version of the features, e.g. extracted without a preview),
+    each fold is fitted on `train` and predicts the validation events from
+    `predict_on`, which measures a model applied to features it was not fitted on.
+    """
+    train = train.sort_values(TIME).reset_index(drop=True)
+    source = train
+    if predict_on is not None:
+        source = predict_on.set_index("event_id").loc[train["event_id"]].reset_index()
+    oof = np.full(len(train), np.nan)
+    folds = []
+    for fit_idx, val_idx in time_folds(train, n_splits):
+        model = fit(train.iloc[fit_idx], features, alpha, target_mode=target_mode, log_counts=log_counts)
+        val = source.iloc[val_idx]
+        pred = model.predict(val)
+        oof[val_idx] = pred
+        folds.append(delta_r2(val[TARGET], pred, val[ES])["delta_r2"])
+    return train.assign(oof=oof), folds
+
+
 def cross_validate(
     train: pd.DataFrame,
     features: list[str],
@@ -98,15 +131,8 @@ def cross_validate(
     n_splits: int = 5,
 ) -> dict:
     """Per-fold and pooled out-of-fold ΔR² and Spearman for one configuration."""
-    train = train.sort_values(TIME).reset_index(drop=True)
-    oof = np.full(len(train), np.nan)
-    folds = []
-    for fit_idx, val_idx in time_folds(train, n_splits):
-        model = fit(train.iloc[fit_idx], features, alpha, target_mode=target_mode, log_counts=log_counts)
-        val = train.iloc[val_idx]
-        pred = model.predict(val)
-        oof[val_idx] = pred
-        folds.append(delta_r2(val[TARGET], pred, val[ES])["delta_r2"])
+    train, folds = out_of_fold(train, features, alpha, target_mode=target_mode, log_counts=log_counts, n_splits=n_splits)
+    oof = train["oof"].to_numpy()
     scored = ~np.isnan(oof)
     pooled = delta_r2(train[TARGET][scored], oof[scored], train[ES][scored])
     return {
@@ -140,3 +166,37 @@ def rank_to_percentile(score) -> np.ndarray:
     """Turn any score into a [0, 1] percentile by rank (for single-feature reference predictions)."""
     s = pd.Series(np.asarray(score, dtype=float))
     return ((s.rank(method="average") - 1) / (s.notna().sum() - 1)).to_numpy()
+
+
+def save_model(fitted: FittedModel, path, **metadata) -> None:
+    """Write the fitted model (`<path>`, joblib) and a JSON sidecar (`<path>.json`) describing it."""
+    import json
+    from pathlib import Path
+
+    import joblib
+    import sklearn
+
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    joblib.dump(fitted, path)
+    meta = {"features": fitted.features, "target_mode": fitted.target_mode, "center": fitted.center,
+            "sklearn_version": sklearn.__version__, **metadata}
+    Path(f"{path}.json").write_text(json.dumps(meta, indent=2, default=str))
+
+
+def load_model(path) -> FittedModel:
+    """Load a model written by `save_model`; warns if scikit-learn's version differs from training."""
+    import json
+    import warnings
+    from pathlib import Path
+
+    import joblib
+    import sklearn
+
+    meta_path = Path(f"{path}.json")
+    if meta_path.exists():
+        trained_with = json.loads(meta_path.read_text()).get("sklearn_version")
+        if trained_with and trained_with != sklearn.__version__:
+            warnings.warn(f"model trained with scikit-learn {trained_with}, loading with {sklearn.__version__}")
+    return joblib.load(path)
+

@@ -22,6 +22,7 @@ dependencies = [
     "pandas>=2.3.3",
     "yfinance>=1.7.0",
     "scikit-learn>=1.5",
+    "claude-agent-sdk>=0.2",
 ]
 
 [dependency-groups]
@@ -56,4 +57,6 @@ packages = [
     "src/em_agent",
     "src/suprise_dim",
     "src/ml",
+    "src/preview_agent",
+    "src/shadow",
 ]

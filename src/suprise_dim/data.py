@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[2]
 ARCHIVE_DIR = ROOT / "data" / "archive"
 OUT_DIR = ROOT / "data" / "surprise"
 SPLIT_PATH = OUT_DIR / "split.json"
+NO_PREVIEW_SPLIT_PATH = OUT_DIR / "split_no_preview.json"
 EXTRACTIONS_PATH = OUT_DIR / "discovery_extractions.jsonl"
 TAXONOMY_DIR = OUT_DIR / "taxonomy"
 
@@ -122,6 +123,37 @@ def quarter_earnings_surprise_pct(quarter: str = "2026Q3", archive_dir: Path = A
     values = {eid: v for eid, v in quarter_earnings_surprise(quarter, archive_dir).items() if v is not None}
     ranks = pd.Series(values).rank(method="average")
     return (ranks / len(ranks)).to_dict()
+
+
+def load_no_preview_events(quarter: str = "2026Q3", archive_dir: Path = ARCHIVE_DIR) -> list[dict]:
+    """Events of a quarter with call facts, one focal asset and a realized return, but no preview."""
+    events = []
+    with gzip.open(archive_dir / f"EARNINGS_RELEASE_{quarter}.jsonl.gz", "rt") as f:
+        for line in f:
+            event = json.loads(line)
+            items = items_by_id(event)
+            facts = (items.get(FACTS_ID) or {}).get("content")
+            preview = (items.get(PREVIEW_ID) or {}).get("content")
+            if not (isinstance(facts, list) and facts):
+                continue
+            if isinstance(preview, str) and preview.strip():
+                continue
+            if len(event.get("focal_assets") or []) != 1 or car1(event) is None:
+                continue
+            events.append(event)
+    return events
+
+
+def make_no_preview_split(events: list[dict], train_frac: float = 0.8) -> dict:
+    """Chronological train/test split of no-preview events (no discovery sample)."""
+    train, test = chronological_split(events, train_frac)
+    return {
+        "train_frac": train_frac,
+        "n_eligible": len(events),
+        "test_start": test[0]["event_datetime"],
+        "train": [e["event_id"] for e in train],
+        "test": [e["event_id"] for e in test],
+    }
 
 
 def chronological_split(events: list[dict], train_frac: float = 0.8) -> tuple[list[dict], list[dict]]:
