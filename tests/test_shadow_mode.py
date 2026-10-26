@@ -6,6 +6,7 @@ Parity with the research code (prompts, features, model) is in test_em_agent.py.
 from __future__ import annotations
 
 import asyncio
+import inspect
 from datetime import datetime, timedelta, timezone
 from types import SimpleNamespace
 
@@ -182,8 +183,8 @@ def test_store_only_serves_previews_finished_before_the_cutoff(tmp_path):
 def test_due_events_window_and_skips(tmp_path):
     store = store_mod.EventStore(tmp_path)
     events = [
-        make_event("ea_TOO_EARLY", cutoff=NOW + timedelta(hours=2, minutes=1)),
-        make_event("ea_START", cutoff=NOW + timedelta(hours=2)),
+        make_event("ea_TOO_EARLY", cutoff=NOW + schedule.LEAD + timedelta(minutes=1)),
+        make_event("ea_START", cutoff=NOW + schedule.LEAD),
         make_event("ea_LATE_CATCHUP", cutoff=NOW + timedelta(minutes=10)),
         make_event("ea_PASSED", cutoff=NOW),
         make_event("ea_DONE", cutoff=NOW + timedelta(hours=1)),
@@ -192,6 +193,13 @@ def test_due_events_window_and_skips(tmp_path):
     assert [e["event_id"] for e in schedule.due_events(events, NOW, store=store)] == ["ea_LATE_CATCHUP", "ea_START"]
     start, end = schedule.calendar_window(NOW)
     assert end - NOW == timedelta(days=7) and NOW - start == timedelta(hours=1)
+
+
+def test_previews_start_12_hours_ahead_with_at_most_5_at_once():
+    assert schedule.LEAD == timedelta(hours=12) and schedule.MAX_PARALLEL_PREVIEWS == 5
+    # Modal does not expose the cap on the function object, so check the decorator.
+    assert "max_containers=MAX_PARALLEL_PREVIEWS" in inspect.getsource(modal_app)
+    assert modal_app.MAX_PARALLEL_PREVIEWS is schedule.MAX_PARALLEL_PREVIEWS
 
 
 def test_claims_are_exclusive_and_released_on_failure():
@@ -240,7 +248,7 @@ def test_schedule_previews_spawns_each_due_event_once(tmp_path, monkeypatch):
     from preview_agent import events as events_mod
 
     due = make_event("ea_DUE", cutoff=datetime.now(timezone.utc) + timedelta(minutes=30))
-    later = make_event("ea_LATER", cutoff=datetime.now(timezone.utc) + timedelta(hours=5))
+    later = make_event("ea_LATER", cutoff=datetime.now(timezone.utc) + schedule.LEAD + timedelta(hours=1))
     monkeypatch.setattr(events_mod, "fetch_events", lambda start, end: [due, later])
     monkeypatch.setattr(store_mod, "from_env", lambda: store_mod.EventStore(tmp_path))
     spawned = []

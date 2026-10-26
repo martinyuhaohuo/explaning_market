@@ -23,12 +23,14 @@ which matches the code. Solid boxes are implemented; dashed boxes (stock-price
 inputs, tuning the prompt with Agentic Context Engineering) are planned.
 
 **Before the cutoff (shadow mode).** A Modal cron job checks the competition
-calendar (`GET /v1/events`) every 15 minutes. About 2 hours before each event's
+calendar (`GET /v1/events`) every 15 minutes. From 12 hours before each event's
 knowledge cutoff, it runs the competition's own earnings-preview skill through the
 Claude Agent SDK with a cheap preset (Claude Haiku 5.5, low effort, at most $0.10,
 4 searches, 3 page fetches). It does this for **every** event, because whether the
-competition will supply a preview is only known at release. A preview counts
-only if it finished before the cutoff.
+competition will supply a preview is only known at release. At most 5 previews
+run at once; the rest wait in Modal's queue. Most cutoffs fall at 16:00 ET, so
+each day's previews start around 04:00 ET and are worked through over the
+morning. A preview counts only if it finished before the cutoff.
 
 **At release (`predict`).** The event's materials bundle holds the
 earnings-call facts, the competition's preview when there is one, and the
@@ -99,7 +101,7 @@ match.
 
 | Module | Purpose |
 |---|---|
-| `schedule.py` | Finds the calendar events due for a preview (2 h before cutoff) and claims each so only one worker runs it. |
+| `schedule.py` | Finds the calendar events due for a preview (from 12 h before cutoff) and claims each so only one worker runs it. At most 5 previews run at once. |
 | `runner.py` | Generates and stores one own preview, recording whether it finished before the cutoff. |
 | `store.py` | One folder per event (`events/<event_id>/`) on the Volume or a local directory. |
 | `sync.py` | Downloads the Volume and loads predictions, features and preview runs into tables. |

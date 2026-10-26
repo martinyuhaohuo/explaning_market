@@ -1,6 +1,6 @@
 """Shadow mode: our own earnings previews, made before each event's knowledge cutoff, plus a record of every live prediction.
 
-- `schedule`: which calendar events are due for a preview (2 hours before their cutoff) and claiming them.
+- `schedule`: which calendar events are due for a preview (from 12 hours before their cutoff, at most 5 at a time) and claiming them.
 - `runner`: generate one cheap preview (`preview_agent`) and store it.
 - `store`: one folder per event (own preview and its run record, the competition's preview,
   classified surprises, the feature vector, the prediction), on a Modal Volume in production

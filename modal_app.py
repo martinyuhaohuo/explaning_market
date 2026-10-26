@@ -30,8 +30,8 @@ Deliveries are deduped on the `Webhook-Id` header (the server retries on
 4xx/5xx/timeout, so the same event can arrive more than once).
 
 Shadow mode (see src/shadow): `schedule_previews` runs every 15 minutes, finds
-calendar events whose knowledge cutoff is less than 2 hours away, and spawns
-`generate_own_preview` for each, which runs the earnings-preview skill with the
+calendar events whose knowledge cutoff is less than 12 hours away, and spawns
+`generate_own_preview` for each (at most 5 run at once; the rest queue), which runs the earnings-preview skill with the
 Claude Agent SDK (cheap preset, stopped at the cutoff). At release, predict()
 uses the competition's preview when the event has one, otherwise ours. Every
 event's previews, surprises, feature vector and prediction are written to the
@@ -46,6 +46,8 @@ parameter and rejects every delivery with 422.
 """
 
 import modal
+
+from shadow.schedule import MAX_PARALLEL_PREVIEWS
 
 app = modal.App("explaining-markets-starter")
 
@@ -176,7 +178,7 @@ def predict_and_submit(event: dict, webhook_id: str | None = None):
 @app.function(image=image, secrets=secrets, schedule=modal.Period(minutes=15), timeout=300,
               volumes={SHADOW_MOUNT: shadow_volume}, env=shadow_env)
 def schedule_previews():
-    """Every 15 minutes: spawn a preview run for each event whose cutoff is under 2 hours away."""
+    """Every 15 minutes: spawn a preview run for each event whose cutoff is under 12 hours away."""
     from preview_agent.events import fetch_events
     from shadow.schedule import calendar_window, claim, due_events
     from shadow.store import from_env
@@ -193,7 +195,8 @@ def schedule_previews():
     print(f"[shadow] {len(due)} events due, {spawned} preview runs started")
 
 
-@app.function(image=image, secrets=secrets, timeout=900, retries=0,
+# At most MAX_PARALLEL_PREVIEWS (5) previews run at once; further spawns wait in Modal's queue.
+@app.function(image=image, secrets=secrets, timeout=900, retries=0, max_containers=MAX_PARALLEL_PREVIEWS,
               volumes={SHADOW_MOUNT: shadow_volume}, env=shadow_env)
 def generate_own_preview(event: dict):
     """Generate and store our own preview for one event (stopped at its knowledge cutoff)."""

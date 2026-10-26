@@ -1,10 +1,13 @@
 """Which calendar events need our own preview now, and claiming them so only one worker runs each.
 
-An event is due from `LEAD` (2 hours) before its knowledge cutoff until the cutoff
-itself. Checking every 15 minutes therefore starts each preview between 2:00 and
-1:45 before the cutoff, and a missed check is caught by the next one as long as
-the cutoff has not passed. Every event gets a preview: whether the competition's
-preview will be missing is only known at release.
+An event is due from `LEAD` (12 hours) before its knowledge cutoff until the
+cutoff itself. Most cutoffs fall at the same moment (16:00 ET), so hundreds of
+events become due together; at most `MAX_PARALLEL_PREVIEWS` runs execute at once
+(the Modal worker's container cap) and the rest wait in Modal's queue, still
+holding their claims. The long lead leaves time to work through that queue, and
+a run that fails is retried by a later check as long as the cutoff has not
+passed. Every event gets a preview: whether the competition's preview will be
+missing is only known at release.
 """
 
 from __future__ import annotations
@@ -13,7 +16,8 @@ from datetime import datetime, timedelta, timezone
 
 from .store import EventStore
 
-LEAD = timedelta(hours=2)
+LEAD = timedelta(hours=12)
+MAX_PARALLEL_PREVIEWS = 5
 CHECK_EVERY = timedelta(minutes=15)
 
 
