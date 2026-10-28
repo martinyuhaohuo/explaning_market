@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Distributable earnings before realized losses were $0.24 per share, 2 cents below the $0.26 consensus, even though that result was within the preview author's $0.24\u2013$0.25 estimate. The much lower $0.07 per share after realized losses reflects a separate, unexpected credit event.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDistributable earnings before realized losses were $18.1 million ($0.24 per share)\u201d",
+      "expectation_evidence": "\u201cEPS (Distributable Earnings) \u2026 $0.2567 (~$0.26)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Converting a multifamily loan to REO triggered a $13 million realized loss and reduced distributable earnings to $0.07 per share, far below the $0.26 consensus. The loss was fully reserved and had no book-value impact, but the preview had identified a sixth REO as a downside risk rather than anticipated this specific conversion and loss.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDistributable earnings fell to $5.1 million ($0.07 per share) after a $13 million realized loss tied to converting one multifamily loan to REO, which had no book value impact as it was fully reserved.\u201d",
+      "expectation_evidence": "\u201cWatch the \u20184\u2019-rated bucket \u2026 for additions, any first \u20185\u2019-rated loan, and whether REO count goes from 5 to 6.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total leverage rose to 4.03x, well above the preview's 3.32x starting point and the level above which it said balance-sheet capacity would become a concern. Management said the balance sheet was near target size.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal leverage increased to 4.03x from 3.32x at June 30, with management signaling the balance sheet is near target size\u201d",
+      "expectation_evidence": "\u201cAbove ~3.4x with a widening discount to book invites a balance-sheet-capacity question.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said future activity would shift to a \u201cone in, one out\u201d pace matching repayments, limiting further portfolio growth. That is more cautious than the preview's focus on an earnings step-up from new originations and its discussion of a pipeline of executed term sheets.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaling the balance sheet is near target size and future activity will shift toward a \u2018one in, one out\u2019 pace matching repayments.\u201d",
+      "expectation_evidence": "\u201cQ3 inherits a higher average earning-asset balance\u201d and \u201c~$380M of executed term sheets pending.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reported that CRE CLO spreads had widened about 25 basis points since early September and loan spreads had moved 15\u201350 basis points wider, a less favorable financing and lending backdrop than the preview's emphasis on FL8's attractive pricing and the debt market's support for the collateral.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCRE CLO spreads have widened ~25 basis points since early September, with loan spreads moving 15-50 basis points wider depending on asset quality.\u201d",
+      "expectation_evidence": "\u201cTRTX priced the $1.0B TRTX 2026-FL8 CRE CLO \u2026 at an ~87.4% advance rate and SOFR+143\u201d and \u201cthe debt market will lend against this collateral at an 87% advance rate and SOFR+143.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company approved a new $50 million repurchase authorization after exhausting the prior $25 million plan. The preview highlighted the remaining $9.3 million authorization and identified a fresh or expanded authorization as an important possible signal, but the new authorization was twice the size of the old one.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company exhausted its $25 million buyback plan \u2026 and the Board approved a new, doubled $50 million repurchase authorization.\u201d",
+      "expectation_evidence": "\u201cOnly $9.3M remained\u201d and \u201cA fresh/expanded authorization is the cleanest signal management believes its own marks.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Distributable earnings before realized losses were $0.24 per share, 2 cents below the $0.26 consensus, even though that result was within the preview author's $0.24\u2013$0.25 estimate. The much lower $0.07 per share after realized losses reflects a separate, unexpected credit event.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDistributable earnings before realized losses were $18.1 million ($0.24 per share)\u201d",
+      "expectation_evidence": "\u201cEPS (Distributable Earnings) \u2026 $0.2567 (~$0.26)\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Converting a multifamily loan to REO triggered a $13 million realized loss and reduced distributable earnings to $0.07 per share, far below the $0.26 consensus. The loss was fully reserved and had no book-value impact, but the preview had identified a sixth REO as a downside risk rather than anticipated this specific conversion and loss.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDistributable earnings fell to $5.1 million ($0.07 per share) after a $13 million realized loss tied to converting one multifamily loan to REO, which had no book value impact as it was fully reserved.\u201d",
+      "expectation_evidence": "\u201cWatch the \u20184\u2019-rated bucket \u2026 for additions, any first \u20185\u2019-rated loan, and whether REO count goes from 5 to 6.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 2,
+      "description": "Total leverage rose to 4.03x, well above the preview's 3.32x starting point and the level above which it said balance-sheet capacity would become a concern. Management said the balance sheet was near target size.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal leverage increased to 4.03x from 3.32x at June 30, with management signaling the balance sheet is near target size\u201d",
+      "expectation_evidence": "\u201cAbove ~3.4x with a widening discount to book invites a balance-sheet-capacity question.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 3,
+      "description": "Management said future activity would shift to a \u201cone in, one out\u201d pace matching repayments, limiting further portfolio growth. That is more cautious than the preview's focus on an earnings step-up from new originations and its discussion of a pipeline of executed term sheets.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaling the balance sheet is near target size and future activity will shift toward a \u2018one in, one out\u2019 pace matching repayments.\u201d",
+      "expectation_evidence": "\u201cQ3 inherits a higher average earning-asset balance\u201d and \u201c~$380M of executed term sheets pending.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Management reported that CRE CLO spreads had widened about 25 basis points since early September and loan spreads had moved 15\u201350 basis points wider, a less favorable financing and lending backdrop than the preview's emphasis on FL8's attractive pricing and the debt market's support for the collateral.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCRE CLO spreads have widened ~25 basis points since early September, with loan spreads moving 15-50 basis points wider depending on asset quality.\u201d",
+      "expectation_evidence": "\u201cTRTX priced the $1.0B TRTX 2026-FL8 CRE CLO \u2026 at an ~87.4% advance rate and SOFR+143\u201d and \u201cthe debt market will lend against this collateral at an 87% advance rate and SOFR+143.\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 5,
+      "description": "The company approved a new $50 million repurchase authorization after exhausting the prior $25 million plan. The preview highlighted the remaining $9.3 million authorization and identified a fresh or expanded authorization as an important possible signal, but the new authorization was twice the size of the old one.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company exhausted its $25 million buyback plan \u2026 and the Board approved a new, doubled $50 million repurchase authorization.\u201d",
+      "expectation_evidence": "\u201cOnly $9.3M remained\u201d and \u201cA fresh/expanded authorization is the cleanest signal management believes its own marks.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

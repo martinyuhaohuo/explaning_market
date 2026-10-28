@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 guidance was stronger than the preview\u2019s bar: revenue is guided to $352\u2013360 million, with a $356 million midpoint near the top of the preview\u2019s estimated $350\u2013356 million range, and EPS guidance of $0.62\u2013$0.70 is above the $0.60 consensus.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance projects revenue of $352\u2013360 million\u201d and \u201cEPS of $0.62\u20130.70,\u201d with two fewer billing days than Q3.",
+      "expectation_evidence": "\u201cQ4'26 consensus EPS $0.60\u201d and applying Q4 seasonality implies a \u201c~$350\u2013356M Q4 bar\u201d; the base scenario expected revenue of \u201c~$348\u2013358M\u201d and EPS of \u201c$0.57\u20130.65.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Technology revenue growth reached 7.8% year over year, ahead of the preview\u2019s implied expectation of about 6.8% and clearing its 6% threshold for sustaining the acceleration narrative.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Technology revenue grew \u201c7.8% YoY and 2.5% sequentially on a billing day basis.\u201d",
+      "expectation_evidence": "The preview estimated Technology growth of \u201c~+6.8% YoY\u201d and said \u201cbelow +6%\u201d would stall the acceleration narrative.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Flex gross margins improved 60 basis points year over year, stronger than the preview\u2019s expectation that Flex margin would be around 26.7\u201326.9% or ease seasonally. The overall gross margin, by contrast, matched the preview\u2019s estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFlex gross margins improving 60 basis points,\u201d reflecting \u201cstrong pricing discipline and a richer business mix\u201d; overall gross margin was 28.2%.",
+      "expectation_evidence": "The preview put Flex gross margin at \u201c~26.8%,\u201d with a \u201c26.7\u201326.9%\u201d range, and said the base case could see it \u201ceasing ~10 bps seasonally\u201d; it estimated overall gross margin at \u201c~28.2%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The EPS headline was boosted by an unexpected $0.12 one-time insurance gain: reported EPS of $0.90 was well above the $0.76 consensus, while EPS excluding the gain was about $0.78\u2014only slightly above consensus and near the high end of company guidance.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 EPS was $0.90,\u201d including \u201ca $0.12 one-time gain from corporate-owned life insurance policies\u201d; excluding it, EPS was \u201cnear the high end of guidance\u201d and up approximately 24% year over year.",
+      "expectation_evidence": "The preview listed consensus EPS of \u201c$0.76\u201d and company guidance of \u201c$0.71\u2013$0.79.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consulting Solutions showed unusually strong commercial momentum: it posted record new contract award value and converted the highest share of pipeline opportunities in its history, exceeding the preview\u2019s base-case expectation of stability without new leading-indicator data.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Consulting Solutions \u201cachieved record new contract award value in Q3\u201d and \u201cconverted the highest percentage of pipeline opportunities in its history.\u201d",
+      "expectation_evidence": "The preview\u2019s base case described \u201ccontinued stability\u201d without \u201cnew leading-indicator data,\u201d while its bull case looked for double-digit job-order and start growth.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "AI-related pipeline growth and demand breadth were stronger than the preview had specifically anticipated: AI pipelines were up about 20% year over year, while eight of ten industry sectors were stable or growing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAI-related pipelines are up roughly 20% year-over-year,\u201d and \u201c8 of 10 industry sectors are stable or growing.\u201d",
+      "expectation_evidence": "The preview flagged AI and Consulting Solutions commentary as important, but did not specify AI pipeline growth or expect a quantified broad-sector demand update.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Operating cash flow was positive but fell short of expectations, rather than delivering the stronger cash-conversion inflection the preview was watching for. Management attributed the shortfall to a large client\u2019s temporary payment delay, resolved in early October, and expected Q4 to remain cash flow positive.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Operating cash flow was \u201c$9.5 million, below expectations due to a temporary payment delay from a large client that was resolved in early October,\u201d with Q4 expected to remain cash flow positive.",
+      "expectation_evidence": "The preview called for an \u201cOperating cash flow inflection\u201d and a \u201creversal of the H1 working-capital drag,\u201d and identified another quarter of negative FCF as a bear-case risk.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The average technology bill rate rose to $91 per hour and expanded for a second consecutive quarter, a stronger pricing indicator than the preview\u2019s emphasis on merely holding bill-pay spreads.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage technology bill rate rose to $91 per hour, expanding for the second consecutive quarter\u201d due to higher-margin consulting engagements and disciplined wage management.",
+      "expectation_evidence": "The preview\u2019s base case anticipated \u201ccontinued stability in bill-pay spreads,\u201d while its bull case called for pricing to hold.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total Q3 revenue exceeded both the consensus estimate and the high end of company guidance, though the dollar gap was small.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Revenue was \u201c$357.8 million,\u201d exceeding the high end of guidance.",
+      "expectation_evidence": "The preview cited consensus revenue of \u201c$354.4M\u201d and guidance of \u201c$349\u2013357M.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 guidance was stronger than the preview\u2019s bar: revenue is guided to $352\u2013360 million, with a $356 million midpoint near the top of the preview\u2019s estimated $350\u2013356 million range, and EPS guidance of $0.62\u2013$0.70 is above the $0.60 consensus.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance projects revenue of $352\u2013360 million\u201d and \u201cEPS of $0.62\u20130.70,\u201d with two fewer billing days than Q3.",
+      "expectation_evidence": "\u201cQ4'26 consensus EPS $0.60\u201d and applying Q4 seasonality implies a \u201c~$350\u2013356M Q4 bar\u201d; the base scenario expected revenue of \u201c~$348\u2013358M\u201d and EPS of \u201c$0.57\u20130.65.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Technology revenue growth reached 7.8% year over year, ahead of the preview\u2019s implied expectation of about 6.8% and clearing its 6% threshold for sustaining the acceleration narrative.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Technology revenue grew \u201c7.8% YoY and 2.5% sequentially on a billing day basis.\u201d",
+      "expectation_evidence": "The preview estimated Technology growth of \u201c~+6.8% YoY\u201d and said \u201cbelow +6%\u201d would stall the acceleration narrative.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Flex gross margins improved 60 basis points year over year, stronger than the preview\u2019s expectation that Flex margin would be around 26.7\u201326.9% or ease seasonally. The overall gross margin, by contrast, matched the preview\u2019s estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFlex gross margins improving 60 basis points,\u201d reflecting \u201cstrong pricing discipline and a richer business mix\u201d; overall gross margin was 28.2%.",
+      "expectation_evidence": "The preview put Flex gross margin at \u201c~26.8%,\u201d with a \u201c26.7\u201326.9%\u201d range, and said the base case could see it \u201ceasing ~10 bps seasonally\u201d; it estimated overall gross margin at \u201c~28.2%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The EPS headline was boosted by an unexpected $0.12 one-time insurance gain: reported EPS of $0.90 was well above the $0.76 consensus, while EPS excluding the gain was about $0.78\u2014only slightly above consensus and near the high end of company guidance.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 EPS was $0.90,\u201d including \u201ca $0.12 one-time gain from corporate-owned life insurance policies\u201d; excluding it, EPS was \u201cnear the high end of guidance\u201d and up approximately 24% year over year.",
+      "expectation_evidence": "The preview listed consensus EPS of \u201c$0.76\u201d and company guidance of \u201c$0.71\u2013$0.79.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "Consulting Solutions showed unusually strong commercial momentum: it posted record new contract award value and converted the highest share of pipeline opportunities in its history, exceeding the preview\u2019s base-case expectation of stability without new leading-indicator data.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Consulting Solutions \u201cachieved record new contract award value in Q3\u201d and \u201cconverted the highest percentage of pipeline opportunities in its history.\u201d",
+      "expectation_evidence": "The preview\u2019s base case described \u201ccontinued stability\u201d without \u201cnew leading-indicator data,\u201d while its bull case looked for double-digit job-order and start growth.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "AI-related pipeline growth and demand breadth were stronger than the preview had specifically anticipated: AI pipelines were up about 20% year over year, while eight of ten industry sectors were stable or growing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAI-related pipelines are up roughly 20% year-over-year,\u201d and \u201c8 of 10 industry sectors are stable or growing.\u201d",
+      "expectation_evidence": "The preview flagged AI and Consulting Solutions commentary as important, but did not specify AI pipeline growth or expect a quantified broad-sector demand update.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Operating cash flow was positive but fell short of expectations, rather than delivering the stronger cash-conversion inflection the preview was watching for. Management attributed the shortfall to a large client\u2019s temporary payment delay, resolved in early October, and expected Q4 to remain cash flow positive.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Operating cash flow was \u201c$9.5 million, below expectations due to a temporary payment delay from a large client that was resolved in early October,\u201d with Q4 expected to remain cash flow positive.",
+      "expectation_evidence": "The preview called for an \u201cOperating cash flow inflection\u201d and a \u201creversal of the H1 working-capital drag,\u201d and identified another quarter of negative FCF as a bear-case risk.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 7,
+      "description": "The average technology bill rate rose to $91 per hour and expanded for a second consecutive quarter, a stronger pricing indicator than the preview\u2019s emphasis on merely holding bill-pay spreads.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage technology bill rate rose to $91 per hour, expanding for the second consecutive quarter\u201d due to higher-margin consulting engagements and disciplined wage management.",
+      "expectation_evidence": "The preview\u2019s base case anticipated \u201ccontinued stability in bill-pay spreads,\u201d while its bull case called for pricing to hold.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 8,
+      "description": "Total Q3 revenue exceeded both the consensus estimate and the high end of company guidance, though the dollar gap was small.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Revenue was \u201c$357.8 million,\u201d exceeding the high end of guidance.",
+      "expectation_evidence": "The preview cited consensus revenue of \u201c$354.4M\u201d and guidance of \u201c$349\u2013357M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

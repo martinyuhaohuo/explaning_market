@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "CenterPoint reported Q3 non-GAAP EPS of $0.53, above the preview\u2019s $0.49\u2013$0.50 consensus range and its $0.50\u2013$0.51 functional whisper. That is a clear beat, though the preview had already framed the quarter as likely fine to good.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 non-GAAP EPS of $0.53\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS | Consensus | $0.49\u2013$0.50\u201d; \u201cThe functional whisper is $0.50\u2013$0.51 on EPS\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2027 EPS guide is $2.07\u2013$2.09, with a midpoint of $2.08: it meets the Street\u2019s $2.08 consensus and reaches above the preview\u2019s base-case range of $2.05\u2013$2.07. This is better than the base-case framing, although it is not above consensus at the midpoint.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cIntroduced 2027 non-GAAP EPS guidance of $2.07-$2.09\u201d",
+      "expectation_evidence": "\u201cFY2027 EPS | $2.08\u201d; \u201c2027 guided $2.05\u2013$2.07\u201d in the base scenario",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 10-year capital plan rose to $70.7 billion, above the preview\u2019s $68\u2013$70 billion base case and its $70 billion-plus bull-case threshold. CenterPoint also said it accelerated $1.5 billion of investment into the first five years, supporting enterprise rate-base CAGR above 14% through 2030.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 10-year capital plan was increased by $4 billion to $70.7 billion, with an additional $1.5 billion of investment accelerated into the first five years, driving enterprise rate base CAGR of more than 14% through 2030.\u201d",
+      "expectation_evidence": "\u201cplan rolled to $68\u201370B\u201d in the base scenario; \u201cplan rolled to $70B+\u201d in the bull scenario",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CenterPoint raised equity financing guidance by $1.6 billion to $4.5 billion, rather than delivering the preview\u2019s most bullish outcome of a larger capital plan without additional equity. The preview explicitly identified new equity as a downside risk.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEquity financing guidance was raised by a modest $1.6 billion to $4.5 billion, funding only about 25% of the $5.7 billion of total 2026 capital plan increases, well below the 47% rule of thumb.\u201d",
+      "expectation_evidence": "\u201cA roll-forward to $70B+ with no new equity is the most bullish outcome available\u201d; \u201cRepetition of \u2018no additional equity needed\u2019 \u2026 is worth more than a 2-cent EPS beat.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The large-load demand-charge figure is far below the preview\u2019s stated expectation: the call cited roughly $6 million per gigawatt per year, versus the preview\u2019s roughly $6 million per gigawatt per month. The charges remain outside the plan, but the reported amount is substantially lower than the preview led investors to expect.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnticipates demand charges of roughly $6 million per gigawatt per year from new large loads not yet in the plan.\u201d",
+      "expectation_evidence": "\u201cDemand charges run roughly $6M per GW per month and \u2014 critically \u2014 are not yet in the financial forecast.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected about 4 GW of studied load in the Batch Zero pipeline; CenterPoint now expects only about 2 GW to stay as studied load. It still targets energizing at least 14 GW by the end of 2030, but the studied-load component is smaller than expected.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRemains confident in 10 GW of baseload, expects ~2 GW to stay as studied load, and targets energizing at least 14 GW by end of 2030.\u201d",
+      "expectation_evidence": "\u201c~14 GW expected eligible (~10 GW base load \u2026, ~4 GW studied load\u2026)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CenterPoint raised its 2026 EPS range by one cent at both ends, rather than merely reaffirming the existing $1.89\u2013$1.91 range. The preview expected the company to reaffirm the range or potentially signal its upper half, so this is a modest upward revision.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised its 2026 non-GAAP EPS guidance range to $1.90-$1.92 from $1.89-$1.91.\u201d",
+      "expectation_evidence": "\u201cFY2026 EPS | $1.91 (co. guide $1.89\u2013$1.91, \u2018at least midpoint\u2019)\u201d; base scenario: \u201cFY26 reaffirmed at \u2018at least midpoint\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management extended its mid-to-high-end 7%\u20139% EPS-growth outlook through 2030, while the preview described the existing growth framework as running through 2028. The extension gives investors a longer-dated growth commitment than the preview anticipated.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cExtended expectations to grow at the mid-to-high end of its 7%-9% range through 2030.\u201d",
+      "expectation_evidence": "\u201cManagement has guided to the \u2018mid-to-high end of 7\u20139% annual growth through 2028.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call identified a year-end Indiana large-load customer deal using roughly 700 MW of freed capacity, scalable to 1.4 GW. The preview noted Indiana large-load deals and a distribution-level pipeline, but did not anticipate this specific customer deal or capacity detail.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company expects a large-load Indiana customer deal by year-end, leveraging ~700 MW of freed capacity scalable to 1.4 GW.\u201d",
+      "expectation_evidence": "\u201cAt least $10B of upside capex\u201d was expected to be driven in part by \u201cIndiana large-load deals\u201d; the preview also cited a \u201c+2 GW distribution-level pipeline.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "A CAMT refund is expected to add about 60 basis points to adjusted FFO-to-debt, a credit-metric benefit the preview did not identify. The Ohio sale\u2019s roughly 50-basis-point contribution was already anticipated, so the unexpected element is the refund.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe ~$1.4 billion Ohio gas LDC sale (~50 bps) and a CAMT refund (~60 bps) expected to push metrics toward the higher end\u201d of the cushion above downgrade thresholds.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "CenterPoint reported Q3 non-GAAP EPS of $0.53, above the preview\u2019s $0.49\u2013$0.50 consensus range and its $0.50\u2013$0.51 functional whisper. That is a clear beat, though the preview had already framed the quarter as likely fine to good.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 non-GAAP EPS of $0.53\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS | Consensus | $0.49\u2013$0.50\u201d; \u201cThe functional whisper is $0.50\u2013$0.51 on EPS\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The 2027 EPS guide is $2.07\u2013$2.09, with a midpoint of $2.08: it meets the Street\u2019s $2.08 consensus and reaches above the preview\u2019s base-case range of $2.05\u2013$2.07. This is better than the base-case framing, although it is not above consensus at the midpoint.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cIntroduced 2027 non-GAAP EPS guidance of $2.07-$2.09\u201d",
+      "expectation_evidence": "\u201cFY2027 EPS | $2.08\u201d; \u201c2027 guided $2.05\u2013$2.07\u201d in the base scenario",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The 10-year capital plan rose to $70.7 billion, above the preview\u2019s $68\u2013$70 billion base case and its $70 billion-plus bull-case threshold. CenterPoint also said it accelerated $1.5 billion of investment into the first five years, supporting enterprise rate-base CAGR above 14% through 2030.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 10-year capital plan was increased by $4 billion to $70.7 billion, with an additional $1.5 billion of investment accelerated into the first five years, driving enterprise rate base CAGR of more than 14% through 2030.\u201d",
+      "expectation_evidence": "\u201cplan rolled to $68\u201370B\u201d in the base scenario; \u201cplan rolled to $70B+\u201d in the bull scenario",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 3,
+      "description": "CenterPoint raised equity financing guidance by $1.6 billion to $4.5 billion, rather than delivering the preview\u2019s most bullish outcome of a larger capital plan without additional equity. The preview explicitly identified new equity as a downside risk.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEquity financing guidance was raised by a modest $1.6 billion to $4.5 billion, funding only about 25% of the $5.7 billion of total 2026 capital plan increases, well below the 47% rule of thumb.\u201d",
+      "expectation_evidence": "\u201cA roll-forward to $70B+ with no new equity is the most bullish outcome available\u201d; \u201cRepetition of \u2018no additional equity needed\u2019 \u2026 is worth more than a 2-cent EPS beat.\u201d",
+      "expectation_source": "preview",
+      "dimension": "financing_capital_structure"
+    },
+    {
+      "position": 4,
+      "description": "The large-load demand-charge figure is far below the preview\u2019s stated expectation: the call cited roughly $6 million per gigawatt per year, versus the preview\u2019s roughly $6 million per gigawatt per month. The charges remain outside the plan, but the reported amount is substantially lower than the preview led investors to expect.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnticipates demand charges of roughly $6 million per gigawatt per year from new large loads not yet in the plan.\u201d",
+      "expectation_evidence": "\u201cDemand charges run roughly $6M per GW per month and \u2014 critically \u2014 are not yet in the financial forecast.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "The preview expected about 4 GW of studied load in the Batch Zero pipeline; CenterPoint now expects only about 2 GW to stay as studied load. It still targets energizing at least 14 GW by the end of 2030, but the studied-load component is smaller than expected.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRemains confident in 10 GW of baseload, expects ~2 GW to stay as studied load, and targets energizing at least 14 GW by end of 2030.\u201d",
+      "expectation_evidence": "\u201c~14 GW expected eligible (~10 GW base load \u2026, ~4 GW studied load\u2026)\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "CenterPoint raised its 2026 EPS range by one cent at both ends, rather than merely reaffirming the existing $1.89\u2013$1.91 range. The preview expected the company to reaffirm the range or potentially signal its upper half, so this is a modest upward revision.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised its 2026 non-GAAP EPS guidance range to $1.90-$1.92 from $1.89-$1.91.\u201d",
+      "expectation_evidence": "\u201cFY2026 EPS | $1.91 (co. guide $1.89\u2013$1.91, \u2018at least midpoint\u2019)\u201d; base scenario: \u201cFY26 reaffirmed at \u2018at least midpoint\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Management extended its mid-to-high-end 7%\u20139% EPS-growth outlook through 2030, while the preview described the existing growth framework as running through 2028. The extension gives investors a longer-dated growth commitment than the preview anticipated.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cExtended expectations to grow at the mid-to-high end of its 7%-9% range through 2030.\u201d",
+      "expectation_evidence": "\u201cManagement has guided to the \u2018mid-to-high end of 7\u20139% annual growth through 2028.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "The call identified a year-end Indiana large-load customer deal using roughly 700 MW of freed capacity, scalable to 1.4 GW. The preview noted Indiana large-load deals and a distribution-level pipeline, but did not anticipate this specific customer deal or capacity detail.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company expects a large-load Indiana customer deal by year-end, leveraging ~700 MW of freed capacity scalable to 1.4 GW.\u201d",
+      "expectation_evidence": "\u201cAt least $10B of upside capex\u201d was expected to be driven in part by \u201cIndiana large-load deals\u201d; the preview also cited a \u201c+2 GW distribution-level pipeline.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 9,
+      "description": "A CAMT refund is expected to add about 60 basis points to adjusted FFO-to-debt, a credit-metric benefit the preview did not identify. The Ohio sale\u2019s roughly 50-basis-point contribution was already anticipated, so the unexpected element is the refund.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe ~$1.4 billion Ohio gas LDC sale (~50 bps) and a CAMT refund (~60 bps) expected to push metrics toward the higher end\u201d of the cushion above downgrade thresholds.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

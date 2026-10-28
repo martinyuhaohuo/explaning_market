@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Adjusted EPS was $2.12, above the preview\u2019s $1.89 consensus and its own $1.64\u2013$1.75 estimate. That was a meaningful beat even against the preview\u2019s higher-end bull scenario of $1.95\u2013$2.10.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS was $2.12\u201d and exceeded consensus estimates.",
+      "expectation_evidence": "\u201cEPS | $1.89\u201d consensus; \u201cMy build (adjusted) | ~$1.64\u20131.75\u201d; bull scenario adjusted EPS of \u201c$1.95\u20132.10.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GAAP results were far better than the preview\u2019s forecast of near-zero or negative EPS: the company reported $1.57 per diluted share. The call cited $8.9 million of pretax merger expenses, rather than the preview\u2019s expectation that more than $20 million after tax of restructuring costs would land in the quarter.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGAAP net income was $17.5 million ($1.57 per diluted share)\u201d after excluding \u201c$8.9 million pretax merger expenses\u201d and $938,000 of discrete tax benefits for the adjusted calculation.",
+      "expectation_evidence": "\u201cThe bulk \u2014 call it $20M+ after-tax \u2014 should land in Q3\u201d and \u201cGAAP EPS could print near zero or negative.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest margin substantially exceeded the preview\u2019s expected 540\u2013545 bps day-one level: reported NIM was 574 bps and about 568 bps normalized for a full Signature quarter. The 2027 outlook of 570\u2013575 bps was also well above the originally projected high-540s/low-550s range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet interest margin was 5.74% (normalized to ~5.68% for a full quarter of Signature),\u201d with guidance for \u201ca stable 5.70%-5.75% for 2027,\u201d well above the originally projected high-540s/low-550s range.",
+      "expectation_evidence": "Management guided explicitly to \u201c540\u2013545bps day one\u201d; the preview also says the original projection was in the \u201chigh-540s/low-550s range.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Organic litigation loan growth was much faster than the preview\u2019s 20%+ annualized benchmark: the call reported $160 million of organic growth, or 49% annualized. Total organic loans were up 32% year over year.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Loans included \u201c$160 million of organic litigation loan growth (49% annualized)\u201d; year-over-year organic loan growth was \u201c$497 million or 32%.\u201d",
+      "expectation_evidence": "The litigation loan growth benchmark was \u201c+20%+ annualized.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management provided a specific 2027 EPS target despite the preview expecting no formal EPS guidance, and said it expects to exceed the earnings expectations set when the deal was announced.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management guided to \u201capproximately $9 per share in diluted EPS for 2027\u201d and expects \u201cto exceed the earnings expectations set when the deal was announced on March 12, 2026.\u201d",
+      "expectation_evidence": "\u201cESQ does not give formal EPS guidance, so the call is the only venue.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The adjusted efficiency ratio was far better than the preview\u2019s expected low-to-mid-50s combined-company range, coming in at 41.1%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe adjusted efficiency ratio was 41.1%.\u201d",
+      "expectation_evidence": "The preview said to \u201cexpect low-to-mid 50s\u201d for the combined efficiency ratio.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Adjusted EPS was $2.12, above the preview\u2019s $1.89 consensus and its own $1.64\u2013$1.75 estimate. That was a meaningful beat even against the preview\u2019s higher-end bull scenario of $1.95\u2013$2.10.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS was $2.12\u201d and exceeded consensus estimates.",
+      "expectation_evidence": "\u201cEPS | $1.89\u201d consensus; \u201cMy build (adjusted) | ~$1.64\u20131.75\u201d; bull scenario adjusted EPS of \u201c$1.95\u20132.10.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "GAAP results were far better than the preview\u2019s forecast of near-zero or negative EPS: the company reported $1.57 per diluted share. The call cited $8.9 million of pretax merger expenses, rather than the preview\u2019s expectation that more than $20 million after tax of restructuring costs would land in the quarter.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGAAP net income was $17.5 million ($1.57 per diluted share)\u201d after excluding \u201c$8.9 million pretax merger expenses\u201d and $938,000 of discrete tax benefits for the adjusted calculation.",
+      "expectation_evidence": "\u201cThe bulk \u2014 call it $20M+ after-tax \u2014 should land in Q3\u201d and \u201cGAAP EPS could print near zero or negative.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "Net interest margin substantially exceeded the preview\u2019s expected 540\u2013545 bps day-one level: reported NIM was 574 bps and about 568 bps normalized for a full Signature quarter. The 2027 outlook of 570\u2013575 bps was also well above the originally projected high-540s/low-550s range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet interest margin was 5.74% (normalized to ~5.68% for a full quarter of Signature),\u201d with guidance for \u201ca stable 5.70%-5.75% for 2027,\u201d well above the originally projected high-540s/low-550s range.",
+      "expectation_evidence": "Management guided explicitly to \u201c540\u2013545bps day one\u201d; the preview also says the original projection was in the \u201chigh-540s/low-550s range.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Organic litigation loan growth was much faster than the preview\u2019s 20%+ annualized benchmark: the call reported $160 million of organic growth, or 49% annualized. Total organic loans were up 32% year over year.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Loans included \u201c$160 million of organic litigation loan growth (49% annualized)\u201d; year-over-year organic loan growth was \u201c$497 million or 32%.\u201d",
+      "expectation_evidence": "The litigation loan growth benchmark was \u201c+20%+ annualized.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Management provided a specific 2027 EPS target despite the preview expecting no formal EPS guidance, and said it expects to exceed the earnings expectations set when the deal was announced.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management guided to \u201capproximately $9 per share in diluted EPS for 2027\u201d and expects \u201cto exceed the earnings expectations set when the deal was announced on March 12, 2026.\u201d",
+      "expectation_evidence": "\u201cESQ does not give formal EPS guidance, so the call is the only venue.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The adjusted efficiency ratio was far better than the preview\u2019s expected low-to-mid-50s combined-company range, coming in at 41.1%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe adjusted efficiency ratio was 41.1%.\u201d",
+      "expectation_evidence": "The preview said to \u201cexpect low-to-mid 50s\u201d for the combined efficiency ratio.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

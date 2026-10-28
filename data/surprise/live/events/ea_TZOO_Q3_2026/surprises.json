@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Revenue was essentially in line, but the reported loss was materially worse than the preview\u2019s roughly $1.2 million operating-loss base case. The call attributed the $2.6 million loss to member-acquisition marketing; non-GAAP operating results also swung to a $2.1 million loss from a $1.1 million profit a year earlier.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 consolidated revenue was $22.9 million\u201d and the company reported \u201ca $2.6 million loss\u201d due to member-acquisition marketing spend; \u201cNon-GAAP operating loss was $2.1 million,\u201d versus a $1.1 million profit a year earlier.",
+      "expectation_evidence": "The preview\u2019s base case estimated GAAP operating income of \u201c~$(1.2)M\u201d and EPS of \u201c~$(0.10)\u201d; it also said consensus at \u201c$(0.09) implicitly assumes ~$1M+ of marketing moderation.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Club-member additions were exceptionally strong: membership grew 65% year over year, and the quarter added more members than any previous quarter. The preview expected an accelerated membership step-up after Q2\u2019s record trial starts, but did not anticipate record quarterly member additions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClub members grew 65% year-over-year,\u201d representing \u201cthe largest number of members added in a single quarter in the company's history.\u201d",
+      "expectation_evidence": "The preview said Q2 \u201cdelivered record trial starts on doubled marketing\u201d and that \u201cQ3 should show an accelerated step-up.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management gave a much clearer 2027 membership-revenue outlook: it expects revenue to rise from about $17 million to more than $30 million, supported by deferred revenue, renewals, and new acquisitions. The preview flagged the relevant \u201c~17.2 / ~30.0+\u201d figures as ambiguous rather than establishing them as revenue guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company projects membership revenue rising from approximately $17 million to more than $30 million in 2027,\u201d supported by \u201croughly $13 million of existing deferred revenue plus renewals and new acquisitions.\u201d",
+      "expectation_evidence": "The preview said the \u201c~17.2 / ~30.0+\u201d figures \u201ccould not be definitively attributed to member counts vs. membership revenue.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cash was stronger than the preview\u2019s expected range even though the company continued repurchasing shares. Consolidated cash, cash equivalents, and restricted cash reached $8.8 million, above the preview\u2019s base expectation of roughly $5.5\u20136.5 million, alongside a 256,898-share buyback.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated cash, cash equivalents and restricted cash rose to $8.8 million as of September 30, 2026, up $1.2 million from Q2,\u201d and the company \u201crepurchased 256,898 shares during the quarter.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201ccash ~$5.5\u20136.5M\u201d and flagged continued repurchases with low cash as an aggressive posture.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Travelzoo Meta did not launch in the expected Q3 window; the first experiences are now expected in Q4 2026. The preview specifically flagged whether the promised Q3 launch was delivered or slipped.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTravelzoo Meta's first experiences are expected to launch in Q4 2026 as an exclusive benefit of club membership.\u201d",
+      "expectation_evidence": "The preview described Travelzoo META as \u201cpromised for Q3'26 as an exclusive club benefit\u201d and asked whether it \u201claunched in Q3 as stated.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call added encouraging early acquisition-payback detail: U.S. acquisition cost fell from Q2, while the upfront membership fee plus early transaction revenue exceeds that cost on a gross-revenue basis. However, acquisition cost remained well above its Q1 level, making the evidence positive but not unambiguously so.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage U.S. club member acquisition cost fell to $54 in Q3 from $62 in Q2,\u201d though it remained above \u201cthe $27 level reported in Q1 2026.\u201d Members pay \u201ca $50 annual membership fee upfront\u201d and generate \u201can average of $15 per member in transaction revenue within 90 days.\u201d",
+      "expectation_evidence": "The preview identified marketing spend and payback as the key debate, noting management would continue investing if it provided \u201cpositive ROI and a relatively quick payback,\u201d and said to treat the $1.20 2027 accretion claim as unverified without renewal math.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Revenue was essentially in line, but the reported loss was materially worse than the preview\u2019s roughly $1.2 million operating-loss base case. The call attributed the $2.6 million loss to member-acquisition marketing; non-GAAP operating results also swung to a $2.1 million loss from a $1.1 million profit a year earlier.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 consolidated revenue was $22.9 million\u201d and the company reported \u201ca $2.6 million loss\u201d due to member-acquisition marketing spend; \u201cNon-GAAP operating loss was $2.1 million,\u201d versus a $1.1 million profit a year earlier.",
+      "expectation_evidence": "The preview\u2019s base case estimated GAAP operating income of \u201c~$(1.2)M\u201d and EPS of \u201c~$(0.10)\u201d; it also said consensus at \u201c$(0.09) implicitly assumes ~$1M+ of marketing moderation.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "Club-member additions were exceptionally strong: membership grew 65% year over year, and the quarter added more members than any previous quarter. The preview expected an accelerated membership step-up after Q2\u2019s record trial starts, but did not anticipate record quarterly member additions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClub members grew 65% year-over-year,\u201d representing \u201cthe largest number of members added in a single quarter in the company's history.\u201d",
+      "expectation_evidence": "The preview said Q2 \u201cdelivered record trial starts on doubled marketing\u201d and that \u201cQ3 should show an accelerated step-up.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Management gave a much clearer 2027 membership-revenue outlook: it expects revenue to rise from about $17 million to more than $30 million, supported by deferred revenue, renewals, and new acquisitions. The preview flagged the relevant \u201c~17.2 / ~30.0+\u201d figures as ambiguous rather than establishing them as revenue guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company projects membership revenue rising from approximately $17 million to more than $30 million in 2027,\u201d supported by \u201croughly $13 million of existing deferred revenue plus renewals and new acquisitions.\u201d",
+      "expectation_evidence": "The preview said the \u201c~17.2 / ~30.0+\u201d figures \u201ccould not be definitively attributed to member counts vs. membership revenue.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Cash was stronger than the preview\u2019s expected range even though the company continued repurchasing shares. Consolidated cash, cash equivalents, and restricted cash reached $8.8 million, above the preview\u2019s base expectation of roughly $5.5\u20136.5 million, alongside a 256,898-share buyback.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated cash, cash equivalents and restricted cash rose to $8.8 million as of September 30, 2026, up $1.2 million from Q2,\u201d and the company \u201crepurchased 256,898 shares during the quarter.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201ccash ~$5.5\u20136.5M\u201d and flagged continued repurchases with low cash as an aggressive posture.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 4,
+      "description": "Travelzoo Meta did not launch in the expected Q3 window; the first experiences are now expected in Q4 2026. The preview specifically flagged whether the promised Q3 launch was delivered or slipped.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTravelzoo Meta's first experiences are expected to launch in Q4 2026 as an exclusive benefit of club membership.\u201d",
+      "expectation_evidence": "The preview described Travelzoo META as \u201cpromised for Q3'26 as an exclusive club benefit\u201d and asked whether it \u201claunched in Q3 as stated.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 5,
+      "description": "The call added encouraging early acquisition-payback detail: U.S. acquisition cost fell from Q2, while the upfront membership fee plus early transaction revenue exceeds that cost on a gross-revenue basis. However, acquisition cost remained well above its Q1 level, making the evidence positive but not unambiguously so.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage U.S. club member acquisition cost fell to $54 in Q3 from $62 in Q2,\u201d though it remained above \u201cthe $27 level reported in Q1 2026.\u201d Members pay \u201ca $50 annual membership fee upfront\u201d and generate \u201can average of $15 per member in transaction revenue within 90 days.\u201d",
+      "expectation_evidence": "The preview identified marketing spend and payback as the key debate, noting management would continue investing if it provided \u201cpositive ROI and a relatively quick payback,\u201d and said to treat the $1.20 2027 accretion claim as unverified without renewal math.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

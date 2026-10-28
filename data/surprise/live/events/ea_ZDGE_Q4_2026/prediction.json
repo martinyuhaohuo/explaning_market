@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_ZDGE_Q4_2026",
+  "event_datetime": "2026-10-26T20:30:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-26T22:02:42.150433+00:00",
+  "predictions": [
+    {
+      "identifier_value": "ZDGE",
+      "predicted_percentile": 0.4014296599310172
+    }
+  ]
+}

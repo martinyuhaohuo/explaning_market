@@ -1,0 +1,107 @@
+{
+  "event_id": "ea_BOOM_Q3_2026",
+  "ticker": "BOOM",
+  "company": "DMC Global Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:05:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "DMC Global Inc. (BOOM), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:05 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview DMC Global Inc. (BOOM), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:05 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:08:28.361435+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Grep",
+      "detail": ""
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "DMC Global BOOM Q3 2026 earnings preview consensus EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "DMC Global second quarter 2026 results guidance outlook"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 2
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "c329cf8a-0186-4670-9083-43998f003279",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 5,
+  "duration_ms": 22577,
+  "total_cost_usd": 0.026627695000000003,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 5827,
+    "cache_read_input_tokens": 59042,
+    "output_tokens": 3230,
+    "output_tokens_details": {
+      "thinking_tokens": 574
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5827
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2672,
+        "cache_read_input_tokens": 21130,
+        "cache_creation_input_tokens": 2734,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 2734,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:08:52.988889+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

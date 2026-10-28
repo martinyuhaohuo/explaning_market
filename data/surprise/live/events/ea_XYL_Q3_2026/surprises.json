@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Xylem cut FY2026 revenue guidance to about $8.95 billion, roughly flat organically, from prior guidance of 2%\u20133% organic growth. That also reverses the preview\u2019s implied Q4 ramp: Q4 revenue is now expected to decline 1%\u20132% organically rather than support roughly 5% reported growth.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cLowered its full year 2026 revenue guidance to approximately $8.95 billion (down ~1% reported, roughly flat organically) from prior guidance of 2%-3% organic growth, due to slower revenue conversion in MCS and WSS\u201d; Q4 revenue is \u201cexpected down ~5% reported (down 1%-2% organic).\u201d",
+      "expectation_evidence": "The preview listed FY26 organic growth guidance of \u201c+2\u20133%\u201d and said the FY guide implied \u201cQ4 \u2248 $2,439M, or ~+5% reported.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year EPS guidance fell to $5.40\u2013$5.45 from $5.55\u2013$5.70, a clear reversal of the prior raised outlook. The preview treated the prior range as the current guide and anticipated that a narrowed range might land in its upper half.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull year EPS guidance was cut to $5.40-$5.45 from the prior $5.55-$5.70, reflecting lower volumes while holding margins.\u201d",
+      "expectation_evidence": "The preview gave FY26 adjusted EPS guidance as \u201c$5.55 \u2013 $5.70\u201d and described a base case in which \u201cFY EPS range [is] narrowed to the upper half.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 revenue was roughly flat organically and below expectations, missing the preview\u2019s expectation of about 3% organic growth. The gap is notable because the preview identified organic growth as the central test for the quarter.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 revenue came in \u201croughly flat organically and below expectations.\u201d",
+      "expectation_evidence": "The preview expected Q3 guidance of \u201c~+3% organic\u201d and called for \u201corganic growth \u22653% vs. guide.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Demand indicators were stronger than the preview\u2019s expectation for mid-single-digit underlying order growth: total orders rose 10%, backlog grew 13% to $5.5 billion, and book-to-bill was above 1. The contrast is that this demand is not yet converting into revenue at the expected pace.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal orders rose 10% year-over-year and backlog grew 13% to $5.5 billion (up ~$200 million sequentially), with book-to-bill above 1.\u201d",
+      "expectation_evidence": "The preview said the Q3 question was whether \u201ccore orders inflect to mid-single-digits without a mega-deal\u201d and highlighted book-to-bill above 1.0x as a bull trigger.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "MCS orders surged 30%, but revenue fell 5% as affordability concerns spread from electric to water metering, and some large awards will not deploy until late 2027 into 2028. The preview noted electric-metering affordability pressure but described water-side orders as an offset, so the extension of the affordability issue to water metering and the delayed conversion worsen that picture.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMCS orders surged 30% with a book-to-bill of 1.16, but revenue fell 5% as affordability pressures that hit electric metering now extend to water metering, with large awards deploying in late 2027 into 2028.\u201d",
+      "expectation_evidence": "The preview said MCS faced \u201celectric-metering affordability concerns\u201d and that \u201cWater-side orders grew double digits, partly offsetting.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Xylem announced plans to divest two additional businesses\u2014Applied Water International and Specialty Flow Control\u2014together about 9% of revenue but less than 5% of EBITDA. The preview discussed the already-completed international metrology divestiture, but did not anticipate these new planned disposals or the resulting reduction in China exposure.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPlans to divest Applied Water International and Specialty Flow Control (beverage and marine), which together represent ~9% of revenue but less than 5% of EBITDA and are dilutive to margins, cutting China exposure from ~2% to ~1% of revenue.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Xylem will consolidate from four segments to three beginning in 2027 and eliminate Water Infrastructure segment support costs. The preview discussed segment performance and a possible MCS margin step-up, but did not flag this broader organizational change.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company will consolidate from 4 segments to 3 beginning in 2027, aligning around how customers move, treat, and measure/optimize water, and eliminating Water Infrastructure segment support costs.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Q3 adjusted EPS of $1.44 was slightly below the $1.45 consensus and further below the preview\u2019s $1.47 top-of-guide \u201cde facto whisper,\u201d despite 5% year-over-year growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 EPS grew 5% year-over-year to $1.44 (excluding IEEPA tariff refund).\u201d",
+      "expectation_evidence": "The preview listed Q3 consensus adjusted EPS of \u201c$1.45\u201d and said \u201cthe de facto whisper is the top of guidance ($1.47).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 EBITDA margin was 23.9%, modestly above the preview\u2019s 23.7% consensus estimate and at the top end of the company\u2019s prior range, even with revenue below expectations. This partly offsets the weaker sales and EPS results.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Q3 EBITDA margin was \u201c23.9%, up 70 basis points.\u201d",
+      "expectation_evidence": "The preview estimated Q3 adjusted EBITDA margin at \u201c~23.7%\u201d and cited company guidance of \u201c23.5% \u2013 24.0%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 is expected to combine declining organic revenue with a 24.5% EBITDA margin, up 130 basis points year over year. The margin outlook is resilient despite the sharp revenue slowdown, though the preview did not provide a specific Q4 margin estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Q4 EBITDA margin is expected to be \u201c~24.5% (up 130 bps)\u201d while revenue is expected down 1%\u20132% organically.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The preview asked whether buybacks would be paused to fund the Cornell/Roper deal or continued; the call described opportunistic buybacks, alongside acquisition-related financing costs, as a factor weighing on free cash flow. This indicates buybacks were still being used even as cash-flow guidance moved to its low end.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Year-to-date free cash flow was \u201c$444 million (slightly below last year)\u201d and full-year free cash flow margin guidance was trimmed to \u201c~10.2% at the low end,\u201d reflecting \u201chigher interest from the Cornell and Roper acquisition financing and opportunistic buybacks.\u201d",
+      "expectation_evidence": "The preview asked whether the buyback was \u201cpaused to fund the deal \u2014 or leaned into.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Xylem cut FY2026 revenue guidance to about $8.95 billion, roughly flat organically, from prior guidance of 2%\u20133% organic growth. That also reverses the preview\u2019s implied Q4 ramp: Q4 revenue is now expected to decline 1%\u20132% organically rather than support roughly 5% reported growth.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cLowered its full year 2026 revenue guidance to approximately $8.95 billion (down ~1% reported, roughly flat organically) from prior guidance of 2%-3% organic growth, due to slower revenue conversion in MCS and WSS\u201d; Q4 revenue is \u201cexpected down ~5% reported (down 1%-2% organic).\u201d",
+      "expectation_evidence": "The preview listed FY26 organic growth guidance of \u201c+2\u20133%\u201d and said the FY guide implied \u201cQ4 \u2248 $2,439M, or ~+5% reported.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Full-year EPS guidance fell to $5.40\u2013$5.45 from $5.55\u2013$5.70, a clear reversal of the prior raised outlook. The preview treated the prior range as the current guide and anticipated that a narrowed range might land in its upper half.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull year EPS guidance was cut to $5.40-$5.45 from the prior $5.55-$5.70, reflecting lower volumes while holding margins.\u201d",
+      "expectation_evidence": "The preview gave FY26 adjusted EPS guidance as \u201c$5.55 \u2013 $5.70\u201d and described a base case in which \u201cFY EPS range [is] narrowed to the upper half.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Q3 revenue was roughly flat organically and below expectations, missing the preview\u2019s expectation of about 3% organic growth. The gap is notable because the preview identified organic growth as the central test for the quarter.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 revenue came in \u201croughly flat organically and below expectations.\u201d",
+      "expectation_evidence": "The preview expected Q3 guidance of \u201c~+3% organic\u201d and called for \u201corganic growth \u22653% vs. guide.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Demand indicators were stronger than the preview\u2019s expectation for mid-single-digit underlying order growth: total orders rose 10%, backlog grew 13% to $5.5 billion, and book-to-bill was above 1. The contrast is that this demand is not yet converting into revenue at the expected pace.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal orders rose 10% year-over-year and backlog grew 13% to $5.5 billion (up ~$200 million sequentially), with book-to-bill above 1.\u201d",
+      "expectation_evidence": "The preview said the Q3 question was whether \u201ccore orders inflect to mid-single-digits without a mega-deal\u201d and highlighted book-to-bill above 1.0x as a bull trigger.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "MCS orders surged 30%, but revenue fell 5% as affordability concerns spread from electric to water metering, and some large awards will not deploy until late 2027 into 2028. The preview noted electric-metering affordability pressure but described water-side orders as an offset, so the extension of the affordability issue to water metering and the delayed conversion worsen that picture.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMCS orders surged 30% with a book-to-bill of 1.16, but revenue fell 5% as affordability pressures that hit electric metering now extend to water metering, with large awards deploying in late 2027 into 2028.\u201d",
+      "expectation_evidence": "The preview said MCS faced \u201celectric-metering affordability concerns\u201d and that \u201cWater-side orders grew double digits, partly offsetting.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "Xylem announced plans to divest two additional businesses\u2014Applied Water International and Specialty Flow Control\u2014together about 9% of revenue but less than 5% of EBITDA. The preview discussed the already-completed international metrology divestiture, but did not anticipate these new planned disposals or the resulting reduction in China exposure.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPlans to divest Applied Water International and Specialty Flow Control (beverage and marine), which together represent ~9% of revenue but less than 5% of EBITDA and are dilutive to margins, cutting China exposure from ~2% to ~1% of revenue.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 6,
+      "description": "Xylem will consolidate from four segments to three beginning in 2027 and eliminate Water Infrastructure segment support costs. The preview discussed segment performance and a possible MCS margin step-up, but did not flag this broader organizational change.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company will consolidate from 4 segments to 3 beginning in 2027, aligning around how customers move, treat, and measure/optimize water, and eliminating Water Infrastructure segment support costs.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 7,
+      "description": "Q3 adjusted EPS of $1.44 was slightly below the $1.45 consensus and further below the preview\u2019s $1.47 top-of-guide \u201cde facto whisper,\u201d despite 5% year-over-year growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 EPS grew 5% year-over-year to $1.44 (excluding IEEPA tariff refund).\u201d",
+      "expectation_evidence": "The preview listed Q3 consensus adjusted EPS of \u201c$1.45\u201d and said \u201cthe de facto whisper is the top of guidance ($1.47).\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 8,
+      "description": "Q3 EBITDA margin was 23.9%, modestly above the preview\u2019s 23.7% consensus estimate and at the top end of the company\u2019s prior range, even with revenue below expectations. This partly offsets the weaker sales and EPS results.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Q3 EBITDA margin was \u201c23.9%, up 70 basis points.\u201d",
+      "expectation_evidence": "The preview estimated Q3 adjusted EBITDA margin at \u201c~23.7%\u201d and cited company guidance of \u201c23.5% \u2013 24.0%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 9,
+      "description": "Q4 is expected to combine declining organic revenue with a 24.5% EBITDA margin, up 130 basis points year over year. The margin outlook is resilient despite the sharp revenue slowdown, though the preview did not provide a specific Q4 margin estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Q4 EBITDA margin is expected to be \u201c~24.5% (up 130 bps)\u201d while revenue is expected down 1%\u20132% organically.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "The preview asked whether buybacks would be paused to fund the Cornell/Roper deal or continued; the call described opportunistic buybacks, alongside acquisition-related financing costs, as a factor weighing on free cash flow. This indicates buybacks were still being used even as cash-flow guidance moved to its low end.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Year-to-date free cash flow was \u201c$444 million (slightly below last year)\u201d and full-year free cash flow margin guidance was trimmed to \u201c~10.2% at the low end,\u201d reflecting \u201chigher interest from the Cornell and Roper acquisition financing and opportunistic buybacks.\u201d",
+      "expectation_evidence": "The preview asked whether the buyback was \u201cpaused to fund the deal \u2014 or leaned into.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

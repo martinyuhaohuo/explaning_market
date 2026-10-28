@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Millrose authorized a $250 million buyback and said it will direct 10% of earnings to repurchases when shares are below book value, while distributing 90% of earnings. The preview identified a buyback as a key test and included authorization in its bull case, but did not present it as the expected outcome.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Board authorized a new $250 million share repurchase program,\u201d with a policy to \u201cdistribute 90% of earnings and direct 10% toward buybacks while shares trade below book value of $35.24 per share.\u201d",
+      "expectation_evidence": "The preview called the buyback question \u201cthe cleanest test of whether management believes its own book value\u201d and listed \u201cbuyback authorized\u201d in its bull scenario.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The rental pilot is larger than the preview\u2019s cited estimate: Millrose reported 1,233 homes costing about $333 million, versus the preview\u2019s account of roughly 1,096 homes for about $290 million. At the same time, Millrose said the purchases represent just over 1% of its asset base, with about $50 million more in future build-to-rent commitments.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "The pilot involved \u201cpurchasing 1,233 completed homes across 18 states for ~$333 million,\u201d a \u201cnet ~$120 million investment,\u201d representing \u201cjust over 1%\u201d of the asset base, plus \u201c~$50 million of future build-to-rent commitments.\u201d",
+      "expectation_evidence": "The preview described allegations that Millrose bought \u201c~1,096 finished homes from Lennar (~$290M, 16 states)\u201d and flagged a bear case of a BTR book \u201clarger than $290M and still growing with no cap.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The disclosed rental economics were mixed against the preview\u2019s concern about returns below financing costs: the pilot was underwritten at a 5% going-in cap rate, but early rents are pacing about 10% above underwriting. Only roughly 10% of the homes had been leased so far, and the facts do not provide the net yield after operating costs that the preview requested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "The pilot was underwritten at a \u201c~5% going-in cap rate\u201d and \u201c~8% unlevered IRR (10\u201312% levered),\u201d with \u201cearly rents pacing ~10% above underwriting\u201d and \u201croughly 10% of homes leased so far.\u201d",
+      "expectation_evidence": "The preview highlighted a concern that rental returns could be below debt costs, citing estimated rent after taxes and insurance of \u201c~5.92%\u201d against note coupons of \u201c6.50%/6.75%,\u201d and called for disclosure of net yield after expenses.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Pro forma for Dream Finders, 42% of Millrose\u2019s asset base is outside Lennar, a larger non-Lennar share than the preview\u2019s cited 32% of invested capital in other agreements. This indicates more diversification than that prior portfolio mix suggested, although the measures are not identical.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPro forma for the Dream Finders transaction, approximately 42% of Millrose's asset base is now invested outside the Lennar Master Program Agreement.\u201d",
+      "expectation_evidence": "The preview said Lennar was \u201c68% of invested capital\u201d and the \u201cother agreements\u201d book was 32%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 AFFO guidance rose to $0.82\u2013$0.84 per share, and management expects the year-end run rate to exceed the prior $3.30 guidance. That is above the preview\u2019s roughly $0.80 Q2 exit run rate, but the quarterly range does not exceed the preview\u2019s stated buy-side hurdle of more than $0.84.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201craised Q4 AFFO guidance to approximately $0.82\u2013$0.84 per share\u201d and expects \u201ca year-end run rate above the prior $3.30 per share guidance.\u201d",
+      "expectation_evidence": "The preview said the Q2 exit run rate was \u201c~$0.80\u201d and that the buy-side needed \u201c>$0.84\u201d to believe the Dream Finders/Beazer commitment was accretive.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net takedown proceeds were $800 million, down from the preview\u2019s cited Q2 level of $1.0 billion, but not as low as the preview\u2019s warning threshold of around $700 million or below. The sequential decline is a negative, while the proceeds remained above the level identified as a sharper concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "During Q3 Millrose \u201creceived ~$800 million in net takedown proceeds.\u201d",
+      "expectation_evidence": "The preview cited Q2 net cash proceeds of \u201c$1.0B\u201d and said \u201ca drop toward $700M or below\u201d would reframe the company as balance-sheet-constrained.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Non-Lennar yields rose to 10.8%, modestly above the preview\u2019s cited 10.6% yield on the other-agreements book. Management also expects that yield to reach about 11% in Q4.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Millrose said non-Lennar yields were \u201crising to 10.8% and expected to reach ~11% in Q4.\u201d",
+      "expectation_evidence": "The preview cited \u201c10.6% on the 19-counterparty \u2018other agreements\u2019 book.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Millrose authorized a $250 million buyback and said it will direct 10% of earnings to repurchases when shares are below book value, while distributing 90% of earnings. The preview identified a buyback as a key test and included authorization in its bull case, but did not present it as the expected outcome.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Board authorized a new $250 million share repurchase program,\u201d with a policy to \u201cdistribute 90% of earnings and direct 10% toward buybacks while shares trade below book value of $35.24 per share.\u201d",
+      "expectation_evidence": "The preview called the buyback question \u201cthe cleanest test of whether management believes its own book value\u201d and listed \u201cbuyback authorized\u201d in its bull scenario.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 1,
+      "description": "The rental pilot is larger than the preview\u2019s cited estimate: Millrose reported 1,233 homes costing about $333 million, versus the preview\u2019s account of roughly 1,096 homes for about $290 million. At the same time, Millrose said the purchases represent just over 1% of its asset base, with about $50 million more in future build-to-rent commitments.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "The pilot involved \u201cpurchasing 1,233 completed homes across 18 states for ~$333 million,\u201d a \u201cnet ~$120 million investment,\u201d representing \u201cjust over 1%\u201d of the asset base, plus \u201c~$50 million of future build-to-rent commitments.\u201d",
+      "expectation_evidence": "The preview described allegations that Millrose bought \u201c~1,096 finished homes from Lennar (~$290M, 16 states)\u201d and flagged a bear case of a BTR book \u201clarger than $290M and still growing with no cap.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 2,
+      "description": "The disclosed rental economics were mixed against the preview\u2019s concern about returns below financing costs: the pilot was underwritten at a 5% going-in cap rate, but early rents are pacing about 10% above underwriting. Only roughly 10% of the homes had been leased so far, and the facts do not provide the net yield after operating costs that the preview requested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "The pilot was underwritten at a \u201c~5% going-in cap rate\u201d and \u201c~8% unlevered IRR (10\u201312% levered),\u201d with \u201cearly rents pacing ~10% above underwriting\u201d and \u201croughly 10% of homes leased so far.\u201d",
+      "expectation_evidence": "The preview highlighted a concern that rental returns could be below debt costs, citing estimated rent after taxes and insurance of \u201c~5.92%\u201d against note coupons of \u201c6.50%/6.75%,\u201d and called for disclosure of net yield after expenses.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 3,
+      "description": "Pro forma for Dream Finders, 42% of Millrose\u2019s asset base is outside Lennar, a larger non-Lennar share than the preview\u2019s cited 32% of invested capital in other agreements. This indicates more diversification than that prior portfolio mix suggested, although the measures are not identical.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPro forma for the Dream Finders transaction, approximately 42% of Millrose's asset base is now invested outside the Lennar Master Program Agreement.\u201d",
+      "expectation_evidence": "The preview said Lennar was \u201c68% of invested capital\u201d and the \u201cother agreements\u201d book was 32%.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 4,
+      "description": "Q4 AFFO guidance rose to $0.82\u2013$0.84 per share, and management expects the year-end run rate to exceed the prior $3.30 guidance. That is above the preview\u2019s roughly $0.80 Q2 exit run rate, but the quarterly range does not exceed the preview\u2019s stated buy-side hurdle of more than $0.84.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201craised Q4 AFFO guidance to approximately $0.82\u2013$0.84 per share\u201d and expects \u201ca year-end run rate above the prior $3.30 per share guidance.\u201d",
+      "expectation_evidence": "The preview said the Q2 exit run rate was \u201c~$0.80\u201d and that the buy-side needed \u201c>$0.84\u201d to believe the Dream Finders/Beazer commitment was accretive.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Net takedown proceeds were $800 million, down from the preview\u2019s cited Q2 level of $1.0 billion, but not as low as the preview\u2019s warning threshold of around $700 million or below. The sequential decline is a negative, while the proceeds remained above the level identified as a sharper concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "During Q3 Millrose \u201creceived ~$800 million in net takedown proceeds.\u201d",
+      "expectation_evidence": "The preview cited Q2 net cash proceeds of \u201c$1.0B\u201d and said \u201ca drop toward $700M or below\u201d would reframe the company as balance-sheet-constrained.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Non-Lennar yields rose to 10.8%, modestly above the preview\u2019s cited 10.6% yield on the other-agreements book. Management also expects that yield to reach about 11% in Q4.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Millrose said non-Lennar yields were \u201crising to 10.8% and expected to reach ~11% in Q4.\u201d",
+      "expectation_evidence": "The preview cited \u201c10.6% on the 19-counterparty \u2018other agreements\u2019 book.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

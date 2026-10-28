@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "The problem development loan grew beyond the preview\u2019s $32.8 million NPL reference: nonperforming loans reached $39.2 million, or 80 basis points of loans, with about $30 million tied to one waterfront condo project. The increase is concerning, though management said the roughly $21 million net exposure is fully reserved.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNonperforming loans rose to $39.2 million or 80 basis points of total loans (up from 74 bps),\u201d with \u201c$30 million\u201d being commercial and roughly two-thirds tied to a single problem waterfront condo development project; management said the \u201c~$21 million net exposure\u201d is \u201cfully reserved.\u201d",
+      "expectation_evidence": "The preview identified \u201cthe $32.8M NPL bucket\u201d and said resolution, partial charge-off, or further migration was \u201cthe biggest single-name risk in the print.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Provision was higher than the preview\u2019s expected range: it came in at about 0.4% of loans annualized, versus a forecast of 0.2%\u20130.25%, because of a specific reserve on one commercial relationship.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 provision for credit losses was $4.8 million (~0.4% of loans annualized), above the 0.2%-0.25% forecast, driven by a specific reserve on one commercial relationship.\u201d",
+      "expectation_evidence": "The preview\u2019s estimate build used \u201cProvision (organic) $3.0M\u201d and its base case expected \u201ccredit stable.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The anticipated acquired-loan day-2 CECL charge does not appear in the reported EPS bridge: GAAP EPS was $0.80 and adjusted EPS was $0.92 after excluding $2.7 million of after-tax merger costs. The preview had identified a possible $3.5\u2013$4.4 million CECL provision as a significant additional Q3 charge.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS excluding $2.7 million after-tax merger costs was $0.92,\u201d compared with \u201c$0.80 per diluted share\u201d GAAP EPS.",
+      "expectation_evidence": "The preview said it was uncertain \u201cwhether the day-2 CECL provision lands in Q3,\u201d and estimated a likely provision on acquired non-PCD loans of \u201c~$3.5\u20134.4M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Organic loan growth was much stronger than the preview\u2019s seasonally soft-quarter framing: growth excluding High Point was 10.5% annualized, with commercial loans growing nearly 21% annualized, and management said this exceeded its full-year forecast range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOrganic net loan growth was $116.6 million (10.5% annualized) excluding High Point, above the full-year forecast range of 4.5%-5.5%, with commercial loans growing nearly 21% annualized.\u201d",
+      "expectation_evidence": "The preview said management had \u201cflagged Q3 as seasonally soft\u201d and that the full-year outlook required \u201ca strong Q4.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Margin exceeded the preview\u2019s estimate, and the increase was not solely reflected in the reported margin including purchase accounting: NIM reached 3.82% versus the preview\u2019s 3.75% estimate, while NIM excluding accretion rose 5 basis points to 3.76%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin rose 11 basis points to 3.82% (3.76% excluding purchase accounting accretion, up 5 bps).\u201d",
+      "expectation_evidence": "The preview estimated \u201cNIM 3.75%\u201d and flagged that a 3.80%+ result \u201cmostly [from] accretion\u201d would be lower quality than core expansion.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The problem development loan grew beyond the preview\u2019s $32.8 million NPL reference: nonperforming loans reached $39.2 million, or 80 basis points of loans, with about $30 million tied to one waterfront condo project. The increase is concerning, though management said the roughly $21 million net exposure is fully reserved.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNonperforming loans rose to $39.2 million or 80 basis points of total loans (up from 74 bps),\u201d with \u201c$30 million\u201d being commercial and roughly two-thirds tied to a single problem waterfront condo development project; management said the \u201c~$21 million net exposure\u201d is \u201cfully reserved.\u201d",
+      "expectation_evidence": "The preview identified \u201cthe $32.8M NPL bucket\u201d and said resolution, partial charge-off, or further migration was \u201cthe biggest single-name risk in the print.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Provision was higher than the preview\u2019s expected range: it came in at about 0.4% of loans annualized, versus a forecast of 0.2%\u20130.25%, because of a specific reserve on one commercial relationship.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 provision for credit losses was $4.8 million (~0.4% of loans annualized), above the 0.2%-0.25% forecast, driven by a specific reserve on one commercial relationship.\u201d",
+      "expectation_evidence": "The preview\u2019s estimate build used \u201cProvision (organic) $3.0M\u201d and its base case expected \u201ccredit stable.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 2,
+      "description": "The anticipated acquired-loan day-2 CECL charge does not appear in the reported EPS bridge: GAAP EPS was $0.80 and adjusted EPS was $0.92 after excluding $2.7 million of after-tax merger costs. The preview had identified a possible $3.5\u2013$4.4 million CECL provision as a significant additional Q3 charge.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS excluding $2.7 million after-tax merger costs was $0.92,\u201d compared with \u201c$0.80 per diluted share\u201d GAAP EPS.",
+      "expectation_evidence": "The preview said it was uncertain \u201cwhether the day-2 CECL provision lands in Q3,\u201d and estimated a likely provision on acquired non-PCD loans of \u201c~$3.5\u20134.4M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 3,
+      "description": "Organic loan growth was much stronger than the preview\u2019s seasonally soft-quarter framing: growth excluding High Point was 10.5% annualized, with commercial loans growing nearly 21% annualized, and management said this exceeded its full-year forecast range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOrganic net loan growth was $116.6 million (10.5% annualized) excluding High Point, above the full-year forecast range of 4.5%-5.5%, with commercial loans growing nearly 21% annualized.\u201d",
+      "expectation_evidence": "The preview said management had \u201cflagged Q3 as seasonally soft\u201d and that the full-year outlook required \u201ca strong Q4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Margin exceeded the preview\u2019s estimate, and the increase was not solely reflected in the reported margin including purchase accounting: NIM reached 3.82% versus the preview\u2019s 3.75% estimate, while NIM excluding accretion rose 5 basis points to 3.76%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin rose 11 basis points to 3.82% (3.76% excluding purchase accounting accretion, up 5 bps).\u201d",
+      "expectation_evidence": "The preview estimated \u201cNIM 3.75%\u201d and flagged that a 3.80%+ result \u201cmostly [from] accretion\u201d would be lower quality than core expansion.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

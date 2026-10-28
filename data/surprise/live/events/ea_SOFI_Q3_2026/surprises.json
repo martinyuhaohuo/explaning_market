@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 adjusted net revenue was $1.4 billion, about 12% above the preview\u2019s $1.25 billion consensus estimate\u2014a substantial beat on the line the preview considered beatable but not decisive.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue reached $1.4 billion, up 44% year-over-year.\u201d",
+      "expectation_evidence": "\u201cAdjusted net revenue | Q3 FY26 Consensus | $1.25B\u201d; \u201cConsensus revenue of $1.25B looks beatable.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SoFi raised its FY26 adjusted net revenue outlook to $5.4 billion, far above the prior $4.75\u2013$4.85 billion range the preview used; this was a much larger upward reset than the preview\u2019s bull case of raising revenue above $4.90 billion.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance to $5.4 billion in adjusted net revenue (up 40%), well above the prior $4.75-$4.85 billion range.\u201d",
+      "expectation_evidence": "\u201cFY guide $4.75\u20134.85B\u201d; bull case: \u201cFY revenue raised above $4.90B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 adjusted EBITDA reached $470 million, above the preview\u2019s estimated $430\u2013$450 million range and its description of roughly $430 million as the whisper. This also cleared the preview\u2019s key concern that EBITDA might fall short of the ramp needed for the full-year target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord adjusted EBITDA of $470 million at a 34% margin.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA (est. to stay on FY track) | ~$430\u2013450M\u201d; \u201cAdj. EBITDA vs. ~$430M whisper \u2014 the real number that matters.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The FY26 EBITDA outlook rose to $1.66 billion rather than merely holding near the preview\u2019s roughly $1.6 billion expectation. The increase is more modest than the revenue-guide reset, but it answers the preview\u2019s main concern about whether the EBITDA ramp would be maintained.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA of $1.66 billion\u201d in the raised full-year guidance.",
+      "expectation_evidence": "\u201cFY26 EBITDA guidance language \u2014 reaffirmed at ~$1.6B, trimmed, or raised\u201d; the base case expected EBITDA \u201cheld at ~$1.6B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SoFi issued a strong preliminary 2027 outlook\u2014$6.4 billion revenue, $2.24 billion adjusted EBITDA and $0.90 EPS\u2014where the preview discussed a 2027 bridge but gave no such company outlook. Management also said this growth can be funded organically, without raising additional capital.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSoFi issued preliminary 2027 guidance of $6.4 billion in revenue (27% growth), $2.24 billion adjusted EBITDA (~35% margin), $1.28 billion net income, and $0.90 EPS, stating it can be funded organically without raising additional capital.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Member growth outpaced the preview\u2019s expected Q3 level: 17.1 million compares with its estimate of about 16.7\u201316.9 million, implying roughly 1.3 million net adds from Q2\u2019s 15.8 million rather than the expected 0.9\u20131.1 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMembers grew 35% YoY to 17.1 million.\u201d",
+      "expectation_evidence": "\u201cTotal members | ~16.7\u201316.9M\u201d; \u201cmembers +0.95\u20131.05M\u201d in the base case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The personal-loan all-in net charge-off rate was 3.4%, above the preview\u2019s roughly 3.0% threshold for a credit deterioration concern, even though the reported rate improved year over year. This is a negative versus the preview\u2019s focus on credit remaining below that level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe all-in personal loan net charge-off rate improved to 3.4%, down roughly 80 basis points year-over-year.\u201d",
+      "expectation_evidence": "\u201cA reversal above ~3.0% \u2026 would validate the \u2018multiple compresses to 8\u201310x like a traditional lender\u2019 bear thesis\u201d; the catalyst checklist says breaking back above 3% would re-rate the stock as a subprime lender.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Technology Platform\u2019s reported revenue decline was broadly in line with the preview\u2019s expectation of a third consecutive decline, but the explanation and underlying trend were less damaging than that warning implied: revenue grew 18% excluding the lost large client, and management expects a return to 25% growth.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTechnology Platform revenue fell 24% YoY to $87 million due to the loss of a large client, though it grew 18% excluding that client, and management expects a return to 25% growth.\u201d",
+      "expectation_evidence": "\u201cTechnology Platform, which has declined two straight quarters (\u221223% YoY in Q2, \u221227% in Q1) \u2014 a third decline undercuts the platform narrative.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SoFi Plus had only about 275,000 subscribers in Q3, and management said subscriber growth was below expectations because of execution issues. The preview highlighted the ambition to reach 1 million subscribers but did not anticipate a current-quarter shortfall or execution problems; management said the issues are fixed and reaffirmed the 1 million target for end-2027.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSoFi Plus subscriber growth came in below expectations at ~275,000 in Q3 due to execution issues now said to be fixed, with management reaffirming a target of 1 million subscribers by the end of 2027.\u201d",
+      "expectation_evidence": "\u201cPlus hit 200k paid members in its first quarter\u201d; Noto: \u201cI'd be disappointed if we are not at 1 million SoFi Plus members \u2026 a year from now.\u201d",
+      "expectation_source": "call"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 adjusted net revenue was $1.4 billion, about 12% above the preview\u2019s $1.25 billion consensus estimate\u2014a substantial beat on the line the preview considered beatable but not decisive.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue reached $1.4 billion, up 44% year-over-year.\u201d",
+      "expectation_evidence": "\u201cAdjusted net revenue | Q3 FY26 Consensus | $1.25B\u201d; \u201cConsensus revenue of $1.25B looks beatable.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "SoFi raised its FY26 adjusted net revenue outlook to $5.4 billion, far above the prior $4.75\u2013$4.85 billion range the preview used; this was a much larger upward reset than the preview\u2019s bull case of raising revenue above $4.90 billion.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance to $5.4 billion in adjusted net revenue (up 40%), well above the prior $4.75-$4.85 billion range.\u201d",
+      "expectation_evidence": "\u201cFY guide $4.75\u20134.85B\u201d; bull case: \u201cFY revenue raised above $4.90B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Q3 adjusted EBITDA reached $470 million, above the preview\u2019s estimated $430\u2013$450 million range and its description of roughly $430 million as the whisper. This also cleared the preview\u2019s key concern that EBITDA might fall short of the ramp needed for the full-year target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord adjusted EBITDA of $470 million at a 34% margin.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA (est. to stay on FY track) | ~$430\u2013450M\u201d; \u201cAdj. EBITDA vs. ~$430M whisper \u2014 the real number that matters.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The FY26 EBITDA outlook rose to $1.66 billion rather than merely holding near the preview\u2019s roughly $1.6 billion expectation. The increase is more modest than the revenue-guide reset, but it answers the preview\u2019s main concern about whether the EBITDA ramp would be maintained.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA of $1.66 billion\u201d in the raised full-year guidance.",
+      "expectation_evidence": "\u201cFY26 EBITDA guidance language \u2014 reaffirmed at ~$1.6B, trimmed, or raised\u201d; the base case expected EBITDA \u201cheld at ~$1.6B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "SoFi issued a strong preliminary 2027 outlook\u2014$6.4 billion revenue, $2.24 billion adjusted EBITDA and $0.90 EPS\u2014where the preview discussed a 2027 bridge but gave no such company outlook. Management also said this growth can be funded organically, without raising additional capital.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSoFi issued preliminary 2027 guidance of $6.4 billion in revenue (27% growth), $2.24 billion adjusted EBITDA (~35% margin), $1.28 billion net income, and $0.90 EPS, stating it can be funded organically without raising additional capital.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Member growth outpaced the preview\u2019s expected Q3 level: 17.1 million compares with its estimate of about 16.7\u201316.9 million, implying roughly 1.3 million net adds from Q2\u2019s 15.8 million rather than the expected 0.9\u20131.1 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMembers grew 35% YoY to 17.1 million.\u201d",
+      "expectation_evidence": "\u201cTotal members | ~16.7\u201316.9M\u201d; \u201cmembers +0.95\u20131.05M\u201d in the base case.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "The personal-loan all-in net charge-off rate was 3.4%, above the preview\u2019s roughly 3.0% threshold for a credit deterioration concern, even though the reported rate improved year over year. This is a negative versus the preview\u2019s focus on credit remaining below that level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe all-in personal loan net charge-off rate improved to 3.4%, down roughly 80 basis points year-over-year.\u201d",
+      "expectation_evidence": "\u201cA reversal above ~3.0% \u2026 would validate the \u2018multiple compresses to 8\u201310x like a traditional lender\u2019 bear thesis\u201d; the catalyst checklist says breaking back above 3% would re-rate the stock as a subprime lender.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Technology Platform\u2019s reported revenue decline was broadly in line with the preview\u2019s expectation of a third consecutive decline, but the explanation and underlying trend were less damaging than that warning implied: revenue grew 18% excluding the lost large client, and management expects a return to 25% growth.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTechnology Platform revenue fell 24% YoY to $87 million due to the loss of a large client, though it grew 18% excluding that client, and management expects a return to 25% growth.\u201d",
+      "expectation_evidence": "\u201cTechnology Platform, which has declined two straight quarters (\u221223% YoY in Q2, \u221227% in Q1) \u2014 a third decline undercuts the platform narrative.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "SoFi Plus had only about 275,000 subscribers in Q3, and management said subscriber growth was below expectations because of execution issues. The preview highlighted the ambition to reach 1 million subscribers but did not anticipate a current-quarter shortfall or execution problems; management said the issues are fixed and reaffirmed the 1 million target for end-2027.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSoFi Plus subscriber growth came in below expectations at ~275,000 in Q3 due to execution issues now said to be fixed, with management reaffirming a target of 1 million subscribers by the end of 2027.\u201d",
+      "expectation_evidence": "\u201cPlus hit 200k paid members in its first quarter\u201d; Noto: \u201cI'd be disappointed if we are not at 1 million SoFi Plus members \u2026 a year from now.\u201d",
+      "expectation_source": "call",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

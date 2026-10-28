@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Werner guided only to modest sequential EPS improvement from $0.16 in Q4, well below the preview\u2019s $0.47 consensus and also below its own $0.25\u2013$0.35 guide estimate. The company said fuel and reserve headwinds should largely abate, but lower equipment gains, higher interest expense, and tax normalization would offset that relief.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement guided to modest sequential EPS improvement in Q4 over the $0.16 base,\u201d with fuel and reserve headwinds largely abating but offset by \u201csequentially lower equipment gains, higher interest expense, and tax normalization.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus\u201d adj. EPS was \u201c$0.47\u201d; the preview said, \u201cI'd underwrite a Q4 guide of $0.25\u2013$0.35.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "One-Way produced a much stronger improvement in revenue per truck and profitability than the preview\u2019s rate-focused outlook suggested: revenue per truck per week rose 34% and the segment turned profitable as its margin expanded by more than 800 basis points. The preview expected revenue per mile growth of 10\u201313%, but did not anticipate the much larger per-truck gain driven by both mileage and rates.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOne-Way revenue per truck per week surged 34% year-over-year,\u201d driven by \u201ca 22% rise in miles per truck and 10% higher revenue per total mile,\u201d while adjusted operating margin expanded \u201cover 800 basis points, turning the segment from a loss to a profit.\u201d",
+      "expectation_evidence": "The preview listed \u201cOne-Way revenue per mile +10\u201313% YoY\u201d as a Q3 segment checkable.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Dedicated revenue excluding fuel surcharges grew 52% year over year, alongside a 46% increase in trucks since year-end. That was much stronger reported growth than the preview\u2019s cited Dedicated expectation of 3\u20135% RPTPW growth, although the measures are not directly comparable and the fleet expansion contributed to revenue.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDedicated revenue excluding fuel surcharges rose 52% year-over-year\u201d; the fleet was up \u201c2,240 trucks (46%) since year-end.\u201d",
+      "expectation_evidence": "The preview cited \u201cDedicated RPTPW +3\u20135%\u201d among the segment checkables.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Werner lowered its full-year net CapEx outlook, which should mean less cash committed to equipment purchases than the preview expected. The reduction was attributed to OEM delivery timing rather than a change in demand or investment plans.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year net CapEx guidance was lowered to $190-$205 million (from $215-$250 million) due to OEM delivery timing.\u201d",
+      "expectation_evidence": "The preview listed \u201cnet capex $215\u2013250M\u201d as the Q3 segment checkable.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised its full-year equipment-sale gains outlook above the preview\u2019s expected range. This provides more support to earnings from equipment gains, even as management said sequential gains would be lower in Q4.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGains on equipment sales guidance was raised to $14-$16 million.\u201d",
+      "expectation_evidence": "The preview expected equipment gains to be \u201ctracking $10\u201314M FY.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed that nearly $6 million of FirstFleet savings had been delivered over eight months, below the preview\u2019s estimate that roughly $9 million had already been actioned. The $18 million total synergy target was unchanged, but the reported savings-to-date figure was behind that preview assumption.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FirstFleet acquisition has delivered nearly $6 million in savings over eight months (160+ basis points of margin improvement) with $18 million in total synergies targeted.\u201d",
+      "expectation_evidence": "The preview\u2019s Q4 bridge cited \u201cFirstFleet synergies ($18M target; ~$9M actioned).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management gave a concrete, favorable outlook for One-Way contract repricing in early 2027: double-digit average increases, with about 60% of business repriced in the first half. The preview anticipated a stronger freight market and near-term One-Way spot opportunity, but did not flag these specific repricing increases or timing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects early 2027 One-Way bid repricing to average double-digit increases, with roughly 60% of One-Way business repriced in the first half of the year.\u201d",
+      "expectation_evidence": "The preview described improving freight conditions and expected One-Way peak-season spot exposure, but gave no early-2027 bid-repricing expectation.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Renewed FirstFleet customers retained at a very high rate, providing a favorable portfolio-retention datapoint not specified in the preview. This supports the durability of the acquired business beyond the preview\u2019s general expectation of FirstFleet density and synergy contributions.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The FirstFleet portfolio had \u201ca 98% renewal rate on renewed portfolio.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Werner guided only to modest sequential EPS improvement from $0.16 in Q4, well below the preview\u2019s $0.47 consensus and also below its own $0.25\u2013$0.35 guide estimate. The company said fuel and reserve headwinds should largely abate, but lower equipment gains, higher interest expense, and tax normalization would offset that relief.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement guided to modest sequential EPS improvement in Q4 over the $0.16 base,\u201d with fuel and reserve headwinds largely abating but offset by \u201csequentially lower equipment gains, higher interest expense, and tax normalization.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus\u201d adj. EPS was \u201c$0.47\u201d; the preview said, \u201cI'd underwrite a Q4 guide of $0.25\u2013$0.35.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "One-Way produced a much stronger improvement in revenue per truck and profitability than the preview\u2019s rate-focused outlook suggested: revenue per truck per week rose 34% and the segment turned profitable as its margin expanded by more than 800 basis points. The preview expected revenue per mile growth of 10\u201313%, but did not anticipate the much larger per-truck gain driven by both mileage and rates.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOne-Way revenue per truck per week surged 34% year-over-year,\u201d driven by \u201ca 22% rise in miles per truck and 10% higher revenue per total mile,\u201d while adjusted operating margin expanded \u201cover 800 basis points, turning the segment from a loss to a profit.\u201d",
+      "expectation_evidence": "The preview listed \u201cOne-Way revenue per mile +10\u201313% YoY\u201d as a Q3 segment checkable.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Dedicated revenue excluding fuel surcharges grew 52% year over year, alongside a 46% increase in trucks since year-end. That was much stronger reported growth than the preview\u2019s cited Dedicated expectation of 3\u20135% RPTPW growth, although the measures are not directly comparable and the fleet expansion contributed to revenue.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDedicated revenue excluding fuel surcharges rose 52% year-over-year\u201d; the fleet was up \u201c2,240 trucks (46%) since year-end.\u201d",
+      "expectation_evidence": "The preview cited \u201cDedicated RPTPW +3\u20135%\u201d among the segment checkables.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Werner lowered its full-year net CapEx outlook, which should mean less cash committed to equipment purchases than the preview expected. The reduction was attributed to OEM delivery timing rather than a change in demand or investment plans.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year net CapEx guidance was lowered to $190-$205 million (from $215-$250 million) due to OEM delivery timing.\u201d",
+      "expectation_evidence": "The preview listed \u201cnet capex $215\u2013250M\u201d as the Q3 segment checkable.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 4,
+      "description": "The company raised its full-year equipment-sale gains outlook above the preview\u2019s expected range. This provides more support to earnings from equipment gains, even as management said sequential gains would be lower in Q4.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGains on equipment sales guidance was raised to $14-$16 million.\u201d",
+      "expectation_evidence": "The preview expected equipment gains to be \u201ctracking $10\u201314M FY.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Management disclosed that nearly $6 million of FirstFleet savings had been delivered over eight months, below the preview\u2019s estimate that roughly $9 million had already been actioned. The $18 million total synergy target was unchanged, but the reported savings-to-date figure was behind that preview assumption.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FirstFleet acquisition has delivered nearly $6 million in savings over eight months (160+ basis points of margin improvement) with $18 million in total synergies targeted.\u201d",
+      "expectation_evidence": "The preview\u2019s Q4 bridge cited \u201cFirstFleet synergies ($18M target; ~$9M actioned).\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 6,
+      "description": "Management gave a concrete, favorable outlook for One-Way contract repricing in early 2027: double-digit average increases, with about 60% of business repriced in the first half. The preview anticipated a stronger freight market and near-term One-Way spot opportunity, but did not flag these specific repricing increases or timing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects early 2027 One-Way bid repricing to average double-digit increases, with roughly 60% of One-Way business repriced in the first half of the year.\u201d",
+      "expectation_evidence": "The preview described improving freight conditions and expected One-Way peak-season spot exposure, but gave no early-2027 bid-repricing expectation.",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 7,
+      "description": "Renewed FirstFleet customers retained at a very high rate, providing a favorable portfolio-retention datapoint not specified in the preview. This supports the durability of the acquired business beyond the preview\u2019s general expectation of FirstFleet density and synergy contributions.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The FirstFleet portfolio had \u201ca 98% renewal rate on renewed portfolio.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

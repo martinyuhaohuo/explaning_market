@@ -1,0 +1,78 @@
+{
+  "surprises": [
+    {
+      "description": "Nucor reported $5.80 per share, slightly below the preview\u2019s $5.85 key bar and the $5.85\u2013$5.95 base case, although it beat the midpoint of its own guidance by about 3.5%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cEarnings of $5.80 per share, beating the guidance midpoint by roughly 3.5%.\u201d",
+      "expectation_evidence": "\u201cQ3 EPS vs. ~$5.85 (not $5.71)\u201d and the base scenario\u2019s \u201c$5.85\u20135.95.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Capital spending is expected to come in at or below the original $2.5 billion plan and decline further in 2027, rather than stepping up and pressuring the free-cash-flow outlook. Nucor also reported $1.6 billion of Q3 free cash flow, though the preview gave no specific FCF estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year CapEx expected at or slightly below the original $2.5 billion estimate and set to decline further in 2027, boosting free cash flow\u201d; \u201c$1.6 billion of free cash flow in Q3.\u201d",
+      "expectation_evidence": "\u201cA 2027 capex preview is a plausible surprise item in either direction\u201d and \u201ca 2027 capex step-up above $2.5B pressures the FCF story.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Nucor raised its long-term annual EBITDA contribution forecast for Towers and Structures by one-third, from $150 million to about $200 million, citing a backlog that more than doubled year-to-date.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its long-term annual EBITDA contribution forecast for its Towers and Structures business to ~$200 million (up from $150 million)\u201d; backlog \u201chas more than doubled year-to-date.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The West Virginia sheet mill remains on its expected ramp schedule, but management said start-up costs will be similar to or higher than in 2026, adding a cost headwind the preview did not flag.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cElevated start-up costs expected at levels similar to or higher than 2026.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Nucor reported $5.80 per share, slightly below the preview\u2019s $5.85 key bar and the $5.85\u2013$5.95 base case, although it beat the midpoint of its own guidance by about 3.5%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cEarnings of $5.80 per share, beating the guidance midpoint by roughly 3.5%.\u201d",
+      "expectation_evidence": "\u201cQ3 EPS vs. ~$5.85 (not $5.71)\u201d and the base scenario\u2019s \u201c$5.85\u20135.95.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Capital spending is expected to come in at or below the original $2.5 billion plan and decline further in 2027, rather than stepping up and pressuring the free-cash-flow outlook. Nucor also reported $1.6 billion of Q3 free cash flow, though the preview gave no specific FCF estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year CapEx expected at or slightly below the original $2.5 billion estimate and set to decline further in 2027, boosting free cash flow\u201d; \u201c$1.6 billion of free cash flow in Q3.\u201d",
+      "expectation_evidence": "\u201cA 2027 capex preview is a plausible surprise item in either direction\u201d and \u201ca 2027 capex step-up above $2.5B pressures the FCF story.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 2,
+      "description": "Nucor raised its long-term annual EBITDA contribution forecast for Towers and Structures by one-third, from $150 million to about $200 million, citing a backlog that more than doubled year-to-date.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its long-term annual EBITDA contribution forecast for its Towers and Structures business to ~$200 million (up from $150 million)\u201d; backlog \u201chas more than doubled year-to-date.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The West Virginia sheet mill remains on its expected ramp schedule, but management said start-up costs will be similar to or higher than in 2026, adding a cost headwind the preview did not flag.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cElevated start-up costs expected at levels similar to or higher than 2026.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "costs_expenses"
+    }
+  ]
+}

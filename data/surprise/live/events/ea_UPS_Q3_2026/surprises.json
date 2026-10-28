@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "UPS reported Q3 revenue of $22.9 billion versus the preview\u2019s practical consensus bar of about $22.2 billion, and diluted EPS of $1.69 versus $1.62 consensus. Operating profit of $2.1 billion also exceeded the preview\u2019s roughly $1.965 billion segment-based estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 consolidated revenue grew 6.7% year-over-year to $22.9 billion with operating profit of $2.1 billion and diluted EPS of $1.69, exceeding expectations.\u201d",
+      "expectation_evidence": "\u201cRevenue consensus varies by vendor ... use $22.2B as the practical bar\u201d; \u201cConsensus Q3 EPS of $1.62\u201d; the segment bridge estimated consolidated operating profit at \u201c~$1,965M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "International operating profit was expected to decline by about $23 million, but instead increased $55 million year over year; its 14.9% margin also topped the preview\u2019s 13\u201314% guidance range. This happened despite an 8.7% decline in total volume.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInternational returned to year-over-year operating profit growth for the first time in 6 quarters, with profit up $55 million to $746 million and a 14.9% margin, even as total volume fell 8.7%.\u201d",
+      "expectation_evidence": "The preview\u2019s segment bridge forecast International operating profit down \u201c\u2212$23M\u201d; its Q3 framework listed an \u201cInternational adj. op margin\u201d of \u201c13\u201314%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "UPS raised its full-year 2026 outlook above the preview\u2019s cited guide: revenue to about $92.6 billion from $91.2 billion, operating profit to $8.75 billion from $8.65 billion, and diluted EPS to about $7.28 from $7.22.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to approximately $92.6 billion in revenue, $8.75 billion in operating profit, and about $7.28 in diluted EPS.\u201d",
+      "expectation_evidence": "\u201cFY26 guidance treatment ($91.2B revenue / $8.65B adj. op profit / $7.22 adj. EPS).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q4 revenue outlook of about $25.7 billion is above the roughly $24.9 billion the preview said was needed to meet the prior full-year revenue guide. The preview identified Q4 as heavily loaded, so this is a stronger revenue bridge than it had implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance calls for revenue of ~$25.7 billion (up ~5%) and operating profit of ~$3.3 billion.\u201d",
+      "expectation_evidence": "\u201cWith Q3 at consensus, Q4 must deliver ~$24.9B revenue and ~$2.77 EPS.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "UPS raised its full-year free-cash-flow forecast from $5.5 billion to about $6.1 billion and explicitly reaffirmed that the dividend is safe, improving the coverage picture the preview highlighted as a key risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year free cash flow was raised to approximately $6.1 billion (including the $4 billion Driver Choice program payments) ... and management reaffirmed the dividend is safe.\u201d",
+      "expectation_evidence": "The preview cited \u201cFY FCF guide $5.5B vs. $5.4B of dividends (1.02x)\u201d and said \u201cExplicit dividend reaffirmation language matters as much as the EPS line.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Supply Chain Solutions revenue reached $3 billion, above the preview\u2019s roughly $2.75 billion estimate, with forwarding and logistics both growing strongly. The revenue strength contrasts with the segment\u2019s weaker-than-expected operating result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSupply Chain Solutions revenue grew $459 million to $3 billion (forwarding up 17.5%, logistics up 17.2%).\u201d",
+      "expectation_evidence": "The preview\u2019s segment bridge estimated Q3 Supply Chain Solutions revenue at \u201c~$2,750M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Supply Chain Solutions operating profit was $274 million, below the preview\u2019s roughly $289 million estimate, and its implied margin was about 9.1%, below the preview\u2019s 10\u201311% guide range. The prior-year comparison also included a $330 million sale-leaseback gain.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSupply Chain Solutions ... operating profit of $274 million faces a tough comparison against a $330 million sale-leaseback gain in Q3 2025.\u201d",
+      "expectation_evidence": "The preview estimated SCS operating profit at \u201c~$289M\u201d and listed its Q3 margin guidance as \u201c10\u201311%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GAAP results included a $279 million net charge, including a $182 million Supply Chain Solutions goodwill impairment and $130 million of transformation costs. The preview centered its earnings expectations on adjusted EPS and did not flag these charges.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP results included a net charge of $279 million ($0.32 per share), comprising $130 million in transformation costs and a $182 million goodwill impairment in Supply Chain Solutions, partly offset by a $33 million MD-11 asset sale gain.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "UPS reported Q3 revenue of $22.9 billion versus the preview\u2019s practical consensus bar of about $22.2 billion, and diluted EPS of $1.69 versus $1.62 consensus. Operating profit of $2.1 billion also exceeded the preview\u2019s roughly $1.965 billion segment-based estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 consolidated revenue grew 6.7% year-over-year to $22.9 billion with operating profit of $2.1 billion and diluted EPS of $1.69, exceeding expectations.\u201d",
+      "expectation_evidence": "\u201cRevenue consensus varies by vendor ... use $22.2B as the practical bar\u201d; \u201cConsensus Q3 EPS of $1.62\u201d; the segment bridge estimated consolidated operating profit at \u201c~$1,965M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "International operating profit was expected to decline by about $23 million, but instead increased $55 million year over year; its 14.9% margin also topped the preview\u2019s 13\u201314% guidance range. This happened despite an 8.7% decline in total volume.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInternational returned to year-over-year operating profit growth for the first time in 6 quarters, with profit up $55 million to $746 million and a 14.9% margin, even as total volume fell 8.7%.\u201d",
+      "expectation_evidence": "The preview\u2019s segment bridge forecast International operating profit down \u201c\u2212$23M\u201d; its Q3 framework listed an \u201cInternational adj. op margin\u201d of \u201c13\u201314%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "UPS raised its full-year 2026 outlook above the preview\u2019s cited guide: revenue to about $92.6 billion from $91.2 billion, operating profit to $8.75 billion from $8.65 billion, and diluted EPS to about $7.28 from $7.22.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to approximately $92.6 billion in revenue, $8.75 billion in operating profit, and about $7.28 in diluted EPS.\u201d",
+      "expectation_evidence": "\u201cFY26 guidance treatment ($91.2B revenue / $8.65B adj. op profit / $7.22 adj. EPS).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The Q4 revenue outlook of about $25.7 billion is above the roughly $24.9 billion the preview said was needed to meet the prior full-year revenue guide. The preview identified Q4 as heavily loaded, so this is a stronger revenue bridge than it had implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance calls for revenue of ~$25.7 billion (up ~5%) and operating profit of ~$3.3 billion.\u201d",
+      "expectation_evidence": "\u201cWith Q3 at consensus, Q4 must deliver ~$24.9B revenue and ~$2.77 EPS.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "UPS raised its full-year free-cash-flow forecast from $5.5 billion to about $6.1 billion and explicitly reaffirmed that the dividend is safe, improving the coverage picture the preview highlighted as a key risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year free cash flow was raised to approximately $6.1 billion (including the $4 billion Driver Choice program payments) ... and management reaffirmed the dividend is safe.\u201d",
+      "expectation_evidence": "The preview cited \u201cFY FCF guide $5.5B vs. $5.4B of dividends (1.02x)\u201d and said \u201cExplicit dividend reaffirmation language matters as much as the EPS line.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Supply Chain Solutions revenue reached $3 billion, above the preview\u2019s roughly $2.75 billion estimate, with forwarding and logistics both growing strongly. The revenue strength contrasts with the segment\u2019s weaker-than-expected operating result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSupply Chain Solutions revenue grew $459 million to $3 billion (forwarding up 17.5%, logistics up 17.2%).\u201d",
+      "expectation_evidence": "The preview\u2019s segment bridge estimated Q3 Supply Chain Solutions revenue at \u201c~$2,750M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Supply Chain Solutions operating profit was $274 million, below the preview\u2019s roughly $289 million estimate, and its implied margin was about 9.1%, below the preview\u2019s 10\u201311% guide range. The prior-year comparison also included a $330 million sale-leaseback gain.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSupply Chain Solutions ... operating profit of $274 million faces a tough comparison against a $330 million sale-leaseback gain in Q3 2025.\u201d",
+      "expectation_evidence": "The preview estimated SCS operating profit at \u201c~$289M\u201d and listed its Q3 margin guidance as \u201c10\u201311%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "GAAP results included a $279 million net charge, including a $182 million Supply Chain Solutions goodwill impairment and $130 million of transformation costs. The preview centered its earnings expectations on adjusted EPS and did not flag these charges.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP results included a net charge of $279 million ($0.32 per share), comprising $130 million in transformation costs and a $182 million goodwill impairment in Supply Chain Solutions, partly offset by a $33 million MD-11 asset sale gain.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

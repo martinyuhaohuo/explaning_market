@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "CMS\u2019s reported year-to-date adjusted EPS of $2.95, against the preview\u2019s already-reported H1 EPS of $1.50, implies Q3 EPS of about $1.45\u2014far above the $1.16 consensus estimate. That is roughly a 25% beat, well above even the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "The call reported \u201cyear-to-date adjusted EPS reached $2.95.\u201d The preview reported H1 adjusted EPS of $1.50, implying Q3 adjusted EPS of approximately $1.45.",
+      "expectation_evidence": "\u201cAdjusted EPS (operative) $1.16\u201d; the bull scenario projected \u201c$1.25\u2013$1.32.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CMS reported about 745 MW of new load contracts, with roughly 450 MW already energized, excluding a separately signed large data center. That is substantially more than the approximately 110 MW signed YTD as of Q2 that the preview cited, and exceeds the preview\u2019s bull-case trigger of converting 1\u20132 GW in final-stage negotiations into a signed contract only if a new data-center deal closed.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "CMS had \u201csigned approximately 745 MW of new load contracts (about 450 MW already energized),\u201d excluding \u201ca separately signed large data center.\u201d",
+      "expectation_evidence": "\u201cOnly ~110 MW was signed YTD as of Q2\u201d; the bull case looked for \u201c1\u20132 GW \u2018final stage\u2019 load\u201d to convert to signed.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call disclosed projected financial compensation from the PPA mechanism of about $125 million in 2031, rising to roughly $195 million by 2040, with more than 70% of 2031 contracts already signed or online. The preview did not identify this earnings-related mechanism or its projected contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The PPA financial compensation mechanism is projected at \u201capproximately $125 million in 2031, growing to about $195 million by 2040,\u201d with \u201cover 70% of 2031 contracts already signed or online.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "CMS reported commission approval of a $139 million gas rate increase, about 60% of its request, at a 9.8% ROE. The preview focused on the electric rate case and did not flag this gas-rate decision, so there was no stated expectation for the outcome.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The Michigan commission \u201capproved a $139 million gas rate increase (about 60% of the ask) with a 9.8% ROE and 50% equity ratio.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "CMS disclosed that it may pull forward refinancing of approximately $625 million of parent debt due next year. The preview discussed 2026 equity funding and the capital plan but did not anticipate this possible timing change; the call did not indicate whether it would change financing costs or the amount of funding required.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "CMS \u201cmay pull forward refinancing of the approximately $625 million of parent debt maturing next year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The call put the IRP\u2019s long-term capital opportunities at roughly $27 billion, a concrete opportunity figure beyond the preview\u2019s discussion of a $24 billion-plus five-year plan. The preview said an early preview of an IRP-driven plan upsize could be positive, but the call described opportunities rather than confirming a larger committed capital plan.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The IRP \u201coutlines roughly $27 billion in long-term capital opportunities,\u201d including clean energy, battery storage, and new gas generation.",
+      "expectation_evidence": "\u201c$24bn+ five-year plan\u201d; the IRP \u201csets up a plan upsize\u2014most likely at the Q4/February update, but a preview here would be a positive surprise.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "CMS\u2019s reported year-to-date adjusted EPS of $2.95, against the preview\u2019s already-reported H1 EPS of $1.50, implies Q3 EPS of about $1.45\u2014far above the $1.16 consensus estimate. That is roughly a 25% beat, well above even the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "The call reported \u201cyear-to-date adjusted EPS reached $2.95.\u201d The preview reported H1 adjusted EPS of $1.50, implying Q3 adjusted EPS of approximately $1.45.",
+      "expectation_evidence": "\u201cAdjusted EPS (operative) $1.16\u201d; the bull scenario projected \u201c$1.25\u2013$1.32.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "CMS reported about 745 MW of new load contracts, with roughly 450 MW already energized, excluding a separately signed large data center. That is substantially more than the approximately 110 MW signed YTD as of Q2 that the preview cited, and exceeds the preview\u2019s bull-case trigger of converting 1\u20132 GW in final-stage negotiations into a signed contract only if a new data-center deal closed.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "CMS had \u201csigned approximately 745 MW of new load contracts (about 450 MW already energized),\u201d excluding \u201ca separately signed large data center.\u201d",
+      "expectation_evidence": "\u201cOnly ~110 MW was signed YTD as of Q2\u201d; the bull case looked for \u201c1\u20132 GW \u2018final stage\u2019 load\u201d to convert to signed.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "The call disclosed projected financial compensation from the PPA mechanism of about $125 million in 2031, rising to roughly $195 million by 2040, with more than 70% of 2031 contracts already signed or online. The preview did not identify this earnings-related mechanism or its projected contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The PPA financial compensation mechanism is projected at \u201capproximately $125 million in 2031, growing to about $195 million by 2040,\u201d with \u201cover 70% of 2031 contracts already signed or online.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "CMS reported commission approval of a $139 million gas rate increase, about 60% of its request, at a 9.8% ROE. The preview focused on the electric rate case and did not flag this gas-rate decision, so there was no stated expectation for the outcome.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The Michigan commission \u201capproved a $139 million gas rate increase (about 60% of the ask) with a 9.8% ROE and 50% equity ratio.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "CMS disclosed that it may pull forward refinancing of approximately $625 million of parent debt due next year. The preview discussed 2026 equity funding and the capital plan but did not anticipate this possible timing change; the call did not indicate whether it would change financing costs or the amount of funding required.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "CMS \u201cmay pull forward refinancing of the approximately $625 million of parent debt maturing next year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "financing_capital_structure"
+    },
+    {
+      "position": 5,
+      "description": "The call put the IRP\u2019s long-term capital opportunities at roughly $27 billion, a concrete opportunity figure beyond the preview\u2019s discussion of a $24 billion-plus five-year plan. The preview said an early preview of an IRP-driven plan upsize could be positive, but the call described opportunities rather than confirming a larger committed capital plan.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The IRP \u201coutlines roughly $27 billion in long-term capital opportunities,\u201d including clean energy, battery storage, and new gas generation.",
+      "expectation_evidence": "\u201c$24bn+ five-year plan\u201d; the IRP \u201csets up a plan upsize\u2014most likely at the Q4/February update, but a preview here would be a positive surprise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    }
+  ]
+}

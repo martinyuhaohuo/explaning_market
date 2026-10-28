@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "LPL reported adjusted EPS of $5.97, above the preview\u2019s $5.66\u2013$5.69 consensus range by about 5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord adjusted EPS of $5.97 in Q3 2026.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS: $5.66\u2013$5.69.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The ICA yield rose 16 bps in Q3, ahead of the preview\u2019s phased 10-bp expectation, and management expects a further increase of about 20 bps in Q4. That points to faster or larger yield improvement than the preview\u2019s base expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe ICA yield rose 16 bps to 352 bps, with Q4 yield expected to increase another ~20 bps from methodology changes and the September Fed move.\u201d",
+      "expectation_evidence": "The preview listed \u201cICA yield +10bp (phased \u2014 half in Q3, half in Q4)\u201d and said the market would watch whether the guide was raised.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Commonwealth final asset retention was reduced to about 83%, below the preview\u2019s high-80s base expectation and further from the 90% underwriting target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommonwealth Financial Network final asset retention was lowered to approximately 83%, down from the ~85% signed last quarter and the original 90% underwriting assumption, as some signed advisers decided not to stay.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected retention \u201chigh-80s\u201d; it identified the 90% target and said retention at or near that target would de-risk the EBITDA bridge.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "LPL lowered its expected fully integrated Commonwealth run-rate EBITDA to about $415 million, versus the preview\u2019s cited $435 million estimate, a roughly $20 million reduction.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement now estimates Commonwealth run-rate EBITDA of approximately $415 million once fully integrated by Q4 2027.\u201d",
+      "expectation_evidence": "The preview said \u201crun-rate EBITDA was raised to ~$435M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarter-end client cash was $56.6 billion, above the preview\u2019s roughly $54 billion watch level and the $54.3\u2013$54.4 billion July\u2013August balances it cited, despite being down slightly from Q2.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClient cash balances ended Q3 at $56.6 billion (down $300 million sequentially).\u201d",
+      "expectation_evidence": "The preview\u2019s catalyst checklist said \u201cending balances vs. $54B\u201d and cited July at $54.3B and August at $54.4B.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said October organic growth would be around 3%, with advisory-fee timing and an unusually large attrition item weighing on it. The preview had not forecast October specifically, but this indicates a slower near-term growth pace than the strong Q3 flow rate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided October organic growth to the zone of 3%, pressured by advisory fee timing and a larger-than-usual attrition item.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management said newly won institutional deals are likely to benefit growth in 2028, so their contribution is further out even as the pipeline is described as highly active.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNewly won institutional deals will likely benefit 2028 growth given multi-quarter-to-multi-year decision and conversion timelines,\u201d while the pipeline is \u201cthe most active ever.\u201d",
+      "expectation_evidence": "The preview framed a new institutional win disclosed on the call as \u201ca genuine positive surprise\u201d and said institutional conversations had restarted, but gave no expected contribution timing.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "LPL disclosed that it is evaluating pricing changes across cash sweep, revenue sharing, and platform fees. The preview discussed fee pressure but did not anticipate an active review of these pricing levers, and the eventual effect is not yet clear.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company is evaluating potential pricing changes across cash sweep, revenue sharing, and platform fees, with more to share in the first half of 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "LPL reported adjusted EPS of $5.97, above the preview\u2019s $5.66\u2013$5.69 consensus range by about 5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord adjusted EPS of $5.97 in Q3 2026.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS: $5.66\u2013$5.69.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The ICA yield rose 16 bps in Q3, ahead of the preview\u2019s phased 10-bp expectation, and management expects a further increase of about 20 bps in Q4. That points to faster or larger yield improvement than the preview\u2019s base expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe ICA yield rose 16 bps to 352 bps, with Q4 yield expected to increase another ~20 bps from methodology changes and the September Fed move.\u201d",
+      "expectation_evidence": "The preview listed \u201cICA yield +10bp (phased \u2014 half in Q3, half in Q4)\u201d and said the market would watch whether the guide was raised.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Commonwealth final asset retention was reduced to about 83%, below the preview\u2019s high-80s base expectation and further from the 90% underwriting target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommonwealth Financial Network final asset retention was lowered to approximately 83%, down from the ~85% signed last quarter and the original 90% underwriting assumption, as some signed advisers decided not to stay.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected retention \u201chigh-80s\u201d; it identified the 90% target and said retention at or near that target would de-risk the EBITDA bridge.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 3,
+      "description": "LPL lowered its expected fully integrated Commonwealth run-rate EBITDA to about $415 million, versus the preview\u2019s cited $435 million estimate, a roughly $20 million reduction.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement now estimates Commonwealth run-rate EBITDA of approximately $415 million once fully integrated by Q4 2027.\u201d",
+      "expectation_evidence": "The preview said \u201crun-rate EBITDA was raised to ~$435M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Quarter-end client cash was $56.6 billion, above the preview\u2019s roughly $54 billion watch level and the $54.3\u2013$54.4 billion July\u2013August balances it cited, despite being down slightly from Q2.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClient cash balances ended Q3 at $56.6 billion (down $300 million sequentially).\u201d",
+      "expectation_evidence": "The preview\u2019s catalyst checklist said \u201cending balances vs. $54B\u201d and cited July at $54.3B and August at $54.4B.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "Management said October organic growth would be around 3%, with advisory-fee timing and an unusually large attrition item weighing on it. The preview had not forecast October specifically, but this indicates a slower near-term growth pace than the strong Q3 flow rate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided October organic growth to the zone of 3%, pressured by advisory fee timing and a larger-than-usual attrition item.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Management said newly won institutional deals are likely to benefit growth in 2028, so their contribution is further out even as the pipeline is described as highly active.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNewly won institutional deals will likely benefit 2028 growth given multi-quarter-to-multi-year decision and conversion timelines,\u201d while the pipeline is \u201cthe most active ever.\u201d",
+      "expectation_evidence": "The preview framed a new institutional win disclosed on the call as \u201ca genuine positive surprise\u201d and said institutional conversations had restarted, but gave no expected contribution timing.",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "LPL disclosed that it is evaluating pricing changes across cash sweep, revenue sharing, and platform fees. The preview discussed fee pressure but did not anticipate an active review of these pricing levers, and the eventual effect is not yet clear.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company is evaluating potential pricing changes across cash sweep, revenue sharing, and platform fees, with more to share in the first half of 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

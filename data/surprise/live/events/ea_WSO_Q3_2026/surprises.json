@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Watsco reported diluted EPS of $3.77, well below the preview\u2019s $4.11\u2013$4.15 consensus range and $4.04 buy-side whisper. The shortfall was about 8%\u20139% versus consensus.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEPS of $3.77.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS: $4.11\u20134.15\u201d; \u201cBuy-side whisper: $4.04.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin was 26.4%, roughly 90 basis points below the preview\u2019s ~27.3% estimate and below the 27.5% baseline investors were told to watch. Jackson Supply\u2019s below-Watsco margins modestly weighed on the result.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGross margins of 26.4%\u201d; Jackson Supply \u201coperates below Watsco's ~27% margin, modestly weighing on consolidated margins.\u201d",
+      "expectation_evidence": "\u201cGross margin: ~27.3%\u201d; the preview called 27.5% \u201cthe baseline that we expect looking forward.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Residential HVAC equipment grew 7%, with both unit volume and pricing contributing, despite the preview\u2019s concern about weak residential volumes and its reference to a peer\u2019s residential volume decline. New construction and multifamily were particularly strong, while replacement grew more slowly.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cResidential HVAC equipment\u2026grew 7% with gains in both unit volume and pricing\u201d; \u201cresidential new construction/multifamily rose low double digits and add-on replacement rose low single digits.\u201d",
+      "expectation_evidence": "The preview said the call would test whether \u201cLennox's residential volume collapse is a share-shift/OEM issue or a true end-market problem,\u201d and noted Lennox residential volumes were \u201c\u221212%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue modestly exceeded the preview\u2019s consensus range: $2.22 billion versus $2.20\u2013$2.21 billion. The beat was small, and same-store growth of 4% was broadly consistent with the preview\u2019s expected organic pace.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSales rose 7% to a record $2.22 billion (4% on a same-store basis).\u201d",
+      "expectation_evidence": "\u201cRevenue: $2.20\u20132.21B\u201d; consensus implied \u201c+6.4% to +6.9%\u201d growth, with the preview estimating roughly 3.5% organic growth.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reported that October revenues were up double digits quarter-to-date and had improved sequentially month over month since May. The update is encouraging against the preview\u2019s concern about a possible late-summer slowdown, although the October growth figure includes acquisitions and does not establish the organic trend.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuarter-to-date October revenues are up double digits including acquisitions,\u201d with \u201csequential month-over-month improvement since May.\u201d",
+      "expectation_evidence": "The preview said an October quarter-to-date organic figure was the \u201chighest-signal datapoint\u201d and warned that August\u2013September volumes might roll over.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Watsco said it remained in a positive net cash flow position even after funding the Granite acquisition, with $649 million of cash and no debt at quarter-end. That provides stronger balance-sheet reassurance than the preview\u2019s discussion of dividend coverage and acquisition funding risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended the quarter with $649 million cash and no debt,\u201d and \u201cremained in a positive net cash flow position even after funding the Granite Group acquisition in October.\u201d",
+      "expectation_evidence": "The preview flagged the dividend payout, Granite cash outlay, and new credit facility as a \u201clive catalyst,\u201d asking for commentary on \u201cpayout, leverage, or capital allocation.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Granite will add roughly $140\u2013150 million of inventory to the balance sheet in October. The preview had highlighted management\u2019s expectation for lower inventory in the second half, but did not account for this acquisition-related inventory addition.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Granite Group acquisition adds\u2026roughly $140\u2013150 million of inventory joining the balance sheet in October.\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201clower inventory in 2H26\u201d and highlighted a clean Q3 inventory drawdown as supporting evidence.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reaffirmed a long-term gross-margin goal of 30%, above the current level, but cautioned that progress would be uneven quarter to quarter. The target is an encouraging longer-term ambition, while the warning tempers the expectation that margins will recover smoothly.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201creaffirmed a long-term gross margin goal of 30%, up from the current ~27% year-to-date level, while cautioning the path will be choppy quarter to quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The cost update was mixed against the preview\u2019s expectation of expense leverage: fixed costs were restrained, but quarterly variable costs rose about 10% and technology spending rose about 13%.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFixed costs rose just 1% year-to-date (3% in the quarter) while variable costs rose 6% year-to-date (~10% in the quarter) and technology spending increased about 13% (~$6 million).\u201d",
+      "expectation_evidence": "The preview noted Q2 SG&A was \u201c+2% ex-acquisitions\u201d and said to watch for leverage, with its base scenario assuming SG&A at 16.6% of sales.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Watsco reported diluted EPS of $3.77, well below the preview\u2019s $4.11\u2013$4.15 consensus range and $4.04 buy-side whisper. The shortfall was about 8%\u20139% versus consensus.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEPS of $3.77.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS: $4.11\u20134.15\u201d; \u201cBuy-side whisper: $4.04.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Gross margin was 26.4%, roughly 90 basis points below the preview\u2019s ~27.3% estimate and below the 27.5% baseline investors were told to watch. Jackson Supply\u2019s below-Watsco margins modestly weighed on the result.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGross margins of 26.4%\u201d; Jackson Supply \u201coperates below Watsco's ~27% margin, modestly weighing on consolidated margins.\u201d",
+      "expectation_evidence": "\u201cGross margin: ~27.3%\u201d; the preview called 27.5% \u201cthe baseline that we expect looking forward.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Residential HVAC equipment grew 7%, with both unit volume and pricing contributing, despite the preview\u2019s concern about weak residential volumes and its reference to a peer\u2019s residential volume decline. New construction and multifamily were particularly strong, while replacement grew more slowly.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cResidential HVAC equipment\u2026grew 7% with gains in both unit volume and pricing\u201d; \u201cresidential new construction/multifamily rose low double digits and add-on replacement rose low single digits.\u201d",
+      "expectation_evidence": "The preview said the call would test whether \u201cLennox's residential volume collapse is a share-shift/OEM issue or a true end-market problem,\u201d and noted Lennox residential volumes were \u201c\u221212%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Revenue modestly exceeded the preview\u2019s consensus range: $2.22 billion versus $2.20\u2013$2.21 billion. The beat was small, and same-store growth of 4% was broadly consistent with the preview\u2019s expected organic pace.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSales rose 7% to a record $2.22 billion (4% on a same-store basis).\u201d",
+      "expectation_evidence": "\u201cRevenue: $2.20\u20132.21B\u201d; consensus implied \u201c+6.4% to +6.9%\u201d growth, with the preview estimating roughly 3.5% organic growth.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Management reported that October revenues were up double digits quarter-to-date and had improved sequentially month over month since May. The update is encouraging against the preview\u2019s concern about a possible late-summer slowdown, although the October growth figure includes acquisitions and does not establish the organic trend.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuarter-to-date October revenues are up double digits including acquisitions,\u201d with \u201csequential month-over-month improvement since May.\u201d",
+      "expectation_evidence": "The preview said an October quarter-to-date organic figure was the \u201chighest-signal datapoint\u201d and warned that August\u2013September volumes might roll over.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Watsco said it remained in a positive net cash flow position even after funding the Granite acquisition, with $649 million of cash and no debt at quarter-end. That provides stronger balance-sheet reassurance than the preview\u2019s discussion of dividend coverage and acquisition funding risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended the quarter with $649 million cash and no debt,\u201d and \u201cremained in a positive net cash flow position even after funding the Granite Group acquisition in October.\u201d",
+      "expectation_evidence": "The preview flagged the dividend payout, Granite cash outlay, and new credit facility as a \u201clive catalyst,\u201d asking for commentary on \u201cpayout, leverage, or capital allocation.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Granite will add roughly $140\u2013150 million of inventory to the balance sheet in October. The preview had highlighted management\u2019s expectation for lower inventory in the second half, but did not account for this acquisition-related inventory addition.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Granite Group acquisition adds\u2026roughly $140\u2013150 million of inventory joining the balance sheet in October.\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201clower inventory in 2H26\u201d and highlighted a clean Q3 inventory drawdown as supporting evidence.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 7,
+      "description": "Management reaffirmed a long-term gross-margin goal of 30%, above the current level, but cautioned that progress would be uneven quarter to quarter. The target is an encouraging longer-term ambition, while the warning tempers the expectation that margins will recover smoothly.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201creaffirmed a long-term gross margin goal of 30%, up from the current ~27% year-to-date level, while cautioning the path will be choppy quarter to quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "The cost update was mixed against the preview\u2019s expectation of expense leverage: fixed costs were restrained, but quarterly variable costs rose about 10% and technology spending rose about 13%.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFixed costs rose just 1% year-to-date (3% in the quarter) while variable costs rose 6% year-to-date (~10% in the quarter) and technology spending increased about 13% (~$6 million).\u201d",
+      "expectation_evidence": "The preview noted Q2 SG&A was \u201c+2% ex-acquisitions\u201d and said to watch for leverage, with its base scenario assuming SG&A at 16.6% of sales.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "S&P Global announced a strategic review of Capital IQ and related Market Intelligence data businesses, potentially including a separation. The preview discussed the MI reorganization and execution, but did not anticipate a review of the businesses\u2019 ownership or structure.",
+      "direction": "unclear",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnnounced a strategic review of Capital IQ and associated data businesses \u2026 potentially including their separation,\u201d with the earliest meaningful update expected on the February earnings call.",
+      "expectation_evidence": "The preview discussed \u201cMI reorg execution\u201d and described Market Intelligence as a key debate, but did not mention a strategic review or possible separation.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Adjusted EPS growth was stronger than the preview\u2019s expectation: 9% growth compares with the preview\u2019s estimated 4.3% growth and its $4.42\u2013$4.43 consensus. Revenue growth of 7%, by contrast, was within the preview\u2019s estimated 5.7%\u20138.0% consensus band.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c9% EPS growth\u201d and \u201c7% revenue growth\u201d in Q3 2026.",
+      "expectation_evidence": "\u201cConsensus of $3.64B / $4.42 is roughly +5.7% revenue and +4.3% EPS growth\u201d; the preview also gives a revenue consensus band of \u201c$3.64\u20133.72B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised its full-year outlook, including adjusted EPS to $17.70\u2013$17.95 from the preview\u2019s stated $17.50\u2013$17.75 guide. The preview specifically identified a raise or move to the top half as the key positive outcome; the new margin-expansion range of 75\u2013100 basis points is also above the preview\u2019s 35\u201360 basis-point as-reported guide.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised full-year guidance for organic constant currency growth to 7.5%-8.5%, operating margin expansion to 75-100 basis points, and adjusted EPS to $17.70-$17.95.\u201d",
+      "expectation_evidence": "The preview lists FY26 adjusted EPS guidance of \u201c$17.50\u2013$17.75\u201d and margin expansion guided at \u201c35\u201360bp as reported\u201d; it says \u201cany narrowing to the top half or a raise is the cleanest bull catalyst.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Ratings grew only 2%, below the preview\u2019s estimate of roughly 4.8% growth, and margins contracted despite billed issuance increasing. This was weaker than the preview\u2019s expectation that Ratings would help carry the quarter and its concern about issuance timing was not reflected in the reported billed-issuance growth.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRatings revenue grew only 2% \u2026 with margins contracting ~130 basis points in the quarter despite total billed issuance rising 8% year-over-year.\u201d",
+      "expectation_evidence": "The preview estimates Ratings at \u201c~$1.30B\u201d versus a \u201c$1,240M\u201d recast base, or \u201c+4.8%,\u201d and says the base case has \u201cRatings and Indices carry the quarter.\u201d It also notes FY26 assumes \u201cmid-to-high-single-digit billed issuance growth.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Indices exceeded the preview\u2019s already-strong growth expectation, with 20% revenue growth versus an estimated 18.3%; ETF AUM was also higher than the preview\u2019s $6.35 trillion figure. The segment extended its record-revenue streak by one more quarter and expanded margins.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c14th consecutive quarter of record revenue with 20% revenue growth, a record $6.5 trillion in ETF AUM (up 26%), and 150 basis points of margin expansion to 71.9%.\u201d",
+      "expectation_evidence": "The preview estimates Indices growth at \u201c+18.3%,\u201d cites ETF AUM of \u201c$6.35T,\u201d and notes \u201c13 consecutive record-revenue quarters.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Energy rebounded much more strongly than the preview\u2019s near-flat Q3 consensus implied: 6% growth versus an estimated 0.2%. The reported margin expansion and recovery in Strait of Hormuz flows also contrast with the preview\u2019s emphasis on ongoing Middle East-related headwinds.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEnergy revenue rebounded to 6% growth with 190 basis points of margin expansion to 48.1%, as GTS stabilized and Strait of Hormuz flows recovered to nearly two-thirds of prewar levels.\u201d",
+      "expectation_evidence": "The preview gives Energy consensus of \u201c$610.2M\u201d against a \u201c$609M\u201d recast base, or \u201c+0.2%,\u201d and says Q2 growth was \u201conly +2\u20133%\u201d amid Middle East/Iran-related headwinds.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Cboe S&P 500 options licensing extension carries a specific additional growth benefit for 2027 that the preview did not identify: management expects it to add a couple of percentage points to total Index revenue growth. The benefit is not expected to affect 2026 results.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExtended Cboe S&P 500 options licensing agreement through 2051\u201d and expects \u201ca couple percentage points of incremental total index revenue growth in 2027\u201d; it \u201cwill not impact 2026 results.\u201d",
+      "expectation_evidence": "The preview discusses Indices durability and early 2027 framing, but does not mention the Cboe agreement or its expected revenue contribution.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "S&P Global raised its full-year M&A issuance growth expectation to 20%\u201330%, an additional Ratings-related growth driver not called out in the preview\u2019s issuance outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its M&A issuance growth expectation to 20%-30% for the year.\u201d",
+      "expectation_evidence": "The preview discusses mid-to-high-single-digit billed issuance growth and the $250\u2013$300 billion hyperscaler assumption, but gives no M&A issuance growth expectation.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company disclosed that AI products were already contributing measurable growth in both Energy and Kensho Data and Platforms, while AI customers in Market Intelligence were growing spend 1.8 times as fast as non-AI customers\u2014somewhat faster than the preview\u2019s roughly 1.6-times comparison. This provided more evidence of current AI monetization than the preview quantified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarket Intelligence ACV growth 1.8x and Energy approximately 3x the rate of non-AI customers,\u201d while discrete AI products contributed \u201c~50 basis points of growth to both the Energy and Kensho Data and Platforms segments.\u201d",
+      "expectation_evidence": "The preview says AI-adopting customers were growing ACV \u201c~60% faster in MI and ~3x in Energy\u201d; it does not quantify discrete AI products\u2019 contribution to segment growth.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company expects to fund part of its accelerated share repurchases with an approximately $2 billion bond offering, a financing detail not anticipated in the preview. The buyback pace and total, however, were already expected.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRepurchased $4 billion in shares year-to-date and is on track to complete more than $7 billion in buybacks by year-end, double the original $3.5 billion planned, funded partly by an expected ~$2 billion bond offering.\u201d",
+      "expectation_evidence": "The preview already expects \u201c>$7B\u201d in buybacks and says $5.5 billion remained to execute after $1.5 billion at H1, but does not mention a bond offering.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "S&P Global announced a strategic review of Capital IQ and related Market Intelligence data businesses, potentially including a separation. The preview discussed the MI reorganization and execution, but did not anticipate a review of the businesses\u2019 ownership or structure.",
+      "direction": "unclear",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnnounced a strategic review of Capital IQ and associated data businesses \u2026 potentially including their separation,\u201d with the earliest meaningful update expected on the February earnings call.",
+      "expectation_evidence": "The preview discussed \u201cMI reorg execution\u201d and described Market Intelligence as a key debate, but did not mention a strategic review or possible separation.",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 1,
+      "description": "Adjusted EPS growth was stronger than the preview\u2019s expectation: 9% growth compares with the preview\u2019s estimated 4.3% growth and its $4.42\u2013$4.43 consensus. Revenue growth of 7%, by contrast, was within the preview\u2019s estimated 5.7%\u20138.0% consensus band.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c9% EPS growth\u201d and \u201c7% revenue growth\u201d in Q3 2026.",
+      "expectation_evidence": "\u201cConsensus of $3.64B / $4.42 is roughly +5.7% revenue and +4.3% EPS growth\u201d; the preview also gives a revenue consensus band of \u201c$3.64\u20133.72B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "The company raised its full-year outlook, including adjusted EPS to $17.70\u2013$17.95 from the preview\u2019s stated $17.50\u2013$17.75 guide. The preview specifically identified a raise or move to the top half as the key positive outcome; the new margin-expansion range of 75\u2013100 basis points is also above the preview\u2019s 35\u201360 basis-point as-reported guide.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised full-year guidance for organic constant currency growth to 7.5%-8.5%, operating margin expansion to 75-100 basis points, and adjusted EPS to $17.70-$17.95.\u201d",
+      "expectation_evidence": "The preview lists FY26 adjusted EPS guidance of \u201c$17.50\u2013$17.75\u201d and margin expansion guided at \u201c35\u201360bp as reported\u201d; it says \u201cany narrowing to the top half or a raise is the cleanest bull catalyst.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Ratings grew only 2%, below the preview\u2019s estimate of roughly 4.8% growth, and margins contracted despite billed issuance increasing. This was weaker than the preview\u2019s expectation that Ratings would help carry the quarter and its concern about issuance timing was not reflected in the reported billed-issuance growth.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRatings revenue grew only 2% \u2026 with margins contracting ~130 basis points in the quarter despite total billed issuance rising 8% year-over-year.\u201d",
+      "expectation_evidence": "The preview estimates Ratings at \u201c~$1.30B\u201d versus a \u201c$1,240M\u201d recast base, or \u201c+4.8%,\u201d and says the base case has \u201cRatings and Indices carry the quarter.\u201d It also notes FY26 assumes \u201cmid-to-high-single-digit billed issuance growth.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Indices exceeded the preview\u2019s already-strong growth expectation, with 20% revenue growth versus an estimated 18.3%; ETF AUM was also higher than the preview\u2019s $6.35 trillion figure. The segment extended its record-revenue streak by one more quarter and expanded margins.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c14th consecutive quarter of record revenue with 20% revenue growth, a record $6.5 trillion in ETF AUM (up 26%), and 150 basis points of margin expansion to 71.9%.\u201d",
+      "expectation_evidence": "The preview estimates Indices growth at \u201c+18.3%,\u201d cites ETF AUM of \u201c$6.35T,\u201d and notes \u201c13 consecutive record-revenue quarters.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Energy rebounded much more strongly than the preview\u2019s near-flat Q3 consensus implied: 6% growth versus an estimated 0.2%. The reported margin expansion and recovery in Strait of Hormuz flows also contrast with the preview\u2019s emphasis on ongoing Middle East-related headwinds.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEnergy revenue rebounded to 6% growth with 190 basis points of margin expansion to 48.1%, as GTS stabilized and Strait of Hormuz flows recovered to nearly two-thirds of prewar levels.\u201d",
+      "expectation_evidence": "The preview gives Energy consensus of \u201c$610.2M\u201d against a \u201c$609M\u201d recast base, or \u201c+0.2%,\u201d and says Q2 growth was \u201conly +2\u20133%\u201d amid Middle East/Iran-related headwinds.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "The Cboe S&P 500 options licensing extension carries a specific additional growth benefit for 2027 that the preview did not identify: management expects it to add a couple of percentage points to total Index revenue growth. The benefit is not expected to affect 2026 results.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExtended Cboe S&P 500 options licensing agreement through 2051\u201d and expects \u201ca couple percentage points of incremental total index revenue growth in 2027\u201d; it \u201cwill not impact 2026 results.\u201d",
+      "expectation_evidence": "The preview discusses Indices durability and early 2027 framing, but does not mention the Cboe agreement or its expected revenue contribution.",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "S&P Global raised its full-year M&A issuance growth expectation to 20%\u201330%, an additional Ratings-related growth driver not called out in the preview\u2019s issuance outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its M&A issuance growth expectation to 20%-30% for the year.\u201d",
+      "expectation_evidence": "The preview discusses mid-to-high-single-digit billed issuance growth and the $250\u2013$300 billion hyperscaler assumption, but gives no M&A issuance growth expectation.",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "The company disclosed that AI products were already contributing measurable growth in both Energy and Kensho Data and Platforms, while AI customers in Market Intelligence were growing spend 1.8 times as fast as non-AI customers\u2014somewhat faster than the preview\u2019s roughly 1.6-times comparison. This provided more evidence of current AI monetization than the preview quantified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarket Intelligence ACV growth 1.8x and Energy approximately 3x the rate of non-AI customers,\u201d while discrete AI products contributed \u201c~50 basis points of growth to both the Energy and Kensho Data and Platforms segments.\u201d",
+      "expectation_evidence": "The preview says AI-adopting customers were growing ACV \u201c~60% faster in MI and ~3x in Energy\u201d; it does not quantify discrete AI products\u2019 contribution to segment growth.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 9,
+      "description": "The company expects to fund part of its accelerated share repurchases with an approximately $2 billion bond offering, a financing detail not anticipated in the preview. The buyback pace and total, however, were already expected.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRepurchased $4 billion in shares year-to-date and is on track to complete more than $7 billion in buybacks by year-end, double the original $3.5 billion planned, funded partly by an expected ~$2 billion bond offering.\u201d",
+      "expectation_evidence": "The preview already expects \u201c>$7B\u201d in buybacks and says $5.5 billion remained to execute after $1.5 billion at H1, but does not mention a bond offering.",
+      "expectation_source": "none",
+      "dimension": "financing_capital_structure"
+    }
+  ]
+}

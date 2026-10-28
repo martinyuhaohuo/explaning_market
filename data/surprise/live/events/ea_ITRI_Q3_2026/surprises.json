@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Non-GAAP EPS was $1.94, well above the $1.56 consensus and also above the preview\u2019s estimated $1.70\u2013$1.75 buy-side whisper. It even exceeded the preview\u2019s $1.78\u2013$1.88 bull-case range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS reached $1.94, up $0.40 (26%) year-over-year and well ahead of expectations.\u201d",
+      "expectation_evidence": "\u201cQ3 FY26 Consensus\u201d non-GAAP EPS: \u201c$1.56\u201d; preview estimate for the \u201creal buy-side whisper\u201d: \u201c$1.70\u20131.75\u201d; bull scenario: \u201c$1.78\u20131.88.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Bookings were $482 million, far below the preview\u2019s greater-than-$600 million bogey and within its bear-case range of less than $500 million. This missed the preview\u2019s key test for a return to above-parity bookings.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 bookings were $482 million, up 27% year-over-year.\u201d",
+      "expectation_evidence": "Bookings / book-to-bill bogey: \u201c>$600M / >1.0x\u201d; the bear case called for \u201cbookings <$500M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 revenue guidance of $621\u2013$636 million implies a midpoint below both the preview\u2019s roughly $645 million implied Q4 revenue and its $630 million base-case floor. The range also falls short of the preview\u2019s $640 million bull-case threshold.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 revenue guidance of $621-$636 million implies 10% year-over-year growth at the midpoint.\u201d",
+      "expectation_evidence": "The preview calculated \u201c~$645M\u201d implied Q4 revenue, gave a base-case Q4 guide of \u201c$630\u2013655M,\u201d and flagged \u201c\u2265$640M\u201d as a bull-case signal.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year EPS guidance rose to $6.72\u2013$6.82, above the prior $6.30\u2013$6.50 range cited in the preview. The increase is a stronger upgrade than the preview\u2019s base case of guidance narrowed to the upper half.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its full-year EPS outlook to $6.72-$6.82.\u201d",
+      "expectation_evidence": "\u201cFY2026 guidance (raised July 28): \u2026 non-GAAP EPS $6.30\u20136.50\u201d; the base case expected FY26 guidance to be \u201cnarrowed to upper half.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year revenue guidance was narrowed to $2.37\u2013$2.385 billion, putting the midpoint near the low end of the prior $2.37\u2013$2.41 billion range rather than in the upper half anticipated in the preview\u2019s base case.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company \u2026 narrowed full-year revenue guidance to $2.37-$2.385 billion.\u201d",
+      "expectation_evidence": "The prior FY2026 revenue range was \u201c$2.37\u20132.41B\u201d; the base case expected guidance \u201cnarrowed to upper half.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted gross margin reached 41.3%, above the preview\u2019s roughly 40\u201341% estimate and its 40.5% threshold for evidence of structural margin strength. That is notable given the preview\u2019s concern that returning Networked volume could dilute margins.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted gross margin expanded 350 basis points year-over-year to 41.3%, driven by favorable mix, operational efficiencies and cost discipline.\u201d",
+      "expectation_evidence": "Adj. gross margin estimate: \u201c~40\u201341%\u201d; the preview said \u201c\u226540.5% = structural\u201d and asked whether mix would dilute as Networked ramps.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA was $115 million, around $10 million above the preview\u2019s estimate of approximately $105 million. Non-GAAP operating income also grew 20% on only 3% revenue growth, showing more earnings leverage than the preview\u2019s estimates implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA set a new quarterly record at $115 million (19% of revenue), and non-GAAP operating income grew 20% on just 3% revenue growth.\u201d",
+      "expectation_evidence": "Adj. EBITDA estimate: \u201c~$105M (est.)\u201d; the preview described a margin-driven EPS beat as the base case but did not anticipate this EBITDA level.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Backlog ended the quarter at $4.3 billion, below the preview\u2019s $4.4 billion minimum bogey and down from the $4.4 billion reported for Q2. This did not deliver the hoped-for stabilization or increase in the demand signal.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal backlog of $4.3 billion at quarter end.\u201d",
+      "expectation_evidence": "Backlog bogey: \u201c\u2265$4.4B, ideally up\u201d; the preview cited Q2 backlog of \u201c$4.4B flat q/q.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "ARR reached approximately $423 million, below the preview\u2019s greater-than-$430 million bogey. However, its year-over-year growth accelerated to about 25% from 21% last quarter, partially offsetting the shortfall against the stated target.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAnnual recurring revenue grew approximately 25% year-over-year to $423 million, accelerating from 21% growth last quarter.\u201d",
+      "expectation_evidence": "ARR / licensed apps bogey: \u201cARR >$430M\u201d; the preview cited prior-quarter ARR of \u201c$417M (+21%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management identified a large gas distribution opportunity that has not yet entered bookings, with awards expected over the next two to three years. The preview did not flag this specific longer-term source of potential demand, though the extended award timeline means it is not a near-term bookings benefit.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cA large gas distribution opportunity remains ahead of bookings with awards expected over the next 2-3 years.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Non-GAAP EPS was $1.94, well above the $1.56 consensus and also above the preview\u2019s estimated $1.70\u2013$1.75 buy-side whisper. It even exceeded the preview\u2019s $1.78\u2013$1.88 bull-case range.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS reached $1.94, up $0.40 (26%) year-over-year and well ahead of expectations.\u201d",
+      "expectation_evidence": "\u201cQ3 FY26 Consensus\u201d non-GAAP EPS: \u201c$1.56\u201d; preview estimate for the \u201creal buy-side whisper\u201d: \u201c$1.70\u20131.75\u201d; bull scenario: \u201c$1.78\u20131.88.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Bookings were $482 million, far below the preview\u2019s greater-than-$600 million bogey and within its bear-case range of less than $500 million. This missed the preview\u2019s key test for a return to above-parity bookings.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 bookings were $482 million, up 27% year-over-year.\u201d",
+      "expectation_evidence": "Bookings / book-to-bill bogey: \u201c>$600M / >1.0x\u201d; the bear case called for \u201cbookings <$500M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Q4 revenue guidance of $621\u2013$636 million implies a midpoint below both the preview\u2019s roughly $645 million implied Q4 revenue and its $630 million base-case floor. The range also falls short of the preview\u2019s $640 million bull-case threshold.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 revenue guidance of $621-$636 million implies 10% year-over-year growth at the midpoint.\u201d",
+      "expectation_evidence": "The preview calculated \u201c~$645M\u201d implied Q4 revenue, gave a base-case Q4 guide of \u201c$630\u2013655M,\u201d and flagged \u201c\u2265$640M\u201d as a bull-case signal.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Full-year EPS guidance rose to $6.72\u2013$6.82, above the prior $6.30\u2013$6.50 range cited in the preview. The increase is a stronger upgrade than the preview\u2019s base case of guidance narrowed to the upper half.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its full-year EPS outlook to $6.72-$6.82.\u201d",
+      "expectation_evidence": "\u201cFY2026 guidance (raised July 28): \u2026 non-GAAP EPS $6.30\u20136.50\u201d; the base case expected FY26 guidance to be \u201cnarrowed to upper half.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Full-year revenue guidance was narrowed to $2.37\u2013$2.385 billion, putting the midpoint near the low end of the prior $2.37\u2013$2.41 billion range rather than in the upper half anticipated in the preview\u2019s base case.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company \u2026 narrowed full-year revenue guidance to $2.37-$2.385 billion.\u201d",
+      "expectation_evidence": "The prior FY2026 revenue range was \u201c$2.37\u20132.41B\u201d; the base case expected guidance \u201cnarrowed to upper half.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Adjusted gross margin reached 41.3%, above the preview\u2019s roughly 40\u201341% estimate and its 40.5% threshold for evidence of structural margin strength. That is notable given the preview\u2019s concern that returning Networked volume could dilute margins.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted gross margin expanded 350 basis points year-over-year to 41.3%, driven by favorable mix, operational efficiencies and cost discipline.\u201d",
+      "expectation_evidence": "Adj. gross margin estimate: \u201c~40\u201341%\u201d; the preview said \u201c\u226540.5% = structural\u201d and asked whether mix would dilute as Networked ramps.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "Adjusted EBITDA was $115 million, around $10 million above the preview\u2019s estimate of approximately $105 million. Non-GAAP operating income also grew 20% on only 3% revenue growth, showing more earnings leverage than the preview\u2019s estimates implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA set a new quarterly record at $115 million (19% of revenue), and non-GAAP operating income grew 20% on just 3% revenue growth.\u201d",
+      "expectation_evidence": "Adj. EBITDA estimate: \u201c~$105M (est.)\u201d; the preview described a margin-driven EPS beat as the base case but did not anticipate this EBITDA level.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "Backlog ended the quarter at $4.3 billion, below the preview\u2019s $4.4 billion minimum bogey and down from the $4.4 billion reported for Q2. This did not deliver the hoped-for stabilization or increase in the demand signal.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal backlog of $4.3 billion at quarter end.\u201d",
+      "expectation_evidence": "Backlog bogey: \u201c\u2265$4.4B, ideally up\u201d; the preview cited Q2 backlog of \u201c$4.4B flat q/q.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "ARR reached approximately $423 million, below the preview\u2019s greater-than-$430 million bogey. However, its year-over-year growth accelerated to about 25% from 21% last quarter, partially offsetting the shortfall against the stated target.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAnnual recurring revenue grew approximately 25% year-over-year to $423 million, accelerating from 21% growth last quarter.\u201d",
+      "expectation_evidence": "ARR / licensed apps bogey: \u201cARR >$430M\u201d; the preview cited prior-quarter ARR of \u201c$417M (+21%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "Management identified a large gas distribution opportunity that has not yet entered bookings, with awards expected over the next two to three years. The preview did not flag this specific longer-term source of potential demand, though the extended award timeline means it is not a near-term bookings benefit.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cA large gas distribution opportunity remains ahead of bookings with awards expected over the next 2-3 years.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

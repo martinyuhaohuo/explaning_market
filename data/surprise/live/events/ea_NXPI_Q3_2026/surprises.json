@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "The Board authorized an incremental $5 billion buyback, bringing total authorization to about $6.3 billion, and management said it would accelerate repurchases in Q4 and 2027. The preview highlighted that Q2 buybacks had been light at $104 million, but did not anticipate a program of this size.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Board authorized an incremental $5 billion share repurchase program, bringing total authorization to about $6.3 billion\u201d; management is \u201ccommitting to accelerate buybacks in Q4 and 2027.\u201d",
+      "expectation_evidence": "\u201cbuyback pace (only $104M in Q2 \u2014 light)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NXP now expects 2026 pricing to be neutral rather than declining by low single digits, and said historical annual price erosion should moderate structurally. That is a better pricing outlook than the prior forecast, with an additional longer-term improvement not flagged in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPricing is now expected to be neutral for 2026 (versus an initial low-single-digit decline forecast),\u201d and management expects \u201cthe historical pattern of annual price erosion to structurally moderate.\u201d",
+      "expectation_evidence": "\u201cversus an initial low-single-digit decline forecast\u201d",
+      "expectation_source": "call"
+    },
+    {
+      "description": "NXP raised its data-center outlook beyond the prior $500 million forecast for this year and now expects the business to exceed $1 billion by 2028. The preview sought first-time data-center sizing, but did not anticipate this higher outlook.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cData center revenue is now expected to exceed the prior $500 million outlook this year and surpass $1 billion within a couple of years (by 2028).\u201d",
+      "expectation_evidence": "\u201cAny first-time sizing of data-center or physical-AI revenue directly rebuts the downgrade.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 gross-margin guidance is 59%, above the preview\u2019s 58.5% consensus and base-case expectation of 58.5\u201358.7%. Management also described margins rising above 60% in 2028, beyond the preview\u2019s focus on reaching 60% during 2027.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance calls for \u201cgross margin of 59%\u201d; management expects gross margin to reach \u201c60% during the year\u201d in 2027 and be \u201cabove 60% in 2028 with VSMC ramp.\u201d",
+      "expectation_evidence": "\u201cGuide mid is 58.5%\u201d; the base case expected \u201cGM 58.5\u201358.7%,\u201d and the preview focused on the \u201c60% 2027 target.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview anticipated longer lead times in parts of the portfolio and rising escalations, but the call described much broader tightness: 80% of lead times now exceed 16 weeks, versus 25% a year ago. Book-to-bill was well above 1 across all end markets and regions, and backlog extends into 2027, supporting demand strength while leaving supply constraints as a risk.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBook-to-bill remained well above 1 across all end markets and regions,\u201d backlog \u201ccontinues to grow and extend into 2027,\u201d and \u201c80% of lead times now exceed 16 weeks versus only 25% a year ago, with customer escalations up sizably.\u201d",
+      "expectation_evidence": "\u201cLead times >16 weeks in parts of the portfolio and customer escalations doubled q/q in Q2\u201d; the preview said rising lead times with flat inventory could indicate \u201cgenuine tightness,\u201d but could also \u201ccap upside to the quarter.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NXP disclosed that SDV revenue is already running above $1.5 billion annualized and remains on track for a $2 billion 2027 target. The preview asked for SDV/VW ramp economics and timing but did not give an expectation for revenue at this scale.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSDV revenue running above $1.5 billion annualized and on track for the $2 billion 2027 target.\u201d",
+      "expectation_evidence": "The preview asked about \u201cVW Group named S32K5 the zonal-controller MCU\u201d and said \u201cDollar content, timing, and whether this is incremental to the existing pipeline are the questions.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Industrial revenue grew nearly 50%, ahead of the preview\u2019s roughly 40% industrial growth read-across. The call also quantified AI-enabled processors at about 15% of industrial/IoT processor revenue in 2026, more than doubling from last year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe industrial portion growing nearly 50%\u201d and AI-enabled processors are \u201cexpected to reach ~15% of industrial/IoT processor revenue in 2026, more than doubling from last year.\u201d",
+      "expectation_evidence": "The preview cited \u201cindustrial +40% y/y\u201d as a supportive read-across and noted a \u201c$1.5B design-win pipeline across 200+ customers.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NXP raised CapEx to about 5% of revenue to add back-end capacity and build a Malaysia facility ready for 2028. The preview discussed JV investment but did not flag this increase in NXP\u2019s own capacity spending.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaising CapEx to about 5% of revenue to add back-end capacity and build a Malaysia facility ready for 2028.\u201d",
+      "expectation_evidence": "The preview\u2019s secondary watch list mentioned \u201cVSMC/ESMC JV capex (~$2.4B committed, 70% of plan),\u201d but did not state an expectation for NXP\u2019s own CapEx.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The Board authorized an incremental $5 billion buyback, bringing total authorization to about $6.3 billion, and management said it would accelerate repurchases in Q4 and 2027. The preview highlighted that Q2 buybacks had been light at $104 million, but did not anticipate a program of this size.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Board authorized an incremental $5 billion share repurchase program, bringing total authorization to about $6.3 billion\u201d; management is \u201ccommitting to accelerate buybacks in Q4 and 2027.\u201d",
+      "expectation_evidence": "\u201cbuyback pace (only $104M in Q2 \u2014 light)\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 1,
+      "description": "NXP now expects 2026 pricing to be neutral rather than declining by low single digits, and said historical annual price erosion should moderate structurally. That is a better pricing outlook than the prior forecast, with an additional longer-term improvement not flagged in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPricing is now expected to be neutral for 2026 (versus an initial low-single-digit decline forecast),\u201d and management expects \u201cthe historical pattern of annual price erosion to structurally moderate.\u201d",
+      "expectation_evidence": "\u201cversus an initial low-single-digit decline forecast\u201d",
+      "expectation_source": "call",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 2,
+      "description": "NXP raised its data-center outlook beyond the prior $500 million forecast for this year and now expects the business to exceed $1 billion by 2028. The preview sought first-time data-center sizing, but did not anticipate this higher outlook.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cData center revenue is now expected to exceed the prior $500 million outlook this year and surpass $1 billion within a couple of years (by 2028).\u201d",
+      "expectation_evidence": "\u201cAny first-time sizing of data-center or physical-AI revenue directly rebuts the downgrade.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Q4 gross-margin guidance is 59%, above the preview\u2019s 58.5% consensus and base-case expectation of 58.5\u201358.7%. Management also described margins rising above 60% in 2028, beyond the preview\u2019s focus on reaching 60% during 2027.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance calls for \u201cgross margin of 59%\u201d; management expects gross margin to reach \u201c60% during the year\u201d in 2027 and be \u201cabove 60% in 2028 with VSMC ramp.\u201d",
+      "expectation_evidence": "\u201cGuide mid is 58.5%\u201d; the base case expected \u201cGM 58.5\u201358.7%,\u201d and the preview focused on the \u201c60% 2027 target.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "The preview anticipated longer lead times in parts of the portfolio and rising escalations, but the call described much broader tightness: 80% of lead times now exceed 16 weeks, versus 25% a year ago. Book-to-bill was well above 1 across all end markets and regions, and backlog extends into 2027, supporting demand strength while leaving supply constraints as a risk.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBook-to-bill remained well above 1 across all end markets and regions,\u201d backlog \u201ccontinues to grow and extend into 2027,\u201d and \u201c80% of lead times now exceed 16 weeks versus only 25% a year ago, with customer escalations up sizably.\u201d",
+      "expectation_evidence": "\u201cLead times >16 weeks in parts of the portfolio and customer escalations doubled q/q in Q2\u201d; the preview said rising lead times with flat inventory could indicate \u201cgenuine tightness,\u201d but could also \u201ccap upside to the quarter.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "NXP disclosed that SDV revenue is already running above $1.5 billion annualized and remains on track for a $2 billion 2027 target. The preview asked for SDV/VW ramp economics and timing but did not give an expectation for revenue at this scale.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSDV revenue running above $1.5 billion annualized and on track for the $2 billion 2027 target.\u201d",
+      "expectation_evidence": "The preview asked about \u201cVW Group named S32K5 the zonal-controller MCU\u201d and said \u201cDollar content, timing, and whether this is incremental to the existing pipeline are the questions.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Industrial revenue grew nearly 50%, ahead of the preview\u2019s roughly 40% industrial growth read-across. The call also quantified AI-enabled processors at about 15% of industrial/IoT processor revenue in 2026, more than doubling from last year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe industrial portion growing nearly 50%\u201d and AI-enabled processors are \u201cexpected to reach ~15% of industrial/IoT processor revenue in 2026, more than doubling from last year.\u201d",
+      "expectation_evidence": "The preview cited \u201cindustrial +40% y/y\u201d as a supportive read-across and noted a \u201c$1.5B design-win pipeline across 200+ customers.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "NXP raised CapEx to about 5% of revenue to add back-end capacity and build a Malaysia facility ready for 2028. The preview discussed JV investment but did not flag this increase in NXP\u2019s own capacity spending.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaising CapEx to about 5% of revenue to add back-end capacity and build a Malaysia facility ready for 2028.\u201d",
+      "expectation_evidence": "The preview\u2019s secondary watch list mentioned \u201cVSMC/ESMC JV capex (~$2.4B committed, 70% of plan),\u201d but did not state an expectation for NXP\u2019s own CapEx.",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

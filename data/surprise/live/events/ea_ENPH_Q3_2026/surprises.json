@@ -1,0 +1,222 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 revenue guidance of $225\u2013255 million is far below the preview\u2019s roughly $300.5\u2013301.6 million consensus. The guidance includes only about $51.2 million of safe harbor revenue, and the company is only about 70% booked to the midpoint.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 2026 revenue guidance of $225-255 million is well below Q3, with only ~$51.2 million of safe harbor revenue, and the company is only ~70% booked to the midpoint.\u201d",
+      "expectation_evidence": "\u201cQ4'26 revenue (the number that matters): ~$300.5\u2013301.6M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 non-GAAP EPS of $0.41 missed the preview\u2019s $0.50\u2013$0.51 consensus range by a substantial amount, even though the preview described Q3 as largely de-risked.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS of $0.41.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS: $0.50 \u2013 $0.51.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 revenue was $293.3 million, below the $303.7\u2013$305.2 million consensus range, though still within the company\u2019s $290\u2013320 million guidance. Safe harbor revenue was higher than the preview\u2019s estimate, at $85 million versus about $75 million.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $293.3 million, including $85 million of safe harbor revenue.\u201d",
+      "expectation_evidence": "\u201cRevenue: $303.7M \u2013 $305.2M\u201d; \u201cQ3 includes ~$75M Safe Harbor.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 core revenue was about $208.3 million after subtracting $85 million of safe harbor revenue, well short of the preview\u2019s roughly $230 million core-revenue expectation. The higher-than-expected safe harbor contribution therefore did not prevent a sizable core shortfall.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $293.3 million, including $85 million of safe harbor revenue.\u201d",
+      "expectation_evidence": "\u201cQ3 guided core is ~$230M, +10% q/q.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Global Q3 sell-through grew only 1%, versus an expectation of roughly 10%. U.S. sell-through was down 35% year over year, a steep decline that continued amid higher interest rates and the 25D tax-credit expiration.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 sell-through grew only 1% globally versus an original expectation of ~10%\u201d; \u201cU.S. sell-through down 35% year-over-year amid higher interest rates and expiry of the 25D tax credit.\u201d",
+      "expectation_evidence": "The call says the original expectation was \u201c~10%.\u201d The preview also said to watch whether U.S. undershipment would widen or close as demand stabilized.",
+      "expectation_source": "call"
+    },
+    {
+      "description": "Management plans to ship about $20 million below sell-through in Q4 to reduce channel inventory, extending the deliberate undershipment approach the preview had flagged for Q3. Management put the normalized core quarterly run-rate at roughly $190\u2013200 million ex-safe harbor.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to intentionally ship ~$20 million below sell-through in Q4 to reduce channel inventory, implying a normalized core quarterly run-rate of roughly $190-200 million ex-safe harbor.\u201d",
+      "expectation_evidence": "\u201cManagement guided to ~$15M of deliberate undershipment in Q3 to protect channel inventory. Watch: does undershipment widen (demand worse than modeled) or close (stabilization)?\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 non-GAAP gross-margin guidance of 40\u201343% implies a sequential decline from Q3\u2019s 45% and is below the preview\u2019s stated 44\u201347% company gross-margin guidance. Management attributed the lower range to product mix, an 8\u20139% U.S. battery list-price cut to distributors, and higher freight costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 non-GAAP gross margin guidance of 40-43% reflects sequential decline driven by product mix, an 8-9% U.S. battery list price cut to distributors, and higher freight costs.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP gross margin: ~45\u201346%\u201d; \u201cCompany Guidance: 44\u201347% (incl. ~2pt tariff).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Propel originations rose to over 300 per week and expanded to 13 states, ahead of the preview\u2019s target of 12 states by the end of Q3 and up from about 200 weekly originations in Q2. The reported run-rate is progress, though still below the preview\u2019s 500-per-week year-end target.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPropel prepaid-lease originations grew to over 300 per week (from ~200 in Q2), now in 13 states with ~350 participating installers.\u201d",
+      "expectation_evidence": "\u201cExit Q2: 6 states, ~200 originations/week\u201d; \u201cTargets: 12 states by end of Q3, 500/week by year-end.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management described 2027 as roughly $200 million of core revenue per quarter plus roughly $200 million of incremental growth-driver revenue, a more specific and ambitious framing than the preview provided. The company emphasized that this was not formal 2027 guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement framed 2027 as ~$200 million core revenue per quarter plus roughly $200 million of incremental growth-driver revenue, though no formal 2027 guidance was issued.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management quantified battery growth beyond the preview\u2019s focus on near-term shipments: 2026 shipments are expected to total about 450 MWh, with roughly 50% growth to 675 MWh in 2027. The stated U.S. battery share of only 15\u201320%, compared with about 50% for solar inverters, also indicates substantial room to grow.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cResidential battery shipments are expected to total ~450 MWh in 2026 and grow ~50% to ~675 MWh in 2027, with U.S. battery market share currently only 15-20% versus ~50% share in solar inverters.\u201d",
+      "expectation_evidence": "The preview focused on Q3 battery shipments of \u201c130\u2013150 MWh\u201d and described storage as \u201cthe structural offset to lost solar-only demand,\u201d but did not provide a 2027 shipment outlook.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management set a target for commercial revenue to rise from about $30 million in 2026 to more than $100 million in 2027, with a long-term ambition of 40% U.S. small-commercial market share. This commercial growth target and the stated roughly $250 million annual opportunity were not covered in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommercial revenue of ~$30 million in 2026 is targeted to grow to over $100 million in 2027, with a long-term ambition of 40% U.S. small commercial market share representing a ~$250 million annual opportunity.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The SST update added a pipeline of 50-plus potential customers and a target of $1 billion in annual revenue by 2030, details the preview had not reported. This is more specific commercial potential than a vague reiteration, but the reported pipeline consists of potential customers rather than the named, counterparty-backed commitment the preview was watching for.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe IQ SST data center product achieved a 13.8 kV AC to 800 VDC demonstration, has a pipeline of 50+ potential customers, and is targeted to reach $1 billion in annual revenue by 2030, with pilots in 2027 and commercial shipments in 2028.\u201d",
+      "expectation_evidence": "The preview said management converting the SST narrative into \u201ca dated, counterparty-backed commitment\u201d was the biggest upside lever, and noted there was \u201cno disclosed TAM, pricing, or customer.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 revenue guidance of $225\u2013255 million is far below the preview\u2019s roughly $300.5\u2013301.6 million consensus. The guidance includes only about $51.2 million of safe harbor revenue, and the company is only about 70% booked to the midpoint.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 2026 revenue guidance of $225-255 million is well below Q3, with only ~$51.2 million of safe harbor revenue, and the company is only ~70% booked to the midpoint.\u201d",
+      "expectation_evidence": "\u201cQ4'26 revenue (the number that matters): ~$300.5\u2013301.6M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Q3 non-GAAP EPS of $0.41 missed the preview\u2019s $0.50\u2013$0.51 consensus range by a substantial amount, even though the preview described Q3 as largely de-risked.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS of $0.41.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS: $0.50 \u2013 $0.51.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "Q3 revenue was $293.3 million, below the $303.7\u2013$305.2 million consensus range, though still within the company\u2019s $290\u2013320 million guidance. Safe harbor revenue was higher than the preview\u2019s estimate, at $85 million versus about $75 million.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $293.3 million, including $85 million of safe harbor revenue.\u201d",
+      "expectation_evidence": "\u201cRevenue: $303.7M \u2013 $305.2M\u201d; \u201cQ3 includes ~$75M Safe Harbor.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Q3 core revenue was about $208.3 million after subtracting $85 million of safe harbor revenue, well short of the preview\u2019s roughly $230 million core-revenue expectation. The higher-than-expected safe harbor contribution therefore did not prevent a sizable core shortfall.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $293.3 million, including $85 million of safe harbor revenue.\u201d",
+      "expectation_evidence": "\u201cQ3 guided core is ~$230M, +10% q/q.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Global Q3 sell-through grew only 1%, versus an expectation of roughly 10%. U.S. sell-through was down 35% year over year, a steep decline that continued amid higher interest rates and the 25D tax-credit expiration.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 sell-through grew only 1% globally versus an original expectation of ~10%\u201d; \u201cU.S. sell-through down 35% year-over-year amid higher interest rates and expiry of the 25D tax credit.\u201d",
+      "expectation_evidence": "The call says the original expectation was \u201c~10%.\u201d The preview also said to watch whether U.S. undershipment would widen or close as demand stabilized.",
+      "expectation_source": "call",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Management plans to ship about $20 million below sell-through in Q4 to reduce channel inventory, extending the deliberate undershipment approach the preview had flagged for Q3. Management put the normalized core quarterly run-rate at roughly $190\u2013200 million ex-safe harbor.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to intentionally ship ~$20 million below sell-through in Q4 to reduce channel inventory, implying a normalized core quarterly run-rate of roughly $190-200 million ex-safe harbor.\u201d",
+      "expectation_evidence": "\u201cManagement guided to ~$15M of deliberate undershipment in Q3 to protect channel inventory. Watch: does undershipment widen (demand worse than modeled) or close (stabilization)?\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Q4 non-GAAP gross-margin guidance of 40\u201343% implies a sequential decline from Q3\u2019s 45% and is below the preview\u2019s stated 44\u201347% company gross-margin guidance. Management attributed the lower range to product mix, an 8\u20139% U.S. battery list-price cut to distributors, and higher freight costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 non-GAAP gross margin guidance of 40-43% reflects sequential decline driven by product mix, an 8-9% U.S. battery list price cut to distributors, and higher freight costs.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP gross margin: ~45\u201346%\u201d; \u201cCompany Guidance: 44\u201347% (incl. ~2pt tariff).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Propel originations rose to over 300 per week and expanded to 13 states, ahead of the preview\u2019s target of 12 states by the end of Q3 and up from about 200 weekly originations in Q2. The reported run-rate is progress, though still below the preview\u2019s 500-per-week year-end target.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPropel prepaid-lease originations grew to over 300 per week (from ~200 in Q2), now in 13 states with ~350 participating installers.\u201d",
+      "expectation_evidence": "\u201cExit Q2: 6 states, ~200 originations/week\u201d; \u201cTargets: 12 states by end of Q3, 500/week by year-end.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Management described 2027 as roughly $200 million of core revenue per quarter plus roughly $200 million of incremental growth-driver revenue, a more specific and ambitious framing than the preview provided. The company emphasized that this was not formal 2027 guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement framed 2027 as ~$200 million core revenue per quarter plus roughly $200 million of incremental growth-driver revenue, though no formal 2027 guidance was issued.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Management quantified battery growth beyond the preview\u2019s focus on near-term shipments: 2026 shipments are expected to total about 450 MWh, with roughly 50% growth to 675 MWh in 2027. The stated U.S. battery share of only 15\u201320%, compared with about 50% for solar inverters, also indicates substantial room to grow.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cResidential battery shipments are expected to total ~450 MWh in 2026 and grow ~50% to ~675 MWh in 2027, with U.S. battery market share currently only 15-20% versus ~50% share in solar inverters.\u201d",
+      "expectation_evidence": "The preview focused on Q3 battery shipments of \u201c130\u2013150 MWh\u201d and described storage as \u201cthe structural offset to lost solar-only demand,\u201d but did not provide a 2027 shipment outlook.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "Management set a target for commercial revenue to rise from about $30 million in 2026 to more than $100 million in 2027, with a long-term ambition of 40% U.S. small-commercial market share. This commercial growth target and the stated roughly $250 million annual opportunity were not covered in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommercial revenue of ~$30 million in 2026 is targeted to grow to over $100 million in 2027, with a long-term ambition of 40% U.S. small commercial market share representing a ~$250 million annual opportunity.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 11,
+      "description": "The SST update added a pipeline of 50-plus potential customers and a target of $1 billion in annual revenue by 2030, details the preview had not reported. This is more specific commercial potential than a vague reiteration, but the reported pipeline consists of potential customers rather than the named, counterparty-backed commitment the preview was watching for.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe IQ SST data center product achieved a 13.8 kV AC to 800 VDC demonstration, has a pipeline of 50+ potential customers, and is targeted to reach $1 billion in annual revenue by 2030, with pilots in 2027 and commercial shipments in 2028.\u201d",
+      "expectation_evidence": "The preview said management converting the SST narrative into \u201ca dated, counterparty-backed commitment\u201d was the biggest upside lever, and noted there was \u201cno disclosed TAM, pricing, or customer.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

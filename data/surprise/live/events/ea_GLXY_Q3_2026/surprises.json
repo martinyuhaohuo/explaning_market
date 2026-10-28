@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Galaxy\u2019s adjusted gross profit of $569 million exceeded the preview\u2019s roughly $510 million base estimate, and adjusted EBITDA of $455 million beat its roughly $370 million estimate. The $323 million net income confirmed the expected return to profitability; the larger-than-modeled results were driven in part by an especially strong Treasury & Corporate contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net income of $323 million, adjusted gross profit of $569 million, and adjusted EBITDA of $455 million.\u201d",
+      "expectation_evidence": "\u201cFirm-wide adj. gross profit \u2026 ~$510\u201d; \u201cFirm-wide adj. EBITDA \u2026 ~$370\u201d; the quarter \u201cshould be Galaxy\u2019s first clearly profitable quarter of 2026.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Treasury & Corporate produced $419 million of adjusted gross profit, well above the preview\u2019s approximately $300 million estimate, swinging from a $42 million loss in Q2. The preview anticipated a large mark-to-market gain, but the reported contribution was substantially larger than its estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Treasury and Corporate segment generated $419 million of adjusted gross profit, swinging from a $42 million loss in Q2, driven by appreciation in digital asset holdings and private investments like Etched and Forward Industries.\u201d",
+      "expectation_evidence": "\u201cTreasury & Corporate \u2026 ~$300\u201d from \u201cMark-to-market on ~$1.16B net digital assets.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said it abandoned an advanced Helios II leasing deal during the summer and is now pursuing investment-grade hyperscalers. That removes a near-term advanced deal from the picture, even as the new tenant focus emphasizes credit quality and the asset has over 800 MW of secured power with a mid-2028 energization target.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement walked away from an advanced Helios II leasing deal during the summer due to shifting market dynamics, and now targets investment-grade hyperscalers for an asset with over 800 megawatts of secured power and a mid-2028 energization timeline.\u201d",
+      "expectation_evidence": "\u201cAny non-CoreWeave lease or LOI is the highest-convexity surprise available\u201d; the preview also identified Q2'27 Phase II delivery as a date to monitor.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Galaxy gave a substantial forward leasing milestone not quantified in the preview: it expects to exit 2027 at an annualized leasing revenue run rate of $800 million to $850 million as Phase 2 comes online. This adds more specific revenue-ramp guidance beyond the preview\u2019s focus on Phase I\u2019s quarterly rent.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects to exit 2027 at an annualized leasing revenue run rate of $800 million to $850 million as Phase 2 comes online.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Capital spending accelerated to about $757 million from $448 million in Q2, and management anticipates significant remaining Phase II construction spending in the first half of 2027. The preview said rising capex was acceptable if Phase II remained funded, but did not indicate this level or the concentration of spending in early 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCapital expenditures rose to approximately $757 million in Q3 from $448 million in Q2, with a significant portion of remaining Phase II construction spending anticipated in the first half of 2027.\u201d",
+      "expectation_evidence": "\u201cQuarterly Helios capex \u2026 $448M\u201d; \u201cRising is fine if Phase II stays \u2018100% funded\u2019\u201d; the preview flagged the risk that capex could outrun the funded envelope.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Galaxy had $4.9 billion of cash, stablecoins and treasury bills, far above the preview\u2019s stated cash threshold of at least $2.3 billion. The increase was supported by a $3.5 billion financing for Helios Phase II, so the stronger liquidity position came with project financing rather than being solely an operating cash build.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGalaxy ended the quarter with approximately $4.9 billion of cash, stablecoins and treasury bills (up from $2.5 billion), boosted by a $3.5 billion financing completed to fund Helios Phase II.\u201d",
+      "expectation_evidence": "\u201cCash \u2265$2.3B after ~$450M+/qtr capex\u201d; the preview also referred to \u201c$3.5B of Helios II senior secured project notes.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Galaxy reported $200 million of year-to-date repurchases and authorized another $200 million, with buybacks more than offsetting equity-compensation dilution. The preview did not flag this capital return activity, particularly notable alongside substantial Helios construction spending.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company repurchased $200 million of stock year-to-date and announced an additional $200 million share repurchase authorization, with buybacks more than offsetting equity compensation dilution.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Digital asset trading volumes grew 12% quarter over quarter even as broader spot-market volumes declined, indicating relative trading resilience. The preview expected volumes to expand in a rally, but did not anticipate outperformance against falling broader spot volumes.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDigital asset trading volumes grew 12% quarter-over-quarter while broader spot market volumes declined.\u201d",
+      "expectation_evidence": "The preview described \u201cvolumes/loan book expand in rallies\u201d as a driver of Digital Assets performance.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Assets under stake and assets under management reached a combined $10.5 billion, above the preview\u2019s expectation that they would re-inflate toward $9\u201310 billion. However, fee growth was more modest than the balance growth because reported AUM included capital added late in the quarter, limiting the immediate revenue benefit.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAssets under stake grew 64% to $4.6 billion and assets under management rose over 30% to $5.9 billion, though fee growth was more modest since reported AUM reflects quarter-end balances including late-period capital.\u201d",
+      "expectation_evidence": "\u201cAUM + assets under stake \u2026 Re-inflates toward $9\u201310B on price + BNY ramp.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Galaxy\u2019s adjusted gross profit of $569 million exceeded the preview\u2019s roughly $510 million base estimate, and adjusted EBITDA of $455 million beat its roughly $370 million estimate. The $323 million net income confirmed the expected return to profitability; the larger-than-modeled results were driven in part by an especially strong Treasury & Corporate contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net income of $323 million, adjusted gross profit of $569 million, and adjusted EBITDA of $455 million.\u201d",
+      "expectation_evidence": "\u201cFirm-wide adj. gross profit \u2026 ~$510\u201d; \u201cFirm-wide adj. EBITDA \u2026 ~$370\u201d; the quarter \u201cshould be Galaxy\u2019s first clearly profitable quarter of 2026.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "Treasury & Corporate produced $419 million of adjusted gross profit, well above the preview\u2019s approximately $300 million estimate, swinging from a $42 million loss in Q2. The preview anticipated a large mark-to-market gain, but the reported contribution was substantially larger than its estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Treasury and Corporate segment generated $419 million of adjusted gross profit, swinging from a $42 million loss in Q2, driven by appreciation in digital asset holdings and private investments like Etched and Forward Industries.\u201d",
+      "expectation_evidence": "\u201cTreasury & Corporate \u2026 ~$300\u201d from \u201cMark-to-market on ~$1.16B net digital assets.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Management said it abandoned an advanced Helios II leasing deal during the summer and is now pursuing investment-grade hyperscalers. That removes a near-term advanced deal from the picture, even as the new tenant focus emphasizes credit quality and the asset has over 800 MW of secured power with a mid-2028 energization target.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement walked away from an advanced Helios II leasing deal during the summer due to shifting market dynamics, and now targets investment-grade hyperscalers for an asset with over 800 megawatts of secured power and a mid-2028 energization timeline.\u201d",
+      "expectation_evidence": "\u201cAny non-CoreWeave lease or LOI is the highest-convexity surprise available\u201d; the preview also identified Q2'27 Phase II delivery as a date to monitor.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 3,
+      "description": "Galaxy gave a substantial forward leasing milestone not quantified in the preview: it expects to exit 2027 at an annualized leasing revenue run rate of $800 million to $850 million as Phase 2 comes online. This adds more specific revenue-ramp guidance beyond the preview\u2019s focus on Phase I\u2019s quarterly rent.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects to exit 2027 at an annualized leasing revenue run rate of $800 million to $850 million as Phase 2 comes online.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Capital spending accelerated to about $757 million from $448 million in Q2, and management anticipates significant remaining Phase II construction spending in the first half of 2027. The preview said rising capex was acceptable if Phase II remained funded, but did not indicate this level or the concentration of spending in early 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCapital expenditures rose to approximately $757 million in Q3 from $448 million in Q2, with a significant portion of remaining Phase II construction spending anticipated in the first half of 2027.\u201d",
+      "expectation_evidence": "\u201cQuarterly Helios capex \u2026 $448M\u201d; \u201cRising is fine if Phase II stays \u2018100% funded\u2019\u201d; the preview flagged the risk that capex could outrun the funded envelope.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 5,
+      "description": "Galaxy had $4.9 billion of cash, stablecoins and treasury bills, far above the preview\u2019s stated cash threshold of at least $2.3 billion. The increase was supported by a $3.5 billion financing for Helios Phase II, so the stronger liquidity position came with project financing rather than being solely an operating cash build.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGalaxy ended the quarter with approximately $4.9 billion of cash, stablecoins and treasury bills (up from $2.5 billion), boosted by a $3.5 billion financing completed to fund Helios Phase II.\u201d",
+      "expectation_evidence": "\u201cCash \u2265$2.3B after ~$450M+/qtr capex\u201d; the preview also referred to \u201c$3.5B of Helios II senior secured project notes.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Galaxy reported $200 million of year-to-date repurchases and authorized another $200 million, with buybacks more than offsetting equity-compensation dilution. The preview did not flag this capital return activity, particularly notable alongside substantial Helios construction spending.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company repurchased $200 million of stock year-to-date and announced an additional $200 million share repurchase authorization, with buybacks more than offsetting equity compensation dilution.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "Digital asset trading volumes grew 12% quarter over quarter even as broader spot-market volumes declined, indicating relative trading resilience. The preview expected volumes to expand in a rally, but did not anticipate outperformance against falling broader spot volumes.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDigital asset trading volumes grew 12% quarter-over-quarter while broader spot market volumes declined.\u201d",
+      "expectation_evidence": "The preview described \u201cvolumes/loan book expand in rallies\u201d as a driver of Digital Assets performance.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Assets under stake and assets under management reached a combined $10.5 billion, above the preview\u2019s expectation that they would re-inflate toward $9\u201310 billion. However, fee growth was more modest than the balance growth because reported AUM included capital added late in the quarter, limiting the immediate revenue benefit.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAssets under stake grew 64% to $4.6 billion and assets under management rose over 30% to $5.9 billion, though fee growth was more modest since reported AUM reflects quarter-end balances including late-period capital.\u201d",
+      "expectation_evidence": "\u201cAUM + assets under stake \u2026 Re-inflates toward $9\u201310B on price + BNY ramp.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

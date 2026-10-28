@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected 2027 Core FFO of roughly $3.15\u2013$3.20, based on a 2%\u20133% growth algorithm. DEA instead guided to $3.09\u2013$3.17, or roughly 1% growth at the midpoint, citing the FAA move-out and refinancing pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInitial 2027 core FFO guidance of $3.09-$3.17 implies only roughly 1% growth at the midpoint, with headwinds from the FAA Chicago move-out and loan refinancing pressure.\u201d",
+      "expectation_evidence": "\u201cAssume the Street is anchored ~$3.15\u2013$3.20\u201d; management\u2019s 2%\u20133% growth algorithm implied \u201c$3.16\u2013$3.19.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview flagged dividend coverage as a concern, citing a payout ratio of about 83% of Q2 cash available for distribution. Q3 CAD was higher and the payout ratio was near 67%, better coverage than the preview led investors to expect.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash available for distribution rose to $32.8 million with a payout ratio near 67%,\u201d compared with \u201c$23.9 million and a 117% payout ratio in Q3 2023.\u201d",
+      "expectation_evidence": "\u201c$0.45/quarter \u2026 against Q2 CAD of $25.8M \u2014 roughly 83% of CAD\u201d; \u201cCovered, but not comfortably.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 revenue exceeded the preview\u2019s $91.72 million consensus estimate, reaching $93.6 million. This was a modest beat even though year-over-year growth was below the preview\u2019s estimated 11.6%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal revenue grew 8.7% year-over-year to $93.6 million.\u201d",
+      "expectation_evidence": "\u201cTotal revenue | Q3'26 Consensus | $91.72M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview treated the FAA lease as expiring in October 2026 and said holdover income was possible but not part of the base case. DEA secured an extension through April 20, 2027, with six months firm; the tenant is still expected to leave afterward and the asset is under contract for sale.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FAA Chicago lease was extended 9 months (6 months firm) through April 20, 2027, after which the tenant is still expected to vacate and the asset is under contract for sale.\u201d",
+      "expectation_evidence": "\u201cThe FAA lease (expires October 2026)\u201d; management had said \u201cnot to model renewal revenue,\u201d while holdover income was described as \u201cpossible upside, not base case.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected FY26 guidance to narrow into the upper half, around $3.10\u2013$3.13. DEA raised only the low end by a penny, leaving the upper end unchanged, so the increase was smaller than anticipated.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 core FFO guidance was raised at the low end to $3.08-$3.13 (from $3.07-$3.13).\u201d",
+      "expectation_evidence": "\u201cA narrow to the upper half ($3.10\u2013$3.13) is the tell that Q4 is tracking fine.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Bedford construction loan was repaid early, an event the preview did not flag, and the repayment removes about $0.02 per share from 2027 expectations. Using the proceeds to reduce the revolver does not offset that stated earnings headwind.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe $35.6 million Bedford construction loan was repaid early in September, removing approximately $0.02 per share from 2027 expectations, with proceeds used to pay down the revolver.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "DEA reported a sharp reduction in the share of operating income exposed to leases with early termination rights, a portfolio risk improvement the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company reduced its portfolio with early termination (soft term) rights to 2.3% of annualized operating income, down from 5.2% at year-end 2024.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected 2027 Core FFO of roughly $3.15\u2013$3.20, based on a 2%\u20133% growth algorithm. DEA instead guided to $3.09\u2013$3.17, or roughly 1% growth at the midpoint, citing the FAA move-out and refinancing pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInitial 2027 core FFO guidance of $3.09-$3.17 implies only roughly 1% growth at the midpoint, with headwinds from the FAA Chicago move-out and loan refinancing pressure.\u201d",
+      "expectation_evidence": "\u201cAssume the Street is anchored ~$3.15\u2013$3.20\u201d; management\u2019s 2%\u20133% growth algorithm implied \u201c$3.16\u2013$3.19.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "The preview flagged dividend coverage as a concern, citing a payout ratio of about 83% of Q2 cash available for distribution. Q3 CAD was higher and the payout ratio was near 67%, better coverage than the preview led investors to expect.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash available for distribution rose to $32.8 million with a payout ratio near 67%,\u201d compared with \u201c$23.9 million and a 117% payout ratio in Q3 2023.\u201d",
+      "expectation_evidence": "\u201c$0.45/quarter \u2026 against Q2 CAD of $25.8M \u2014 roughly 83% of CAD\u201d; \u201cCovered, but not comfortably.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 2,
+      "description": "Q3 revenue exceeded the preview\u2019s $91.72 million consensus estimate, reaching $93.6 million. This was a modest beat even though year-over-year growth was below the preview\u2019s estimated 11.6%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal revenue grew 8.7% year-over-year to $93.6 million.\u201d",
+      "expectation_evidence": "\u201cTotal revenue | Q3'26 Consensus | $91.72M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "The preview treated the FAA lease as expiring in October 2026 and said holdover income was possible but not part of the base case. DEA secured an extension through April 20, 2027, with six months firm; the tenant is still expected to leave afterward and the asset is under contract for sale.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FAA Chicago lease was extended 9 months (6 months firm) through April 20, 2027, after which the tenant is still expected to vacate and the asset is under contract for sale.\u201d",
+      "expectation_evidence": "\u201cThe FAA lease (expires October 2026)\u201d; management had said \u201cnot to model renewal revenue,\u201d while holdover income was described as \u201cpossible upside, not base case.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 4,
+      "description": "The preview expected FY26 guidance to narrow into the upper half, around $3.10\u2013$3.13. DEA raised only the low end by a penny, leaving the upper end unchanged, so the increase was smaller than anticipated.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 core FFO guidance was raised at the low end to $3.08-$3.13 (from $3.07-$3.13).\u201d",
+      "expectation_evidence": "\u201cA narrow to the upper half ($3.10\u2013$3.13) is the tell that Q4 is tracking fine.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The Bedford construction loan was repaid early, an event the preview did not flag, and the repayment removes about $0.02 per share from 2027 expectations. Using the proceeds to reduce the revolver does not offset that stated earnings headwind.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe $35.6 million Bedford construction loan was repaid early in September, removing approximately $0.02 per share from 2027 expectations, with proceeds used to pay down the revolver.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "DEA reported a sharp reduction in the share of operating income exposed to leases with early termination rights, a portfolio risk improvement the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company reduced its portfolio with early termination (soft term) rights to 2.3% of annualized operating income, down from 5.2% at year-end 2024.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

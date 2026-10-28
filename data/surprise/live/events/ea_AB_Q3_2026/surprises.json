@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected AllianceBernstein\u2019s adjusted revenue and EPU (about $885M and $0.85), but the call reports Indian cement sales and volumes in rupees and tonnes. These are not comparable results, so the preview provides no usable baseline for most of the reported figures.",
+      "direction": "unclear",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ2 net sales rose 21% YoY to INR 3,561 crores\u201d and H1 grey cement volumes rose to \u201c11.3 million tonnes.\u201d",
+      "expectation_evidence": "\u201cAdj. net revenues\u201d of \u201c~$885M\u201d and \u201cAdj. diluted EPU\u201d of \u201c~$0.85.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite 21% H1 sales growth and 19.38% volume growth, H1 EBITDA grew only 2%, while Q2 EBITDA fell sequentially. The preview\u2019s AB earnings estimates do not anticipate this cement cost-versus-realization pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDespite strong volumes, H1 EBITDA grew only 2% to INR 1,138 crores as cost increases outpaced realizations,\u201d and \u201cQ2 EBITDA [fell] to INR 500 crores from INR 639 crores in the prior quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management expects fuel costs to rise further, adding roughly INR 80\u2013100 per tonne in both Q3 and Q4, with the full impact in Q4. The preview instead discusses AB\u2019s fees, AUM, and expenses and contains no expectation of this cost pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Fuel cost is \u201cexpected to climb toward INR 2.00,\u201d with a power-and-fuel cost impact of \u201croughly INR 80-100 per tonne in both Q3 and Q4, with the full impact in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management reaffirmed guidance of 23 million tonnes-plus but would not commit to 24 million tonnes, which some investors expected. The preview contains no cement-volume guidance or discussion of these operating risks.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201creaffirmed FY26 grey cement volume guidance of 23 million tonnes-plus,\u201d while \u201cdeclining to commit to the 24 million tonnes some investors expect.\u201d",
+      "expectation_evidence": "\u201c24 million tonnes some investors expect.\u201d",
+      "expectation_source": "call"
+    },
+    {
+      "description": "Net debt increased, and management now expects it to peak near INR 6,000 crores, with net debt/EBITDA reaching 2.25\u20132.35 around end-FY27. The preview does not discuss this company\u2019s debt or expansion-related leverage.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet debt rose to INR 4,571 crores (from INR 3,370 crores)\u201d and is expected \u201cto peak near INR 6,000 crores\u201d; net debt/EBITDA is \u201cprojected to peak at 2.25-2.35 around end-FY27.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The call lays out substantial expansion spending\u2014INR 3,500 crores this fiscal and roughly INR 2,500 crores annually thereafter\u2014toward 50-million-tonne capacity by FY30. This capital plan is absent from the preview\u2019s expectations.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCapex is INR 3,500 crores in the current fiscal\u201d and is expected to run at \u201croughly INR 2,500 crores annually thereafter toward the 50-million-tonne capacity target by FY30.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The call reports a nascent paint business with Q2 revenue of INR 115 crores and a small EBITDA loss, while retaining FY27 revenue guidance and expecting positive full-year EBITDA. The preview has no paint-business expectations.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Paint generated \u201cINR 115 crores revenue in Q2\u201d with \u201ca small Q2 EBITDA loss of INR 2 crores\u201d; management maintained FY27 revenue guidance of \u201cINR 500-550 crores\u201d and expects \u201cfull-year positive EBITDA.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Cement prices had risen, but management still sees a further INR 10\u201315 per-bag increase as necessary to offset costs and says it may only be achievable after Diwali. The preview does not address cement pricing or this remaining cost-recovery gap.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Prices rose \u201cabout INR 20 per bag from mid-September to mid-October,\u201d but a \u201cfurther INR 10-15 per bag hike is still needed to offset cost pressures, likely only achievable after Diwali.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The call provides commissioning targets for the Jaisalmer and Bikaner facilities, a later target for the Mahan coal block, and rising quarterly incentives\u2014operating details not anticipated in the preview.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Jaisalmer and Bikaner are \u201con track for first-half FY28 commissioning\u201d; Mahan is targeted for \u201cH1 FY29\u201d at \u201cabout INR 1.25 per unit\u201d; quarterly incentives of \u201cINR 45 crores are expected to exceed INR 50 crores.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected AllianceBernstein\u2019s adjusted revenue and EPU (about $885M and $0.85), but the call reports Indian cement sales and volumes in rupees and tonnes. These are not comparable results, so the preview provides no usable baseline for most of the reported figures.",
+      "direction": "unclear",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ2 net sales rose 21% YoY to INR 3,561 crores\u201d and H1 grey cement volumes rose to \u201c11.3 million tonnes.\u201d",
+      "expectation_evidence": "\u201cAdj. net revenues\u201d of \u201c~$885M\u201d and \u201cAdj. diluted EPU\u201d of \u201c~$0.85.\u201d",
+      "expectation_source": "preview",
+      "dimension": "other"
+    },
+    {
+      "position": 1,
+      "description": "Despite 21% H1 sales growth and 19.38% volume growth, H1 EBITDA grew only 2%, while Q2 EBITDA fell sequentially. The preview\u2019s AB earnings estimates do not anticipate this cement cost-versus-realization pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDespite strong volumes, H1 EBITDA grew only 2% to INR 1,138 crores as cost increases outpaced realizations,\u201d and \u201cQ2 EBITDA [fell] to INR 500 crores from INR 639 crores in the prior quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Management expects fuel costs to rise further, adding roughly INR 80\u2013100 per tonne in both Q3 and Q4, with the full impact in Q4. The preview instead discusses AB\u2019s fees, AUM, and expenses and contains no expectation of this cost pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Fuel cost is \u201cexpected to climb toward INR 2.00,\u201d with a power-and-fuel cost impact of \u201croughly INR 80-100 per tonne in both Q3 and Q4, with the full impact in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Management reaffirmed guidance of 23 million tonnes-plus but would not commit to 24 million tonnes, which some investors expected. The preview contains no cement-volume guidance or discussion of these operating risks.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201creaffirmed FY26 grey cement volume guidance of 23 million tonnes-plus,\u201d while \u201cdeclining to commit to the 24 million tonnes some investors expect.\u201d",
+      "expectation_evidence": "\u201c24 million tonnes some investors expect.\u201d",
+      "expectation_source": "call",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Net debt increased, and management now expects it to peak near INR 6,000 crores, with net debt/EBITDA reaching 2.25\u20132.35 around end-FY27. The preview does not discuss this company\u2019s debt or expansion-related leverage.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet debt rose to INR 4,571 crores (from INR 3,370 crores)\u201d and is expected \u201cto peak near INR 6,000 crores\u201d; net debt/EBITDA is \u201cprojected to peak at 2.25-2.35 around end-FY27.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The call lays out substantial expansion spending\u2014INR 3,500 crores this fiscal and roughly INR 2,500 crores annually thereafter\u2014toward 50-million-tonne capacity by FY30. This capital plan is absent from the preview\u2019s expectations.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCapex is INR 3,500 crores in the current fiscal\u201d and is expected to run at \u201croughly INR 2,500 crores annually thereafter toward the 50-million-tonne capacity target by FY30.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "The call reports a nascent paint business with Q2 revenue of INR 115 crores and a small EBITDA loss, while retaining FY27 revenue guidance and expecting positive full-year EBITDA. The preview has no paint-business expectations.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Paint generated \u201cINR 115 crores revenue in Q2\u201d with \u201ca small Q2 EBITDA loss of INR 2 crores\u201d; management maintained FY27 revenue guidance of \u201cINR 500-550 crores\u201d and expects \u201cfull-year positive EBITDA.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "Cement prices had risen, but management still sees a further INR 10\u201315 per-bag increase as necessary to offset costs and says it may only be achievable after Diwali. The preview does not address cement pricing or this remaining cost-recovery gap.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Prices rose \u201cabout INR 20 per bag from mid-September to mid-October,\u201d but a \u201cfurther INR 10-15 per bag hike is still needed to offset cost pressures, likely only achievable after Diwali.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 8,
+      "description": "The call provides commissioning targets for the Jaisalmer and Bikaner facilities, a later target for the Mahan coal block, and rising quarterly incentives\u2014operating details not anticipated in the preview.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Jaisalmer and Bikaner are \u201con track for first-half FY28 commissioning\u201d; Mahan is targeted for \u201cH1 FY29\u201d at \u201cabout INR 1.25 per unit\u201d; quarterly incentives of \u201cINR 45 crores are expected to exceed INR 50 crores.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

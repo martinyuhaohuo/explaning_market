@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 Core FFO was $2.35 per share, $0.02 above the top of company guidance and above the preview\u2019s $2.30\u2013$2.32 buy-side whisper. The call also said this was the third consecutive quarter of beating expectations.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 Core FFO per share was $2.35, exceeding the high end of guidance by $0.02 and marking the third consecutive quarter of beating expectations.\u201d",
+      "expectation_evidence": "\u201cBuy-side is effectively underwriting $2.30\u2013$2.32\u201d; company guidance was \u201c$2.23 \u2013 $2.33.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "RV same-property NOI declined 1.3%, below the preview\u2019s base expectation of roughly flat to positive results for the peak-season quarter. Combined MH and RV NOI growth was 3.6%, below the preview\u2019s roughly 5% North American same-property NOI estimate; full-year RV guidance was narrowed because of higher-than-expected property-specific utility costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRV same-property NOI declined 1.3% in the quarter\u201d; \u201cCombined same-property MH and RV NOI grew 3.6%\u201d; \u201cfull-year RV guidance was narrowed due to higher-than-expected property-specific utility costs.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected RV same-property NOI \u201croughly flat (0% to +1%)\u201d; it also listed North American same-property NOI consensus of \u201c~+5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year Core FFO guidance was narrowed to $6.97\u2013$7.05 per share, with a $7.01 midpoint, rather than the upper-half range the preview expected in its base case. The new range\u2019s midpoint is slightly below the prior $7.02 midpoint, though it remains within the prior $6.94\u2013$7.10 range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cUpdated full-year 2026 Core FFO guidance is $6.97 to $7.05 per share,\u201d reflecting removal of the U.K. contribution partially offset by higher same-property NOI, buybacks, and acquisitions.",
+      "expectation_evidence": "The preview\u2019s base case expected FY guidance to be narrowed to the \u201cupper half ($7.02\u2013$7.10)\u201d; the prior company range was \u201c$6.94 \u2013 $7.10.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company disclosed a 2027 earnings headwind from the sale of three Fort Myers RV communities: about $10 million of Hurricane Ian business-interruption income will not recur, and redeployment of the sale proceeds only partially offsets it. The preview flagged possible 2027 dilution from RV dispositions but did not anticipate this specific lost income.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe sale of 3 Fort Myers RV communities for $127 million eliminates ~$10 million of Hurricane Ian business interruption income that will not recur in 2027, only partially offset by redeployment of proceeds.\u201d",
+      "expectation_evidence": "The preview flagged \u201cany quantified 2027 dilution figure from UK + RV dispositions\u201d as something to watch, but did not identify this Hurricane Ian income headwind.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company reported stronger 2027 rent increases than the preview quantified: MH increases are approximately 5.4%, 40 basis points above last year, and annual RV increases are approximately 4.4%. The preview identified 2027 rent notices as an important indicator but gave no expected rates.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 rental rate increases are set above 2026 levels at approximately 5.4% for MH (40 bps higher than last year) and 4.4% for annual RV.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "MH demand indicators offered an unexpectedly strong forward signal: website traffic was up about 50% year over year and generated more than 20 applications per available site. The preview focused on occupancy and rent notices, not this level of web traffic or applications.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMH website traffic rose approximately 50% year-over-year, translating to over 20 applications per available site,\u201d while residents stay \u201can average of 10 years or longer.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Capital deployment was substantial across both buybacks and debt repayment. Year-to-date repurchases reached $544 million versus the preview\u2019s approximately $425 million through September 21, while the company also reported nearly $450 million of debt paydown; this was less exclusively buyback-focused than the preview said buy-side investors wanted.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$544 million of share repurchases year-to-date (~$293M in Q3, ~$80M after quarter end) and nearly $450 million of debt paydown.\u201d",
+      "expectation_evidence": "The preview reported \u201c3.5M shares repurchased for ~$425M\u201d through September 21 and said \u201cBuy-side wants buyback\u201d for the U.K. proceeds.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 Core FFO was $2.35 per share, $0.02 above the top of company guidance and above the preview\u2019s $2.30\u2013$2.32 buy-side whisper. The call also said this was the third consecutive quarter of beating expectations.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 Core FFO per share was $2.35, exceeding the high end of guidance by $0.02 and marking the third consecutive quarter of beating expectations.\u201d",
+      "expectation_evidence": "\u201cBuy-side is effectively underwriting $2.30\u2013$2.32\u201d; company guidance was \u201c$2.23 \u2013 $2.33.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "RV same-property NOI declined 1.3%, below the preview\u2019s base expectation of roughly flat to positive results for the peak-season quarter. Combined MH and RV NOI growth was 3.6%, below the preview\u2019s roughly 5% North American same-property NOI estimate; full-year RV guidance was narrowed because of higher-than-expected property-specific utility costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRV same-property NOI declined 1.3% in the quarter\u201d; \u201cCombined same-property MH and RV NOI grew 3.6%\u201d; \u201cfull-year RV guidance was narrowed due to higher-than-expected property-specific utility costs.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected RV same-property NOI \u201croughly flat (0% to +1%)\u201d; it also listed North American same-property NOI consensus of \u201c~+5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Full-year Core FFO guidance was narrowed to $6.97\u2013$7.05 per share, with a $7.01 midpoint, rather than the upper-half range the preview expected in its base case. The new range\u2019s midpoint is slightly below the prior $7.02 midpoint, though it remains within the prior $6.94\u2013$7.10 range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cUpdated full-year 2026 Core FFO guidance is $6.97 to $7.05 per share,\u201d reflecting removal of the U.K. contribution partially offset by higher same-property NOI, buybacks, and acquisitions.",
+      "expectation_evidence": "The preview\u2019s base case expected FY guidance to be narrowed to the \u201cupper half ($7.02\u2013$7.10)\u201d; the prior company range was \u201c$6.94 \u2013 $7.10.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The company disclosed a 2027 earnings headwind from the sale of three Fort Myers RV communities: about $10 million of Hurricane Ian business-interruption income will not recur, and redeployment of the sale proceeds only partially offsets it. The preview flagged possible 2027 dilution from RV dispositions but did not anticipate this specific lost income.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe sale of 3 Fort Myers RV communities for $127 million eliminates ~$10 million of Hurricane Ian business interruption income that will not recur in 2027, only partially offset by redeployment of proceeds.\u201d",
+      "expectation_evidence": "The preview flagged \u201cany quantified 2027 dilution figure from UK + RV dispositions\u201d as something to watch, but did not identify this Hurricane Ian income headwind.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "The company reported stronger 2027 rent increases than the preview quantified: MH increases are approximately 5.4%, 40 basis points above last year, and annual RV increases are approximately 4.4%. The preview identified 2027 rent notices as an important indicator but gave no expected rates.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 rental rate increases are set above 2026 levels at approximately 5.4% for MH (40 bps higher than last year) and 4.4% for annual RV.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "MH demand indicators offered an unexpectedly strong forward signal: website traffic was up about 50% year over year and generated more than 20 applications per available site. The preview focused on occupancy and rent notices, not this level of web traffic or applications.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMH website traffic rose approximately 50% year-over-year, translating to over 20 applications per available site,\u201d while residents stay \u201can average of 10 years or longer.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Capital deployment was substantial across both buybacks and debt repayment. Year-to-date repurchases reached $544 million versus the preview\u2019s approximately $425 million through September 21, while the company also reported nearly $450 million of debt paydown; this was less exclusively buyback-focused than the preview said buy-side investors wanted.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$544 million of share repurchases year-to-date (~$293M in Q3, ~$80M after quarter end) and nearly $450 million of debt paydown.\u201d",
+      "expectation_evidence": "The preview reported \u201c3.5M shares repurchased for ~$425M\u201d through September 21 and said \u201cBuy-side wants buyback\u201d for the U.K. proceeds.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

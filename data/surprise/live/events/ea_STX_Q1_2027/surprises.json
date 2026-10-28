@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "December revenue guidance of $4.8 billion is above the $4.49 billion consensus and within the preview\u2019s $4.7\u20134.9 billion base case, but below its $4.9\u20135.1 billion WDC-implied bar. The guide is therefore solid against consensus but short of the more demanding expectation the preview said mattered most.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDecember quarter guidance calls for revenue of $4.8 billion (plus or minus $100 million).\u201d",
+      "expectation_evidence": "\u201cWDC's guide implies the real bar is $4.9\u20135.1B\u201d; \u201cBase \u2026 $4.7\u20134.9B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "December EPS guidance of $9.20 exceeds the preview\u2019s key threshold of $9.00 and the $8.38 consensus, although it falls just short of the preview\u2019s bull-case threshold of $9.25. That makes the EPS outlook better than the stated central bar, even as the revenue guide misses the WDC-implied range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDecember quarter guidance calls for \u2026 non-GAAP EPS of $9.20 (plus or minus $0.20).\u201d",
+      "expectation_evidence": "\u201cEPS north of $9.00\u201d; \u201cEPS \u2265$9.25\u201d in the bull scenario.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "September-quarter gross and operating margins came in modestly above the preview\u2019s ranges: gross margin was 57.8% versus 56\u201357% expected, and operating margin was 50.7% versus 49\u201350%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNon-GAAP gross margin expanded 510 basis points sequentially to a record 57.8%, while operating margin rose 610 basis points to 50.7%.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP gross margin \u2026 ~56\u201357%\u201d; \u201cNon-GAAP operating margin \u2026 ~49\u201350%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Seagate\u2019s balance sheet outlook is stronger than the preview\u2019s expectation of continued deleveraging: it regained investment-grade status and expects to exit the calendar year net cash positive, rather than merely around the preview\u2019s cited 0.4x net leverage baseline.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSeagate regained investment-grade status, reduced principal debt to approximately $1.6 billion after October repayments, and expects to be net cash positive exiting the calendar year with net leverage of 0.2x.\u201d",
+      "expectation_evidence": "\u201cCommitted to ~$1.2B of debt retirement in the September quarter\u201d; \u201cNet debt ~0.4x EBITDA.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company plans a significant step-up in share repurchases starting in the March quarter, a more concrete and aggressive buyback plan than the preview\u2019s open question about the pace of buybacks after debt repayment. The 3% dividend increase itself was in line with the preview\u2019s expectation of a dividend action.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to significantly step up share repurchases starting the March quarter toward its 75% free cash flow return model, with $4.4 billion remaining on authorization.\u201d",
+      "expectation_evidence": "\u201cCapital returns \u2014 FCF \u2026 buyback pace post the $1.2B debt retirement, and any dividend action. WDC raised its dividend \u2026 a matching move would help.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Contract coverage remains centered on calendar 2028, rather than broadly extending into 2029 or 2030 as the preview hoped, but some cloud agreements do extend to 2030. This is a partial extension, not the broad horizon change the preview identified as a potential rebuttal to oversupply concerns.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe vast majority of nearline exabyte supply is allocated under long-term agreements through calendar 2028 with some cloud agreements extending to 2030.\u201d",
+      "expectation_evidence": "\u201c\u2018Allocated into 2028\u2019 needs to become \u20182029\u2019 or \u20182030\u2019\u201d; \u201cif the language is unchanged, bears will call it a stall.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The September quarter generated record free cash flow of nearly $1.5 billion, well above the prior quarter\u2019s $1.1 billion level that the preview highlighted while asking about cash generation and capital returns. The preview did not provide a specific Q1 free-cash-flow forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord free cash flow of nearly $1.5 billion, up 32% sequentially and more than tripling year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management disclosed that external component-cost increases are partly offsetting internal cost declines, a cost headwind, while saying those increases are being passed through via pricing. The preview focused on pricing upside and margin progression but did not anticipate this specific cost-and-pass-through detail.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cHigher external component costs are partially offsetting internal cost declines but are being passed through via pricing.\u201d",
+      "expectation_evidence": "\u201cPricing per terabyte / price-per-exabyte commentary\u201d; \u201cAny quantification of realized price increases \u2014 or evidence that LTAs are being repriced \u2014 is the cleanest read on whether the margin story has another leg.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Seagate demonstrated 8TB per disk in the lab, a technical milestone not anticipated in the preview. The preview discussed the Mozaic 4 ramp but did not mention this higher-density lab demonstration.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDemonstrated 8TB per disk in the lab.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "December revenue guidance of $4.8 billion is above the $4.49 billion consensus and within the preview\u2019s $4.7\u20134.9 billion base case, but below its $4.9\u20135.1 billion WDC-implied bar. The guide is therefore solid against consensus but short of the more demanding expectation the preview said mattered most.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDecember quarter guidance calls for revenue of $4.8 billion (plus or minus $100 million).\u201d",
+      "expectation_evidence": "\u201cWDC's guide implies the real bar is $4.9\u20135.1B\u201d; \u201cBase \u2026 $4.7\u20134.9B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "December EPS guidance of $9.20 exceeds the preview\u2019s key threshold of $9.00 and the $8.38 consensus, although it falls just short of the preview\u2019s bull-case threshold of $9.25. That makes the EPS outlook better than the stated central bar, even as the revenue guide misses the WDC-implied range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDecember quarter guidance calls for \u2026 non-GAAP EPS of $9.20 (plus or minus $0.20).\u201d",
+      "expectation_evidence": "\u201cEPS north of $9.00\u201d; \u201cEPS \u2265$9.25\u201d in the bull scenario.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "September-quarter gross and operating margins came in modestly above the preview\u2019s ranges: gross margin was 57.8% versus 56\u201357% expected, and operating margin was 50.7% versus 49\u201350%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNon-GAAP gross margin expanded 510 basis points sequentially to a record 57.8%, while operating margin rose 610 basis points to 50.7%.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP gross margin \u2026 ~56\u201357%\u201d; \u201cNon-GAAP operating margin \u2026 ~49\u201350%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Seagate\u2019s balance sheet outlook is stronger than the preview\u2019s expectation of continued deleveraging: it regained investment-grade status and expects to exit the calendar year net cash positive, rather than merely around the preview\u2019s cited 0.4x net leverage baseline.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSeagate regained investment-grade status, reduced principal debt to approximately $1.6 billion after October repayments, and expects to be net cash positive exiting the calendar year with net leverage of 0.2x.\u201d",
+      "expectation_evidence": "\u201cCommitted to ~$1.2B of debt retirement in the September quarter\u201d; \u201cNet debt ~0.4x EBITDA.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 4,
+      "description": "The company plans a significant step-up in share repurchases starting in the March quarter, a more concrete and aggressive buyback plan than the preview\u2019s open question about the pace of buybacks after debt repayment. The 3% dividend increase itself was in line with the preview\u2019s expectation of a dividend action.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to significantly step up share repurchases starting the March quarter toward its 75% free cash flow return model, with $4.4 billion remaining on authorization.\u201d",
+      "expectation_evidence": "\u201cCapital returns \u2014 FCF \u2026 buyback pace post the $1.2B debt retirement, and any dividend action. WDC raised its dividend \u2026 a matching move would help.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 5,
+      "description": "Contract coverage remains centered on calendar 2028, rather than broadly extending into 2029 or 2030 as the preview hoped, but some cloud agreements do extend to 2030. This is a partial extension, not the broad horizon change the preview identified as a potential rebuttal to oversupply concerns.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe vast majority of nearline exabyte supply is allocated under long-term agreements through calendar 2028 with some cloud agreements extending to 2030.\u201d",
+      "expectation_evidence": "\u201c\u2018Allocated into 2028\u2019 needs to become \u20182029\u2019 or \u20182030\u2019\u201d; \u201cif the language is unchanged, bears will call it a stall.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 6,
+      "description": "The September quarter generated record free cash flow of nearly $1.5 billion, well above the prior quarter\u2019s $1.1 billion level that the preview highlighted while asking about cash generation and capital returns. The preview did not provide a specific Q1 free-cash-flow forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord free cash flow of nearly $1.5 billion, up 32% sequentially and more than tripling year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 7,
+      "description": "Management disclosed that external component-cost increases are partly offsetting internal cost declines, a cost headwind, while saying those increases are being passed through via pricing. The preview focused on pricing upside and margin progression but did not anticipate this specific cost-and-pass-through detail.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cHigher external component costs are partially offsetting internal cost declines but are being passed through via pricing.\u201d",
+      "expectation_evidence": "\u201cPricing per terabyte / price-per-exabyte commentary\u201d; \u201cAny quantification of realized price increases \u2014 or evidence that LTAs are being repriced \u2014 is the cleanest read on whether the margin story has another leg.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 8,
+      "description": "Seagate demonstrated 8TB per disk in the lab, a technical milestone not anticipated in the preview. The preview discussed the Mozaic 4 ramp but did not mention this higher-density lab demonstration.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDemonstrated 8TB per disk in the lab.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

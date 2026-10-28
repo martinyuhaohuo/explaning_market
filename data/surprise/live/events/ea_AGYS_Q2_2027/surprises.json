@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Q2 revenue was $93.4 million, above the preview\u2019s $90.5\u201392.5 million base-case range and $90.92 million consensus estimate. The beat was modest relative to the base-case ceiling.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ2 FY2027 revenue reached a record $93.4 million,\u201d up 17.7% year-over-year.",
+      "expectation_evidence": "\u201cTotal revenue | $90.92M\u201d consensus; the revenue-line base case estimated \u201c$90.5\u201392.5M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised FY2027 revenue guidance to $374\u2013378 million, above the existing $368\u2013373 million range and the preview\u2019s base-case expectation of a high-end nudge or a range around $370\u2013374 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year FY2027 revenue guidance to $374-378 million (from $368-373 million).\u201d",
+      "expectation_evidence": "The preview said \u201ca reiteration of $368\u2013373M\u201d would disappoint and its base case anticipated the range being \u201cnudged to the high end or trimmed to $370\u2013374M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q2 adjusted EBITDA margin reached 25.9%, well above the preview\u2019s roughly 22% base case and even above its bull-case threshold of 23%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ2 adjusted EBITDA hit a record $24.1 million at 25.9% of revenue.\u201d",
+      "expectation_evidence": "The preview\u2019s base case was \u201cadj. EBITDA ~22%\u201d; its bull case called for \u201cAdj. EBITDA \u226523%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year adjusted EBITDA target was raised to 25% of revenue rather than holding at 24%, as the preview\u2019s base case expected. Management also gave a pronounced quarterly profile: Q3 only slightly above 22%, then Q4 approaching 30%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management raised adjusted EBITDA guidance \u201cto 25% of revenue (from 24%)\u201d; it expects Q3 \u201conly slightly north of 22%\u201d and Q4 \u201cto approach 30%.\u201d",
+      "expectation_evidence": "The preview said the 24% target was expected to be \u201cheld with an H2 bridge\u201d in its base case, and noted that H2 would need to average \u201c~26.4%\u201d to meet it.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company now expects subscription revenue growth to exit FY2027 at 38\u201339%, supported by roughly $3.5\u20133.7 million of sequential go-live additions each quarter. The preview anticipated back-half acceleration but did not lay out an exit rate this strong and specific.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects the subscription revenue exit growth rate to reach 38-39% in Q4,\u201d driven by \u201croughly $3.5-3.7 million\u201d of sequential go-live additions per quarter.",
+      "expectation_evidence": "The preview said the 32% full-year subscription bar was \u201cexplicitly back-half weighted\u201d and that a Q2 print around 32% would put the ramp \u201con schedule.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Product revenue came in just under $12 million, above the preview\u2019s $9.5\u201310.5 million estimate, and product backlog ended 90% higher year-over-year\u2014stronger product demand and forward visibility than the preview\u2019s \u201clumpy hardware\u201d framing suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProduct revenue was just under $12 million (highest in nearly 3 years), and product backlog ended 90% higher year-over-year.\u201d",
+      "expectation_evidence": "The preview estimated \u201cProduct | $9.5\u201310.5M\u201d and described it as \u201cLumpy hardware; not the signal.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Domestic HRC sales rose 33% and set a record roughly 23% above the previous peak, a notable result not quantified in the preview\u2019s discussion of Marriott or other demand drivers.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDomestic HRC sales rose 33% year-over-year and set an all-time record, roughly 23% above the prior peak set two years ago.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Food service management sales jumped 42%, a strong result the preview did not specifically anticipate or quantify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFood service management sales jumped 42%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Asia Pacific sales grew 47%, a stronger quantified proof point than the preview\u2019s general discussion of APAC wins and challenges getting included in regional RFPs.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAsia Pacific sales grew 47%.\u201d",
+      "expectation_evidence": "The preview noted \u201cdifficulty getting included in European and APAC RFPs\u201d and described APAC wins as \u201cthe proof points,\u201d but gave no sales-growth expectation.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "First-half free cash flow more than doubled year-over-year, a stronger cash-generation result than the preview\u2019s discussion of the Q1 FCF swing and prior-year Q2 cash flow established as an expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFirst-half free cash flow more than doubled to $22.1 million from $10 million a year earlier.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q2 revenue was $93.4 million, above the preview\u2019s $90.5\u201392.5 million base-case range and $90.92 million consensus estimate. The beat was modest relative to the base-case ceiling.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ2 FY2027 revenue reached a record $93.4 million,\u201d up 17.7% year-over-year.",
+      "expectation_evidence": "\u201cTotal revenue | $90.92M\u201d consensus; the revenue-line base case estimated \u201c$90.5\u201392.5M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Management raised FY2027 revenue guidance to $374\u2013378 million, above the existing $368\u2013373 million range and the preview\u2019s base-case expectation of a high-end nudge or a range around $370\u2013374 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year FY2027 revenue guidance to $374-378 million (from $368-373 million).\u201d",
+      "expectation_evidence": "The preview said \u201ca reiteration of $368\u2013373M\u201d would disappoint and its base case anticipated the range being \u201cnudged to the high end or trimmed to $370\u2013374M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Q2 adjusted EBITDA margin reached 25.9%, well above the preview\u2019s roughly 22% base case and even above its bull-case threshold of 23%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ2 adjusted EBITDA hit a record $24.1 million at 25.9% of revenue.\u201d",
+      "expectation_evidence": "The preview\u2019s base case was \u201cadj. EBITDA ~22%\u201d; its bull case called for \u201cAdj. EBITDA \u226523%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The full-year adjusted EBITDA target was raised to 25% of revenue rather than holding at 24%, as the preview\u2019s base case expected. Management also gave a pronounced quarterly profile: Q3 only slightly above 22%, then Q4 approaching 30%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management raised adjusted EBITDA guidance \u201cto 25% of revenue (from 24%)\u201d; it expects Q3 \u201conly slightly north of 22%\u201d and Q4 \u201cto approach 30%.\u201d",
+      "expectation_evidence": "The preview said the 24% target was expected to be \u201cheld with an H2 bridge\u201d in its base case, and noted that H2 would need to average \u201c~26.4%\u201d to meet it.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "The company now expects subscription revenue growth to exit FY2027 at 38\u201339%, supported by roughly $3.5\u20133.7 million of sequential go-live additions each quarter. The preview anticipated back-half acceleration but did not lay out an exit rate this strong and specific.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects the subscription revenue exit growth rate to reach 38-39% in Q4,\u201d driven by \u201croughly $3.5-3.7 million\u201d of sequential go-live additions per quarter.",
+      "expectation_evidence": "The preview said the 32% full-year subscription bar was \u201cexplicitly back-half weighted\u201d and that a Q2 print around 32% would put the ramp \u201con schedule.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Product revenue came in just under $12 million, above the preview\u2019s $9.5\u201310.5 million estimate, and product backlog ended 90% higher year-over-year\u2014stronger product demand and forward visibility than the preview\u2019s \u201clumpy hardware\u201d framing suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProduct revenue was just under $12 million (highest in nearly 3 years), and product backlog ended 90% higher year-over-year.\u201d",
+      "expectation_evidence": "The preview estimated \u201cProduct | $9.5\u201310.5M\u201d and described it as \u201cLumpy hardware; not the signal.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Domestic HRC sales rose 33% and set a record roughly 23% above the previous peak, a notable result not quantified in the preview\u2019s discussion of Marriott or other demand drivers.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDomestic HRC sales rose 33% year-over-year and set an all-time record, roughly 23% above the prior peak set two years ago.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "Food service management sales jumped 42%, a strong result the preview did not specifically anticipate or quantify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFood service management sales jumped 42%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "Asia Pacific sales grew 47%, a stronger quantified proof point than the preview\u2019s general discussion of APAC wins and challenges getting included in regional RFPs.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAsia Pacific sales grew 47%.\u201d",
+      "expectation_evidence": "The preview noted \u201cdifficulty getting included in European and APAC RFPs\u201d and described APAC wins as \u201cthe proof points,\u201d but gave no sales-growth expectation.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 9,
+      "description": "First-half free cash flow more than doubled year-over-year, a stronger cash-generation result than the preview\u2019s discussion of the Q1 FCF swing and prior-year Q2 cash flow established as an expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFirst-half free cash flow more than doubled to $22.1 million from $10 million a year earlier.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Core EPS was $3.50, $0.35 (about 11%) above the $3.15 consensus estimate. That was a meaningful upside beat, though slightly below the preview\u2019s bull-case range of $3.55\u2013$3.75.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core earnings were $956 million, or $3.50 per diluted share.\u201d",
+      "expectation_evidence": "\u201cConsensus calls for Q3 core EPS of $3.15.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Catastrophe losses came in far above the preview\u2019s expected benign, sub-consensus cat load: they were $198 million, or 4.2 points. The preview\u2019s consensus bridge implied only about 3.1 points for cats and prior-year development combined.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCatastrophe losses rose sharply to $198 million (4.2 points).\u201d",
+      "expectation_evidence": "\u201cBenign backdrop should deliver a sub-consensus cat number\u201d; consensus BI reported CR of 92.6% versus underlying 89.5% implied \u201c+3.1 points of cat and prior-year development.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Middle & Large deteriorated instead of delivering the preview\u2019s expected improvement: its combined ratio was 99.5%, with higher non-CAT property and workers\u2019 compensation losses. The accompanying broad-based workers\u2019 comp frequency uptick added about 1 point to the all-in BI combined ratio.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMiddle & Large deteriorated to a 99.5% combined ratio from higher non-CAT property and workers' comp losses\u201d; workers\u2019 compensation had \u201ca broad-based uptick in claim frequency, adding about 1 point to the all-in BI combined ratio.\u201d",
+      "expectation_evidence": "The Q2 guide was for \u201cmiddle & large underlying CR roughly a point better than the 93.3 YTD level in 2H,\u201d conditional on non-cat property normalizing.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Business Insurance\u2019s underlying combined ratio was 90.1%, 0.6 points worse than the 89.5% consensus estimate. This is consistent with the underwriting pressures appearing in Middle & Large and workers\u2019 compensation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBusiness Insurance grew written premium 6% with a 90.1% underlying combined ratio.\u201d",
+      "expectation_evidence": "Business Insurance underlying CR consensus: \u201c89.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Business Insurance renewal pricing excluding workers\u2019 compensation declined by 40 basis points to 5.3%, indicating greater price competition than the preview had quantified, despite its warning about increasing competition in Middle & Large.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBusiness Insurance renewal written pricing excluding workers' comp declined 40 basis points to 5.3%, signaling an increasingly competitive and softening commercial market.\u201d",
+      "expectation_evidence": "The preview flagged \u201cincreasing competition in the middle and large space,\u201d particularly GL and workers\u2019 comp.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Small Business new business turned non-positive for the first time in roughly 20-plus quarters amid rising competition. The preview discussed competition in Middle & Large but did not flag this deterioration in Small Business.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSmall Business delivered an exceptional 85.2% underlying combined ratio \u2026 with 7% premium growth, though new business turned non-positive for the first time in roughly 20+ quarters amid rising competition.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Investment income and limited-partnership returns were stronger than the preview\u2019s expectations: NII rose 13% year over year and LP returns were 10.2% annualized, above the prior 7.6% annualized pace and the expectation that second-half returns would be generally consistent.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet investment income rose 13% year-over-year to $850 million, aided by strong 10.2% annualized limited partnership returns.\u201d",
+      "expectation_evidence": "The preview said Q2 NII was \u201c$800mm, +22% YoY, with LP returns at 7.6% annualized in 1H and guidance for 2H \u2018generally consistent\u2019\u201d; consensus P&C NII was \u201c$633.9mm\u201d (+4.8%).",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Equitable Employee Benefits acquisition is expected to modestly dilute 2027 core earnings, including about $30 million of annual intangible amortization. The preview did not identify this acquisition or flag this dilution.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe recently closed Equitable Employee Benefits acquisition adds ~$500 million in annual premium but will be modestly dilutive to 2027 core earnings, including ~$30 million of annual intangible amortization.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company announced a 12% dividend increase to $0.67 per share effective January 2027, an unanticipated capital-return announcement in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its common quarterly dividend by 12% to $0.67 per share effective January 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Core EPS was $3.50, $0.35 (about 11%) above the $3.15 consensus estimate. That was a meaningful upside beat, though slightly below the preview\u2019s bull-case range of $3.55\u2013$3.75.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core earnings were $956 million, or $3.50 per diluted share.\u201d",
+      "expectation_evidence": "\u201cConsensus calls for Q3 core EPS of $3.15.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Catastrophe losses came in far above the preview\u2019s expected benign, sub-consensus cat load: they were $198 million, or 4.2 points. The preview\u2019s consensus bridge implied only about 3.1 points for cats and prior-year development combined.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCatastrophe losses rose sharply to $198 million (4.2 points).\u201d",
+      "expectation_evidence": "\u201cBenign backdrop should deliver a sub-consensus cat number\u201d; consensus BI reported CR of 92.6% versus underlying 89.5% implied \u201c+3.1 points of cat and prior-year development.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Middle & Large deteriorated instead of delivering the preview\u2019s expected improvement: its combined ratio was 99.5%, with higher non-CAT property and workers\u2019 compensation losses. The accompanying broad-based workers\u2019 comp frequency uptick added about 1 point to the all-in BI combined ratio.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMiddle & Large deteriorated to a 99.5% combined ratio from higher non-CAT property and workers' comp losses\u201d; workers\u2019 compensation had \u201ca broad-based uptick in claim frequency, adding about 1 point to the all-in BI combined ratio.\u201d",
+      "expectation_evidence": "The Q2 guide was for \u201cmiddle & large underlying CR roughly a point better than the 93.3 YTD level in 2H,\u201d conditional on non-cat property normalizing.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Business Insurance\u2019s underlying combined ratio was 90.1%, 0.6 points worse than the 89.5% consensus estimate. This is consistent with the underwriting pressures appearing in Middle & Large and workers\u2019 compensation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBusiness Insurance grew written premium 6% with a 90.1% underlying combined ratio.\u201d",
+      "expectation_evidence": "Business Insurance underlying CR consensus: \u201c89.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Business Insurance renewal pricing excluding workers\u2019 compensation declined by 40 basis points to 5.3%, indicating greater price competition than the preview had quantified, despite its warning about increasing competition in Middle & Large.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBusiness Insurance renewal written pricing excluding workers' comp declined 40 basis points to 5.3%, signaling an increasingly competitive and softening commercial market.\u201d",
+      "expectation_evidence": "The preview flagged \u201cincreasing competition in the middle and large space,\u201d particularly GL and workers\u2019 comp.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "Small Business new business turned non-positive for the first time in roughly 20-plus quarters amid rising competition. The preview discussed competition in Middle & Large but did not flag this deterioration in Small Business.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSmall Business delivered an exceptional 85.2% underlying combined ratio \u2026 with 7% premium growth, though new business turned non-positive for the first time in roughly 20+ quarters amid rising competition.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Investment income and limited-partnership returns were stronger than the preview\u2019s expectations: NII rose 13% year over year and LP returns were 10.2% annualized, above the prior 7.6% annualized pace and the expectation that second-half returns would be generally consistent.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet investment income rose 13% year-over-year to $850 million, aided by strong 10.2% annualized limited partnership returns.\u201d",
+      "expectation_evidence": "The preview said Q2 NII was \u201c$800mm, +22% YoY, with LP returns at 7.6% annualized in 1H and guidance for 2H \u2018generally consistent\u2019\u201d; consensus P&C NII was \u201c$633.9mm\u201d (+4.8%).",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "The Equitable Employee Benefits acquisition is expected to modestly dilute 2027 core earnings, including about $30 million of annual intangible amortization. The preview did not identify this acquisition or flag this dilution.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe recently closed Equitable Employee Benefits acquisition adds ~$500 million in annual premium but will be modestly dilutive to 2027 core earnings, including ~$30 million of annual intangible amortization.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "The company announced a 12% dividend increase to $0.67 per share effective January 2027, an unanticipated capital-return announcement in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its common quarterly dividend by 12% to $0.67 per share effective January 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

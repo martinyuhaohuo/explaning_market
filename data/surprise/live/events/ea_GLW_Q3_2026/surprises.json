@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Corning guided Q4 sales to $5.2\u2013$5.3 billion and EPS to $0.96\u2013$1.00, above the preview\u2019s $5.02 billion and $0.88 consensus estimates. The EPS range also exceeds the preview\u2019s base-case Q4 range of $0.92\u2013$0.95.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance calls for ~19% sales growth to $5.2-5.3 billion and ~36% EPS growth to $0.96-$1.00.\u201d",
+      "expectation_evidence": "\u201cQ4 consensus is ~$5.02B / $0.88\u201d; the Base scenario expected \u201c$5.15\u20135.30B / $0.92\u20130.95.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 sales of $5.1 billion and EPS of $0.91 both exceeded the preview\u2019s $5.02 billion and $0.88 consensus. The sales beat was modest, while the EPS beat was somewhat larger.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 sales grew 19% year-over-year to $5.1 billion and EPS rose 36% to $0.91, both exceeding guidance.\u201d",
+      "expectation_evidence": "\u201cCore sales | Consensus | $5.02B\u201d; \u201cCore EPS | Consensus | $0.88.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Optical Communications substantially outperformed the preview\u2019s growth and profit estimates: sales were $2.4 billion rather than $2.23 billion, and net income was $532 million rather than $479 million. Enterprise sales rose 84% and Gen AI product sales more than doubled, indicating stronger demand in the growth areas the preview was watching.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOptical Communications sales grew 44% year-over-year to $2.4 billion with net income up 80% to $532 million, driven by Enterprise sales up 84% and Gen AI product sales up over 100%.\u201d",
+      "expectation_evidence": "\u201cOptical Communications | $2.23B | +34.9% | $479M\u201d; the preview asked \u201chow much of Enterprise growth is Gen-AI product (higher margin) vs. commodity fiber.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Margins beat the preview\u2019s approximate expectations, especially operating margin: gross margin was 40.5% versus about 40%, and operating margin was 22.7% versus about 21%. Corning expanded both despite the capacity ramp risks highlighted in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCorning expanded gross margin 150 bps to 40.5%, operating margin 310 bps to 22.7%, and ROIC 330 bps to 16.7%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cCore gross margin ~40%\u201d and \u201cCore operating margin ~21%,\u201d and flagged start-up costs, helium, and energy costs as risks to margins.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "New long-term agreements with Zayo, Verizon, and AT&T led management to say the DCI opportunity will exceed its prior $1 billion target in both size and timing. That is stronger and earlier than the preview\u2019s view that the Verizon and AT&T agreements would mostly contribute revenue in 2027 and that Carrier could remain soft.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNew long-term agreements with Zayo, Verizon and AT&T support management's view that the DCI opportunity will exceed the previously communicated $1 billion target in both size and timing.\u201d",
+      "expectation_evidence": "The preview said the Verizon and AT&T agreements were \u201cmostly 2027 revenue, so Carrier may stay soft.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reiterated that optical scale-up will accelerate in 2028 and described potential fiber demand per GPU rising tenfold. This gives a firmer, more bullish timing signal than the preview\u2019s warning that optical technology penetration timing was hard to predict.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement reiterated conviction that optical scale-up will accelerate in 2028, which could drive a potential 10-fold increase in fiber demand per GPU (from 16 to 160 fibers).\u201d",
+      "expectation_evidence": "The preview noted that management had flagged \u201cthe timing of new optical technology penetration\u201d as \u201chard to predict.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Glass Innovations declined, with sales down 3% and net income down 10%; notebooks and handhelds were down about 20%. That points to weaker markets than the preview\u2019s already-negative mid-teens full-year handheld outlook, although the price increase aimed at 2027 could help later.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGlass Innovations sales fell 3% to $1.5 billion with net income down 10% to $328 million amid weak markets (notebooks/handhelds down ~20%), prompting a display glass price increase geared toward 2027.\u201d",
+      "expectation_evidence": "The preview said \u201cHandheld units [were] guided down mid-teens for the full year on memory-price-driven device pricing.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Solar remained loss-making at a $7 million net loss, rather than improving toward the breakeven result the preview identified as a possible Q3 tailwind. The reported pricing improvement and longer-term growth opportunity are favorable, but did not change the current-quarter loss.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSolar sales rose 37% year-over-year to $436 million but posted a $7 million net loss, with Section 232 trade action improving pricing as Corning builds toward a $3 billion-plus revenue stream with above-average profitability.\u201d",
+      "expectation_evidence": "The preview said Solar had a \u201c$7M loss in Q2\u201d and management was \u201cguiding to improvement in Q3\u201d; it described \u201ca Solar breakeven\u201d as a potential EPS tailwind.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Customer deposits and free cash flow provided a source of funding for growth spending that the preview had not highlighted: deposits funded the majority of growth-related capital spending. This offers some offset to the preview\u2019s concern about the ATM and potential dilution, though the facts do not say whether the ATM was used.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer deposits contributed $639 million to operating cash flow in the first nine months, funding the majority of growth-related capital spending as part of the ~$2 billion 2026 CapEx plan\u201d; Corning generated \u201c$661 million in free cash flow.\u201d",
+      "expectation_evidence": "The preview called the \u201c$2B at-the-market equity authorization\u201d an \u201copen wound\u201d and asked how much had been drawn.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Corning guided Q4 sales to $5.2\u2013$5.3 billion and EPS to $0.96\u2013$1.00, above the preview\u2019s $5.02 billion and $0.88 consensus estimates. The EPS range also exceeds the preview\u2019s base-case Q4 range of $0.92\u2013$0.95.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 guidance calls for ~19% sales growth to $5.2-5.3 billion and ~36% EPS growth to $0.96-$1.00.\u201d",
+      "expectation_evidence": "\u201cQ4 consensus is ~$5.02B / $0.88\u201d; the Base scenario expected \u201c$5.15\u20135.30B / $0.92\u20130.95.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Q3 sales of $5.1 billion and EPS of $0.91 both exceeded the preview\u2019s $5.02 billion and $0.88 consensus. The sales beat was modest, while the EPS beat was somewhat larger.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 sales grew 19% year-over-year to $5.1 billion and EPS rose 36% to $0.91, both exceeding guidance.\u201d",
+      "expectation_evidence": "\u201cCore sales | Consensus | $5.02B\u201d; \u201cCore EPS | Consensus | $0.88.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Optical Communications substantially outperformed the preview\u2019s growth and profit estimates: sales were $2.4 billion rather than $2.23 billion, and net income was $532 million rather than $479 million. Enterprise sales rose 84% and Gen AI product sales more than doubled, indicating stronger demand in the growth areas the preview was watching.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOptical Communications sales grew 44% year-over-year to $2.4 billion with net income up 80% to $532 million, driven by Enterprise sales up 84% and Gen AI product sales up over 100%.\u201d",
+      "expectation_evidence": "\u201cOptical Communications | $2.23B | +34.9% | $479M\u201d; the preview asked \u201chow much of Enterprise growth is Gen-AI product (higher margin) vs. commodity fiber.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Margins beat the preview\u2019s approximate expectations, especially operating margin: gross margin was 40.5% versus about 40%, and operating margin was 22.7% versus about 21%. Corning expanded both despite the capacity ramp risks highlighted in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCorning expanded gross margin 150 bps to 40.5%, operating margin 310 bps to 22.7%, and ROIC 330 bps to 16.7%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cCore gross margin ~40%\u201d and \u201cCore operating margin ~21%,\u201d and flagged start-up costs, helium, and energy costs as risks to margins.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "New long-term agreements with Zayo, Verizon, and AT&T led management to say the DCI opportunity will exceed its prior $1 billion target in both size and timing. That is stronger and earlier than the preview\u2019s view that the Verizon and AT&T agreements would mostly contribute revenue in 2027 and that Carrier could remain soft.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNew long-term agreements with Zayo, Verizon and AT&T support management's view that the DCI opportunity will exceed the previously communicated $1 billion target in both size and timing.\u201d",
+      "expectation_evidence": "The preview said the Verizon and AT&T agreements were \u201cmostly 2027 revenue, so Carrier may stay soft.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Management reiterated that optical scale-up will accelerate in 2028 and described potential fiber demand per GPU rising tenfold. This gives a firmer, more bullish timing signal than the preview\u2019s warning that optical technology penetration timing was hard to predict.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement reiterated conviction that optical scale-up will accelerate in 2028, which could drive a potential 10-fold increase in fiber demand per GPU (from 16 to 160 fibers).\u201d",
+      "expectation_evidence": "The preview noted that management had flagged \u201cthe timing of new optical technology penetration\u201d as \u201chard to predict.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Glass Innovations declined, with sales down 3% and net income down 10%; notebooks and handhelds were down about 20%. That points to weaker markets than the preview\u2019s already-negative mid-teens full-year handheld outlook, although the price increase aimed at 2027 could help later.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGlass Innovations sales fell 3% to $1.5 billion with net income down 10% to $328 million amid weak markets (notebooks/handhelds down ~20%), prompting a display glass price increase geared toward 2027.\u201d",
+      "expectation_evidence": "The preview said \u201cHandheld units [were] guided down mid-teens for the full year on memory-price-driven device pricing.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "Solar remained loss-making at a $7 million net loss, rather than improving toward the breakeven result the preview identified as a possible Q3 tailwind. The reported pricing improvement and longer-term growth opportunity are favorable, but did not change the current-quarter loss.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSolar sales rose 37% year-over-year to $436 million but posted a $7 million net loss, with Section 232 trade action improving pricing as Corning builds toward a $3 billion-plus revenue stream with above-average profitability.\u201d",
+      "expectation_evidence": "The preview said Solar had a \u201c$7M loss in Q2\u201d and management was \u201cguiding to improvement in Q3\u201d; it described \u201ca Solar breakeven\u201d as a potential EPS tailwind.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 8,
+      "description": "Customer deposits and free cash flow provided a source of funding for growth spending that the preview had not highlighted: deposits funded the majority of growth-related capital spending. This offers some offset to the preview\u2019s concern about the ATM and potential dilution, though the facts do not say whether the ATM was used.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer deposits contributed $639 million to operating cash flow in the first nine months, funding the majority of growth-related capital spending as part of the ~$2 billion 2026 CapEx plan\u201d; Corning generated \u201c$661 million in free cash flow.\u201d",
+      "expectation_evidence": "The preview called the \u201c$2B at-the-market equity authorization\u201d an \u201copen wound\u201d and asked how much had been drawn.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

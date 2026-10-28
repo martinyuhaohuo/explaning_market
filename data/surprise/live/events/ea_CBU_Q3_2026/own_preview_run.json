@@ -1,0 +1,112 @@
+{
+  "event_id": "ea_CBU_Q3_2026",
+  "ticker": "CBU",
+  "company": "Community Financial System, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T10:45:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "Community Financial System, Inc. (CBU), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:45 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview Community Financial System, Inc. (CBU), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:45 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:38:53.249671+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Community Financial System CBU Q3 2026 earnings consensus EPS revenue estimate"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Community Financial System CBU second quarter 2026 results guidance"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Community Financial System stock earnings reaction history"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.sec.gov/Archives/edgar/data/0000723188/000110465926087355/tm2621422d1_ex99-1.htm"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "99540d7c-77a9-4c80-805b-d47d4c0d30be",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 6,
+  "duration_ms": 33055,
+  "total_cost_usd": 0.042909754999999994,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 7711,
+    "cache_read_input_tokens": 83708,
+    "output_tokens": 4396,
+    "output_tokens_details": {
+      "thinking_tokens": 830
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7711
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3538,
+        "cache_read_input_tokens": 24790,
+        "cache_creation_input_tokens": 958,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 958,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:39:27.837620+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

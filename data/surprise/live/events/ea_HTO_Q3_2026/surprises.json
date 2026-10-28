@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 adjusted EPS was $1.04, well below the preview\u2019s $1.18\u2013$1.20 consensus range. The preview expected an EPS decline from the prior year, but not a miss of this size versus estimates.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted diluted EPS was $1.04, down from $1.27 in Q3 2025.\u201d",
+      "expectation_evidence": "\u201cTreat $1.18\u2013$1.20 as the number that matters\u201d for adjusted EPS.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quadvest is expected to dilute 2026 adjusted EPS by only about 6% versus the stand-alone midpoint, below the previously communicated 10%\u201320% range. The October 1 closing, later than the originally assumed mid-2026 date, explains the smaller first-year impact.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Quadvest acquisition's 2026 dilution is only ~6% versus the stand-alone midpoint, well below the previously communicated 10%-20% range,\u201d because it closed October 1 rather than at the originally assumed mid-2026 date.",
+      "expectation_evidence": "\u201cManagement has previously framed stepped-up fair-value depreciation as 10\u201320% of standalone plan dilution until 2028 rates.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said Quadvest dilution in 2027 will trend toward the high end of the 10%\u201320% range, reflecting a full year of operations and stepped-up depreciation. That gives a more adverse 2027 dilution outlook than the preview\u2019s general 10%\u201320% framing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects 2027 dilution to trend toward the higher end of the 10%-20% range,\u201d driven by a full year of Quadvest operations and stepped-up depreciation.",
+      "expectation_evidence": "The preview said management had framed dilution as \u201c10\u201320% of standalone plan dilution until 2028 rates\u201d and flagged the need for 2027 framing.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company reduced 2026 company-funded CapEx to about $465 million from $483 million, but attributed the reduction to more developer-funded Texas capital rather than a cut to the investment plan. That eases the preview\u2019s concern that underspending could signal slower rate-base growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2026 company-funded CapEx was lowered to ~$465 million from $483 million due to higher developer-funded capital in Texas,\u201d while the five-year consolidated budget remains $2.7 billion and Texas CapEx remains $766 million.",
+      "expectation_evidence": "The preview noted $206.9 million deployed against the $483 million budget and warned, \u201cUnder-spend reads as rate base growth slipping.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management stated that the $2.7 billion capital plan plus Quadvest is expected to deliver a 13% rate-base CAGR and that long-term EPS CAGR is targeted at or above the top of the 6%\u20138% range. That is a stronger stated growth target than the preview\u2019s 6%\u20138% framing and its concern that Street estimates implied a 2027 decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe $2.7 billion capital plan plus Quadvest is expected to drive a 13% rate base CAGR\u201d and long-term EPS CAGR is \u201ctargeted at or above the top of the 6%-8% range.\u201d",
+      "expectation_evidence": "The preview referred to management\u2019s \u201c6\u20138% CAGR target\u201d and noted the Street\u2019s FY2027 EPS estimate was \u201caround $2.84,\u201d below the FY2026 guide.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 adjusted EPS was $1.04, well below the preview\u2019s $1.18\u2013$1.20 consensus range. The preview expected an EPS decline from the prior year, but not a miss of this size versus estimates.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted diluted EPS was $1.04, down from $1.27 in Q3 2025.\u201d",
+      "expectation_evidence": "\u201cTreat $1.18\u2013$1.20 as the number that matters\u201d for adjusted EPS.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Quadvest is expected to dilute 2026 adjusted EPS by only about 6% versus the stand-alone midpoint, below the previously communicated 10%\u201320% range. The October 1 closing, later than the originally assumed mid-2026 date, explains the smaller first-year impact.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Quadvest acquisition's 2026 dilution is only ~6% versus the stand-alone midpoint, well below the previously communicated 10%-20% range,\u201d because it closed October 1 rather than at the originally assumed mid-2026 date.",
+      "expectation_evidence": "\u201cManagement has previously framed stepped-up fair-value depreciation as 10\u201320% of standalone plan dilution until 2028 rates.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Management said Quadvest dilution in 2027 will trend toward the high end of the 10%\u201320% range, reflecting a full year of operations and stepped-up depreciation. That gives a more adverse 2027 dilution outlook than the preview\u2019s general 10%\u201320% framing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects 2027 dilution to trend toward the higher end of the 10%-20% range,\u201d driven by a full year of Quadvest operations and stepped-up depreciation.",
+      "expectation_evidence": "The preview said management had framed dilution as \u201c10\u201320% of standalone plan dilution until 2028 rates\u201d and flagged the need for 2027 framing.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The company reduced 2026 company-funded CapEx to about $465 million from $483 million, but attributed the reduction to more developer-funded Texas capital rather than a cut to the investment plan. That eases the preview\u2019s concern that underspending could signal slower rate-base growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2026 company-funded CapEx was lowered to ~$465 million from $483 million due to higher developer-funded capital in Texas,\u201d while the five-year consolidated budget remains $2.7 billion and Texas CapEx remains $766 million.",
+      "expectation_evidence": "The preview noted $206.9 million deployed against the $483 million budget and warned, \u201cUnder-spend reads as rate base growth slipping.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 4,
+      "description": "Management stated that the $2.7 billion capital plan plus Quadvest is expected to deliver a 13% rate-base CAGR and that long-term EPS CAGR is targeted at or above the top of the 6%\u20138% range. That is a stronger stated growth target than the preview\u2019s 6%\u20138% framing and its concern that Street estimates implied a 2027 decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe $2.7 billion capital plan plus Quadvest is expected to drive a 13% rate base CAGR\u201d and long-term EPS CAGR is \u201ctargeted at or above the top of the 6%-8% range.\u201d",
+      "expectation_evidence": "The preview referred to management\u2019s \u201c6\u20138% CAGR target\u201d and noted the Street\u2019s FY2027 EPS estimate was \u201caround $2.84,\u201d below the FY2026 guide.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "event_id": "ea_PSN_Q3_2026",
+  "ticker": "PSN",
+  "company": "Parsons Corporation",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T10:30:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Parsons Corporation (PSN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 10:30 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Parsons Corporation (PSN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 10:30 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:20:58.191448+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Skill",
+      "detail": "earnings-preview"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Parsons Corporation PSN Q3 2026 earnings preview consensus EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Parsons PSN third quarter 2026 results conference call October 28 2026"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Parsons PSN stock earnings reaction history options implied move"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.nasdaq.com/articles/parsons-q2-earnings-call-highlights"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "bd1168a3-2572-47c2-b449-7aa5a74566a3",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 9,
+  "duration_ms": 84860,
+  "total_cost_usd": 0.039518575,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 8633,
+    "cache_read_input_tokens": 86375,
+    "output_tokens": 3712,
+    "output_tokens_details": {
+      "thinking_tokens": 394
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8633
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2802,
+        "cache_read_input_tokens": 26301,
+        "cache_creation_input_tokens": 369,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 369,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:22:24.300654+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

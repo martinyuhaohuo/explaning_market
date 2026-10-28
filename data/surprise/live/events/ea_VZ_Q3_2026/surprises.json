@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Verizon\u2019s 406,000 postpaid phone net additions were far above the preview\u2019s 150,000\u2013200,000 range and its roughly 190,000 guidance-implied estimate. The result was also the strongest Q3 in five years.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cPostpaid phone net additions surged 820% year-over-year to 406,000, the strongest Q3 in five years.\u201d",
+      "expectation_evidence": "\u201cPostpaid phone net adds: ~150k\u2013200k\u201d; the preview also said the guidance math implied \u201c~190k+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Verizon raised its full-year postpaid phone net-adds guidance to 1.1\u20131.2 million, well above the preview\u2019s existing 750,000\u20131 million range, even at its upper end.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull-year 2026 guidance raised to 1.1-1.2 million, more than 3x last year's result.\u201d",
+      "expectation_evidence": "The preview listed full-year postpaid phone net adds guidance as \u201cUpper half of 750k\u20131M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 adjusted EPS of $1.31 exceeded the preview\u2019s $1.27 consensus and its estimated $1.28\u2013$1.30 whisper range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 adjusted EPS of $1.31 grew 8.3% year-over-year.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS: $1.27\u201d; the preview said the functional whisper was \u201c~$1.28\u2013$1.30.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Verizon raised its full-year adjusted EPS growth outlook to 7%\u20137.5%, above the previous 6%\u20137% range the preview cited.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 adjusted EPS growth guidance [raised] to 7%-7.5%, up from the prior 6%-7% range.\u201d",
+      "expectation_evidence": "The preview listed adjusted EPS guidance as \u201c$4.99\u2013$5.04 (+6\u20137%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Verizon raised its full-year free-cash-flow growth outlook to nearly 12%, above the preview\u2019s 9%\u201310% guidance range. Quarterly FCF was also exceptionally strong, at its highest level since 2020.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFree cash flow reached $7.8 billion, the highest quarterly level since 2020 and up over 12% year-over-year,\u201d leading to guidance \u201capproaching 12%, up from 9%-10%.\u201d",
+      "expectation_evidence": "The preview listed full-year FCF guidance as \u201c$21.9\u2013$22.1B (+9\u201310%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Customer acquisition and retention costs fell much faster than the reductions cited in the preview for Q2, and reached their lowest levels in over three years without free lines.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cPromotional cost of acquisition declined 41% and cost of retention fell 30% year-over-year,\u201d reaching \u201cthe lowest acquisition and retention costs in over three years with no free lines.\u201d",
+      "expectation_evidence": "The preview said Q2 cost-to-acquire was down 15% year-over-year and cost-to-retain was down 17%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Verizon unveiled a millimeter-wave fixed-wireless plan to add 10\u201315 million additional 1-gig premises beyond its fiber build, a quantified expansion of its high-speed broadband footprint not specified in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new millimeter wave FWA solution using 1,700 MHz of spectrum aims to add an incremental 10-15 million 1-gig premises over the 40-50 million fiber build, targeting 50-65 million total high-speed premises medium-term.\u201d",
+      "expectation_evidence": "The preview called for a \u201cdated, resourced answer\u201d to the competitive narrative and identified spectrum-position defense as a possible strategic response, but did not anticipate this specific FWA plan or added premises target.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Year-to-date buybacks had reached $4 billion, ahead of the $3.5 billion already completed that the preview cited. The reported total capital returns were also up 49% year-over-year.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cYear-to-date capital returns reached $12.8 billion (up 49% year-over-year), including $8.8 billion in dividends and $4 billion in buybacks.\u201d",
+      "expectation_evidence": "The preview said \u201cShare repurchases: Up to $4.5B ($3.5B done YTD).\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Verizon\u2019s 406,000 postpaid phone net additions were far above the preview\u2019s 150,000\u2013200,000 range and its roughly 190,000 guidance-implied estimate. The result was also the strongest Q3 in five years.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cPostpaid phone net additions surged 820% year-over-year to 406,000, the strongest Q3 in five years.\u201d",
+      "expectation_evidence": "\u201cPostpaid phone net adds: ~150k\u2013200k\u201d; the preview also said the guidance math implied \u201c~190k+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Verizon raised its full-year postpaid phone net-adds guidance to 1.1\u20131.2 million, well above the preview\u2019s existing 750,000\u20131 million range, even at its upper end.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull-year 2026 guidance raised to 1.1-1.2 million, more than 3x last year's result.\u201d",
+      "expectation_evidence": "The preview listed full-year postpaid phone net adds guidance as \u201cUpper half of 750k\u20131M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Q3 adjusted EPS of $1.31 exceeded the preview\u2019s $1.27 consensus and its estimated $1.28\u2013$1.30 whisper range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 adjusted EPS of $1.31 grew 8.3% year-over-year.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS: $1.27\u201d; the preview said the functional whisper was \u201c~$1.28\u2013$1.30.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "Verizon raised its full-year adjusted EPS growth outlook to 7%\u20137.5%, above the previous 6%\u20137% range the preview cited.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 adjusted EPS growth guidance [raised] to 7%-7.5%, up from the prior 6%-7% range.\u201d",
+      "expectation_evidence": "The preview listed adjusted EPS guidance as \u201c$4.99\u2013$5.04 (+6\u20137%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Verizon raised its full-year free-cash-flow growth outlook to nearly 12%, above the preview\u2019s 9%\u201310% guidance range. Quarterly FCF was also exceptionally strong, at its highest level since 2020.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFree cash flow reached $7.8 billion, the highest quarterly level since 2020 and up over 12% year-over-year,\u201d leading to guidance \u201capproaching 12%, up from 9%-10%.\u201d",
+      "expectation_evidence": "The preview listed full-year FCF guidance as \u201c$21.9\u2013$22.1B (+9\u201310%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Customer acquisition and retention costs fell much faster than the reductions cited in the preview for Q2, and reached their lowest levels in over three years without free lines.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cPromotional cost of acquisition declined 41% and cost of retention fell 30% year-over-year,\u201d reaching \u201cthe lowest acquisition and retention costs in over three years with no free lines.\u201d",
+      "expectation_evidence": "The preview said Q2 cost-to-acquire was down 15% year-over-year and cost-to-retain was down 17%.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 6,
+      "description": "Verizon unveiled a millimeter-wave fixed-wireless plan to add 10\u201315 million additional 1-gig premises beyond its fiber build, a quantified expansion of its high-speed broadband footprint not specified in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new millimeter wave FWA solution using 1,700 MHz of spectrum aims to add an incremental 10-15 million 1-gig premises over the 40-50 million fiber build, targeting 50-65 million total high-speed premises medium-term.\u201d",
+      "expectation_evidence": "The preview called for a \u201cdated, resourced answer\u201d to the competitive narrative and identified spectrum-position defense as a possible strategic response, but did not anticipate this specific FWA plan or added premises target.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 7,
+      "description": "Year-to-date buybacks had reached $4 billion, ahead of the $3.5 billion already completed that the preview cited. The reported total capital returns were also up 49% year-over-year.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cYear-to-date capital returns reached $12.8 billion (up 49% year-over-year), including $8.8 billion in dividends and $4 billion in buybacks.\u201d",
+      "expectation_evidence": "The preview said \u201cShare repurchases: Up to $4.5B ($3.5B done YTD).\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

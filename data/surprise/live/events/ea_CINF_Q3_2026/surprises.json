@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Cincinnati Financial\u2019s combined ratio was 90.9%, about 5 points better than the preview\u2019s roughly 96% back-solved expectation. That outperformance came despite catastrophe losses adding 7 points year over year to the ratio.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe property casualty combined ratio rose 2.7 points to 90.9%, driven by a 7.0-point increase in catastrophe losses.\u201d",
+      "expectation_evidence": "\u201ca $2.00 consensus implies roughly a 96% combined ratio\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Operating income held nearly flat year over year: $443 million, down just $6 million, even though after-tax catastrophe losses were $146 million higher. That was much more resilient than the preview\u2019s consensus-based expectation of a 28%\u201330% decline in operating EPS.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP operating income was $443 million, down only $6 million year-over-year despite catastrophe losses being $146 million higher after-tax.\u201d",
+      "expectation_evidence": "\u201cOperating EPS (non-GAAP) \u2026 $1.99 \u2026 $2.05 \u2026 Implied YoY \u221228% to \u221230%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cincinnati Global\u2019s combined ratio improved sharply to 70.7%, versus the preview\u2019s 110.8% figure for the segment. Its 13% premium growth accompanied a much stronger underwriting result than the preview\u2019s description of Global as a persistent drag suggested.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCincinnati Global grew 13% (70.7% combined ratio).\u201d",
+      "expectation_evidence": "\u201cGlobal: 110.8% CR ($10M Saudi loss, $7.5M event-cancellation reserve)\u201d; \u201cGlobal has been a persistent drag.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cincinnati Re\u2019s premiums grew 34%, well above the preview\u2019s 16% growth figure, but its 94.8% combined ratio was substantially worse than the preview\u2019s 87.6%. The segment delivered faster growth alongside weaker underwriting than expected.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCincinnati Re grew net written premiums 34% (94.8% combined ratio).\u201d",
+      "expectation_evidence": "\u201cRe: +16% NWP, 87.6% CR.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The quarter\u2019s value-creation result and book value were much weaker than the preview\u2019s estimate: the value creation ratio was negative 2.1%, and book value was $105.42 per share versus an estimated $112\u2013$116. The roughly $1.2 billion pretax bond-portfolio loss from rising rates was the stated driver.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRising interest rates caused a roughly $1.2 billion pretax net loss on the bond portfolio, pushing the quarterly value creation ratio to negative 2.1%\u201d; \u201cbook value at $105.42 per share.\u201d",
+      "expectation_evidence": "\u201cEst. Q3 BVPS ~$112\u2013116\u201d; \u201cVCR 8.0% H1.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cincinnati Financial repurchased only an immaterial number of shares despite holding $6.1 billion in cash and marketable securities. That was a notable pullback from the $216 million of repurchases in Q2 while the preview specifically highlighted the pace of buybacks as a question at the current share price.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe parent company held $6.1 billion in cash and marketable securities \u2026 and repurchased only an immaterial number of shares.\u201d",
+      "expectation_evidence": "\u201cBuyback pace: 1.3M shares @ $161.93 = $216M in Q2\u201d; \u201cPace at ~$175 tests management\u2019s own valuation view.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Renewal pricing was at the low end of the preview\u2019s framing: Commercial Lines and E&S were in the low single digits, rather than the preview\u2019s cited high end of the low-single-digit range. That points to somewhat less pricing support for future commercial margins than the preview\u2019s central expectation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRenewal price increases decelerated, with Commercial Lines and E&S in the low single digits.\u201d",
+      "expectation_evidence": "\u201cCommercial renewal pricing: \u2018High end of the low single-digit percentage range.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net favorable prior-year reserve development was stronger than the preview\u2019s roughly 2-point favorable base assumption, benefiting the combined ratio by 3.6 points. Commercial casualty had no material development, though $56 million of adverse development from pre-2024 accident years tempered the favorable result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$94 million of net favorable prior-year reserve development (benefiting the combined ratio by 3.6 points), but commercial casualty saw no material development and $56 million of adverse development came from pre-2024 accident years.\u201d",
+      "expectation_evidence": "\u201cBase \u2026 PYD ~2 pts favorable\u201d; the preview also flagged a commercial casualty reserve charge as a key downside risk.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The nine-month current accident-year combined ratio excluding catastrophes improved to 86.5% from 86.7%, showing slightly better underlying performance than the preview\u2019s concern about deterioration in the clean ex-cat measure. This is a nine-month figure, rather than the standalone Q3 ratio the preview identified as the key test.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 9-month current accident year combined ratio excluding catastrophes improved slightly to 86.5% from 86.7%.\u201d",
+      "expectation_evidence": "\u201cCurrent accident year ex-cat combined ratio \u2026 The cleanest signal of underlying margin. Deterioration here in a soft market is the real bear case.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reported that AI-enabled automation accelerated new-business submission processing by more than 30% across Commercial Lines and E&S. The preview discussed the expense-ratio target but did not anticipate this operating-efficiency progress.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAI-enabled automation has accelerated new business submission processing by more than 30% across Commercial Lines and E&S, supporting the goal of keeping the commercial lines expense ratio under 30%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Cincinnati Financial\u2019s combined ratio was 90.9%, about 5 points better than the preview\u2019s roughly 96% back-solved expectation. That outperformance came despite catastrophe losses adding 7 points year over year to the ratio.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe property casualty combined ratio rose 2.7 points to 90.9%, driven by a 7.0-point increase in catastrophe losses.\u201d",
+      "expectation_evidence": "\u201ca $2.00 consensus implies roughly a 96% combined ratio\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "Operating income held nearly flat year over year: $443 million, down just $6 million, even though after-tax catastrophe losses were $146 million higher. That was much more resilient than the preview\u2019s consensus-based expectation of a 28%\u201330% decline in operating EPS.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP operating income was $443 million, down only $6 million year-over-year despite catastrophe losses being $146 million higher after-tax.\u201d",
+      "expectation_evidence": "\u201cOperating EPS (non-GAAP) \u2026 $1.99 \u2026 $2.05 \u2026 Implied YoY \u221228% to \u221230%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Cincinnati Global\u2019s combined ratio improved sharply to 70.7%, versus the preview\u2019s 110.8% figure for the segment. Its 13% premium growth accompanied a much stronger underwriting result than the preview\u2019s description of Global as a persistent drag suggested.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCincinnati Global grew 13% (70.7% combined ratio).\u201d",
+      "expectation_evidence": "\u201cGlobal: 110.8% CR ($10M Saudi loss, $7.5M event-cancellation reserve)\u201d; \u201cGlobal has been a persistent drag.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Cincinnati Re\u2019s premiums grew 34%, well above the preview\u2019s 16% growth figure, but its 94.8% combined ratio was substantially worse than the preview\u2019s 87.6%. The segment delivered faster growth alongside weaker underwriting than expected.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCincinnati Re grew net written premiums 34% (94.8% combined ratio).\u201d",
+      "expectation_evidence": "\u201cRe: +16% NWP, 87.6% CR.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "The quarter\u2019s value-creation result and book value were much weaker than the preview\u2019s estimate: the value creation ratio was negative 2.1%, and book value was $105.42 per share versus an estimated $112\u2013$116. The roughly $1.2 billion pretax bond-portfolio loss from rising rates was the stated driver.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRising interest rates caused a roughly $1.2 billion pretax net loss on the bond portfolio, pushing the quarterly value creation ratio to negative 2.1%\u201d; \u201cbook value at $105.42 per share.\u201d",
+      "expectation_evidence": "\u201cEst. Q3 BVPS ~$112\u2013116\u201d; \u201cVCR 8.0% H1.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 5,
+      "description": "Cincinnati Financial repurchased only an immaterial number of shares despite holding $6.1 billion in cash and marketable securities. That was a notable pullback from the $216 million of repurchases in Q2 while the preview specifically highlighted the pace of buybacks as a question at the current share price.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe parent company held $6.1 billion in cash and marketable securities \u2026 and repurchased only an immaterial number of shares.\u201d",
+      "expectation_evidence": "\u201cBuyback pace: 1.3M shares @ $161.93 = $216M in Q2\u201d; \u201cPace at ~$175 tests management\u2019s own valuation view.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "Renewal pricing was at the low end of the preview\u2019s framing: Commercial Lines and E&S were in the low single digits, rather than the preview\u2019s cited high end of the low-single-digit range. That points to somewhat less pricing support for future commercial margins than the preview\u2019s central expectation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRenewal price increases decelerated, with Commercial Lines and E&S in the low single digits.\u201d",
+      "expectation_evidence": "\u201cCommercial renewal pricing: \u2018High end of the low single-digit percentage range.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 7,
+      "description": "Net favorable prior-year reserve development was stronger than the preview\u2019s roughly 2-point favorable base assumption, benefiting the combined ratio by 3.6 points. Commercial casualty had no material development, though $56 million of adverse development from pre-2024 accident years tempered the favorable result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$94 million of net favorable prior-year reserve development (benefiting the combined ratio by 3.6 points), but commercial casualty saw no material development and $56 million of adverse development came from pre-2024 accident years.\u201d",
+      "expectation_evidence": "\u201cBase \u2026 PYD ~2 pts favorable\u201d; the preview also flagged a commercial casualty reserve charge as a key downside risk.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 8,
+      "description": "The nine-month current accident-year combined ratio excluding catastrophes improved to 86.5% from 86.7%, showing slightly better underlying performance than the preview\u2019s concern about deterioration in the clean ex-cat measure. This is a nine-month figure, rather than the standalone Q3 ratio the preview identified as the key test.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 9-month current accident year combined ratio excluding catastrophes improved slightly to 86.5% from 86.7%.\u201d",
+      "expectation_evidence": "\u201cCurrent accident year ex-cat combined ratio \u2026 The cleanest signal of underlying margin. Deterioration here in a soft market is the real bear case.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 9,
+      "description": "Management reported that AI-enabled automation accelerated new-business submission processing by more than 30% across Commercial Lines and E&S. The preview discussed the expense-ratio target but did not anticipate this operating-efficiency progress.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAI-enabled automation has accelerated new business submission processing by more than 30% across Commercial Lines and E&S, supporting the goal of keeping the commercial lines expense ratio under 30%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

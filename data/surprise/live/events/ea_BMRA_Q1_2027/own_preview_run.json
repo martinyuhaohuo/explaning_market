@@ -1,0 +1,116 @@
+{
+  "event_id": "ea_BMRA_Q1_2027",
+  "ticker": "BMRA",
+  "company": "Biomerica, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T21:00:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Biomerica, Inc. (BMRA), fiscal period Q1 FY2027, earnings release scheduled 2026-10-27 21:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Biomerica, Inc. (BMRA), fiscal period Q1 FY2027, earnings release scheduled 2026-10-27 21:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:08:27.347486+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Glob",
+      "detail": ""
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Biomerica BMRA first quarter fiscal 2027 earnings date consensus estimates"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Biomerica fiscal 2026 fourth quarter results guidance outlook"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Biomerica BMRA stock earnings reaction history"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.biopharmawatch.com/news/BMRA/biomerica-first-quarter-fiscal-2027-results"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "d5ba5edf-f741-47f8-a78b-e736c7c2b925",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 7,
+  "duration_ms": 25773,
+  "total_cost_usd": 0.039750945,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 8019,
+    "cache_read_input_tokens": 84487,
+    "output_tokens": 2668,
+    "output_tokens_details": {
+      "thinking_tokens": 823
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8019
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 1608,
+        "cache_read_input_tokens": 25396,
+        "cache_creation_input_tokens": 660,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 660,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:08:54.403333+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

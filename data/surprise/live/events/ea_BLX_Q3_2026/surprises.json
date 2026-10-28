@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "The commercial portfolio reached $15 billion, above the preview\u2019s expected $13.6\u201314.0 billion range. Management also raised expected full-year growth excluding the Panama loan to around 25%, well above the original 13%\u201315% guidance.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe commercial portfolio reached a record $15 billion, up 15% quarter-over-quarter and 38% year-over-year\u201d; excluding the Panama loan, full-year growth is expected around 25%, with the total including Panama around 35%.",
+      "expectation_evidence": "\u201cCommercial portfolio was $13.0B at 2Q26 against a 13\u201315% FY growth guide implying ~$13.1\u201313.3B by year-end \u2014 so the portfolio may print above guidance (~$13.6\u201314.0B) purely on this deal.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest income and quarterly NIM came in above the preview\u2019s expected ranges: NII was $79.8 million versus about $76\u201378 million, and NIM was 2.30% versus about 2.20%\u20132.28%. The margin gain was partly supported by unusually high loan prepayments and lower funding costs, which management described as temporary benefits.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income hit a record $79.8 million\u201d and \u201cNIM rose 6 basis points to 2.30%\u201d; management attributed the gain partly to loan prepayments running 2\u20133x higher than usual and lower funding costs.",
+      "expectation_evidence": "The preview estimated \u201cNet interest income \u2026 ~$76\u201378M\u201d and \u201cNIM \u2026 ~2.20\u20132.28%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net income was below the preview\u2019s $66\u201368 million estimate at $63.2 million, despite record NII. The company attributed the sequential decline partly to normalized fee income, higher expenses, and increased provisions.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income reached $63.2 million,\u201d down 5% from Q2 due to \u201cnormalized fee income, higher expenses, and increased provisions.\u201d",
+      "expectation_evidence": "The derived Q3 net profit estimate was \u201c~$66\u201368M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Provision expense reached $10.4 million, above the preview\u2019s expected $6\u20139 million range. Management said the increase mainly reflected additional coverage on existing Stage 3 exposures and portfolio growth, rather than new credit deterioration, and expected cost of risk to remain around 20 basis points.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProvision expense increased to $10.4 million from $8.6 million,\u201d driven mainly by added reserve coverage on existing Stage 3 exposures and portfolio growth; cost of risk is expected stable around 20 basis points.",
+      "expectation_evidence": "The preview anticipated provisions of \u201c~$6\u20139M\u201d in its base scenario and listed provision expense versus \u201c~$6\u20139M\u201d as a key catalyst.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite the Panama loan and major portfolio growth, Tier 1 ended at 16.2%, above the preview\u2019s base-case 15.5%\u201316.0% range and the 15.2% estimate if the full loan were retained with a 100% risk weight. Management said much of the incremental growth used little capital.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Tier 1 ratio ended at 16.2% (down from 16.6%), falling less than 50 basis points despite major loan growth\u201d because growth came largely from \u201clow-capital-consumption investment-grade sovereign and quasi-sovereign exposures.\u201d",
+      "expectation_evidence": "The preview\u2019s base scenario expected \u201cTier 1 15.5\u201316.0%\u201d; it estimated that holding the Panama loan in full could take the ratio \u201cto ~15.2%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year NIM outlook was around 2.25%, below the preview\u2019s base-case expectation of a trim to about 2.27% and the prior 2.30% guide. Management also said the Panama transaction would temporarily dilute reported NIM in Q4 even as it added meaningfully to absolute NII.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Management guided that the Panama transaction will \u201ctemporarily dilute reported NIM in Q4\u201d while adding meaningfully to absolute NII, with full-year NIM \u201caround 2.25%,\u201d implying roughly 5 basis points of compression.",
+      "expectation_evidence": "The preview\u2019s base scenario anticipated that \u201cNIM guide [would be] trimmed to ~2.27%.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The commercial portfolio reached $15 billion, above the preview\u2019s expected $13.6\u201314.0 billion range. Management also raised expected full-year growth excluding the Panama loan to around 25%, well above the original 13%\u201315% guidance.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe commercial portfolio reached a record $15 billion, up 15% quarter-over-quarter and 38% year-over-year\u201d; excluding the Panama loan, full-year growth is expected around 25%, with the total including Panama around 35%.",
+      "expectation_evidence": "\u201cCommercial portfolio was $13.0B at 2Q26 against a 13\u201315% FY growth guide implying ~$13.1\u201313.3B by year-end \u2014 so the portfolio may print above guidance (~$13.6\u201314.0B) purely on this deal.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Net interest income and quarterly NIM came in above the preview\u2019s expected ranges: NII was $79.8 million versus about $76\u201378 million, and NIM was 2.30% versus about 2.20%\u20132.28%. The margin gain was partly supported by unusually high loan prepayments and lower funding costs, which management described as temporary benefits.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income hit a record $79.8 million\u201d and \u201cNIM rose 6 basis points to 2.30%\u201d; management attributed the gain partly to loan prepayments running 2\u20133x higher than usual and lower funding costs.",
+      "expectation_evidence": "The preview estimated \u201cNet interest income \u2026 ~$76\u201378M\u201d and \u201cNIM \u2026 ~2.20\u20132.28%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Net income was below the preview\u2019s $66\u201368 million estimate at $63.2 million, despite record NII. The company attributed the sequential decline partly to normalized fee income, higher expenses, and increased provisions.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income reached $63.2 million,\u201d down 5% from Q2 due to \u201cnormalized fee income, higher expenses, and increased provisions.\u201d",
+      "expectation_evidence": "The derived Q3 net profit estimate was \u201c~$66\u201368M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "Provision expense reached $10.4 million, above the preview\u2019s expected $6\u20139 million range. Management said the increase mainly reflected additional coverage on existing Stage 3 exposures and portfolio growth, rather than new credit deterioration, and expected cost of risk to remain around 20 basis points.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProvision expense increased to $10.4 million from $8.6 million,\u201d driven mainly by added reserve coverage on existing Stage 3 exposures and portfolio growth; cost of risk is expected stable around 20 basis points.",
+      "expectation_evidence": "The preview anticipated provisions of \u201c~$6\u20139M\u201d in its base scenario and listed provision expense versus \u201c~$6\u20139M\u201d as a key catalyst.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "Despite the Panama loan and major portfolio growth, Tier 1 ended at 16.2%, above the preview\u2019s base-case 15.5%\u201316.0% range and the 15.2% estimate if the full loan were retained with a 100% risk weight. Management said much of the incremental growth used little capital.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Tier 1 ratio ended at 16.2% (down from 16.6%), falling less than 50 basis points despite major loan growth\u201d because growth came largely from \u201clow-capital-consumption investment-grade sovereign and quasi-sovereign exposures.\u201d",
+      "expectation_evidence": "The preview\u2019s base scenario expected \u201cTier 1 15.5\u201316.0%\u201d; it estimated that holding the Panama loan in full could take the ratio \u201cto ~15.2%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "The full-year NIM outlook was around 2.25%, below the preview\u2019s base-case expectation of a trim to about 2.27% and the prior 2.30% guide. Management also said the Panama transaction would temporarily dilute reported NIM in Q4 even as it added meaningfully to absolute NII.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Management guided that the Panama transaction will \u201ctemporarily dilute reported NIM in Q4\u201d while adding meaningfully to absolute NII, with full-year NIM \u201caround 2.25%,\u201d implying roughly 5 basis points of compression.",
+      "expectation_evidence": "The preview\u2019s base scenario anticipated that \u201cNIM guide [would be] trimmed to ~2.27%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

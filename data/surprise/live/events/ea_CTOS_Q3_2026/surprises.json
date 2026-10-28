@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "The preview treated about $105 million of adjusted EBITDA as the number to beat and said $112 million or more would be a genuine upside print. CTOS reported $111 million, above the central estimate but short of that upside threshold.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA was $111 million\u201d",
+      "expectation_evidence": "\u201cTreat $105M as the number to beat and $112M+ as a genuine upside print.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview said reaffirming FY26 adjusted EBITDA guidance was the most likely outcome. Instead, CTOS raised the range for the third time this year, while leaving revenue guidance unchanged.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised full-year 2026 adjusted EBITDA guidance for the third time this year to $447.5 million-$460 million\u201d and \u201caffirming revenue guidance of $2.1 billion-$2.2 billion.\u201d",
+      "expectation_evidence": "\u201cThree outcomes, in descending order of frequency: reaffirm, narrow to the upper half (bullish), or trim to the low end (bearish).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected net rental fleet investment of $170\u2013200 million and more than $50 million of levered free cash flow. CTOS instead raised investment to $210\u2013230 million, leaving levered free cash flow only slightly positive; most of the incremental units\u2019 earnings are expected in 2027 rather than 2026.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRaised 2026 net rental fleet investment to $210 million-$230 million (about $35 million above prior midpoint)\u201d and \u201c2026 levered free cash flow is now expected to be only slightly positive versus a prior expectation of more than $50 million,\u201d with \u201cmost earnings deferred to 2027.\u201d",
+      "expectation_evidence": "\u201cFY26 net rental fleet investment of $170\u2013200M\u201d and \u201cThe FY commitment to >$50M levered FCF.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 average utilization exceeded the preview\u2019s 80% watch level, and management reported further improvement in Q4, with utilization above 84% and OEC on rent above $1.5 billion. That is a stronger near-term rental trend than the preview\u2019s Q3-focused watch level alone implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRental fleet utilization averaged 81.5% in Q3 (up 220 bps year-over-year) and has since surpassed 84% in Q4,\u201d while \u201cOEC on rent\u201d rose from a Q3 average of $1.39 billion to \u201ccurrently over $1.5 billion.\u201d",
+      "expectation_evidence": "\u201cFleet utilization: \u226580%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 average OEC on rent came in at $1.39 billion, just below the preview\u2019s watch level of more than $1.40 billion, despite the stronger subsequent Q4 level.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOEC on rent rising from a Q3 average of $1.39 billion to currently over $1.5 billion.\u201d",
+      "expectation_evidence": "\u201cAvg. OEC on rent \u2026 Q3'26 Watch Level: >$1.40B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "On-rent yield was 39.4%, just below the preview\u2019s 39.5% threshold and unchanged from the cited Q2 level, rather than showing the sequential improvement the preview was watching for.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOn-rent yield of 39.4%.\u201d",
+      "expectation_evidence": "\u201cOn-rent yield: \u226539.5%\u201d and \u201cIf yield comes in flat-to-down sequentially, the \u2018transmission mix is structurally higher-yielding\u2019 argument \u2026 takes real damage.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected Q3 order strength to convert into STEM deliveries and flagged delivery slippage as a risk, but the reported third-party revenue fell 5%. More than $20 million of sales were delayed by a chassis recall and hailstorm, alongside a strategic shift of production to the rental fleet; management expects the delayed sales to reverse in Q4.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSTEM third-party revenue (excluding intersegment sales) fell 5%,\u201d affected by \u201cover $20 million of sales delayed by a chassis vendor recall and a Kansas City hailstorm, both expected to reverse in Q4.\u201d",
+      "expectation_evidence": "\u201cThe quarter hinges on whether STEM converts the early-Q3 order strength into Q3 deliveries rather than Q4.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q3 STEM backlog of $342 million was broadly in line with the preview\u2019s expectation of more than $340 million, but its subsequent growth to nearly $400 million and the mid-to-high-teens expected Q4 sales growth add stronger forward demand evidence than that Q3 threshold alone suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSTEM new sales backlog ended Q3 at $342 million (up 22% year-over-year) and has since grown to nearly $400 million, with Q4 third-party new sales expected to rise at a mid-to-high teens rate year-over-year.\u201d",
+      "expectation_evidence": "\u201cAnything below ~$340M contradicts guidance\u201d; the preview also noted backlog had already grown to \u201c>$340M in early Q3.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview highlighted the supportive sector backdrop for rental demand. CTOS reported strong SCR growth and profitability, including 18% segment revenue growth and a 54.6% adjusted EBITDA margin, although the preview did not set specific SCR revenue or margin estimates.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSCR segment revenue grew 18% to $223 million with segment adjusted EBITDA margin of 54.6% (up ~220 bps), rental gross margin near 79%.\u201d",
+      "expectation_evidence": "\u201cThe end-market backdrop for CTOS's rental segment should be a tailwind.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview treated about $105 million of adjusted EBITDA as the number to beat and said $112 million or more would be a genuine upside print. CTOS reported $111 million, above the central estimate but short of that upside threshold.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA was $111 million\u201d",
+      "expectation_evidence": "\u201cTreat $105M as the number to beat and $112M+ as a genuine upside print.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "The preview said reaffirming FY26 adjusted EBITDA guidance was the most likely outcome. Instead, CTOS raised the range for the third time this year, while leaving revenue guidance unchanged.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised full-year 2026 adjusted EBITDA guidance for the third time this year to $447.5 million-$460 million\u201d and \u201caffirming revenue guidance of $2.1 billion-$2.2 billion.\u201d",
+      "expectation_evidence": "\u201cThree outcomes, in descending order of frequency: reaffirm, narrow to the upper half (bullish), or trim to the low end (bearish).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The preview expected net rental fleet investment of $170\u2013200 million and more than $50 million of levered free cash flow. CTOS instead raised investment to $210\u2013230 million, leaving levered free cash flow only slightly positive; most of the incremental units\u2019 earnings are expected in 2027 rather than 2026.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRaised 2026 net rental fleet investment to $210 million-$230 million (about $35 million above prior midpoint)\u201d and \u201c2026 levered free cash flow is now expected to be only slightly positive versus a prior expectation of more than $50 million,\u201d with \u201cmost earnings deferred to 2027.\u201d",
+      "expectation_evidence": "\u201cFY26 net rental fleet investment of $170\u2013200M\u201d and \u201cThe FY commitment to >$50M levered FCF.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 3,
+      "description": "Q3 average utilization exceeded the preview\u2019s 80% watch level, and management reported further improvement in Q4, with utilization above 84% and OEC on rent above $1.5 billion. That is a stronger near-term rental trend than the preview\u2019s Q3-focused watch level alone implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRental fleet utilization averaged 81.5% in Q3 (up 220 bps year-over-year) and has since surpassed 84% in Q4,\u201d while \u201cOEC on rent\u201d rose from a Q3 average of $1.39 billion to \u201ccurrently over $1.5 billion.\u201d",
+      "expectation_evidence": "\u201cFleet utilization: \u226580%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Q3 average OEC on rent came in at $1.39 billion, just below the preview\u2019s watch level of more than $1.40 billion, despite the stronger subsequent Q4 level.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOEC on rent rising from a Q3 average of $1.39 billion to currently over $1.5 billion.\u201d",
+      "expectation_evidence": "\u201cAvg. OEC on rent \u2026 Q3'26 Watch Level: >$1.40B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "On-rent yield was 39.4%, just below the preview\u2019s 39.5% threshold and unchanged from the cited Q2 level, rather than showing the sequential improvement the preview was watching for.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOn-rent yield of 39.4%.\u201d",
+      "expectation_evidence": "\u201cOn-rent yield: \u226539.5%\u201d and \u201cIf yield comes in flat-to-down sequentially, the \u2018transmission mix is structurally higher-yielding\u2019 argument \u2026 takes real damage.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "The preview expected Q3 order strength to convert into STEM deliveries and flagged delivery slippage as a risk, but the reported third-party revenue fell 5%. More than $20 million of sales were delayed by a chassis recall and hailstorm, alongside a strategic shift of production to the rental fleet; management expects the delayed sales to reverse in Q4.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSTEM third-party revenue (excluding intersegment sales) fell 5%,\u201d affected by \u201cover $20 million of sales delayed by a chassis vendor recall and a Kansas City hailstorm, both expected to reverse in Q4.\u201d",
+      "expectation_evidence": "\u201cThe quarter hinges on whether STEM converts the early-Q3 order strength into Q3 deliveries rather than Q4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "The Q3 STEM backlog of $342 million was broadly in line with the preview\u2019s expectation of more than $340 million, but its subsequent growth to nearly $400 million and the mid-to-high-teens expected Q4 sales growth add stronger forward demand evidence than that Q3 threshold alone suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSTEM new sales backlog ended Q3 at $342 million (up 22% year-over-year) and has since grown to nearly $400 million, with Q4 third-party new sales expected to rise at a mid-to-high teens rate year-over-year.\u201d",
+      "expectation_evidence": "\u201cAnything below ~$340M contradicts guidance\u201d; the preview also noted backlog had already grown to \u201c>$340M in early Q3.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "The preview highlighted the supportive sector backdrop for rental demand. CTOS reported strong SCR growth and profitability, including 18% segment revenue growth and a 54.6% adjusted EBITDA margin, although the preview did not set specific SCR revenue or margin estimates.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSCR segment revenue grew 18% to $223 million with segment adjusted EBITDA margin of 54.6% (up ~220 bps), rental gross margin near 79%.\u201d",
+      "expectation_evidence": "\u201cThe end-market backdrop for CTOS's rental segment should be a tailwind.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

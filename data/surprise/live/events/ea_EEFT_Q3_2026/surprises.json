@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Euronet cut its 2026 outlook rather than reaffirming the prior 10\u201315% adjusted EPS growth range: it now expects roughly 10% growth, with revenue of about $4.375 billion and adjusted EBITDA of $725 million. Management cited persistent cross-border pressure from U.S. immigration policy and macro weakness.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201ccut its full-year 2026 guidance to approximately $4.375 billion in revenue, $725 million in adjusted EBITDA, and adjusted EPS growth of roughly 10%,\u201d citing \u201cpersistent cross-border headwinds from US immigration policy and macro weakness.\u201d",
+      "expectation_evidence": "\u201cFY2026 adj. EPS: Guidance: +10\u201315% \u2192 $10.57\u2013$11.05\u201d; \u201cFY2026 revenue: Guidance: ~+6%\u201d; the base case expected \u201cFY reaffirmed at 10\u201315%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cross-Border profitability deteriorated more sharply than the preview\u2019s base expectation: operating income fell 35% and adjusted EBITDA fell 32%, rather than declining around 20%. Revenue was down 4%, while roughly $6 million of incremental advertising spend added pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCross-border payments segment saw revenue decline 4%, operating income drop 35%, and adjusted EBITDA fall 32%,\u201d hurt by U.S. outbound pressure and \u201croughly $6 million in incremental advertising spend.\u201d",
+      "expectation_evidence": "The base case expected \u201cCross-Border \u22124% with op income \u221220%\u201d; the preview said the key metric was whether the Q2 \u201c\u221234%\u201d operating-income decline would compress toward \u201c\u221210/\u221215%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted operating income was well below the preview\u2019s estimate: reported adjusted operating income was $169.9 million versus an estimated $198\u2013205 million. The preview had highlighted segment margins as a key risk, but the consolidated shortfall was substantially larger than its modeled range.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted operating income of $169.9 million.\u201d",
+      "expectation_evidence": "\u201cOperating income | ~$198\u2013205M (derived).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA came in below the preview\u2019s roughly $245\u2013252 million estimate, at $226.1 million. That missed the preview\u2019s key threshold for a roughly flat year-over-year result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA of $226.1 million.\u201d",
+      "expectation_evidence": "\u201cAdjusted EBITDA | ~$245\u2013252M (derived, not published)\u201d; the catalyst checklist flagged \u201cConsolidated adjusted EBITDA \u2265 ~$245M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS missed the published $3.69 consensus: Euronet reported $3.55, down 2% year over year instead of the roughly 2% growth implied by consensus. The result was nevertheless at the bottom of the preview\u2019s $3.55\u2013$3.75 base-case range and close to its cited buy-side whisper range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS was $3.55, a 2% year-over-year decline.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $3.69\u201d; the preview said the \u201ceffective buy-side whisper looks like $3.40\u2013$3.55\u201d and its base case was \u201c$3.55\u20133.75.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Payments Infrastructure revenue grew faster than the preview\u2019s segment estimate, at 9% versus its projected 6\u20138%. However, operating income was flat, consistent with the preview\u2019s concern that cost inflation and mix would limit profit conversion.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPayments infrastructure revenue grew 9% on merchant acquiring and CoreCard, but adjusted operating income was flat,\u201d with global cost inflation and a $4.7 million CoreCard purchase-price amortization charge weighing on profitability.",
+      "expectation_evidence": "The segment estimate was \u201c$434\u2013442M\u201d versus $409.4 million a year earlier, or \u201c+6% to +8%\u201d; the base case expected \u201cPayments Infrastructure +7% with flat margins.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Euronet repurchased more shares in the quarter than the preview expected for the second half: about 690,000 shares for $50 million, versus an expectation of only 400,000\u2013500,000 shares planned for all of H2 and no additional repurchases built into guidance. The buyback had minimal immediate EPS impact but was expected to help future quarters.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRepurchased approximately 690,000 shares for $50 million during the quarter, with minimal Q3 EPS impact but expected benefit to future quarters.\u201d",
+      "expectation_evidence": "The preview said \u201conly 400\u2013500k shares planned for H2\u201d and \u201cno incremental repurchase baked into guidance.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management indicated that 2027 adjusted EPS growth would likely be toward the lower end of the 10\u201315% Investor Day framework, pointing to a weaker starting point from persistent cross-border weakness. The preview discussed that framework but did not anticipate this lower-end outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaled 2027 adjusted EPS growth likely toward the lower end of its 10-15% Investor Day framework, reflecting a partial rebasing from persistent cross-border weakness.\u201d",
+      "expectation_evidence": "The preview referenced the \u201c23% Investor Day framework\u201d for digital accelerators, but did not flag a lower-end 2027 EPS outlook; it described the 10\u201315% range as a framework.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "A new epay headwind emerged: Steam will stop selling physical gift cards at the end of October, creating a Q4 gap. The expected gradual offset from the mid-November Grand Theft Auto 6 release does not eliminate that near-term headwind.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSteam will discontinue physical gift card sales at the end of October, creating a Q4 headwind for epay,\u201d while the GTA 6 release is \u201cexpected to gradually offset the gap.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Euronet cut its 2026 outlook rather than reaffirming the prior 10\u201315% adjusted EPS growth range: it now expects roughly 10% growth, with revenue of about $4.375 billion and adjusted EBITDA of $725 million. Management cited persistent cross-border pressure from U.S. immigration policy and macro weakness.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201ccut its full-year 2026 guidance to approximately $4.375 billion in revenue, $725 million in adjusted EBITDA, and adjusted EPS growth of roughly 10%,\u201d citing \u201cpersistent cross-border headwinds from US immigration policy and macro weakness.\u201d",
+      "expectation_evidence": "\u201cFY2026 adj. EPS: Guidance: +10\u201315% \u2192 $10.57\u2013$11.05\u201d; \u201cFY2026 revenue: Guidance: ~+6%\u201d; the base case expected \u201cFY reaffirmed at 10\u201315%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Cross-Border profitability deteriorated more sharply than the preview\u2019s base expectation: operating income fell 35% and adjusted EBITDA fell 32%, rather than declining around 20%. Revenue was down 4%, while roughly $6 million of incremental advertising spend added pressure.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCross-border payments segment saw revenue decline 4%, operating income drop 35%, and adjusted EBITDA fall 32%,\u201d hurt by U.S. outbound pressure and \u201croughly $6 million in incremental advertising spend.\u201d",
+      "expectation_evidence": "The base case expected \u201cCross-Border \u22124% with op income \u221220%\u201d; the preview said the key metric was whether the Q2 \u201c\u221234%\u201d operating-income decline would compress toward \u201c\u221210/\u221215%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted operating income was well below the preview\u2019s estimate: reported adjusted operating income was $169.9 million versus an estimated $198\u2013205 million. The preview had highlighted segment margins as a key risk, but the consolidated shortfall was substantially larger than its modeled range.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted operating income of $169.9 million.\u201d",
+      "expectation_evidence": "\u201cOperating income | ~$198\u2013205M (derived).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Adjusted EBITDA came in below the preview\u2019s roughly $245\u2013252 million estimate, at $226.1 million. That missed the preview\u2019s key threshold for a roughly flat year-over-year result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA of $226.1 million.\u201d",
+      "expectation_evidence": "\u201cAdjusted EBITDA | ~$245\u2013252M (derived, not published)\u201d; the catalyst checklist flagged \u201cConsolidated adjusted EBITDA \u2265 ~$245M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Adjusted EPS missed the published $3.69 consensus: Euronet reported $3.55, down 2% year over year instead of the roughly 2% growth implied by consensus. The result was nevertheless at the bottom of the preview\u2019s $3.55\u2013$3.75 base-case range and close to its cited buy-side whisper range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS was $3.55, a 2% year-over-year decline.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $3.69\u201d; the preview said the \u201ceffective buy-side whisper looks like $3.40\u2013$3.55\u201d and its base case was \u201c$3.55\u20133.75.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 5,
+      "description": "Payments Infrastructure revenue grew faster than the preview\u2019s segment estimate, at 9% versus its projected 6\u20138%. However, operating income was flat, consistent with the preview\u2019s concern that cost inflation and mix would limit profit conversion.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPayments infrastructure revenue grew 9% on merchant acquiring and CoreCard, but adjusted operating income was flat,\u201d with global cost inflation and a $4.7 million CoreCard purchase-price amortization charge weighing on profitability.",
+      "expectation_evidence": "The segment estimate was \u201c$434\u2013442M\u201d versus $409.4 million a year earlier, or \u201c+6% to +8%\u201d; the base case expected \u201cPayments Infrastructure +7% with flat margins.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Euronet repurchased more shares in the quarter than the preview expected for the second half: about 690,000 shares for $50 million, versus an expectation of only 400,000\u2013500,000 shares planned for all of H2 and no additional repurchases built into guidance. The buyback had minimal immediate EPS impact but was expected to help future quarters.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRepurchased approximately 690,000 shares for $50 million during the quarter, with minimal Q3 EPS impact but expected benefit to future quarters.\u201d",
+      "expectation_evidence": "The preview said \u201conly 400\u2013500k shares planned for H2\u201d and \u201cno incremental repurchase baked into guidance.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "Management indicated that 2027 adjusted EPS growth would likely be toward the lower end of the 10\u201315% Investor Day framework, pointing to a weaker starting point from persistent cross-border weakness. The preview discussed that framework but did not anticipate this lower-end outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaled 2027 adjusted EPS growth likely toward the lower end of its 10-15% Investor Day framework, reflecting a partial rebasing from persistent cross-border weakness.\u201d",
+      "expectation_evidence": "The preview referenced the \u201c23% Investor Day framework\u201d for digital accelerators, but did not flag a lower-end 2027 EPS outlook; it described the 10\u201315% range as a framework.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "A new epay headwind emerged: Steam will stop selling physical gift cards at the end of October, creating a Q4 gap. The expected gradual offset from the mid-November Grand Theft Auto 6 release does not eliminate that near-term headwind.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSteam will discontinue physical gift card sales at the end of October, creating a Q4 headwind for epay,\u201d while the GTA 6 release is \u201cexpected to gradually offset the gap.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

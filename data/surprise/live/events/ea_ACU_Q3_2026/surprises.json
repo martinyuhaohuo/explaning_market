@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Sales were $58 million, above the preview\u2019s $57.3 million model, and organic growth was 10% rather than the expected 7% core growth. U.S. sales excluding MiMedx also grew 10%, with strong first-aid and Westcott back-to-school performance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 18% year-over-year to $58 million, with organic sales (excluding the MiMedx acquisition) up 10%\u201d; U.S. sales increased 20%, or 10% excluding MiMedx, driven by \u201cstrong first aid and Westcott back-to-school performance.\u201d",
+      "expectation_evidence": "\u201cNet sales\u201d model: \u201c$57.3M\u201d; core growth expected at \u201c+7%.\u201d The preview also said Q3 revenue of \u201c\u2265$57M\u201d was needed.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin reached 45.3%, well above the preview\u2019s 41% threshold, but the result was heavily lifted by the tariff refund rather than solely by the anticipated recovery in underlying margins. The refund added about 690 basis points, while DMT closure costs took away about 310 basis points; excluding both effects, the implied margin is roughly 41.5%.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 gross margin expanded to 45.3% from 39.1%, boosted by ~690 basis points from the tariff refund and reduced by ~310 basis points from DMT closure costs.\u201d The company recognized $4 million of the $6 million EPA refund as a reduction in cost of goods sold.",
+      "expectation_evidence": "\u201cWatch for GM \u226541% in Q3\u201d; the base case was \u201c40.5\u201341.0%,\u201d with \u201cfull tariff recovery\u201d in the bull case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Reported EPS of $0.80 beat the preview\u2019s $0.74 estimate, but excluding the $1 million net tariff-refund benefit, EPS was $0.55\u2014well below expectations. The headline earnings beat therefore depended on an unexpected refund benefit.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cReported net income grew 80% to $3.4 million ($0.80 EPS), but excluding a $1 million net tariff refund benefit, net income was $2.4 million ($0.55 EPS), up 24%.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS\u201d model: \u201c$0.74\u201d; consensus was \u201c~$0.73.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SG&A was 38% of sales, materially higher than the preview\u2019s 33% model, even though the preview had already anticipated added My Medic advertising costs. MiMedx contributed $4 million in sales as planned and improved margins through higher-margin direct-to-consumer products, but the higher expense ratio was a greater-than-expected drag.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "MiMedx \u201ccontributed $4 million in quarterly sales as planned and improved margins via higher-margin direct-to-consumer products, though it raised SG&A to 38% of sales from 32%.\u201d",
+      "expectation_evidence": "The preview modeled \u201cSG&A\u201d at \u201c33.0% of sales\u201d and said My Medic\u2019s advertising load was expected to raise SG&A.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "MiMedx sales were $4 million, below the preview\u2019s approximately $4.8 million estimate, although the call characterized the contribution as planned.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe MiMedx acquisition contributed $4 million in quarterly sales as planned.\u201d",
+      "expectation_evidence": "The preview\u2019s model included \u201cMy Medic ~$4.8M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company disclosed a planned closure of its Marlboro DMT plant, an event not flagged in the preview. It expects a $1 million reserve in Q4 and annual savings exceeding $1 million beginning in January 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement will close the Marlboro, Massachusetts DMT plant in Q4 with a $1 million reserve, expecting annual savings exceeding $1 million beginning January 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management disclosed an intentional $8\u201310 million inventory build as protection against supply disruptions, with much of that inventory expected to convert back to cash during 2027. The preview discussed cash flow and acquisition capacity but did not anticipate this working-capital build.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement deliberately built inventory by $8-10 million as insurance against supply disruptions and expects to convert much of it back to cash during 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management said new business was already booked for 2027, a positive forward-demand detail not anticipated in the preview. The call also described Q4 as seasonally strong, consistent with the preview\u2019s expectation of a meaningful Q4 contribution.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201canticipating a seasonally strong Q4 and new business already booked for 2027.\u201d",
+      "expectation_evidence": "The preview modeled Q4 EPS at \u201c~$0.70\u201d and described My Medic as having \u201c~35% of sales in Q4\u201d; it did not cite booked 2027 business.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Sales were $58 million, above the preview\u2019s $57.3 million model, and organic growth was 10% rather than the expected 7% core growth. U.S. sales excluding MiMedx also grew 10%, with strong first-aid and Westcott back-to-school performance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 18% year-over-year to $58 million, with organic sales (excluding the MiMedx acquisition) up 10%\u201d; U.S. sales increased 20%, or 10% excluding MiMedx, driven by \u201cstrong first aid and Westcott back-to-school performance.\u201d",
+      "expectation_evidence": "\u201cNet sales\u201d model: \u201c$57.3M\u201d; core growth expected at \u201c+7%.\u201d The preview also said Q3 revenue of \u201c\u2265$57M\u201d was needed.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Gross margin reached 45.3%, well above the preview\u2019s 41% threshold, but the result was heavily lifted by the tariff refund rather than solely by the anticipated recovery in underlying margins. The refund added about 690 basis points, while DMT closure costs took away about 310 basis points; excluding both effects, the implied margin is roughly 41.5%.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 gross margin expanded to 45.3% from 39.1%, boosted by ~690 basis points from the tariff refund and reduced by ~310 basis points from DMT closure costs.\u201d The company recognized $4 million of the $6 million EPA refund as a reduction in cost of goods sold.",
+      "expectation_evidence": "\u201cWatch for GM \u226541% in Q3\u201d; the base case was \u201c40.5\u201341.0%,\u201d with \u201cfull tariff recovery\u201d in the bull case.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Reported EPS of $0.80 beat the preview\u2019s $0.74 estimate, but excluding the $1 million net tariff-refund benefit, EPS was $0.55\u2014well below expectations. The headline earnings beat therefore depended on an unexpected refund benefit.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cReported net income grew 80% to $3.4 million ($0.80 EPS), but excluding a $1 million net tariff refund benefit, net income was $2.4 million ($0.55 EPS), up 24%.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS\u201d model: \u201c$0.74\u201d; consensus was \u201c~$0.73.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "SG&A was 38% of sales, materially higher than the preview\u2019s 33% model, even though the preview had already anticipated added My Medic advertising costs. MiMedx contributed $4 million in sales as planned and improved margins through higher-margin direct-to-consumer products, but the higher expense ratio was a greater-than-expected drag.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "MiMedx \u201ccontributed $4 million in quarterly sales as planned and improved margins via higher-margin direct-to-consumer products, though it raised SG&A to 38% of sales from 32%.\u201d",
+      "expectation_evidence": "The preview modeled \u201cSG&A\u201d at \u201c33.0% of sales\u201d and said My Medic\u2019s advertising load was expected to raise SG&A.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "MiMedx sales were $4 million, below the preview\u2019s approximately $4.8 million estimate, although the call characterized the contribution as planned.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe MiMedx acquisition contributed $4 million in quarterly sales as planned.\u201d",
+      "expectation_evidence": "The preview\u2019s model included \u201cMy Medic ~$4.8M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "The company disclosed a planned closure of its Marlboro DMT plant, an event not flagged in the preview. It expects a $1 million reserve in Q4 and annual savings exceeding $1 million beginning in January 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement will close the Marlboro, Massachusetts DMT plant in Q4 with a $1 million reserve, expecting annual savings exceeding $1 million beginning January 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 6,
+      "description": "Management disclosed an intentional $8\u201310 million inventory build as protection against supply disruptions, with much of that inventory expected to convert back to cash during 2027. The preview discussed cash flow and acquisition capacity but did not anticipate this working-capital build.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement deliberately built inventory by $8-10 million as insurance against supply disruptions and expects to convert much of it back to cash during 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 7,
+      "description": "Management said new business was already booked for 2027, a positive forward-demand detail not anticipated in the preview. The call also described Q4 as seasonally strong, consistent with the preview\u2019s expectation of a meaningful Q4 contribution.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201canticipating a seasonally strong Q4 and new business already booked for 2027.\u201d",
+      "expectation_evidence": "The preview modeled Q4 EPS at \u201c~$0.70\u201d and described My Medic as having \u201c~35% of sales in Q4\u201d; it did not cite booked 2027 business.",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

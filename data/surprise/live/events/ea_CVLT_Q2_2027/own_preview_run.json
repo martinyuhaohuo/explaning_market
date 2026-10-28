@@ -1,0 +1,111 @@
+{
+  "event_id": "ea_CVLT_Q2_2027",
+  "ticker": "CVLT",
+  "company": "Commvault Systems, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T11:45:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "Commvault Systems, Inc. (CVLT), fiscal period Q2 FY2027, earnings release scheduled 2026-10-27 11:45 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview Commvault Systems, Inc. (CVLT), fiscal period Q2 FY2027, earnings release scheduled 2026-10-27 11:45 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:40:00.145058+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Skill",
+      "detail": "earnings-preview"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Commvault CVLT Q2 fiscal 2027 earnings preview consensus revenue EPS"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Commvault fiscal 2027 guidance Q1 results ARR subscription revenue outlook"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Commvault stock earnings reaction history shares after earnings"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "81d7c6b5-e5c6-40de-85d8-b0016e94a4ee",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 7,
+  "duration_ms": 27154,
+  "total_cost_usd": 0.039660684999999994,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 8025,
+    "cache_read_input_tokens": 59276,
+    "output_tokens": 4014,
+    "output_tokens_details": {
+      "thinking_tokens": 879
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8025
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3307,
+        "cache_read_input_tokens": 21358,
+        "cache_creation_input_tokens": 4704,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 4704,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:40:28.345421+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

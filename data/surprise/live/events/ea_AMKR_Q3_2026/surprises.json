@@ -1,0 +1,222 @@
+{
+  "surprises": [
+    {
+      "description": "Amkor reported Q3 revenue of about $1.99 billion, below the preview\u2019s $2.02\u20132.04 billion consensus range. Sequential growth was 5%, versus roughly 7% implied by the preview\u2019s consensus.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 revenue reached approximately $1.99 billion, up 5% sequentially.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Consensus\u201d revenue: \u201c$2.02\u20132.04B\u201d; implied Q/Q: \u201c+~7%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 gross margin was 18.3%, below both the 18.5% lower end of prior guidance and the preview\u2019s roughly 19% consensus. The 150-basis-point sequential expansion was also less than the preview\u2019s implied roughly 220 basis points.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin expanded to 18.3%, up 150 basis points sequentially and 400 basis points year-over-year.\u201d",
+      "expectation_evidence": "The preview lists Q3 guidance of \u201c18.5% \u2013 19.5%\u201d and consensus of \u201c~19.0%\u201d; it also gives implied year-over-year expansion of \u201c+~470bps\u201d from Q3'25 actual gross margin of 14.3%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 EPS of $0.76 missed the preview\u2019s $0.78\u20130.79 consensus and was further below the $0.82 whisper number. Net income, by contrast, landed within the preview\u2019s estimated range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 net income was $191 million with EPS of $0.76.\u201d",
+      "expectation_evidence": "The preview gives diluted EPS consensus of \u201c$0.78\u201d or \u201c$0.79\u201d and a \u201c$0.82\u201d whisper number; estimated net income is \u201c$180M \u2013 $205M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 computing grew 25% sequentially, short of the roughly 30% growth investors were led to expect. Amkor attributed the shortfall to the extended time needed to load its HDFO production line.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComputing revenue grew 25% sequentially to a new record, though this fell short of the ~30% growth guided last quarter due to the extended time needed to load the 300+ step HDFO production line.\u201d",
+      "expectation_evidence": "The preview\u2019s segment table gives Q3 computing growth of \u201c+~30%\u201d; it also says to watch for computing revenue of \u201c\u2248$540M (+~30% q/q).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Amkor\u2019s Q4 revenue outlook has a $1.95 billion midpoint, below the preview\u2019s $2.04 billion consensus, and its $1.9\u20132.0 billion range includes outcomes materially below that consensus. This is a weaker outlook than the preview\u2019s expected essentially flat sequential revenue.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 revenue is guided to $1.9-2.0 billion,\u201d implying \u201ca flat-to-slightly-down sequential outlook.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus is $0.78 EPS / $2.04B revenue \u2014 essentially flat sequentially\u201d; the preview\u2019s base case also anticipated Q4 revenue of \u201c$1.95\u20132.05B (\u2248in line).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 gross-margin guidance of 18\u201319% is weaker than the preview\u2019s roughly 19\u201320% benchmark, with the guide midpoint below 19%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 revenue is guided to $1.9-2.0 billion with gross margin of 18-19%.\u201d",
+      "expectation_evidence": "The preview ranks \u201cQ4'26 revenue + GM guidance vs. $2.04B / ~19\u201320%\u201d as the key metric to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 EPS guidance of $0.65\u20130.75 is below the preview\u2019s $0.78 consensus, including at the top of the company\u2019s range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEPS between $0.65 and $0.75.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus is $0.78 EPS / $2.04B revenue.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Amkor now expects consumer revenue to fall more than seasonally in Q4, into the mid-teens percentage range sequentially, due to shortages affecting premium-tier smartphones. The preview discussed Q3 consumer growth but did not flag this Q4 decline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsumer revenue is expected to decline more than seasonally into the mid-teens percent sequentially in Q4 due to component shortages affecting premium-tier smartphones.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management gave a notably strong longer-term computing outlook: full-year 2026 growth is expected to exceed 30%, with a similar or higher rate into 2027. The preview focused on the Q3 ramp and execution risk but did not state this sustained growth outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComputing is expected to grow low double digits sequentially in Q4, resulting in over 50% year-over-year growth, with full-year 2026 computing growth exceeding 30% and expected to continue at a similar or higher rate into 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Amkor said customer prepayments and its balance sheet can fund investment without incremental debt through 2027, a reassuring financing detail not established in the preview. The preview already anticipated roughly $3 billion of prepayments, so the surprise is the stated debt-free funding capacity rather than the prepayment total.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer advance payment arrangements have been executed with a dozen customers since 2025 \u2026 bringing prepayments to roughly $3 billion,\u201d and \u201cthe balance sheet [is] positioned to fund investment without incremental debt through 2027.\u201d",
+      "expectation_evidence": "The preview described \u201c$3B total\u201d in NVIDIA prepayments and flagged \u201chow/when the NVIDIA prepayments land in cash flow\u201d; it also noted \u201c$2.5B cash vs. $2.5B debt.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2026 capital-spending outlook was narrowed to around $2.5 billion, the low end of the preview\u2019s expected $2.5\u20133.0 billion range. That is a somewhat lighter 2026 spending outlook than the upper end investors were watching for.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201c2026 CapEx was narrowed to around $2.5 billion.\u201d",
+      "expectation_evidence": "\u201cFY26 capex held at $2.5\u20133.0B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management outlined a substantial 2027 facilities-spending step-up, with more than $2 billion in facility spending alone and Arizona spending expected to peak in 2028\u20132029. The preview discussed major investment plans and Arizona underutilization risk, but did not give this facilities-spending scale or timing.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA significant step-up [is] expected in 2027 (over $2 billion from facilities alone: up to 15% of Arizona's $12 billion plan, $400-450 million in Korea, $50 million in Vietnam), and Arizona spend is expected to peak in 2028-2029.\u201d",
+      "expectation_evidence": "The preview flagged \u201cCapex and free cash flow\u201d and \u201cArizona as a margin headwind in 2027 and 2028 from underutilization,\u201d but did not quantify 2027 facilities spending.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Amkor reported Q3 revenue of about $1.99 billion, below the preview\u2019s $2.02\u20132.04 billion consensus range. Sequential growth was 5%, versus roughly 7% implied by the preview\u2019s consensus.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 revenue reached approximately $1.99 billion, up 5% sequentially.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Consensus\u201d revenue: \u201c$2.02\u20132.04B\u201d; implied Q/Q: \u201c+~7%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Q3 gross margin was 18.3%, below both the 18.5% lower end of prior guidance and the preview\u2019s roughly 19% consensus. The 150-basis-point sequential expansion was also less than the preview\u2019s implied roughly 220 basis points.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin expanded to 18.3%, up 150 basis points sequentially and 400 basis points year-over-year.\u201d",
+      "expectation_evidence": "The preview lists Q3 guidance of \u201c18.5% \u2013 19.5%\u201d and consensus of \u201c~19.0%\u201d; it also gives implied year-over-year expansion of \u201c+~470bps\u201d from Q3'25 actual gross margin of 14.3%.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Q3 EPS of $0.76 missed the preview\u2019s $0.78\u20130.79 consensus and was further below the $0.82 whisper number. Net income, by contrast, landed within the preview\u2019s estimated range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 net income was $191 million with EPS of $0.76.\u201d",
+      "expectation_evidence": "The preview gives diluted EPS consensus of \u201c$0.78\u201d or \u201c$0.79\u201d and a \u201c$0.82\u201d whisper number; estimated net income is \u201c$180M \u2013 $205M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "Q3 computing grew 25% sequentially, short of the roughly 30% growth investors were led to expect. Amkor attributed the shortfall to the extended time needed to load its HDFO production line.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComputing revenue grew 25% sequentially to a new record, though this fell short of the ~30% growth guided last quarter due to the extended time needed to load the 300+ step HDFO production line.\u201d",
+      "expectation_evidence": "The preview\u2019s segment table gives Q3 computing growth of \u201c+~30%\u201d; it also says to watch for computing revenue of \u201c\u2248$540M (+~30% q/q).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Amkor\u2019s Q4 revenue outlook has a $1.95 billion midpoint, below the preview\u2019s $2.04 billion consensus, and its $1.9\u20132.0 billion range includes outcomes materially below that consensus. This is a weaker outlook than the preview\u2019s expected essentially flat sequential revenue.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 revenue is guided to $1.9-2.0 billion,\u201d implying \u201ca flat-to-slightly-down sequential outlook.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus is $0.78 EPS / $2.04B revenue \u2014 essentially flat sequentially\u201d; the preview\u2019s base case also anticipated Q4 revenue of \u201c$1.95\u20132.05B (\u2248in line).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Q4 gross-margin guidance of 18\u201319% is weaker than the preview\u2019s roughly 19\u201320% benchmark, with the guide midpoint below 19%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 2026 revenue is guided to $1.9-2.0 billion with gross margin of 18-19%.\u201d",
+      "expectation_evidence": "The preview ranks \u201cQ4'26 revenue + GM guidance vs. $2.04B / ~19\u201320%\u201d as the key metric to watch.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Q4 EPS guidance of $0.65\u20130.75 is below the preview\u2019s $0.78 consensus, including at the top of the company\u2019s range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEPS between $0.65 and $0.75.\u201d",
+      "expectation_evidence": "\u201cQ4'26 consensus is $0.78 EPS / $2.04B revenue.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Amkor now expects consumer revenue to fall more than seasonally in Q4, into the mid-teens percentage range sequentially, due to shortages affecting premium-tier smartphones. The preview discussed Q3 consumer growth but did not flag this Q4 decline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsumer revenue is expected to decline more than seasonally into the mid-teens percent sequentially in Q4 due to component shortages affecting premium-tier smartphones.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Management gave a notably strong longer-term computing outlook: full-year 2026 growth is expected to exceed 30%, with a similar or higher rate into 2027. The preview focused on the Q3 ramp and execution risk but did not state this sustained growth outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComputing is expected to grow low double digits sequentially in Q4, resulting in over 50% year-over-year growth, with full-year 2026 computing growth exceeding 30% and expected to continue at a similar or higher rate into 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Amkor said customer prepayments and its balance sheet can fund investment without incremental debt through 2027, a reassuring financing detail not established in the preview. The preview already anticipated roughly $3 billion of prepayments, so the surprise is the stated debt-free funding capacity rather than the prepayment total.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer advance payment arrangements have been executed with a dozen customers since 2025 \u2026 bringing prepayments to roughly $3 billion,\u201d and \u201cthe balance sheet [is] positioned to fund investment without incremental debt through 2027.\u201d",
+      "expectation_evidence": "The preview described \u201c$3B total\u201d in NVIDIA prepayments and flagged \u201chow/when the NVIDIA prepayments land in cash flow\u201d; it also noted \u201c$2.5B cash vs. $2.5B debt.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 10,
+      "description": "The 2026 capital-spending outlook was narrowed to around $2.5 billion, the low end of the preview\u2019s expected $2.5\u20133.0 billion range. That is a somewhat lighter 2026 spending outlook than the upper end investors were watching for.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201c2026 CapEx was narrowed to around $2.5 billion.\u201d",
+      "expectation_evidence": "\u201cFY26 capex held at $2.5\u20133.0B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 11,
+      "description": "Management outlined a substantial 2027 facilities-spending step-up, with more than $2 billion in facility spending alone and Arizona spending expected to peak in 2028\u20132029. The preview discussed major investment plans and Arizona underutilization risk, but did not give this facilities-spending scale or timing.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA significant step-up [is] expected in 2027 (over $2 billion from facilities alone: up to 15% of Arizona's $12 billion plan, $400-450 million in Korea, $50 million in Vietnam), and Arizona spend is expected to peak in 2028-2029.\u201d",
+      "expectation_evidence": "The preview flagged \u201cCapex and free cash flow\u201d and \u201cArizona as a margin headwind in 2027 and 2028 from underutilization,\u201d but did not quantify 2027 facilities spending.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

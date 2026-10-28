@@ -1,0 +1,103 @@
+{
+  "event_id": "ea_AMKR_Q3_2026",
+  "ticker": "AMKR",
+  "company": "Amkor Technology, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-26T20:03:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "Amkor Technology, Inc. (AMKR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-26 20:03 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview Amkor Technology, Inc. (AMKR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-26 20:03 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:37:22.529652+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Amkor Technology AMKR Q3 2026 earnings preview consensus EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Amkor Technology Q2 2026 results third quarter guidance revenue gross margin"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 2
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "a65129fc-5f23-4272-a98c-5d65b7372cf3",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 4,
+  "duration_ms": 19039,
+  "total_cost_usd": 0.02658742,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 5746,
+    "cache_read_input_tokens": 58907,
+    "output_tokens": 2878,
+    "output_tokens_details": {
+      "thinking_tokens": 716
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5746
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2395,
+        "cache_read_input_tokens": 20989,
+        "cache_creation_input_tokens": 2794,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 2794,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:37:42.606776+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "The Cheesecake Factory comps came in far above the preview\u2019s roughly 5%\u20136% expectation, with traffic growth of 9.5% rather than the expected 2%\u20133%. Positive 3.3% mix also helped drive the result, even though pricing was 2.4%, below the preview\u2019s just-under-3% assumption.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Cheesecake Factory restaurants delivered comparable sales growth of 15.2% in Q3 2026, with traffic growth of 9.5%\u201d; comps were driven by \u201c2.4% pricing, positive 3.3% mix \u2026 and 9.5% traffic.\u201d",
+      "expectation_evidence": "The preview\u2019s base estimate was \u201cCAKE-brand comps +5.5%\u201d; it said the base scenario was \u201c+5% to +6%, traffic +2\u20133%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue exceeded the preview\u2019s roughly $1.00 billion base estimate and the street consensus range by a substantial amount, and was meaningfully above the company\u2019s prior guidance ceiling. The preview expected a beat, but not revenue above $1.033 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal revenues exceeded $1.033 billion, meaningfully above the high end of guidance, marking the second consecutive quarter of record revenue.\u201d",
+      "expectation_evidence": "The preview gave consensus revenue of \u201c$994.6M\u2013$998.5M\u201d and a base estimate of \u201c$1,000M\u201d; prior company guidance was \u201c$980\u2013990M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS and net income margin both exceeded the preview\u2019s effective earnings bar: EPS was slightly above the roughly $1.00 whisper, while the 5.1% margin was notably above the roughly 4.5% estimate. Adjusted EBITDA growth also showed stronger profitability than the preview\u2019s seasonal-deleveraging concern implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS was $1.02 (GAAP $1.19), with adjusted net income margin of 5.1% and adjusted EBITDA up 38% year-over-year to $98.7 million.\u201d",
+      "expectation_evidence": "The preview said the effective buy-side bar was \u201c~$1.00 adj. EPS\u201d and estimated \u201cAdj. net income margin ~4.5% (derived).\u201d It also said Q3 was seasonally lower-volume and expected sequential deleverage.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "North Italia\u2019s comps matched the preview\u2019s expected range, but its mature restaurant-level margin fell sharply from 15.7% to 13.2%, a deterioration not anticipated in the preview. Management responded with a menu and happy-hour refresh and pilot media investment.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth Italia was a laggard with comparable sales down 3% and mature restaurant-level margin falling to 13.2% from 15.7%, prompting a new menu, happy hour refresh, and pilot media investments.\u201d",
+      "expectation_evidence": "The preview expected \u201cNorth Italia still ~-1% to -3%\u201d in the base case and noted Q2 comps of \u201c-3%\u201d; it did not forecast a margin decline.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q4 outlook includes flat traffic in the final three holiday weeks, rather than the positive traffic investors were hoping to hear about alongside the 4% pricing step-up. The revenue and margin guidance is strong, but the traffic assumption is a cautionary signal relative to the preview\u2019s preferred scenario.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance assumes Q3 trends hold but \u201cmodel[s] flat traffic in the final three holiday weeks minus a 1% holiday-shift headwind.\u201d",
+      "expectation_evidence": "The preview said buy-side investors wanted Q4 comps of \u201c+4% or better with traffic still positive\u201d and warned that \u201cany hedge on 4Q traffic at 4% pricing\u201d would be read negatively.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The Cheesecake Factory comps came in far above the preview\u2019s roughly 5%\u20136% expectation, with traffic growth of 9.5% rather than the expected 2%\u20133%. Positive 3.3% mix also helped drive the result, even though pricing was 2.4%, below the preview\u2019s just-under-3% assumption.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Cheesecake Factory restaurants delivered comparable sales growth of 15.2% in Q3 2026, with traffic growth of 9.5%\u201d; comps were driven by \u201c2.4% pricing, positive 3.3% mix \u2026 and 9.5% traffic.\u201d",
+      "expectation_evidence": "The preview\u2019s base estimate was \u201cCAKE-brand comps +5.5%\u201d; it said the base scenario was \u201c+5% to +6%, traffic +2\u20133%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Revenue exceeded the preview\u2019s roughly $1.00 billion base estimate and the street consensus range by a substantial amount, and was meaningfully above the company\u2019s prior guidance ceiling. The preview expected a beat, but not revenue above $1.033 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal revenues exceeded $1.033 billion, meaningfully above the high end of guidance, marking the second consecutive quarter of record revenue.\u201d",
+      "expectation_evidence": "The preview gave consensus revenue of \u201c$994.6M\u2013$998.5M\u201d and a base estimate of \u201c$1,000M\u201d; prior company guidance was \u201c$980\u2013990M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted EPS and net income margin both exceeded the preview\u2019s effective earnings bar: EPS was slightly above the roughly $1.00 whisper, while the 5.1% margin was notably above the roughly 4.5% estimate. Adjusted EBITDA growth also showed stronger profitability than the preview\u2019s seasonal-deleveraging concern implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS was $1.02 (GAAP $1.19), with adjusted net income margin of 5.1% and adjusted EBITDA up 38% year-over-year to $98.7 million.\u201d",
+      "expectation_evidence": "The preview said the effective buy-side bar was \u201c~$1.00 adj. EPS\u201d and estimated \u201cAdj. net income margin ~4.5% (derived).\u201d It also said Q3 was seasonally lower-volume and expected sequential deleverage.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "North Italia\u2019s comps matched the preview\u2019s expected range, but its mature restaurant-level margin fell sharply from 15.7% to 13.2%, a deterioration not anticipated in the preview. Management responded with a menu and happy-hour refresh and pilot media investment.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth Italia was a laggard with comparable sales down 3% and mature restaurant-level margin falling to 13.2% from 15.7%, prompting a new menu, happy hour refresh, and pilot media investments.\u201d",
+      "expectation_evidence": "The preview expected \u201cNorth Italia still ~-1% to -3%\u201d in the base case and noted Q2 comps of \u201c-3%\u201d; it did not forecast a margin decline.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "The Q4 outlook includes flat traffic in the final three holiday weeks, rather than the positive traffic investors were hoping to hear about alongside the 4% pricing step-up. The revenue and margin guidance is strong, but the traffic assumption is a cautionary signal relative to the preview\u2019s preferred scenario.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance assumes Q3 trends hold but \u201cmodel[s] flat traffic in the final three holiday weeks minus a 1% holiday-shift headwind.\u201d",
+      "expectation_evidence": "The preview said buy-side investors wanted Q4 comps of \u201c+4% or better with traffic still positive\u201d and warned that \u201cany hedge on 4Q traffic at 4% pricing\u201d would be read negatively.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

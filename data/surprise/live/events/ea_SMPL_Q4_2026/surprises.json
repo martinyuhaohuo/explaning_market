@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 net sales were $333.3 million, above the preview\u2019s $327.1\u2013327.7 million consensus range and the company\u2019s $322\u2013332 million guidance. The 9.7% decline was also less severe than the preview\u2019s implied 11.4% decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 fiscal 2026 net sales declined 9.7% to $333.3 million.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q4 FY26 Consensus | $327.1\u2013327.7M\u201d; company guidance was \u201c$322\u2013332M\u201d; implied YoY was \u201c\u221211.4%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 adjusted EBITDA was $57.5 million, above the preview\u2019s approximately $53 million estimate and slightly above the $52\u201357 million guidance range. Its 13.2% decline was also less severe than the preview\u2019s implied roughly 20% decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 adjusted EBITDA declined 13.2% to $57.5 million.\u201d",
+      "expectation_evidence": "\u201cAdjusted EBITDA | ~$53M\u201d; company guidance was \u201c$52\u201357M,\u201d with Q4 FY25 actual \u201c~$66.7M\u201d and implied YoY \u201c\u221220%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY2027 sales guidance calls for a 13%\u201317% decline, much weaker than the preview\u2019s working expectation of sales down 2%\u20135%. This points to a substantially steeper sales contraction than the preview\u2019s base case.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company guided fiscal 2027 net sales to decline 13% to 17%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201csales \u22122% to \u22125%\u201d; it described the Street\u2019s working range as FY27 EBITDA of $200\u2013215 million, with a cautious but credible plan.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY2027 adjusted EBITDA guidance implies roughly $189\u2013205 million when applied to the preview\u2019s FY2026 guidance range, below the preview\u2019s $200\u2013215 million Street working range for much of the range. Even the top end is only around the bottom of that expectation.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company guided \u2026 adjusted EBITDA to decline 9% to 14%.\u201d",
+      "expectation_evidence": "\u201cI\u2019d put the Street\u2019s working range at $200\u2013215M.\u201d The preview gave FY2026 adjusted EBITDA guidance of \u201c$220\u2013225M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management expects Q1 FY2027 to be exceptionally weak, with sales down 19%\u201322% and adjusted EBITDA down 28%\u201333%. The preview discussed September pricing and the full-year outlook but did not anticipate a specific quarter with declines this steep.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement expects Q1 fiscal 2027 to be the weakest quarter, with net sales declining 19% to 22% and adjusted EBITDA declining 28% to 33%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The September price increase is approaching double digits rather than the preview\u2019s expected high-single-digit increase, and management expects elasticities above the recent approximately 1.2x level, weighted toward the first half. That suggests a heavier near-term volume penalty than the preview\u2019s already-cautious \u201cone or higher\u201d elasticity assumption.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company implemented a price increase approaching double digits across much of its portfolio starting September, expecting elasticities above 1 (higher than the recent ~1.2x) weighted toward the first half.\u201d",
+      "expectation_evidence": "The preview discussed the \u201cSeptember high-single-digit price increase\u201d and said \u201cScalzo flagged elasticity of \u2018one or higher.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite the preview\u2019s concerns about persistent protein, packaging, and freight inflation, management expects FY2027 GAAP gross margin to improve 250\u2013300 basis points toward the historic 40% level. The preview had no such full-year margin recovery outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFiscal 2027 GAAP gross margin is expected to improve 250 to 300 basis points toward the historic ~40% level, driven by pricing, productivity, and lower one-time costs.\u201d",
+      "expectation_evidence": "The preview said \u201cwhey spikes\u201d significantly offset cocoa deflation and that \u201cprotein, packaging, and freight inflation persist.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quest retail takeaway fell 2.1%, missing the preview\u2019s threshold of at least 3% growth for the brand to carry the company. Salty snacks grew about 13%, but bars\u2014which the preview identified as the priority\u2014declined about 6%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuest Q4 retail takeaway declined only 2.1% with household penetration up ~50 bps to 20.2%, while salty snacks grew ~13% and bars declined ~6%.\u201d",
+      "expectation_evidence": "\u201cQuest needs to be \u2265+3% for the \u2018Quest carries the company\u2019 thesis to work\u201d; the preview also called bars \u201cthe bulk of the brand\u201d and said they were \u201cthe highest priority.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Atkins household penetration fell about 210 basis points to 8.3%, an additional sign of deterioration even as retail takeaway narrowed slightly from Q3. The preview focused on whether the decline rate was stabilizing but did not flag this penetration drop.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAtkins Q4 retail takeaway fell 22.6% with household penetration down ~210 bps to 8.3%, though buy rate remained stable.\u201d",
+      "expectation_evidence": "The preview asked \u201cAtkins decline rate \u2014 has the bleeding stopped?\u201d and said to watch for the decline to narrow to the \u201chigh-teens/low-20s.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company ended the year with lower net leverage and more cash than the preview indicated, despite completing about $213 million of repurchases. Net debt was approximately 0.9x EBITDA rather than the preview\u2019s 1.2x, and cash was $138.4 million rather than $123.9 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended fiscal 2026 with $138.4 million cash, net debt of ~0.9x EBITDA \u2026 repurchased 11.7 million shares for ~$213 million.\u201d",
+      "expectation_evidence": "The preview listed \u201cnet debt/EBITDA 1.2x, cash $123.9M\u201d and \u201c$213M repurchased YTD.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 net sales were $333.3 million, above the preview\u2019s $327.1\u2013327.7 million consensus range and the company\u2019s $322\u2013332 million guidance. The 9.7% decline was also less severe than the preview\u2019s implied 11.4% decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 fiscal 2026 net sales declined 9.7% to $333.3 million.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q4 FY26 Consensus | $327.1\u2013327.7M\u201d; company guidance was \u201c$322\u2013332M\u201d; implied YoY was \u201c\u221211.4%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Q4 adjusted EBITDA was $57.5 million, above the preview\u2019s approximately $53 million estimate and slightly above the $52\u201357 million guidance range. Its 13.2% decline was also less severe than the preview\u2019s implied roughly 20% decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 adjusted EBITDA declined 13.2% to $57.5 million.\u201d",
+      "expectation_evidence": "\u201cAdjusted EBITDA | ~$53M\u201d; company guidance was \u201c$52\u201357M,\u201d with Q4 FY25 actual \u201c~$66.7M\u201d and implied YoY \u201c\u221220%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "FY2027 sales guidance calls for a 13%\u201317% decline, much weaker than the preview\u2019s working expectation of sales down 2%\u20135%. This points to a substantially steeper sales contraction than the preview\u2019s base case.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company guided fiscal 2027 net sales to decline 13% to 17%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201csales \u22122% to \u22125%\u201d; it described the Street\u2019s working range as FY27 EBITDA of $200\u2013215 million, with a cautious but credible plan.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "FY2027 adjusted EBITDA guidance implies roughly $189\u2013205 million when applied to the preview\u2019s FY2026 guidance range, below the preview\u2019s $200\u2013215 million Street working range for much of the range. Even the top end is only around the bottom of that expectation.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company guided \u2026 adjusted EBITDA to decline 9% to 14%.\u201d",
+      "expectation_evidence": "\u201cI\u2019d put the Street\u2019s working range at $200\u2013215M.\u201d The preview gave FY2026 adjusted EBITDA guidance of \u201c$220\u2013225M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Management expects Q1 FY2027 to be exceptionally weak, with sales down 19%\u201322% and adjusted EBITDA down 28%\u201333%. The preview discussed September pricing and the full-year outlook but did not anticipate a specific quarter with declines this steep.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cManagement expects Q1 fiscal 2027 to be the weakest quarter, with net sales declining 19% to 22% and adjusted EBITDA declining 28% to 33%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The September price increase is approaching double digits rather than the preview\u2019s expected high-single-digit increase, and management expects elasticities above the recent approximately 1.2x level, weighted toward the first half. That suggests a heavier near-term volume penalty than the preview\u2019s already-cautious \u201cone or higher\u201d elasticity assumption.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company implemented a price increase approaching double digits across much of its portfolio starting September, expecting elasticities above 1 (higher than the recent ~1.2x) weighted toward the first half.\u201d",
+      "expectation_evidence": "The preview discussed the \u201cSeptember high-single-digit price increase\u201d and said \u201cScalzo flagged elasticity of \u2018one or higher.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 6,
+      "description": "Despite the preview\u2019s concerns about persistent protein, packaging, and freight inflation, management expects FY2027 GAAP gross margin to improve 250\u2013300 basis points toward the historic 40% level. The preview had no such full-year margin recovery outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFiscal 2027 GAAP gross margin is expected to improve 250 to 300 basis points toward the historic ~40% level, driven by pricing, productivity, and lower one-time costs.\u201d",
+      "expectation_evidence": "The preview said \u201cwhey spikes\u201d significantly offset cocoa deflation and that \u201cprotein, packaging, and freight inflation persist.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Quest retail takeaway fell 2.1%, missing the preview\u2019s threshold of at least 3% growth for the brand to carry the company. Salty snacks grew about 13%, but bars\u2014which the preview identified as the priority\u2014declined about 6%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuest Q4 retail takeaway declined only 2.1% with household penetration up ~50 bps to 20.2%, while salty snacks grew ~13% and bars declined ~6%.\u201d",
+      "expectation_evidence": "\u201cQuest needs to be \u2265+3% for the \u2018Quest carries the company\u2019 thesis to work\u201d; the preview also called bars \u201cthe bulk of the brand\u201d and said they were \u201cthe highest priority.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "Atkins household penetration fell about 210 basis points to 8.3%, an additional sign of deterioration even as retail takeaway narrowed slightly from Q3. The preview focused on whether the decline rate was stabilizing but did not flag this penetration drop.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAtkins Q4 retail takeaway fell 22.6% with household penetration down ~210 bps to 8.3%, though buy rate remained stable.\u201d",
+      "expectation_evidence": "The preview asked \u201cAtkins decline rate \u2014 has the bleeding stopped?\u201d and said to watch for the decline to narrow to the \u201chigh-teens/low-20s.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "The company ended the year with lower net leverage and more cash than the preview indicated, despite completing about $213 million of repurchases. Net debt was approximately 0.9x EBITDA rather than the preview\u2019s 1.2x, and cash was $138.4 million rather than $123.9 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended fiscal 2026 with $138.4 million cash, net debt of ~0.9x EBITDA \u2026 repurchased 11.7 million shares for ~$213 million.\u201d",
+      "expectation_evidence": "The preview listed \u201cnet debt/EBITDA 1.2x, cash $123.9M\u201d and \u201c$213M repurchased YTD.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

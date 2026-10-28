@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Adjusted EPS was $1.13 versus preview consensus of about $0.96, but $0.16 of the beat came from the one-time EV program termination payment. Excluding that contribution, EPS was about $0.97, essentially in line with consensus, so the reported beat overstated the underlying result.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EPS was $1.13\u2026 but $0.16 of the beat came from the one-time termination payment.\u201d",
+      "expectation_evidence": "\u201cAdj. EPS | Q3'26 Consensus | $0.957\u20130.96.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue of $1.004 billion exceeded the preview\u2019s roughly $972\u2013973 million consensus, but the $24 million termination payment contributed substantially to the gap. Excluding it, reported growth was 5% and organic growth 4%, rather than the headline 8% growth.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $1.004 billion, up 8% year-over-year (7% organic), but included a one-time $24 million EV program termination payment; excluding it, revenue grew only 5% reported and 4% organic.\u201d",
+      "expectation_evidence": "\u201cRevenue | Q3'26 Consensus | $972\u2013973M\u201d; the preview said implied year-over-year growth was \u201c+4.4%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The reported adjusted operating margin of 21.5% was far above the preview\u2019s 19.4\u201319.6% guide, but excluding the termination payment it was 19.5%. The underlying margin result therefore matched expectations and represented only 20 basis points of year-over-year improvement.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating margin reached 21.5%, but excluding the termination payment was 19.5%, representing only a modest 20 basis point year-over-year improvement.\u201d",
+      "expectation_evidence": "\u201cAdj. operating margin | 19.4\u201319.6%\u201d in company guidance; consensus was \u201c~19.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management added a cautious Q1 2027 outlook: it expects no sequential revenue growth from Q4 and margin pressure from annual price reductions, without the volume leverage seen the prior year. The preview identified possible early FY27 framing as a catalyst but did not anticipate this specific weak start-of-year outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaled Q1 2027 caution, expecting no sequential revenue growth from Q4 and margin pressure from annual price reductions that won't be offset by volume leverage as in the prior year.\u201d",
+      "expectation_evidence": "\u201cAny FY27 preliminary framing \u2014 management has avoided it; an early bridge would be a narrative shift either way.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Data-center progress was stronger and more quantified than the preview\u2019s five YTD platform concept wins: revenue is expected to reach $48 million in 2026, up 76%, and the company now has seven hyperscaler design wins versus one at the start of the year. The wins are not expected to ramp until mid-2027, so the expanded pipeline does not imply an immediate revenue step-up.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cData center revenue is expected to grow 76% to $48 million in 2026 from $27 million in 2025, with 7 hyperscaler design wins (up from 1 at year start) expected to begin ramping only in mid-2027.\u201d",
+      "expectation_evidence": "\u201cFive platform concept wins YTD across four hyperscalers\u201d; the preview asked for \u201ca dollar revenue base and a 2027 ramp shape.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Free cash flow was $198 million in Q3 and $489 million year to date, already matching the full-year 2025 record. The preview expected conversion of 100% or more, but did not flag the year-to-date record pace.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFree cash flow was $198 million (up 46% YoY) at 119% conversion, with year-to-date free cash flow of $489 million already matching the full-year 2025 record of $490 million.\u201d",
+      "expectation_evidence": "The preview expected \u201cFCF conversion ~100%+\u201d and noted \u201c1H FCF $291M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net leverage improved to 2.1x from 2.4x at Q2, ahead of the preview\u2019s already-achieved 2.5x target. The company also reported $33 million of open-market debt repurchases and expected interest savings to contribute $0.10 to 2026 adjusted EPS growth, versus $0.06 in 2025.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage improved to 2.1x trailing EBITDA\u201d and \u201c$33 million of open-market debt repurchases in the quarter\u201d; \u201cInterest savings from deleveraging are expected to add $0.10 of year-over-year adjusted EPS growth in 2026, following $0.06 in 2025.\u201d",
+      "expectation_evidence": "The preview said net leverage had reached \u201c2.4x \u2014 the 2.5x target, two quarters early\u201d and flagged capital allocation at that leverage level.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Adjusted EPS was $1.13 versus preview consensus of about $0.96, but $0.16 of the beat came from the one-time EV program termination payment. Excluding that contribution, EPS was about $0.97, essentially in line with consensus, so the reported beat overstated the underlying result.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EPS was $1.13\u2026 but $0.16 of the beat came from the one-time termination payment.\u201d",
+      "expectation_evidence": "\u201cAdj. EPS | Q3'26 Consensus | $0.957\u20130.96.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Revenue of $1.004 billion exceeded the preview\u2019s roughly $972\u2013973 million consensus, but the $24 million termination payment contributed substantially to the gap. Excluding it, reported growth was 5% and organic growth 4%, rather than the headline 8% growth.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue was $1.004 billion, up 8% year-over-year (7% organic), but included a one-time $24 million EV program termination payment; excluding it, revenue grew only 5% reported and 4% organic.\u201d",
+      "expectation_evidence": "\u201cRevenue | Q3'26 Consensus | $972\u2013973M\u201d; the preview said implied year-over-year growth was \u201c+4.4%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "The reported adjusted operating margin of 21.5% was far above the preview\u2019s 19.4\u201319.6% guide, but excluding the termination payment it was 19.5%. The underlying margin result therefore matched expectations and represented only 20 basis points of year-over-year improvement.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating margin reached 21.5%, but excluding the termination payment was 19.5%, representing only a modest 20 basis point year-over-year improvement.\u201d",
+      "expectation_evidence": "\u201cAdj. operating margin | 19.4\u201319.6%\u201d in company guidance; consensus was \u201c~19.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Management added a cautious Q1 2027 outlook: it expects no sequential revenue growth from Q4 and margin pressure from annual price reductions, without the volume leverage seen the prior year. The preview identified possible early FY27 framing as a catalyst but did not anticipate this specific weak start-of-year outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement signaled Q1 2027 caution, expecting no sequential revenue growth from Q4 and margin pressure from annual price reductions that won't be offset by volume leverage as in the prior year.\u201d",
+      "expectation_evidence": "\u201cAny FY27 preliminary framing \u2014 management has avoided it; an early bridge would be a narrative shift either way.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Data-center progress was stronger and more quantified than the preview\u2019s five YTD platform concept wins: revenue is expected to reach $48 million in 2026, up 76%, and the company now has seven hyperscaler design wins versus one at the start of the year. The wins are not expected to ramp until mid-2027, so the expanded pipeline does not imply an immediate revenue step-up.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cData center revenue is expected to grow 76% to $48 million in 2026 from $27 million in 2025, with 7 hyperscaler design wins (up from 1 at year start) expected to begin ramping only in mid-2027.\u201d",
+      "expectation_evidence": "\u201cFive platform concept wins YTD across four hyperscalers\u201d; the preview asked for \u201ca dollar revenue base and a 2027 ramp shape.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Free cash flow was $198 million in Q3 and $489 million year to date, already matching the full-year 2025 record. The preview expected conversion of 100% or more, but did not flag the year-to-date record pace.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFree cash flow was $198 million (up 46% YoY) at 119% conversion, with year-to-date free cash flow of $489 million already matching the full-year 2025 record of $490 million.\u201d",
+      "expectation_evidence": "The preview expected \u201cFCF conversion ~100%+\u201d and noted \u201c1H FCF $291M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Net leverage improved to 2.1x from 2.4x at Q2, ahead of the preview\u2019s already-achieved 2.5x target. The company also reported $33 million of open-market debt repurchases and expected interest savings to contribute $0.10 to 2026 adjusted EPS growth, versus $0.06 in 2025.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage improved to 2.1x trailing EBITDA\u201d and \u201c$33 million of open-market debt repurchases in the quarter\u201d; \u201cInterest savings from deleveraging are expected to add $0.10 of year-over-year adjusted EPS growth in 2026, following $0.06 in 2025.\u201d",
+      "expectation_evidence": "The preview said net leverage had reached \u201c2.4x \u2014 the 2.5x target, two quarters early\u201d and flagged capital allocation at that leverage level.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

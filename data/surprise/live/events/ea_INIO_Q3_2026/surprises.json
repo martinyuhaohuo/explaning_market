@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $1.2 billion, about 14% above the preview\u2019s $1.05 billion consensus estimate. The preview expected a modest beat around $1.055 billion, so the reported result was materially stronger.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal revenue of $1.2 billion up 57% year-over-year.\u201d",
+      "expectation_evidence": "\u201cQ3 FY26 Consensus\u201d revenue: \u201c$1.05B\u201d; \u201cMy estimates: Revenue $1.055B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA reached $245 million, roughly 25% above the preview\u2019s $196 million estimate. Profit also grew faster than revenue, with adjusted EBITDA margin at 21% versus the preview\u2019s 18.6% estimate.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EBITDA grew 70% year-over-year to $245 million with margin expanding 1.6 percentage points to 21%.\u201d",
+      "expectation_evidence": "\u201cMy estimates: ... Adj. EBITDA $196M (18.6%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Equipment adjusted segment EBITDA margin was 17.1%, above the preview\u2019s 15\u201316.5% range for Q3 and its roughly 15.5% estimate. That is a stronger margin recovery than the preview expected for this key debate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEquipment adjusted segment EBITDA margin surged from 7.1% in Q1 to 17.1% in Q3.\u201d",
+      "expectation_evidence": "\u201cQ3 needs to show 15\u201316.5%\u201d; \u201cMy estimates: ... equipment segment margin ~15.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised FY2026 adjusted EBITDA guidance to $780\u2013800 million from the preview\u2019s expected $720\u2013740 million, a $60 million increase at the midpoint. Revenue guidance also rose to $3.9\u20134.0 billion from $3.8\u20133.9 billion, rather than being reaffirmed.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance, lifting adjusted EBITDA to $780-$800 million (up $60 million at midpoint) and revenue to $3.9-$4 billion.\u201d",
+      "expectation_evidence": "\u201cMy estimates: ... FY26 guidance reaffirmed, not raised\u201d; prior guide: \u201c$3.8\u20133.9B\u201d revenue and \u201c$720\u2013740M\u201d adjusted EBITDA.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Equipment demand and backlog were much stronger than the preview\u2019s expectation that Q3 orders could look pedestrian and backlog could be roughly flat: equipment backlog reached $8 billion, versus $6.6 billion previously, with $2.2 billion of Q3 equipment orders. Combined backlog and slot reservations also rose to about 19 GW from more than 15 GW last quarter.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEquipment order backlog reached a record $8 billion ... with a last-12-month book-to-bill ratio of 3.3x and $2.2 billion in Q3 equipment orders\u201d; \u201ccombined backlog and slot reservations rising to ~19 GW from over 15 GW last quarter.\u201d",
+      "expectation_evidence": "\u201cQ3 standalone orders could look pedestrian versus Q2\u2019s ... $2.3B, and backlog may read roughly flat\u201d; preview cited \u201c$6.6B equipment backlog\u201d and \u201c>15 GW of backlog plus slot reservations.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed that the largest customer\u2019s share of order intake is expected to fall from 41% in 2025 to about 21% in the near-term outlook. The preview did not anticipate this company-specific reduction in customer concentration.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe largest customer's order intake share falling from 41% in 2025 to approximately 21% in the near-term outlook.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management said Innio has allocated no meaningful volumes to Neo cloud operators and instead works with counterparties that typically have back-to-back contracts. This is a reassuringly limited exposure to data-center credit risk, a concern the preview raised in the context of financing worries around the sector.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cIt has not allocated any meaningful volumes to Neo cloud operators, working instead with hyperscalers, co-locators, and energy-as-a-service firms that typically have back-to-back contracts.\u201d",
+      "expectation_evidence": "The preview cited \u201ca sector-wide unwind of the AI-power trade\u201d and \u201cMeta capex-financing and rate worries.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management introduced a higher service-revenue outlook for new installed capacity: more than $50,000 annually per MW, compared with about $30,000 for the existing fleet. The preview discussed service margins but did not set an expectation for this per-MW revenue level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe added installed base [is] expected to generate more than $50,000 in annual service revenue per megawatt (~70% above the ~$30,000 from the existing 44 GW fleet).\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Net leverage was 2.1x and approaching the stated medium-term target of below 2x. That provides a favorable balance-sheet update against the preview\u2019s focus on debt and whether the capacity ramp could be self-funded, although the preview did not specify a leverage forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage improved to 2.1x from 3.6x at year-end 2025, approaching the sub-2x medium-term target.\u201d",
+      "expectation_evidence": "The preview flagged \u201cfree cash flow and capex\u201d and the capacity ramp\u2019s claim to be \u201cself-funded from operating cash flow,\u201d but did not give a net-leverage expectation.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $1.2 billion, about 14% above the preview\u2019s $1.05 billion consensus estimate. The preview expected a modest beat around $1.055 billion, so the reported result was materially stronger.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal revenue of $1.2 billion up 57% year-over-year.\u201d",
+      "expectation_evidence": "\u201cQ3 FY26 Consensus\u201d revenue: \u201c$1.05B\u201d; \u201cMy estimates: Revenue $1.055B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Adjusted EBITDA reached $245 million, roughly 25% above the preview\u2019s $196 million estimate. Profit also grew faster than revenue, with adjusted EBITDA margin at 21% versus the preview\u2019s 18.6% estimate.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EBITDA grew 70% year-over-year to $245 million with margin expanding 1.6 percentage points to 21%.\u201d",
+      "expectation_evidence": "\u201cMy estimates: ... Adj. EBITDA $196M (18.6%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Equipment adjusted segment EBITDA margin was 17.1%, above the preview\u2019s 15\u201316.5% range for Q3 and its roughly 15.5% estimate. That is a stronger margin recovery than the preview expected for this key debate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEquipment adjusted segment EBITDA margin surged from 7.1% in Q1 to 17.1% in Q3.\u201d",
+      "expectation_evidence": "\u201cQ3 needs to show 15\u201316.5%\u201d; \u201cMy estimates: ... equipment segment margin ~15.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Management raised FY2026 adjusted EBITDA guidance to $780\u2013800 million from the preview\u2019s expected $720\u2013740 million, a $60 million increase at the midpoint. Revenue guidance also rose to $3.9\u20134.0 billion from $3.8\u20133.9 billion, rather than being reaffirmed.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance, lifting adjusted EBITDA to $780-$800 million (up $60 million at midpoint) and revenue to $3.9-$4 billion.\u201d",
+      "expectation_evidence": "\u201cMy estimates: ... FY26 guidance reaffirmed, not raised\u201d; prior guide: \u201c$3.8\u20133.9B\u201d revenue and \u201c$720\u2013740M\u201d adjusted EBITDA.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Equipment demand and backlog were much stronger than the preview\u2019s expectation that Q3 orders could look pedestrian and backlog could be roughly flat: equipment backlog reached $8 billion, versus $6.6 billion previously, with $2.2 billion of Q3 equipment orders. Combined backlog and slot reservations also rose to about 19 GW from more than 15 GW last quarter.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEquipment order backlog reached a record $8 billion ... with a last-12-month book-to-bill ratio of 3.3x and $2.2 billion in Q3 equipment orders\u201d; \u201ccombined backlog and slot reservations rising to ~19 GW from over 15 GW last quarter.\u201d",
+      "expectation_evidence": "\u201cQ3 standalone orders could look pedestrian versus Q2\u2019s ... $2.3B, and backlog may read roughly flat\u201d; preview cited \u201c$6.6B equipment backlog\u201d and \u201c>15 GW of backlog plus slot reservations.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Management disclosed that the largest customer\u2019s share of order intake is expected to fall from 41% in 2025 to about 21% in the near-term outlook. The preview did not anticipate this company-specific reduction in customer concentration.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe largest customer's order intake share falling from 41% in 2025 to approximately 21% in the near-term outlook.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 6,
+      "description": "Management said Innio has allocated no meaningful volumes to Neo cloud operators and instead works with counterparties that typically have back-to-back contracts. This is a reassuringly limited exposure to data-center credit risk, a concern the preview raised in the context of financing worries around the sector.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cIt has not allocated any meaningful volumes to Neo cloud operators, working instead with hyperscalers, co-locators, and energy-as-a-service firms that typically have back-to-back contracts.\u201d",
+      "expectation_evidence": "The preview cited \u201ca sector-wide unwind of the AI-power trade\u201d and \u201cMeta capex-financing and rate worries.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 7,
+      "description": "Management introduced a higher service-revenue outlook for new installed capacity: more than $50,000 annually per MW, compared with about $30,000 for the existing fleet. The preview discussed service margins but did not set an expectation for this per-MW revenue level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe added installed base [is] expected to generate more than $50,000 in annual service revenue per megawatt (~70% above the ~$30,000 from the existing 44 GW fleet).\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Net leverage was 2.1x and approaching the stated medium-term target of below 2x. That provides a favorable balance-sheet update against the preview\u2019s focus on debt and whether the capacity ramp could be self-funded, although the preview did not specify a leverage forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage improved to 2.1x from 3.6x at year-end 2025, approaching the sub-2x medium-term target.\u201d",
+      "expectation_evidence": "The preview flagged \u201cfree cash flow and capex\u201d and the capacity ramp\u2019s claim to be \u201cself-funded from operating cash flow,\u201d but did not give a net-leverage expectation.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Landstar\u2019s revenue was modestly above the preview\u2019s $1.49 billion benchmark: overall revenue grew 25% year over year, and truck revenue of $1.407 billion exceeded the $1.36 billion estimate. Truck growth was also stronger than the preview\u2019s segment estimate, driven by 25% higher revenue per load and 3% more loads.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOverall revenue rose 25% year-over-year in Q3 2026, with truck revenue up 29% to $1.407 billion driven by a 25% increase in truck revenue per load and 3% more truck loads hauled.\u201d",
+      "expectation_evidence": "\u201cRevenue | $1.49B (range $1.47\u20131.50B)\u201d; \u201cTruck transportation rev | $1.36B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Insurance and claims were substantially worse than the preview\u2019s base case, with $55.3 million of costs and about $22 million of unfavorable prior-year adjustments. The preview\u2019s base case assumed $40 million of claims and no new reserve charge; even its bear case assumed a smaller $10\u201312 million additional adverse development.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cInsurance and claims costs surged to $55.3 million from $33 million a year earlier, including ~$22 million of net unfavorable prior-year claim adjustments ($0.47 per share), comprising $13 million in adverse actuarial reserve adjustments and $8 million from two claim settlements.\u201d Management \u201cwithdrew formal insurance guidance\u201d and described a quarterly run rate between $35 million and $55 million, with a trailing four-quarter average near $46 million.",
+      "expectation_evidence": "\u201cBase\u201d scenario: \u201cInsurance/claims $40M\u201d and \u201cclaims elevated but stable; no new reserve charge.\u201d \u201cBear\u201d scenario: \u201canother ~$10\u201312M adverse development.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "BCO truck additions substantially exceeded the preview\u2019s already-positive reference point: net additions were 165 for the quarter, versus 68 in Q2, and the count increased further in the first four weeks of Q4. The preview said a bull case needed net adds to accelerate past 68.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet BCO truck count increased by 165 during the quarter, the strongest quarterly improvement since Q3 2021, and rose a further 22% in the first four weeks of Q4.\u201d",
+      "expectation_evidence": "\u201cBCO net adds accelerate past +68\u201d was listed as an operational requirement for the bull scenario; the preview also called +68 \u201cthe best in four years.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "October truck demand and pricing remained stronger than the preview\u2019s cautious seasonal setup suggested: loads were about 7% above October 2025 and revenue per load about 29% higher, with both slightly outperforming normal seasonality. The preview flagged the possibility that pricing had peaked after July and noted early-October spot-rate softness.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOctober truck loads were approximately 7% above October 2025 and revenue per load was approximately 29% above October 2025, both slightly outperforming normal seasonality.\u201d",
+      "expectation_evidence": "The preview asked whether July\u2019s \u201c+26%\u201d revenue-per-load growth was \u201cthe peak or the run rate,\u201d and noted that \u201cDAT spot rates dipped 2\u20133 cents/mile in early October as load posts cooled.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Landstar returned more capital through buybacks than the preview\u2019s latest reported pace suggested: buybacks reached about $65 million through 39 weeks, versus $24.1 million reported through Q2. This is a concrete step-up from the pace the preview highlighted as potentially increasing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company returned ~$175 million to shareholders through the first 39 weeks (~$110 million dividends, ~$65 million buybacks) and declared a regular $0.44 quarterly dividend.\u201d",
+      "expectation_evidence": "\u201cYTD buybacks were only $24.1M against $280.9M net cash\u201d; the preview said \u201ca repurchase step-up would read as management calling the de-rating overdone.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management put a specific potential revenue benefit on the preview\u2019s broader idea that post-Montgomery pressures could help Landstar gain business: higher insurance renewals for smaller brokers and owner-operators could make Landstar a \u201csafe haven,\u201d with roughly $100 million of potential new agent revenue. The preview discussed a possible consolidation benefit but did not quantify this opportunity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management expects the Montgomery decision to drive insurance renewals \u201cmaterially higher over the next one to two years for smaller brokers and owner-operators,\u201d positioning Landstar to capture agents and BCOs seeking a scaled \u201csafe haven,\u201d with \u201cpotential for roughly $100 million in new agent revenue tailwind.\u201d",
+      "expectation_evidence": "\u201cThe bull argument is that Montgomery is a consolidation catalyst that accrues to Landstar.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Landstar\u2019s revenue was modestly above the preview\u2019s $1.49 billion benchmark: overall revenue grew 25% year over year, and truck revenue of $1.407 billion exceeded the $1.36 billion estimate. Truck growth was also stronger than the preview\u2019s segment estimate, driven by 25% higher revenue per load and 3% more loads.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOverall revenue rose 25% year-over-year in Q3 2026, with truck revenue up 29% to $1.407 billion driven by a 25% increase in truck revenue per load and 3% more truck loads hauled.\u201d",
+      "expectation_evidence": "\u201cRevenue | $1.49B (range $1.47\u20131.50B)\u201d; \u201cTruck transportation rev | $1.36B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Insurance and claims were substantially worse than the preview\u2019s base case, with $55.3 million of costs and about $22 million of unfavorable prior-year adjustments. The preview\u2019s base case assumed $40 million of claims and no new reserve charge; even its bear case assumed a smaller $10\u201312 million additional adverse development.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cInsurance and claims costs surged to $55.3 million from $33 million a year earlier, including ~$22 million of net unfavorable prior-year claim adjustments ($0.47 per share), comprising $13 million in adverse actuarial reserve adjustments and $8 million from two claim settlements.\u201d Management \u201cwithdrew formal insurance guidance\u201d and described a quarterly run rate between $35 million and $55 million, with a trailing four-quarter average near $46 million.",
+      "expectation_evidence": "\u201cBase\u201d scenario: \u201cInsurance/claims $40M\u201d and \u201cclaims elevated but stable; no new reserve charge.\u201d \u201cBear\u201d scenario: \u201canother ~$10\u201312M adverse development.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 2,
+      "description": "BCO truck additions substantially exceeded the preview\u2019s already-positive reference point: net additions were 165 for the quarter, versus 68 in Q2, and the count increased further in the first four weeks of Q4. The preview said a bull case needed net adds to accelerate past 68.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet BCO truck count increased by 165 during the quarter, the strongest quarterly improvement since Q3 2021, and rose a further 22% in the first four weeks of Q4.\u201d",
+      "expectation_evidence": "\u201cBCO net adds accelerate past +68\u201d was listed as an operational requirement for the bull scenario; the preview also called +68 \u201cthe best in four years.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "October truck demand and pricing remained stronger than the preview\u2019s cautious seasonal setup suggested: loads were about 7% above October 2025 and revenue per load about 29% higher, with both slightly outperforming normal seasonality. The preview flagged the possibility that pricing had peaked after July and noted early-October spot-rate softness.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOctober truck loads were approximately 7% above October 2025 and revenue per load was approximately 29% above October 2025, both slightly outperforming normal seasonality.\u201d",
+      "expectation_evidence": "The preview asked whether July\u2019s \u201c+26%\u201d revenue-per-load growth was \u201cthe peak or the run rate,\u201d and noted that \u201cDAT spot rates dipped 2\u20133 cents/mile in early October as load posts cooled.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Landstar returned more capital through buybacks than the preview\u2019s latest reported pace suggested: buybacks reached about $65 million through 39 weeks, versus $24.1 million reported through Q2. This is a concrete step-up from the pace the preview highlighted as potentially increasing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company returned ~$175 million to shareholders through the first 39 weeks (~$110 million dividends, ~$65 million buybacks) and declared a regular $0.44 quarterly dividend.\u201d",
+      "expectation_evidence": "\u201cYTD buybacks were only $24.1M against $280.9M net cash\u201d; the preview said \u201ca repurchase step-up would read as management calling the de-rating overdone.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 5,
+      "description": "Management put a specific potential revenue benefit on the preview\u2019s broader idea that post-Montgomery pressures could help Landstar gain business: higher insurance renewals for smaller brokers and owner-operators could make Landstar a \u201csafe haven,\u201d with roughly $100 million of potential new agent revenue. The preview discussed a possible consolidation benefit but did not quantify this opportunity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management expects the Montgomery decision to drive insurance renewals \u201cmaterially higher over the next one to two years for smaller brokers and owner-operators,\u201d positioning Landstar to capture agents and BCOs seeking a scaled \u201csafe haven,\u201d with \u201cpotential for roughly $100 million in new agent revenue tailwind.\u201d",
+      "expectation_evidence": "\u201cThe bull argument is that Montgomery is a consolidation catalyst that accrues to Landstar.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

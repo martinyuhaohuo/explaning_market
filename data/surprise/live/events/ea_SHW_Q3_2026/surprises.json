@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Adjusted EPS growth was weaker than the preview\u2019s +2.8% consensus expectation: EPS rose only about 1%. Adjusted EBITDA grew 3.3%, but its 20.5% margin was below the preview\u2019s ~21.3% estimate, consistent with management saying sales-to-earnings conversion was below standards.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rose only ~1% while adjusted EBITDA grew 3.3% to $1.4 billion at a 20.5% margin,\u201d and management said conversion was \u201cbelow standards.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS $3.69\u201d versus $3.59 a year earlier, or \u201c+2.8%\u201d; adjusted EBITDA margin was estimated at \u201c~21.3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consolidated sales growth came in at high single digits, ahead of the preview\u2019s +6.6% consensus growth expectation. The increase included mid-single-digit price/mix as well as low-single-digit volume and acquisition contributions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated sales grew high single-digits,\u201d driven by \u201cmid-single-digit price/mix and low single-digit contributions from acquisitions and volume.\u201d",
+      "expectation_evidence": "Net sales consensus was \u201c$6.78B\u201d versus $6,358.2M a year earlier, or \u201c+6.6%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consumer Brands Group adjusted gross margin fell 430 basis points, much worse than the preview\u2019s picture of a margin that had held at 24.5% and Suvinil integration being an immaterial 2026 EPS tailwind. Suvinil dilution accounted for about 70% of the decline, with higher raw-material and supply-chain costs accounting for the rest.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cConsumer Brands Group adjusted gross margin fell 430 basis points,\u201d with \u201capproximately 70% attributable to Suvinil dilution\u201d and the remainder to \u201chigher raw material and supply chain costs.\u201d",
+      "expectation_evidence": "\u201cCBG/Suvinil: adjusted margin held 24.5% in Q2 vs. 22.4% prior year\u201d; integration was \u201cguided as an immaterial EPS tailwind for 2026.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Performance Coatings Group outperformed the preview\u2019s modeled growth, with growth in every division and region; General Industrial grew mid-teens, while Packaging and Coil each grew low double digits. That breadth is stronger than the preview\u2019s concern about Europe destocking and its +4.6% segment growth estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPerformance Coatings Group beat expectations with growth in every division and region,\u201d led by General Industrial \u201cup mid-teens,\u201d Packaging \u201cup low double-digits,\u201d and Coil \u201cup low double-digits.\u201d",
+      "expectation_evidence": "The preview modeled Performance Coatings sales growth of \u201c+4.6%\u201d and flagged \u201cEurope destocking in PCG.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Protective & Marine delivered mid-teens growth rather than the preview\u2019s expected high-single-digit-or-better pace, and extended its streak to nine straight quarters. The preview had expected an eighth straight quarter at that level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProtective & Marine posted mid-teens growth marking its ninth straight quarter of at least high single-digit growth.\u201d",
+      "expectation_evidence": "The preview described \u201cprotective & marine (8th straight quarter of \u2265HSD growth on data centers/semis).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview identified September\u2019s 8% Paint Stores Group increase as a risk to volume, including a bear case in which volume rolled over. Instead, the increase was tracking as planned, and the company reported volume growth in every quarter this year, though it did not provide a PSG-specific volume figure.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 8% Paint Stores Group price increase effective September 1 is tracking as planned\u201d; the company also said volume growth was \u201cachieved every quarter this year.\u201d",
+      "expectation_evidence": "\u201cThe bear case needs volume to roll over in September,\u201d and the preview highlighted possible \u201cvolume pushback from \u2018fatigued\u2019 contractors.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed a quantified 2027 cost-savings plan of approximately $75 million, including $25 million from 2026 restructuring; the preview had discussed the need for a 2027 growth frame but did not anticipate this savings figure.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company expects approximately $75 million in 2027 cost savings (including $25 million from 2026 restructuring).\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Adjusted EPS growth was weaker than the preview\u2019s +2.8% consensus expectation: EPS rose only about 1%. Adjusted EBITDA grew 3.3%, but its 20.5% margin was below the preview\u2019s ~21.3% estimate, consistent with management saying sales-to-earnings conversion was below standards.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rose only ~1% while adjusted EBITDA grew 3.3% to $1.4 billion at a 20.5% margin,\u201d and management said conversion was \u201cbelow standards.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS $3.69\u201d versus $3.59 a year earlier, or \u201c+2.8%\u201d; adjusted EBITDA margin was estimated at \u201c~21.3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Consolidated sales growth came in at high single digits, ahead of the preview\u2019s +6.6% consensus growth expectation. The increase included mid-single-digit price/mix as well as low-single-digit volume and acquisition contributions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated sales grew high single-digits,\u201d driven by \u201cmid-single-digit price/mix and low single-digit contributions from acquisitions and volume.\u201d",
+      "expectation_evidence": "Net sales consensus was \u201c$6.78B\u201d versus $6,358.2M a year earlier, or \u201c+6.6%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Consumer Brands Group adjusted gross margin fell 430 basis points, much worse than the preview\u2019s picture of a margin that had held at 24.5% and Suvinil integration being an immaterial 2026 EPS tailwind. Suvinil dilution accounted for about 70% of the decline, with higher raw-material and supply-chain costs accounting for the rest.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cConsumer Brands Group adjusted gross margin fell 430 basis points,\u201d with \u201capproximately 70% attributable to Suvinil dilution\u201d and the remainder to \u201chigher raw material and supply chain costs.\u201d",
+      "expectation_evidence": "\u201cCBG/Suvinil: adjusted margin held 24.5% in Q2 vs. 22.4% prior year\u201d; integration was \u201cguided as an immaterial EPS tailwind for 2026.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Performance Coatings Group outperformed the preview\u2019s modeled growth, with growth in every division and region; General Industrial grew mid-teens, while Packaging and Coil each grew low double digits. That breadth is stronger than the preview\u2019s concern about Europe destocking and its +4.6% segment growth estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPerformance Coatings Group beat expectations with growth in every division and region,\u201d led by General Industrial \u201cup mid-teens,\u201d Packaging \u201cup low double-digits,\u201d and Coil \u201cup low double-digits.\u201d",
+      "expectation_evidence": "The preview modeled Performance Coatings sales growth of \u201c+4.6%\u201d and flagged \u201cEurope destocking in PCG.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Protective & Marine delivered mid-teens growth rather than the preview\u2019s expected high-single-digit-or-better pace, and extended its streak to nine straight quarters. The preview had expected an eighth straight quarter at that level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProtective & Marine posted mid-teens growth marking its ninth straight quarter of at least high single-digit growth.\u201d",
+      "expectation_evidence": "The preview described \u201cprotective & marine (8th straight quarter of \u2265HSD growth on data centers/semis).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "The preview identified September\u2019s 8% Paint Stores Group increase as a risk to volume, including a bear case in which volume rolled over. Instead, the increase was tracking as planned, and the company reported volume growth in every quarter this year, though it did not provide a PSG-specific volume figure.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe 8% Paint Stores Group price increase effective September 1 is tracking as planned\u201d; the company also said volume growth was \u201cachieved every quarter this year.\u201d",
+      "expectation_evidence": "\u201cThe bear case needs volume to roll over in September,\u201d and the preview highlighted possible \u201cvolume pushback from \u2018fatigued\u2019 contractors.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Management disclosed a quantified 2027 cost-savings plan of approximately $75 million, including $25 million from 2026 restructuring; the preview had discussed the need for a 2027 growth frame but did not anticipate this savings figure.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company expects approximately $75 million in 2027 cost savings (including $25 million from 2026 restructuring).\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

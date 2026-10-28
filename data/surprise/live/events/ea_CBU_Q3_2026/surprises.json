@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Operating diluted EPS of $1.27 was above the preview\u2019s $1.19 headline consensus and within its $1.25\u2013$1.30 bull case, but GAAP EPS of $1.16 missed that consensus. The GAAP result included a loss from pulling forward December investment-security maturities.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Operating diluted EPS rose 16.5% year-over-year to $1.27. GAAP EPS was $1.16 and included a loss from pulling forward December investment security maturities.",
+      "expectation_evidence": "The preview listed diluted EPS consensus of $1.19 and a bull-case EPS range of $1.25\u2013$1.30.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NIM expanded 7 basis points to 3.56%, materially exceeding the preview\u2019s expectation of a flat-to-slightly-down Q3 and its 3.49% FTE reference level. The preview expected a low-to-mid-3.5% year-end NIM, while management now expects a mid-to-high-3.5% exit rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Net interest margin expanded 7 basis points to 3.56%; 3 basis points were attributed to selling $296.8 million of lower-yielding U.S. Treasuries and using the proceeds to pay down higher-cost overnight borrowings. Management guided to NIM exiting 2026 in the mid- to high-3.5% range.",
+      "expectation_evidence": "The preview said management guided Q3 to +1 bp to \u22122 bps and expected a \u201clow-to-mid 3.5%\u201d exit rate for 2026.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The deposit rebound the preview was looking for was weaker than the headline growth suggests: deposits rose just 1.1% sequentially despite including $663.8 million of assumed Santander and ClearPoint deposits. That acquired amount exceeds the roughly $162 million net increase implied by the sequential growth rate, suggesting underlying deposits declined.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Total deposits rose 1.1% sequentially and 5.7% year-over-year, including Santander assumed deposits of $543.7 million and ClearPoint assumed deposits of $120.1 million.",
+      "expectation_evidence": "The preview said deposits needed to rebound from the Q2 municipal outflow and called a failure to rebound the \u201ccleanest bear tell\u201d; it also cited management\u2019s 3\u20134% full-year deposit growth guidance.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year loan growth guidance was reduced to 5%\u20135.5%, below the previously stated 5%\u20136% target and the preview\u2019s expectation that management would reaffirm it. Management cited seasonal consumer lending slowdowns and larger anticipated commercial loan payoffs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management lowered full-year 2026 loan growth guidance to 5%\u20135.5%, citing seasonal consumer lending slowdowns and anticipated larger commercial loan payoffs.",
+      "expectation_evidence": "The preview cited a 5\u20136% FY loan growth target and said the buy-side expected the loan-growth outlook to be reaffirmed.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Insurance shifted from the weakness the preview expected to persist to positive growth: revenue grew 8.9% year-over-year and pretax earnings rose 41%. The preview had described recent declines and framed stabilization as the item to watch.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Insurance services revenue grew 8.9% year-over-year with flat expenses, driving 41% pretax earnings growth.",
+      "expectation_evidence": "The preview said insurance revenue had been down 4.8% year-over-year in Q2, management expected to miss prior guidance, and the watch was for sequential stabilization; its base case still had insurance negative.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Wealth Management growth accelerated well beyond its recent reported pace: revenue rose 41% year-over-year versus 19.8% in Q2, while ClearPoint added $2.1 million of quarterly noninterest revenue. The preview expected a first full quarter of ClearPoint contribution but did not anticipate this reported growth rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Wealth Management revenue surged 41% year-over-year and pretax earnings rose 42%; ClearPoint added $2.1 million in quarterly noninterest revenue.",
+      "expectation_evidence": "The preview reported Q2 wealth revenue growth of 19.8% and noted that Q3 would be ClearPoint\u2019s first full quarter of contribution.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Employee Benefit Services pretax earnings fell 3.5% instead of continuing the growth the preview highlighted, as legal expenses related to new fund launches weighed on results.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Employee Benefit Services pretax earnings fell 3.5% due to legal expenses from new fund launches.",
+      "expectation_evidence": "The preview cited Q2 Employee Benefit Services revenue growth of 7.7% and pretax earnings growth of 16.2%, describing it as one of the fee businesses supporting the outlook.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Credit worsened from the preview\u2019s expected non-event: net charge-offs rose 6 basis points sequentially because of losses on two business lending relationships. The allowance ratio, at 80 basis points, was also slightly below the preview\u2019s cited 0.81%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Net charge-offs rose 6 basis points sequentially due to $2.7 million in charge-offs on two business lending relationships; the allowance was $92 million, or 80 basis points of total loans.",
+      "expectation_evidence": "The preview described credit as \u201ccurrently a non-event,\u201d citing NCOs of 0.12% annualized and an ACL of 0.81% of loans.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Operating diluted EPS of $1.27 was above the preview\u2019s $1.19 headline consensus and within its $1.25\u2013$1.30 bull case, but GAAP EPS of $1.16 missed that consensus. The GAAP result included a loss from pulling forward December investment-security maturities.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Operating diluted EPS rose 16.5% year-over-year to $1.27. GAAP EPS was $1.16 and included a loss from pulling forward December investment security maturities.",
+      "expectation_evidence": "The preview listed diluted EPS consensus of $1.19 and a bull-case EPS range of $1.25\u2013$1.30.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "NIM expanded 7 basis points to 3.56%, materially exceeding the preview\u2019s expectation of a flat-to-slightly-down Q3 and its 3.49% FTE reference level. The preview expected a low-to-mid-3.5% year-end NIM, while management now expects a mid-to-high-3.5% exit rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Net interest margin expanded 7 basis points to 3.56%; 3 basis points were attributed to selling $296.8 million of lower-yielding U.S. Treasuries and using the proceeds to pay down higher-cost overnight borrowings. Management guided to NIM exiting 2026 in the mid- to high-3.5% range.",
+      "expectation_evidence": "The preview said management guided Q3 to +1 bp to \u22122 bps and expected a \u201clow-to-mid 3.5%\u201d exit rate for 2026.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "The deposit rebound the preview was looking for was weaker than the headline growth suggests: deposits rose just 1.1% sequentially despite including $663.8 million of assumed Santander and ClearPoint deposits. That acquired amount exceeds the roughly $162 million net increase implied by the sequential growth rate, suggesting underlying deposits declined.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Total deposits rose 1.1% sequentially and 5.7% year-over-year, including Santander assumed deposits of $543.7 million and ClearPoint assumed deposits of $120.1 million.",
+      "expectation_evidence": "The preview said deposits needed to rebound from the Q2 municipal outflow and called a failure to rebound the \u201ccleanest bear tell\u201d; it also cited management\u2019s 3\u20134% full-year deposit growth guidance.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 3,
+      "description": "Full-year loan growth guidance was reduced to 5%\u20135.5%, below the previously stated 5%\u20136% target and the preview\u2019s expectation that management would reaffirm it. Management cited seasonal consumer lending slowdowns and larger anticipated commercial loan payoffs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management lowered full-year 2026 loan growth guidance to 5%\u20135.5%, citing seasonal consumer lending slowdowns and anticipated larger commercial loan payoffs.",
+      "expectation_evidence": "The preview cited a 5\u20136% FY loan growth target and said the buy-side expected the loan-growth outlook to be reaffirmed.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Insurance shifted from the weakness the preview expected to persist to positive growth: revenue grew 8.9% year-over-year and pretax earnings rose 41%. The preview had described recent declines and framed stabilization as the item to watch.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Insurance services revenue grew 8.9% year-over-year with flat expenses, driving 41% pretax earnings growth.",
+      "expectation_evidence": "The preview said insurance revenue had been down 4.8% year-over-year in Q2, management expected to miss prior guidance, and the watch was for sequential stabilization; its base case still had insurance negative.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Wealth Management growth accelerated well beyond its recent reported pace: revenue rose 41% year-over-year versus 19.8% in Q2, while ClearPoint added $2.1 million of quarterly noninterest revenue. The preview expected a first full quarter of ClearPoint contribution but did not anticipate this reported growth rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Wealth Management revenue surged 41% year-over-year and pretax earnings rose 42%; ClearPoint added $2.1 million in quarterly noninterest revenue.",
+      "expectation_evidence": "The preview reported Q2 wealth revenue growth of 19.8% and noted that Q3 would be ClearPoint\u2019s first full quarter of contribution.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Employee Benefit Services pretax earnings fell 3.5% instead of continuing the growth the preview highlighted, as legal expenses related to new fund launches weighed on results.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Employee Benefit Services pretax earnings fell 3.5% due to legal expenses from new fund launches.",
+      "expectation_evidence": "The preview cited Q2 Employee Benefit Services revenue growth of 7.7% and pretax earnings growth of 16.2%, describing it as one of the fee businesses supporting the outlook.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "Credit worsened from the preview\u2019s expected non-event: net charge-offs rose 6 basis points sequentially because of losses on two business lending relationships. The allowance ratio, at 80 basis points, was also slightly below the preview\u2019s cited 0.81%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Net charge-offs rose 6 basis points sequentially due to $2.7 million in charge-offs on two business lending relationships; the allowance was $92 million, or 80 basis points of total loans.",
+      "expectation_evidence": "The preview described credit as \u201ccurrently a non-event,\u201d citing NCOs of 0.12% annualized and an ACL of 0.81% of loans.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

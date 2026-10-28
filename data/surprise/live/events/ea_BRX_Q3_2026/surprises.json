@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "BRX reported Q3 Nareit FFO of $0.60 per share, $0.01 above the preview\u2019s roughly $0.59 consensus estimate. That is a modest beat, rather than the expected in-line quarter.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 NAREIT FFO grew over 7% year-over-year to $0.60 per share.\u201d",
+      "expectation_evidence": "\u201cNareit FFO / diluted share | Q3 FY2026 Consensus | ~$0.59.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Same-property NOI growth was 6.6%, above the preview\u2019s expected 5.0%\u20135.5% range. The result also came in above the preview\u2019s stated 5.0%+ threshold for exceeding the implied H2 run rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame property NOI increased 6.6% in the quarter (driven by a 480 basis point contribution from base rent).\u201d",
+      "expectation_evidence": "\u201cSame-property NOI growth | ~5.0\u20135.5% (implied)\u201d and \u201cA Q3 SP NOI print of 5.0%+ runs above the implied H2 run-rate.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year FFO guide rose to $2.36\u2013$2.38 per share. The preview expected a likely narrowing to $2.36\u2013$2.37, so BRX\u2019s new high end was a cent above that anticipated outcome.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised its full-year FFO guidance to $2.36-$2.38 per share.\u201d",
+      "expectation_evidence": "\u201cThe most likely action is a narrowing to $2.36\u2013$2.37.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total leased occupancy reached 95.6%, well ahead of the preview\u2019s 95.0% threshold and its 95.0%\u201395.1% base-case range. This delivered a stronger H2 recovery signal than the preview\u2019s expected minimum inflection.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal leased occupancy reached a record 95.6%, up 80 basis points sequentially and 150 basis points year-over-year.\u201d",
+      "expectation_evidence": "\u201cTotal leased occupancy \u2265 95.0%\u201d and base-case \u201cOccupancy 94.9\u201395.1%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Leasing spreads were stronger than the preview\u2019s expected deceleration: new-lease spreads were 43% rather than merely holding above the 25% concern threshold, while blended spreads were 25% versus the prior 19.1% reference point. Renewal spreads also exceeded the preview\u2019s prior 15.5% figure.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBlended comparable rent spread of 25%, with new lease spreads of 43% (anchors above 70%) and renewal spreads exceeding 19%.\u201d",
+      "expectation_evidence": "\u201cNew-lease spreads below ~25% would challenge the below-market-rent thesis\u201d; the preview cited Q2 spreads of \u201c31.3% new / 15.5% renewal / 19.1% blended\u201d and described them as \u201clumpy and decelerating.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "BRX raised the lower end of its full-year same-property NOI outlook from 5.00% to 5.5%, while keeping the upper end at 5.75%. The increase was more limited than a full-range raise, but stronger than the preview\u2019s expectation that the guide might simply narrow.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year same property NOI guidance was raised to 5.5%-5.75% growth.\u201d",
+      "expectation_evidence": "The preview listed existing FY26 guidance of \u201c5.00%\u20135.75%\u201d and said \u201cThe most likely action is a narrowing to $2.36\u2013$2.37\u201d for FFO, describing a guidance raise as mostly priced.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The SNO pipeline\u2019s expected commencements were larger than the preview\u2019s cited estimates: about $55 million of rent is expected to commence in 2026 versus roughly $29 million anticipated for H2, and another $48 million in 2027 versus roughly $37 million expected in 2027+. This points to a stronger near-term conversion bridge than the preview described.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe signed-but-not-yet-commenced pipeline ended at $69 million, with ~$55 million of rent expected to commence in 2026 and another $48 million in 2027 before additional leasing.\u201d",
+      "expectation_evidence": "\u201c~41% ($29M) commences in H2'26, ~$37M in 2027+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The board raised the quarterly dividend by more than 7%, an increase the preview did not flag as an expected announcement. Management tied the raise to visibility into continued earnings and cash flow growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe board increased the quarterly dividend by more than 7%, reflecting management's visibility into continued earnings and cash flow growth.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "BRX provided a concrete debt-financing step for Slate by arranging a $400 million delayed-draw term loan and $400 million of forward-starting swaps. However, the facts provided do not quantify Slate accretion or establish that the full financing plan avoids equity, leaving the central funding and dilution questions only partly addressed.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company is arranging a $400 million delayed draw term loan plus $400 million of forward-starting swaps to fund the Slate acquisition expected to close in Q1 2027.\u201d",
+      "expectation_evidence": "The preview identified whether management \u201cclarifies permanent financing and the equity-issuance risk\u201d as a key issue and asked for \u201cSlate accretion, quantified.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "BRX reported Q3 Nareit FFO of $0.60 per share, $0.01 above the preview\u2019s roughly $0.59 consensus estimate. That is a modest beat, rather than the expected in-line quarter.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 NAREIT FFO grew over 7% year-over-year to $0.60 per share.\u201d",
+      "expectation_evidence": "\u201cNareit FFO / diluted share | Q3 FY2026 Consensus | ~$0.59.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Same-property NOI growth was 6.6%, above the preview\u2019s expected 5.0%\u20135.5% range. The result also came in above the preview\u2019s stated 5.0%+ threshold for exceeding the implied H2 run rate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame property NOI increased 6.6% in the quarter (driven by a 480 basis point contribution from base rent).\u201d",
+      "expectation_evidence": "\u201cSame-property NOI growth | ~5.0\u20135.5% (implied)\u201d and \u201cA Q3 SP NOI print of 5.0%+ runs above the implied H2 run-rate.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "The full-year FFO guide rose to $2.36\u2013$2.38 per share. The preview expected a likely narrowing to $2.36\u2013$2.37, so BRX\u2019s new high end was a cent above that anticipated outcome.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised its full-year FFO guidance to $2.36-$2.38 per share.\u201d",
+      "expectation_evidence": "\u201cThe most likely action is a narrowing to $2.36\u2013$2.37.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Total leased occupancy reached 95.6%, well ahead of the preview\u2019s 95.0% threshold and its 95.0%\u201395.1% base-case range. This delivered a stronger H2 recovery signal than the preview\u2019s expected minimum inflection.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal leased occupancy reached a record 95.6%, up 80 basis points sequentially and 150 basis points year-over-year.\u201d",
+      "expectation_evidence": "\u201cTotal leased occupancy \u2265 95.0%\u201d and base-case \u201cOccupancy 94.9\u201395.1%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Leasing spreads were stronger than the preview\u2019s expected deceleration: new-lease spreads were 43% rather than merely holding above the 25% concern threshold, while blended spreads were 25% versus the prior 19.1% reference point. Renewal spreads also exceeded the preview\u2019s prior 15.5% figure.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBlended comparable rent spread of 25%, with new lease spreads of 43% (anchors above 70%) and renewal spreads exceeding 19%.\u201d",
+      "expectation_evidence": "\u201cNew-lease spreads below ~25% would challenge the below-market-rent thesis\u201d; the preview cited Q2 spreads of \u201c31.3% new / 15.5% renewal / 19.1% blended\u201d and described them as \u201clumpy and decelerating.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "BRX raised the lower end of its full-year same-property NOI outlook from 5.00% to 5.5%, while keeping the upper end at 5.75%. The increase was more limited than a full-range raise, but stronger than the preview\u2019s expectation that the guide might simply narrow.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year same property NOI guidance was raised to 5.5%-5.75% growth.\u201d",
+      "expectation_evidence": "The preview listed existing FY26 guidance of \u201c5.00%\u20135.75%\u201d and said \u201cThe most likely action is a narrowing to $2.36\u2013$2.37\u201d for FFO, describing a guidance raise as mostly priced.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "The SNO pipeline\u2019s expected commencements were larger than the preview\u2019s cited estimates: about $55 million of rent is expected to commence in 2026 versus roughly $29 million anticipated for H2, and another $48 million in 2027 versus roughly $37 million expected in 2027+. This points to a stronger near-term conversion bridge than the preview described.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe signed-but-not-yet-commenced pipeline ended at $69 million, with ~$55 million of rent expected to commence in 2026 and another $48 million in 2027 before additional leasing.\u201d",
+      "expectation_evidence": "\u201c~41% ($29M) commences in H2'26, ~$37M in 2027+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "The board raised the quarterly dividend by more than 7%, an increase the preview did not flag as an expected announcement. Management tied the raise to visibility into continued earnings and cash flow growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe board increased the quarterly dividend by more than 7%, reflecting management's visibility into continued earnings and cash flow growth.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 8,
+      "description": "BRX provided a concrete debt-financing step for Slate by arranging a $400 million delayed-draw term loan and $400 million of forward-starting swaps. However, the facts provided do not quantify Slate accretion or establish that the full financing plan avoids equity, leaving the central funding and dilution questions only partly addressed.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company is arranging a $400 million delayed draw term loan plus $400 million of forward-starting swaps to fund the Slate acquisition expected to close in Q1 2027.\u201d",
+      "expectation_evidence": "The preview identified whether management \u201cclarifies permanent financing and the equity-issuance risk\u201d as a key issue and asked for \u201cSlate accretion, quantified.\u201d",
+      "expectation_source": "preview",
+      "dimension": "financing_capital_structure"
+    }
+  ]
+}

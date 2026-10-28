@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "American Tower raised its property-revenue outlook by $55 million at the midpoint, its third full-year outlook increase of 2026. The preview described a third raise as a possibility and its base case as a range narrowed toward the high end, so the reported increase is better than that expected baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its full-year outlook for the third time in 2026\u201d and \u201craising property revenue by $55 million at the midpoint.\u201d",
+      "expectation_evidence": "\u201cFY26 AFFO guidance action (third raise?).\u201d The base case anticipated the \u201cFY range narrowed toward the high end\u201d; the bull marker was \u201c3rd FY raise.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Data-center revenue growth guidance rose to 16% from 15% last quarter. The preview specifically asked whether growth would be nudged to 16%, while its base case expected it to stay around 15%, making the upgrade a positive surprise versus that baseline.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLifting data center revenue growth guidance to 16% (up from 15% last quarter and 13% at the start of the year).\u201d",
+      "expectation_evidence": "The preview asked whether FY data-center growth would be nudged \u201cfrom ~15% to ~16%\u201d; its base case said \u201cDC held at ~15%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Tower organic tenant billings growth excluding DISH churn is about 4%, below the roughly 5% ex-DISH level the preview highlighted. The reported U.S. full-year rate of about 0.5% is close to the preview\u2019s expected reported range, but the underlying ex-churn growth is weaker.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTower business remains on track for approximately 4% organic tenant billings growth excluding DISH churn\u201d; U.S. full-year growth is \u201conly about 50 basis points\u201d with \u201croughly 400 basis points of DISH churn headwind.\u201d",
+      "expectation_evidence": "The preview cited \u201c~5% ex-DISH in Q2\u201d and set \u201cU.S. & Canada OTBG ex-DISH \u22655%\u201d as a catalyst.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Services revenue guidance was cut from the preview\u2019s standing $245 million outlook to about $220 million because customer projects were delayed. The company also said this is about a 1% headwind to AFFO-per-share growth, worse than the preview\u2019s expectation that services might undershoot the implied H2 run rate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cServices revenue guidance was cut to about $220 million due to delayed customer projects, representing a ~1% headwind to AFFO per share growth.\u201d",
+      "expectation_evidence": "Standing FY2026 guidance listed \u201cServices revenue ~$245M\u201d; the bear scenario said services could \u201cundershoot the ~$58M implied H2 run-rate.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Construction management now accounts for about half of services revenue and is pulling services gross margins toward 40% from roughly 50%. The preview flagged a shrinking services base but did not anticipate this lower-margin mix and margin decline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConstruction management now making up about half of services revenue and pulling services gross margins down toward 40% from ~50%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company agreed to sell its Canada tower business for about $202 million at an implied 26x 2026 EBITDA multiple, with the deal expected to close in Q4 and to be immediately accretive to AFFO per share. The preview did not anticipate this transaction.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAgreed to sell its Canada tower business for approximately $202 million at an implied multiple of ~26x 2026 EBITDA,\u201d expected to close in Q4 and \u201cimmediately accretive to AFFO per share.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Share repurchases were substantial: $315 million in Q3 plus $68 million through October 20, with more than $950 million bought back since Q4 2025. The Board also authorized another $2 billion, beyond the repurchase capacity the preview discussed, indicating more capital return than its cited pace implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRepurchased approximately $315 million of stock in Q3 (plus $68 million through October 20),\u201d bringing buybacks since Q4 2025 to \u201cover $950 million\u201d; the Board \u201cauthorized an additional $2 billion.\u201d",
+      "expectation_evidence": "The preview identified a \u201cbuyback pace ($200M deployed of the $2B authorization)\u201d to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CoreSite reported double-digit cash mark-to-market renewals in both Q2 and Q3, above the traditional 3%\u20134% level cited on the call. The preview highlighted CoreSite\u2019s growth and possible guidance increase but did not anticipate these renewal spreads.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCoreSite achieved double-digit cash mark-to-market renewals in Q2 and Q3 (versus a traditional 3%-4%),\u201d with full-year mark-to-market expected around 6%.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "American Tower reserved about $40 million in 2026 for disputed AT&T Mexico revenue, taking cumulative reserves to about $70 million, and said an arbitration ruling is not expected until early 2027. The preview did not flag this reserve or the delayed decision as an issue.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cReserved roughly $40 million in 2026 for disputed AT&T Mexico revenue ($8-10 million per quarter), bringing cumulative reserves to about $70 million by year-end,\u201d with the ruling \u201cnot expected until early 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management clarified that American Tower owns the abandoned DISH equipment and can sell it freely to any interested party. That is more informative than the preview\u2019s anticipated repeat non-answer about the equipment, though it does not itself confirm commercial discussions with a new carrier.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOwns abandoned DISH equipment it can freely sell to any interested party.\u201d",
+      "expectation_evidence": "The preview noted management had declined to discuss DISH equipment \u201cciting ongoing litigation\u201d and said \u201ca repeat of that non-answer is a disappointment.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "American Tower raised its property-revenue outlook by $55 million at the midpoint, its third full-year outlook increase of 2026. The preview described a third raise as a possibility and its base case as a range narrowed toward the high end, so the reported increase is better than that expected baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its full-year outlook for the third time in 2026\u201d and \u201craising property revenue by $55 million at the midpoint.\u201d",
+      "expectation_evidence": "\u201cFY26 AFFO guidance action (third raise?).\u201d The base case anticipated the \u201cFY range narrowed toward the high end\u201d; the bull marker was \u201c3rd FY raise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Data-center revenue growth guidance rose to 16% from 15% last quarter. The preview specifically asked whether growth would be nudged to 16%, while its base case expected it to stay around 15%, making the upgrade a positive surprise versus that baseline.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLifting data center revenue growth guidance to 16% (up from 15% last quarter and 13% at the start of the year).\u201d",
+      "expectation_evidence": "The preview asked whether FY data-center growth would be nudged \u201cfrom ~15% to ~16%\u201d; its base case said \u201cDC held at ~15%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Tower organic tenant billings growth excluding DISH churn is about 4%, below the roughly 5% ex-DISH level the preview highlighted. The reported U.S. full-year rate of about 0.5% is close to the preview\u2019s expected reported range, but the underlying ex-churn growth is weaker.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTower business remains on track for approximately 4% organic tenant billings growth excluding DISH churn\u201d; U.S. full-year growth is \u201conly about 50 basis points\u201d with \u201croughly 400 basis points of DISH churn headwind.\u201d",
+      "expectation_evidence": "The preview cited \u201c~5% ex-DISH in Q2\u201d and set \u201cU.S. & Canada OTBG ex-DISH \u22655%\u201d as a catalyst.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Services revenue guidance was cut from the preview\u2019s standing $245 million outlook to about $220 million because customer projects were delayed. The company also said this is about a 1% headwind to AFFO-per-share growth, worse than the preview\u2019s expectation that services might undershoot the implied H2 run rate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cServices revenue guidance was cut to about $220 million due to delayed customer projects, representing a ~1% headwind to AFFO per share growth.\u201d",
+      "expectation_evidence": "Standing FY2026 guidance listed \u201cServices revenue ~$245M\u201d; the bear scenario said services could \u201cundershoot the ~$58M implied H2 run-rate.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Construction management now accounts for about half of services revenue and is pulling services gross margins toward 40% from roughly 50%. The preview flagged a shrinking services base but did not anticipate this lower-margin mix and margin decline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConstruction management now making up about half of services revenue and pulling services gross margins down toward 40% from ~50%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "The company agreed to sell its Canada tower business for about $202 million at an implied 26x 2026 EBITDA multiple, with the deal expected to close in Q4 and to be immediately accretive to AFFO per share. The preview did not anticipate this transaction.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAgreed to sell its Canada tower business for approximately $202 million at an implied multiple of ~26x 2026 EBITDA,\u201d expected to close in Q4 and \u201cimmediately accretive to AFFO per share.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 6,
+      "description": "Share repurchases were substantial: $315 million in Q3 plus $68 million through October 20, with more than $950 million bought back since Q4 2025. The Board also authorized another $2 billion, beyond the repurchase capacity the preview discussed, indicating more capital return than its cited pace implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRepurchased approximately $315 million of stock in Q3 (plus $68 million through October 20),\u201d bringing buybacks since Q4 2025 to \u201cover $950 million\u201d; the Board \u201cauthorized an additional $2 billion.\u201d",
+      "expectation_evidence": "The preview identified a \u201cbuyback pace ($200M deployed of the $2B authorization)\u201d to watch.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "CoreSite reported double-digit cash mark-to-market renewals in both Q2 and Q3, above the traditional 3%\u20134% level cited on the call. The preview highlighted CoreSite\u2019s growth and possible guidance increase but did not anticipate these renewal spreads.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCoreSite achieved double-digit cash mark-to-market renewals in Q2 and Q3 (versus a traditional 3%-4%),\u201d with full-year mark-to-market expected around 6%.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 8,
+      "description": "American Tower reserved about $40 million in 2026 for disputed AT&T Mexico revenue, taking cumulative reserves to about $70 million, and said an arbitration ruling is not expected until early 2027. The preview did not flag this reserve or the delayed decision as an issue.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cReserved roughly $40 million in 2026 for disputed AT&T Mexico revenue ($8-10 million per quarter), bringing cumulative reserves to about $70 million by year-end,\u201d with the ruling \u201cnot expected until early 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 9,
+      "description": "Management clarified that American Tower owns the abandoned DISH equipment and can sell it freely to any interested party. That is more informative than the preview\u2019s anticipated repeat non-answer about the equipment, though it does not itself confirm commercial discussions with a new carrier.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOwns abandoned DISH equipment it can freely sell to any interested party.\u201d",
+      "expectation_evidence": "The preview noted management had declined to discuss DISH equipment \u201cciting ongoing litigation\u201d and said \u201ca repeat of that non-answer is a disappointment.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

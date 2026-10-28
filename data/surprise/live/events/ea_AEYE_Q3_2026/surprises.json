@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "The preview used the Q3 adjusted EBITDA guide of $3.4\u2013$3.6 million as the benchmark. AEYE reported a record $3.9 million, with a 35% margin, a substantial beat against that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA grew 58% year-over-year to a record $3.9 million, lifting adjusted EBITDA margin to 35% from 24% a year earlier.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Company Guide \u2026 Adj. EBITDA $3.4M \u2013 $3.6M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview\u2019s base case was that full-year EBITDA guidance would be reaffirmed, while a raise to at least $13.0 million was the bull trigger and the exit run rate was expected to exceed $15 million. AEYE raised its full-year target to $13.4\u2013$13.6 million and lifted the Q4 annualized run-rate target to above $17 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 adjusted EBITDA guidance to $13.4-$13.6 million (~50% growth) and now targets a Q4 annualized run rate exceeding $17 million, up from a prior $15 million expectation.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 FY reaffirmed; $15M exit run-rate confirmed\u201d; \u201cA third consecutive EBITDA raise (\u2265$13.0M) is the bull trigger\u201d; \u201cExit run-rate Adj. EBITDA > $15M annualized by YE26.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview described the GAAP-to-adjusted earnings gap as a source of likely headline noise, but AEYE reported positive GAAP net income rather than a loss. The company moved from a $0.6 million loss to $1 million of income.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 GAAP net income turned positive at $1 million ($0.08 per share), reversing a $0.6 million net loss ($0.04 per share loss) in the prior year period.\u201d",
+      "expectation_evidence": "\u201cExpect the same mechanical noise tonight\u201d; the preview also flags \u201cthe GAAP crossover\u201d as an issue to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview highlighted margin quality and cautioned that EBITDA upside from cost cuts should be discounted, but AEYE reported a sharp improvement in gross margin tied to lower cost of revenue and AI efficiencies. This points to an efficiency-driven source of improvement beyond the preview\u2019s stated concern about operating-expense cuts.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted gross margin expanded over 550 basis points year-over-year to 88%, as cost of revenue declined 19% from AI-driven efficiencies even as revenue rose.\u201d",
+      "expectation_evidence": "\u201cAdj. gross margin 84% (79% GAAP)\u201d; \u201cIf EBITDA upside comes from opex cuts rather than revenue, the market should discount it.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected partner/marketplace growth around 16% year over year. The reported 14% growth was still positive but came in below that stated benchmark.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPartner/marketplace channel up 14% (59% of ARR).\u201d",
+      "expectation_evidence": "\u201c59% of ARR, +16% YoY, driven by SMB marketplace and state/local government.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview anticipated roughly 129,000 customers and cited an increase of 9,000 year over year. AEYE reported about 130,000 customers, but growth of 6% year over year, indicating slower customer-count growth than the preview\u2019s benchmark suggested.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCustomer count reached ~130,000, up 6% year-over-year.\u201d",
+      "expectation_evidence": "\u201cWatch customer count (~129,000, +9,000 YoY).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected litigation expense to decline in the second half but did not quantify the reduction. AEYE said it had already fallen about 50% sequentially in Q3 and would decline further in Q4, providing a stronger quantified cost tailwind than the preview specified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLitigation expense fell approximately 50% sequentially in Q3 and is expected to decline further in Q4, supporting substantial cash generation.\u201d",
+      "expectation_evidence": "\u201cManagement guided litigation expense down in H2'26.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview mentioned supplemental AI products as a possible ARPU lever but did not identify upcoming launches or their stated capability. AEYE announced two October AI products, Agentic Audits and SDK MCP, that it said can detect up to 50% more high-severity issues than automation alone; the call did not quantify resulting revenue or ARPU.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company launched two new AI products (Agentic Audits and SDK MCP) in October that can detect up to 50% more high-severity issues than automation alone.\u201d",
+      "expectation_evidence": "\u201cManagement has flagged \u2018supplemental AI products\u2019 as the ARPU lever.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview used the Q3 adjusted EBITDA guide of $3.4\u2013$3.6 million as the benchmark. AEYE reported a record $3.9 million, with a 35% margin, a substantial beat against that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA grew 58% year-over-year to a record $3.9 million, lifting adjusted EBITDA margin to 35% from 24% a year earlier.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Company Guide \u2026 Adj. EBITDA $3.4M \u2013 $3.6M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "The preview\u2019s base case was that full-year EBITDA guidance would be reaffirmed, while a raise to at least $13.0 million was the bull trigger and the exit run rate was expected to exceed $15 million. AEYE raised its full-year target to $13.4\u2013$13.6 million and lifted the Q4 annualized run-rate target to above $17 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 adjusted EBITDA guidance to $13.4-$13.6 million (~50% growth) and now targets a Q4 annualized run rate exceeding $17 million, up from a prior $15 million expectation.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 FY reaffirmed; $15M exit run-rate confirmed\u201d; \u201cA third consecutive EBITDA raise (\u2265$13.0M) is the bull trigger\u201d; \u201cExit run-rate Adj. EBITDA > $15M annualized by YE26.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The preview described the GAAP-to-adjusted earnings gap as a source of likely headline noise, but AEYE reported positive GAAP net income rather than a loss. The company moved from a $0.6 million loss to $1 million of income.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 GAAP net income turned positive at $1 million ($0.08 per share), reversing a $0.6 million net loss ($0.04 per share loss) in the prior year period.\u201d",
+      "expectation_evidence": "\u201cExpect the same mechanical noise tonight\u201d; the preview also flags \u201cthe GAAP crossover\u201d as an issue to watch.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "The preview highlighted margin quality and cautioned that EBITDA upside from cost cuts should be discounted, but AEYE reported a sharp improvement in gross margin tied to lower cost of revenue and AI efficiencies. This points to an efficiency-driven source of improvement beyond the preview\u2019s stated concern about operating-expense cuts.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted gross margin expanded over 550 basis points year-over-year to 88%, as cost of revenue declined 19% from AI-driven efficiencies even as revenue rose.\u201d",
+      "expectation_evidence": "\u201cAdj. gross margin 84% (79% GAAP)\u201d; \u201cIf EBITDA upside comes from opex cuts rather than revenue, the market should discount it.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "The preview expected partner/marketplace growth around 16% year over year. The reported 14% growth was still positive but came in below that stated benchmark.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPartner/marketplace channel up 14% (59% of ARR).\u201d",
+      "expectation_evidence": "\u201c59% of ARR, +16% YoY, driven by SMB marketplace and state/local government.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "The preview anticipated roughly 129,000 customers and cited an increase of 9,000 year over year. AEYE reported about 130,000 customers, but growth of 6% year over year, indicating slower customer-count growth than the preview\u2019s benchmark suggested.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCustomer count reached ~130,000, up 6% year-over-year.\u201d",
+      "expectation_evidence": "\u201cWatch customer count (~129,000, +9,000 YoY).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "The preview expected litigation expense to decline in the second half but did not quantify the reduction. AEYE said it had already fallen about 50% sequentially in Q3 and would decline further in Q4, providing a stronger quantified cost tailwind than the preview specified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLitigation expense fell approximately 50% sequentially in Q3 and is expected to decline further in Q4, supporting substantial cash generation.\u201d",
+      "expectation_evidence": "\u201cManagement guided litigation expense down in H2'26.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 7,
+      "description": "The preview mentioned supplemental AI products as a possible ARPU lever but did not identify upcoming launches or their stated capability. AEYE announced two October AI products, Agentic Audits and SDK MCP, that it said can detect up to 50% more high-severity issues than automation alone; the call did not quantify resulting revenue or ARPU.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company launched two new AI products (Agentic Audits and SDK MCP) in October that can detect up to 50% more high-severity issues than automation alone.\u201d",
+      "expectation_evidence": "\u201cManagement has flagged \u2018supplemental AI products\u2019 as the ARPU lever.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

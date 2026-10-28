@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_CVLT_Q2_2027",
+  "event_datetime": "2026-10-27T12:30:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-27T15:04:56.522640+00:00",
+  "predictions": [
+    {
+      "identifier_value": "CVLT",
+      "predicted_percentile": 0.5441041693238237
+    }
+  ]
+}

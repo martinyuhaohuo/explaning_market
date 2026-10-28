@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Annualized net new bookings fell to $37 million from $84 million a year earlier, far below the preview\u2019s roughly $72\u201376 million base case and its >$75 million \u201cwhat good looks like.\u201d Management called Q3 the low point and expects sequential improvement, but attributed the collapse to economic headwinds and insufficient sales capacity.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnnualized net new bookings collapsed to $37 million from $84 million a year earlier,\u201d attributed to \u201ceconomic headwinds and insufficient sales capacity,\u201d with Q3 framed as \u201cthe low point before sequential improvement.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cNNB ~$72\u201376M, still soft Y/Y\u201d; its ranked metric said \u201c>$75M and Y/Y positive\u201d was what good looks like.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue excluding Zonda was about $7 million below the guidance midpoint, even though reported revenue of $952 million was near consensus. The preview specifically wanted organic revenue of at least $935 million and warned that Zonda could make a headline beat look better than the underlying result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRevenue excluding Zonda came in about $7 million below the guidance midpoint.\u201d",
+      "expectation_evidence": "The preview said \u201cOrganic \u2265$935M\u201d was the benchmark and cautioned that a $950 million headline \u201cwith Zonda is only ~$930M organic.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management cut full-year revenue guidance by $35 million excluding Zonda, contrary to the preview\u2019s base case of holding the prior range. The preview had identified another revenue cut as a bear-case outcome.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year revenue guidance was cut by $35 million (1%) excluding Zonda to $3.75\u2013$3.77 billion,\u201d with the shortfall split between Domain transaction revenue and residential subscription revenue.",
+      "expectation_evidence": "The preview\u2019s base case was \u201cFY26 revenue guidance: narrowed, held, or cut again?\u201d and said \u201cHolding $3.715\u20133.755B\u201d was the base case; it described a second cut as the clearest path to the bear case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarterly adjusted EBITDA substantially exceeded the preview\u2019s expected range: $229 million beat the top of company guidance by $16 million excluding Zonda. The preview\u2019s base case was $203\u2013210 million, with even its bull case starting at $218 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRecord quarterly adjusted EBITDA of $229 million doubled year-over-year and beat the top of guidance by $16 million (ex-Zonda).\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201c$203\u2013210M\u201d; its bull case expected \u201c$218M+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year adjusted EBITDA guidance was raised to an $830 million midpoint rather than held near the prior range as the preview\u2019s base case anticipated. The new midpoint is also above the preview\u2019s prior guidance midpoint of $800 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull-year adjusted EBITDA guidance was raised to $820\u2013$840 million (midpoint $830 million, 22% margin), up $60 million versus February.\u201d",
+      "expectation_evidence": "The preview listed FY26 adjusted EBITDA guidance of \u201c$780\u2013820M\u201d and said holding that range was expected, with a raise \u201ctoward $820M\u201d in the base case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Apartments.com growth slowed to 6%, below the preview\u2019s expectation that growth would hold at double digits, and paid properties declined sequentially. The reported vacancy and concession figures add evidence of the pricing and demand pressure the preview flagged.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApartments.com revenue grew only 6% (down from 9% in Q2) with paid properties falling 2% sequentially to 91,155,\u201d amid \u201c8% vacancy, negative real rent growth, and a record 43% of properties offering concessions.\u201d",
+      "expectation_evidence": "The preview\u2019s Apartments.com metric said \u201cGrowth holding double digits\u201d and flagged \u201ccompetitive pricing pressure amid elevated vacancies.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Homes.com did not reach the preview\u2019s revenue or membership benchmarks: revenue was about $31 million rather than above $33 million, and membership was 36,000+ rather than above 40,000. The new Platinum product lifted average sale price, but the reported figures still fell short of the preview\u2019s growth tests.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cHomes.com revenue rose 50% to approximately $31 million with 36,000+ members\u201d; Platinum advertising lifted average sale price \u201c58% to $429 in October.\u201d",
+      "expectation_evidence": "The preview set \u201cRevenue >$33M; subs >40,000\u201d as the benchmarks and asked whether growth could survive a leaner sales motion.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company disclosed a new $730 million acquisition of Vexcel, an aerial-imagery operator, which the preview had not anticipated. The business is growing rapidly and is expected to be accretive in year one, though the purchase will be funded with cash and the revolver.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company announced the acquisition of aerial-imagery operator Vexcel for approximately $730 million,\u201d with \u201c~$140 million\u201d in trailing revenue, growth over 30%, a \u201c~20% EBITDA margin,\u201d and year-one accretion; it will be funded from cash and the revolver.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management identified another roughly $200 million of cost efficiencies to pursue over the next 12\u201318 months, beyond the $150 million of savings expected this year. The preview focused on the EBITDA ramp but did not anticipate this additional pool of savings or the disclosure that most current savings are permanent run-rate reductions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $200 million of additional cost efficiency opportunities\u201d are to be realized over \u201c12\u201318 months,\u201d on top of \u201c$150 million in savings this year\u201d; roughly two-thirds of current savings are \u201cpermanent run-rate reductions.\u201d",
+      "expectation_evidence": "The preview emphasized evidence that \u201cthe EBITDA ramp is durable\u201d and described the existing savings and profitability inflection, but did not identify an additional $200 million efficiency opportunity.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The sales force was down about 10% year over year, and management said insufficient sales capacity contributed to weak bookings. The preview discussed a 40% cut to Homes.com inside sales and tested whether fewer reps could sell more; it did not anticipate the broader headcount decline or the planned shift toward field sales and decentralized recruiting.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe sales force shrank to roughly 2,000 professionals, down about 10% year-over-year,\u201d and management is shifting from Richmond-based inside sales toward field reps and decentralized recruiting to reaccelerate headcount growth in 2027.",
+      "expectation_evidence": "The preview noted that \u201cInside sales was cut 40% (660 \u2192 ~400 reps)\u201d and asked whether growth could survive \u201ca leaner motion,\u201d expecting fewer reps to prove accretive.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Annualized net new bookings fell to $37 million from $84 million a year earlier, far below the preview\u2019s roughly $72\u201376 million base case and its >$75 million \u201cwhat good looks like.\u201d Management called Q3 the low point and expects sequential improvement, but attributed the collapse to economic headwinds and insufficient sales capacity.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAnnualized net new bookings collapsed to $37 million from $84 million a year earlier,\u201d attributed to \u201ceconomic headwinds and insufficient sales capacity,\u201d with Q3 framed as \u201cthe low point before sequential improvement.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cNNB ~$72\u201376M, still soft Y/Y\u201d; its ranked metric said \u201c>$75M and Y/Y positive\u201d was what good looks like.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Revenue excluding Zonda was about $7 million below the guidance midpoint, even though reported revenue of $952 million was near consensus. The preview specifically wanted organic revenue of at least $935 million and warned that Zonda could make a headline beat look better than the underlying result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRevenue excluding Zonda came in about $7 million below the guidance midpoint.\u201d",
+      "expectation_evidence": "The preview said \u201cOrganic \u2265$935M\u201d was the benchmark and cautioned that a $950 million headline \u201cwith Zonda is only ~$930M organic.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Management cut full-year revenue guidance by $35 million excluding Zonda, contrary to the preview\u2019s base case of holding the prior range. The preview had identified another revenue cut as a bear-case outcome.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year revenue guidance was cut by $35 million (1%) excluding Zonda to $3.75\u2013$3.77 billion,\u201d with the shortfall split between Domain transaction revenue and residential subscription revenue.",
+      "expectation_evidence": "The preview\u2019s base case was \u201cFY26 revenue guidance: narrowed, held, or cut again?\u201d and said \u201cHolding $3.715\u20133.755B\u201d was the base case; it described a second cut as the clearest path to the bear case.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Quarterly adjusted EBITDA substantially exceeded the preview\u2019s expected range: $229 million beat the top of company guidance by $16 million excluding Zonda. The preview\u2019s base case was $203\u2013210 million, with even its bull case starting at $218 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRecord quarterly adjusted EBITDA of $229 million doubled year-over-year and beat the top of guidance by $16 million (ex-Zonda).\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201c$203\u2013210M\u201d; its bull case expected \u201c$218M+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Full-year adjusted EBITDA guidance was raised to an $830 million midpoint rather than held near the prior range as the preview\u2019s base case anticipated. The new midpoint is also above the preview\u2019s prior guidance midpoint of $800 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull-year adjusted EBITDA guidance was raised to $820\u2013$840 million (midpoint $830 million, 22% margin), up $60 million versus February.\u201d",
+      "expectation_evidence": "The preview listed FY26 adjusted EBITDA guidance of \u201c$780\u2013820M\u201d and said holding that range was expected, with a raise \u201ctoward $820M\u201d in the base case.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Apartments.com growth slowed to 6%, below the preview\u2019s expectation that growth would hold at double digits, and paid properties declined sequentially. The reported vacancy and concession figures add evidence of the pricing and demand pressure the preview flagged.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApartments.com revenue grew only 6% (down from 9% in Q2) with paid properties falling 2% sequentially to 91,155,\u201d amid \u201c8% vacancy, negative real rent growth, and a record 43% of properties offering concessions.\u201d",
+      "expectation_evidence": "The preview\u2019s Apartments.com metric said \u201cGrowth holding double digits\u201d and flagged \u201ccompetitive pricing pressure amid elevated vacancies.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Homes.com did not reach the preview\u2019s revenue or membership benchmarks: revenue was about $31 million rather than above $33 million, and membership was 36,000+ rather than above 40,000. The new Platinum product lifted average sale price, but the reported figures still fell short of the preview\u2019s growth tests.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cHomes.com revenue rose 50% to approximately $31 million with 36,000+ members\u201d; Platinum advertising lifted average sale price \u201c58% to $429 in October.\u201d",
+      "expectation_evidence": "The preview set \u201cRevenue >$33M; subs >40,000\u201d as the benchmarks and asked whether growth could survive a leaner sales motion.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "The company disclosed a new $730 million acquisition of Vexcel, an aerial-imagery operator, which the preview had not anticipated. The business is growing rapidly and is expected to be accretive in year one, though the purchase will be funded with cash and the revolver.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company announced the acquisition of aerial-imagery operator Vexcel for approximately $730 million,\u201d with \u201c~$140 million\u201d in trailing revenue, growth over 30%, a \u201c~20% EBITDA margin,\u201d and year-one accretion; it will be funded from cash and the revolver.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 8,
+      "description": "Management identified another roughly $200 million of cost efficiencies to pursue over the next 12\u201318 months, beyond the $150 million of savings expected this year. The preview focused on the EBITDA ramp but did not anticipate this additional pool of savings or the disclosure that most current savings are permanent run-rate reductions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $200 million of additional cost efficiency opportunities\u201d are to be realized over \u201c12\u201318 months,\u201d on top of \u201c$150 million in savings this year\u201d; roughly two-thirds of current savings are \u201cpermanent run-rate reductions.\u201d",
+      "expectation_evidence": "The preview emphasized evidence that \u201cthe EBITDA ramp is durable\u201d and described the existing savings and profitability inflection, but did not identify an additional $200 million efficiency opportunity.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "The sales force was down about 10% year over year, and management said insufficient sales capacity contributed to weak bookings. The preview discussed a 40% cut to Homes.com inside sales and tested whether fewer reps could sell more; it did not anticipate the broader headcount decline or the planned shift toward field sales and decentralized recruiting.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe sales force shrank to roughly 2,000 professionals, down about 10% year-over-year,\u201d and management is shifting from Richmond-based inside sales toward field reps and decentralized recruiting to reaccelerate headcount growth in 2027.",
+      "expectation_evidence": "The preview noted that \u201cInside sales was cut 40% (660 \u2192 ~400 reps)\u201d and asked whether growth could survive \u201ca leaner motion,\u201d expecting fewer reps to prove accretive.",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

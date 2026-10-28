@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Revenue was reported at $1.4 billion, below the preview\u2019s $1.42\u2013$1.44 billion consensus range, though its 12% year-over-year growth was within the preview\u2019s expected 11%\u201313% range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 revenues grew 12% year-over-year to a record $1.4 billion.\u201d",
+      "expectation_evidence": "\u201cTotal net revenue | $1.42B\u2013$1.44B | +11% to +13%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GAAP EPS of $0.51 was below the preview\u2019s $0.55\u2013$0.56 consensus, partly because of a $0.07 investment mark-to-market drag; the newly introduced adjusted EPS of $0.60 was above that range. The two measures therefore point in opposite directions versus the preview\u2019s EPS expectation.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP EPS was $0.51 (including a $0.07 mark-to-market drag on investments), and the newly introduced adjusted EPS was $0.60.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS | $0.55\u2013$0.56.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company said year-to-date net deposits had already surpassed its 20% annual growth target with two months left, rather than the preview\u2019s concern that a roughly $12 billion Q3 pace could leave growth below target. October deposits exceeded $13 billion, but included a $6 billion Dell family Trump Account gift, so the reported inflow included a large one-off contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cYear-to-date net deposits exceeded $68 billion, already surpassing the 20% annual growth target with two months remaining; October net deposits exceeded $13 billion including a $6 billion Dell family Trump Account gift.\u201d",
+      "expectation_evidence": "\u201cThree months at $4B would be ~$12B and roughly 13% annualized \u2014 below the >20% long-term target.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year adjusted OpEx and SBC range was reduced to $2.675\u2013$2.75 billion, below the preview\u2019s $2.675\u2013$2.775 billion range. The cut was modest, but management lowered the top end by $25 million and the midpoint by $13 million even while factoring in about $100 million of Trump Accounts investment.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year adjusted OpEx and SBC guidance was lowered to $2.675\u2013$2.75 billion, cutting the top end by $25 million and the midpoint by $13 million, with Trump Accounts representing about a $100 million full-year investment.\u201d",
+      "expectation_evidence": "\u201cFY2026 adj. OpEx + SBC guidance was tightened to $2.675B\u2013$2.775B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Early Q4 event-contract average daily volumes were up about 10% from Q3, stronger than the preview\u2019s base case of roughly flat event-contract results quarter over quarter. The preview had identified Q4 seasonality as a risk, while also noting NFL-season support.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTo start Q4, average daily volumes for equities, options and crypto are tracking about 5% lighter than Q3's record levels while event contract ADVs are up about 10%.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 event contracts roughly flat q/q\u201d; the preview also flagged \u201cQ4 event-contract seasonality.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Platform assets were nearly $400 billion, somewhat above the preview\u2019s estimate of roughly $390 billion or more for quarter-end. Robinhood also reported Gold growth to 5 million subscribers and an 18% overall adoption rate, versus the preview\u2019s cited Q2 baseline of 4.84 million and 17%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPlatform assets reached nearly $400 billion\u201d; \u201cRobinhood Gold reached 5 million subscribers, up over 30% year-over-year, with an 18% overall adoption rate.\u201d",
+      "expectation_evidence": "\u201cQ3-end likely ~$390B+\u201d; \u201cGold subscribers and attach rate (4.84M / 17%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Robinhood disclosed that Robinhood Chain, launched July 1, had become a top-five chain and generated over $100 billion in DEX volume and about $50 million in gross chain fees (roughly $25 million net) in its first quarter. The preview did not anticipate or quantify this new activity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRobinhood Chain launched July 1 and became a top-5 chain, generating over $100 billion in DEX volume and roughly $50 million in gross chain fees (~$25 million net) in its first quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company said it now has 14 revenue \u201ccylinders\u201d each generating at least $100 million in annualized revenue, a breadth and scale of revenue sources the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company now has 14 revenue 'cylinders' each generating $100 million or more in annualized revenue.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Robinhood disclosed new crypto.com and og.com partnerships that give it an initial 1% equity stake in each without cash outlay, with potential ownership of up to 10%, and make them the primary secondary prediction-market exchange behind Rothera. The preview discussed Rothera and multi-venue strategy but did not anticipate these partnerships or their equity terms.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe crypto.com and og.com partnerships gave Robinhood an initial 1% equity stake in each with no cash outlay and potential to reach up to 10% ownership, establishing them as the primary secondary prediction market exchange behind Rothera.\u201d",
+      "expectation_evidence": "The preview discussed \u201cRothera economics and multi-venue strategy (Kalshi/ForecastEx retained).\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Revenue was reported at $1.4 billion, below the preview\u2019s $1.42\u2013$1.44 billion consensus range, though its 12% year-over-year growth was within the preview\u2019s expected 11%\u201313% range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 revenues grew 12% year-over-year to a record $1.4 billion.\u201d",
+      "expectation_evidence": "\u201cTotal net revenue | $1.42B\u2013$1.44B | +11% to +13%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "GAAP EPS of $0.51 was below the preview\u2019s $0.55\u2013$0.56 consensus, partly because of a $0.07 investment mark-to-market drag; the newly introduced adjusted EPS of $0.60 was above that range. The two measures therefore point in opposite directions versus the preview\u2019s EPS expectation.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP EPS was $0.51 (including a $0.07 mark-to-market drag on investments), and the newly introduced adjusted EPS was $0.60.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS | $0.55\u2013$0.56.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "The company said year-to-date net deposits had already surpassed its 20% annual growth target with two months left, rather than the preview\u2019s concern that a roughly $12 billion Q3 pace could leave growth below target. October deposits exceeded $13 billion, but included a $6 billion Dell family Trump Account gift, so the reported inflow included a large one-off contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cYear-to-date net deposits exceeded $68 billion, already surpassing the 20% annual growth target with two months remaining; October net deposits exceeded $13 billion including a $6 billion Dell family Trump Account gift.\u201d",
+      "expectation_evidence": "\u201cThree months at $4B would be ~$12B and roughly 13% annualized \u2014 below the >20% long-term target.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The full-year adjusted OpEx and SBC range was reduced to $2.675\u2013$2.75 billion, below the preview\u2019s $2.675\u2013$2.775 billion range. The cut was modest, but management lowered the top end by $25 million and the midpoint by $13 million even while factoring in about $100 million of Trump Accounts investment.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year adjusted OpEx and SBC guidance was lowered to $2.675\u2013$2.75 billion, cutting the top end by $25 million and the midpoint by $13 million, with Trump Accounts representing about a $100 million full-year investment.\u201d",
+      "expectation_evidence": "\u201cFY2026 adj. OpEx + SBC guidance was tightened to $2.675B\u2013$2.775B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Early Q4 event-contract average daily volumes were up about 10% from Q3, stronger than the preview\u2019s base case of roughly flat event-contract results quarter over quarter. The preview had identified Q4 seasonality as a risk, while also noting NFL-season support.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTo start Q4, average daily volumes for equities, options and crypto are tracking about 5% lighter than Q3's record levels while event contract ADVs are up about 10%.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 event contracts roughly flat q/q\u201d; the preview also flagged \u201cQ4 event-contract seasonality.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Platform assets were nearly $400 billion, somewhat above the preview\u2019s estimate of roughly $390 billion or more for quarter-end. Robinhood also reported Gold growth to 5 million subscribers and an 18% overall adoption rate, versus the preview\u2019s cited Q2 baseline of 4.84 million and 17%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cPlatform assets reached nearly $400 billion\u201d; \u201cRobinhood Gold reached 5 million subscribers, up over 30% year-over-year, with an 18% overall adoption rate.\u201d",
+      "expectation_evidence": "\u201cQ3-end likely ~$390B+\u201d; \u201cGold subscribers and attach rate (4.84M / 17%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Robinhood disclosed that Robinhood Chain, launched July 1, had become a top-five chain and generated over $100 billion in DEX volume and about $50 million in gross chain fees (roughly $25 million net) in its first quarter. The preview did not anticipate or quantify this new activity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRobinhood Chain launched July 1 and became a top-5 chain, generating over $100 billion in DEX volume and roughly $50 million in gross chain fees (~$25 million net) in its first quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "The company said it now has 14 revenue \u201ccylinders\u201d each generating at least $100 million in annualized revenue, a breadth and scale of revenue sources the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company now has 14 revenue 'cylinders' each generating $100 million or more in annualized revenue.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "Robinhood disclosed new crypto.com and og.com partnerships that give it an initial 1% equity stake in each without cash outlay, with potential ownership of up to 10%, and make them the primary secondary prediction-market exchange behind Rothera. The preview discussed Rothera and multi-venue strategy but did not anticipate these partnerships or their equity terms.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe crypto.com and og.com partnerships gave Robinhood an initial 1% equity stake in each with no cash outlay and potential to reach up to 10% ownership, establishing them as the primary secondary prediction market exchange behind Rothera.\u201d",
+      "expectation_evidence": "The preview discussed \u201cRothera economics and multi-venue strategy (Kalshi/ForecastEx retained).\u201d",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

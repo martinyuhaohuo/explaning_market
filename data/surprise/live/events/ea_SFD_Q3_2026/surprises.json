@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Smithfield lowered full-year adjusted operating profit guidance to $900 million-$1 billion, below the preview\u2019s $1.025-$1.125 billion estimate and with the low end below the preview\u2019s $1 billion danger threshold.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Management lowered total company full-year adjusted operating profit outlook to $900 million-$1 billion.",
+      "expectation_evidence": "\u201cMy estimate for the reset: ~$1,025\u20131,125M\u201d; the preview also said \u201cbelow $1,000M is a problem.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS was $0.26, below the preview\u2019s $0.29 consensus and the preview\u2019s view that the quarter was \u201cmore likely to clear than not.\u201d The result was still at the low end of the preview\u2019s own $0.26-$0.38 guidance-based bridge.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted diluted EPS dropped to $0.26\u201d year-over-year.",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $0.29\u201d; \u201cThe quarter is more likely to clear than not.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Packaged Meats showed more margin resilience than the preview\u2019s key downside debate contemplated: profit reached $230 million and margin expanded 80 basis points despite lower sales, rather than cracking under the pressure the preview highlighted.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPackaged Meats delivered its second-highest Q3 operating profit on record, growing operating profit to $230 million with margin expanding 80 basis points to 11.6% despite a 5.2% sales decline.\u201d",
+      "expectation_evidence": "The preview said the bear case required \u201cPM margin (13.1% in Q2) to crack under freight, fuel and packaging inflation\u201d and identified PM profit of \u201c~$230M\u201d in its base case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Packaged Meats outperformed the preview\u2019s simple expectation that branded volume growth would hold: Smithfield grew volume while the industry contracted, gained share across its five largest categories, and its e-commerce growth also exceeded industry growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSmithfield was the only company in its competitive set to grow volume (~1% vs. industry -3.3%), gaining share in all five largest categories, while e-commerce volume grew 22.5% versus 13.4% industry growth.\u201d",
+      "expectation_evidence": "The preview called for \u201cconfirmation that branded volume growth held through a \u2018cautious consumer\u2019 quarter\u201d and noted Q2 branded lunch meat volume growth of 9.5% and share gains in five large categories.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The completed Nathan\u2019s Famous acquisition adds an immediate recurring EPS benefit from about $33 million per year in avoided license costs, a development the preview did not flag; the near-term Q4 contribution is limited.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company completed the Nathan's Famous acquisition, which is immediately accretive to adjusted EPS primarily by repatriating about $33 million per year in prior license costs, though Q4 contribution will be de minimis.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "A new long-term supply agreement will reduce internally produced hogs by roughly 900,000 annually and take the company below its 10 million hog target, a structural operating change not anticipated in the preview; the supplied facts do not quantify its earnings effect.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new long-term supply agreement with a joint venture partner will reduce internally produced hogs by roughly 900,000 per year, pushing the company below its 10 million hog target.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Smithfield lowered full-year adjusted operating profit guidance to $900 million-$1 billion, below the preview\u2019s $1.025-$1.125 billion estimate and with the low end below the preview\u2019s $1 billion danger threshold.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Management lowered total company full-year adjusted operating profit outlook to $900 million-$1 billion.",
+      "expectation_evidence": "\u201cMy estimate for the reset: ~$1,025\u20131,125M\u201d; the preview also said \u201cbelow $1,000M is a problem.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Adjusted EPS was $0.26, below the preview\u2019s $0.29 consensus and the preview\u2019s view that the quarter was \u201cmore likely to clear than not.\u201d The result was still at the low end of the preview\u2019s own $0.26-$0.38 guidance-based bridge.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted diluted EPS dropped to $0.26\u201d year-over-year.",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $0.29\u201d; \u201cThe quarter is more likely to clear than not.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "Packaged Meats showed more margin resilience than the preview\u2019s key downside debate contemplated: profit reached $230 million and margin expanded 80 basis points despite lower sales, rather than cracking under the pressure the preview highlighted.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPackaged Meats delivered its second-highest Q3 operating profit on record, growing operating profit to $230 million with margin expanding 80 basis points to 11.6% despite a 5.2% sales decline.\u201d",
+      "expectation_evidence": "The preview said the bear case required \u201cPM margin (13.1% in Q2) to crack under freight, fuel and packaging inflation\u201d and identified PM profit of \u201c~$230M\u201d in its base case.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Packaged Meats outperformed the preview\u2019s simple expectation that branded volume growth would hold: Smithfield grew volume while the industry contracted, gained share across its five largest categories, and its e-commerce growth also exceeded industry growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSmithfield was the only company in its competitive set to grow volume (~1% vs. industry -3.3%), gaining share in all five largest categories, while e-commerce volume grew 22.5% versus 13.4% industry growth.\u201d",
+      "expectation_evidence": "The preview called for \u201cconfirmation that branded volume growth held through a \u2018cautious consumer\u2019 quarter\u201d and noted Q2 branded lunch meat volume growth of 9.5% and share gains in five large categories.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "The completed Nathan\u2019s Famous acquisition adds an immediate recurring EPS benefit from about $33 million per year in avoided license costs, a development the preview did not flag; the near-term Q4 contribution is limited.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company completed the Nathan's Famous acquisition, which is immediately accretive to adjusted EPS primarily by repatriating about $33 million per year in prior license costs, though Q4 contribution will be de minimis.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 5,
+      "description": "A new long-term supply agreement will reduce internally produced hogs by roughly 900,000 annually and take the company below its 10 million hog target, a structural operating change not anticipated in the preview; the supplied facts do not quantify its earnings effect.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new long-term supply agreement with a joint venture partner will reduce internally produced hogs by roughly 900,000 per year, pushing the company below its 10 million hog target.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

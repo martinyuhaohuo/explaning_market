@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 revenue was $917 million, above the preview\u2019s estimated $900\u2013910 million buy-side bar, as well as the company guidance ceiling. This was a positive but not enormous beat against the preview\u2019s elevated expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 FY26 revenue of $917 million grew 13% year-over-year and exceeded the top of guidance.\u201d",
+      "expectation_evidence": "\u201cAssume the buy-side bar is ~$900\u2013910M\u201d; the preview also projected a Q4 pattern of \u201c$905\u2013915M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 non-GAAP EPS of $4.42 fell well short of the preview\u2019s expected $4.80-plus whisper level, even though it was above the published consensus estimate. The gap was substantial against the preview\u2019s stated buy-side bar.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 non-GAAP EPS was $4.42 (GAAP $3.23).\u201d",
+      "expectation_evidence": "The preview said the pattern implied \u201c$4.85\u20134.95\u201d and to \u201cassume the buy-side bar is \u2026 ~$4.80+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY26 revenue reached $3.4 billion, exceeding the preview\u2019s $3.37\u20133.39 billion estimate and the company\u2019s 9\u201310% growth guidance, with actual growth at 11%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year FY26 revenue reached $3.4 billion (up 11%, with 19% product growth).\u201d",
+      "expectation_evidence": "The preview listed FY26 revenue consensus of \u201c~$3.37\u20133.39B\u201d and company guidance of \u201c+9\u201310%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Software revenue grew 19% in Q4, a stronger result than the preview\u2019s recent-trend concern that another mid-single-digit quarter could undermine the FY27 reacceleration case. The preview identified a double-digit Q4 print as the threshold that would de-risk that outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSoftware revenue rose 19% to $271 million in Q4,\u201d with FY27 guidance for \u201csolid double-digit software growth.\u201d",
+      "expectation_evidence": "The preview said \u201cA double-digit Q4 print de-risks the FY27 software reacceleration claim\u201d and warned that \u201canother mid-single-digit quarter\u201d would make it an \u201cact of faith.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "F5 raised the FY27 hardware-growth outlook beyond the preview\u2019s expected mid-single-digit growth for the next few years: systems guidance is upper-single-digit, although weighted toward the first half. Q4 systems growth remained strong at 29%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSystems revenue rose 29% to $239 million\u201d; FY27 guidance is for \u201cupper-single-digit systems growth (front-half weighted).\u201d",
+      "expectation_evidence": "The preview said management had framed \u201chardware growing mid-single digits for the next few years\u201d and flagged a possible post-FY26 hardware air pocket.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY27 gross-margin guidance of 80.5\u201382.5% implies a decline from Q4\u2019s 84%, with management citing higher memory and component costs. The preview emphasized preserving a 35%+ operating margin as an upside lever; the 33\u201335% operating-margin range does not clearly preserve that level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFY27 non-GAAP gross margin is guided to 80.5%-82.5%, down from Q4's 84%, reflecting higher memory and component costs, with non-GAAP operating margin of 33%-35%.\u201d",
+      "expectation_evidence": "The preview noted that \u201ca guide that preserves 35%+ operating margin is an under-appreciated upside lever\u201d and cited Q3 non-GAAP operating margin of 35.0%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "AI demand was quantified at a much larger scale than the preview\u2019s existing $50 million cumulative disclosure: FY26 direct AI-use-case bookings exceeded $100 million and nearly tripled year over year, while active AI customers quadrupled to more than 200. The preview had identified a larger AI disclosure as a potential catalyst but did not anticipate these figures.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDirect AI use case bookings more than doubled to over $100 million in FY26 (up nearly 300% year-over-year) and active AI customers grew 4x to more than 200.\u201d",
+      "expectation_evidence": "The preview said AI-attributed revenue had \u201ccrossed $50M cumulative in Q3\u201d and that \u201ca new, larger disclosure\u201d was a likely bull catalyst.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Regional growth was sharply uneven: EMEA and APAC grew much faster than the Americas, an unexpected source of strength in the reported results. The call attributed the outperformance largely to digital sovereignty and hybrid multi-cloud adoption.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEMEA grew 31% and APAC grew 14% in Q4, substantially outpacing the Americas at 5%, driven largely by digital sovereignty and hybrid multi-cloud adoption.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The buyback refresh was larger than the preview\u2019s stated remaining authorization: the Board authorized another $1.5 billion, bringing total authorization to $1.8 billion, while the company committed to returning at least 50% of FY27 free cash flow.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cF5 repurchased $600 million of stock in FY26 and the Board authorized an additional $1.5 billion (bringing total authorization to $1.8 billion), with a commitment to return at least 50% of annual free cash flow in FY27.\u201d",
+      "expectation_evidence": "The preview cited \u201c$422M authorization remaining at Q3,\u201d a target of \u201c\u226550% of FCF,\u201d and said a refreshed authorization was plausible.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SaaS and Managed Services ARR ended FY26 at $211 million, with core ARR growing 24%, and management positioned the now-complete legacy transition as setting up a new FY27 growth driver. The preview expected the transition to be complete but did not provide an ARR estimate or this growth framing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSaaS and Managed Services ARR ended FY26 at $211 million (up 14%, with core ARR up 24%), and with the legacy transition now complete, this ratable business is positioned to become a new growth driver in FY27.\u201d",
+      "expectation_evidence": "The preview anticipated \u201clegacy SaaS transitions complete\u201d and flagged services growth as a forward indicator, but gave no ARR figure.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "F5 disclosed meaningful security growth and rapid uptake of AI-powered WAF: more than 300 customers deployed it in under six months, and over 75% were already running it in production blocking mode. The preview mentioned AI-security customer growth but had not anticipated these deployment and production figures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal security revenue grew 10% to approximately $1.3 billion (product security up 15% to $746 million), and over 300 customers deployed AI-powered WAF in under six months with more than 75% running in production blocking mode.\u201d",
+      "expectation_evidence": "The preview noted that \u201cAI security customer count\u201d had doubled in Q3, but did not cite security-revenue or AI-WAF deployment expectations.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 revenue was $917 million, above the preview\u2019s estimated $900\u2013910 million buy-side bar, as well as the company guidance ceiling. This was a positive but not enormous beat against the preview\u2019s elevated expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 FY26 revenue of $917 million grew 13% year-over-year and exceeded the top of guidance.\u201d",
+      "expectation_evidence": "\u201cAssume the buy-side bar is ~$900\u2013910M\u201d; the preview also projected a Q4 pattern of \u201c$905\u2013915M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Q4 non-GAAP EPS of $4.42 fell well short of the preview\u2019s expected $4.80-plus whisper level, even though it was above the published consensus estimate. The gap was substantial against the preview\u2019s stated buy-side bar.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 non-GAAP EPS was $4.42 (GAAP $3.23).\u201d",
+      "expectation_evidence": "The preview said the pattern implied \u201c$4.85\u20134.95\u201d and to \u201cassume the buy-side bar is \u2026 ~$4.80+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "FY26 revenue reached $3.4 billion, exceeding the preview\u2019s $3.37\u20133.39 billion estimate and the company\u2019s 9\u201310% growth guidance, with actual growth at 11%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year FY26 revenue reached $3.4 billion (up 11%, with 19% product growth).\u201d",
+      "expectation_evidence": "The preview listed FY26 revenue consensus of \u201c~$3.37\u20133.39B\u201d and company guidance of \u201c+9\u201310%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Software revenue grew 19% in Q4, a stronger result than the preview\u2019s recent-trend concern that another mid-single-digit quarter could undermine the FY27 reacceleration case. The preview identified a double-digit Q4 print as the threshold that would de-risk that outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSoftware revenue rose 19% to $271 million in Q4,\u201d with FY27 guidance for \u201csolid double-digit software growth.\u201d",
+      "expectation_evidence": "The preview said \u201cA double-digit Q4 print de-risks the FY27 software reacceleration claim\u201d and warned that \u201canother mid-single-digit quarter\u201d would make it an \u201cact of faith.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "F5 raised the FY27 hardware-growth outlook beyond the preview\u2019s expected mid-single-digit growth for the next few years: systems guidance is upper-single-digit, although weighted toward the first half. Q4 systems growth remained strong at 29%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSystems revenue rose 29% to $239 million\u201d; FY27 guidance is for \u201cupper-single-digit systems growth (front-half weighted).\u201d",
+      "expectation_evidence": "The preview said management had framed \u201chardware growing mid-single digits for the next few years\u201d and flagged a possible post-FY26 hardware air pocket.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "FY27 gross-margin guidance of 80.5\u201382.5% implies a decline from Q4\u2019s 84%, with management citing higher memory and component costs. The preview emphasized preserving a 35%+ operating margin as an upside lever; the 33\u201335% operating-margin range does not clearly preserve that level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFY27 non-GAAP gross margin is guided to 80.5%-82.5%, down from Q4's 84%, reflecting higher memory and component costs, with non-GAAP operating margin of 33%-35%.\u201d",
+      "expectation_evidence": "The preview noted that \u201ca guide that preserves 35%+ operating margin is an under-appreciated upside lever\u201d and cited Q3 non-GAAP operating margin of 35.0%.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "AI demand was quantified at a much larger scale than the preview\u2019s existing $50 million cumulative disclosure: FY26 direct AI-use-case bookings exceeded $100 million and nearly tripled year over year, while active AI customers quadrupled to more than 200. The preview had identified a larger AI disclosure as a potential catalyst but did not anticipate these figures.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDirect AI use case bookings more than doubled to over $100 million in FY26 (up nearly 300% year-over-year) and active AI customers grew 4x to more than 200.\u201d",
+      "expectation_evidence": "The preview said AI-attributed revenue had \u201ccrossed $50M cumulative in Q3\u201d and that \u201ca new, larger disclosure\u201d was a likely bull catalyst.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Regional growth was sharply uneven: EMEA and APAC grew much faster than the Americas, an unexpected source of strength in the reported results. The call attributed the outperformance largely to digital sovereignty and hybrid multi-cloud adoption.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEMEA grew 31% and APAC grew 14% in Q4, substantially outpacing the Americas at 5%, driven largely by digital sovereignty and hybrid multi-cloud adoption.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "The buyback refresh was larger than the preview\u2019s stated remaining authorization: the Board authorized another $1.5 billion, bringing total authorization to $1.8 billion, while the company committed to returning at least 50% of FY27 free cash flow.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cF5 repurchased $600 million of stock in FY26 and the Board authorized an additional $1.5 billion (bringing total authorization to $1.8 billion), with a commitment to return at least 50% of annual free cash flow in FY27.\u201d",
+      "expectation_evidence": "The preview cited \u201c$422M authorization remaining at Q3,\u201d a target of \u201c\u226550% of FCF,\u201d and said a refreshed authorization was plausible.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 9,
+      "description": "SaaS and Managed Services ARR ended FY26 at $211 million, with core ARR growing 24%, and management positioned the now-complete legacy transition as setting up a new FY27 growth driver. The preview expected the transition to be complete but did not provide an ARR estimate or this growth framing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSaaS and Managed Services ARR ended FY26 at $211 million (up 14%, with core ARR up 24%), and with the legacy transition now complete, this ratable business is positioned to become a new growth driver in FY27.\u201d",
+      "expectation_evidence": "The preview anticipated \u201clegacy SaaS transitions complete\u201d and flagged services growth as a forward indicator, but gave no ARR figure.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 10,
+      "description": "F5 disclosed meaningful security growth and rapid uptake of AI-powered WAF: more than 300 customers deployed it in under six months, and over 75% were already running it in production blocking mode. The preview mentioned AI-security customer growth but had not anticipated these deployment and production figures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal security revenue grew 10% to approximately $1.3 billion (product security up 15% to $746 million), and over 300 customers deployed AI-powered WAF in under six months with more than 75% running in production blocking mode.\u201d",
+      "expectation_evidence": "The preview noted that \u201cAI security customer count\u201d had doubled in Q3, but did not cite security-revenue or AI-WAF deployment expectations.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

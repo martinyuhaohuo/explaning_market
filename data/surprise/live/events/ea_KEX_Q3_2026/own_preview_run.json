@@ -1,0 +1,112 @@
+{
+  "event_id": "ea_KEX_Q3_2026",
+  "ticker": "KEX",
+  "company": "Kirby Corporation",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T11:00:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Kirby Corporation (KEX), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Kirby Corporation (KEX), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:16:03.617444+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Kirby Corporation KEX Q3 2026 earnings consensus estimates EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Kirby Corporation KEX second quarter 2026 results marine transportation distribution and services guidance"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://investors.kirbycorp.com/news-releases/news-release-details/kirby-corporation-announces-second-quarter-2026-results"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Kirby KEX stock earnings reaction history options implied move"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "658488cb-3c52-4d84-b60d-4dd001784beb",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 6,
+  "duration_ms": 33104,
+  "total_cost_usd": 0.03880266,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 7594,
+    "cache_read_input_tokens": 61371,
+    "output_tokens": 3797,
+    "output_tokens_details": {
+      "thinking_tokens": 806
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7594
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3008,
+        "cache_read_input_tokens": 23463,
+        "cache_creation_input_tokens": 2168,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 2168,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:16:38.044680+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

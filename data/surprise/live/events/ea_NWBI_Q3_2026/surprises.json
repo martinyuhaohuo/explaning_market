@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 NIM fell to 3.70%, well below the preview\u2019s expected 3.76\u20133.78% and down 5 basis points from Q2. Management also guided to 3.71% for full-year 2026, below the previously stated 3.73\u20133.75% range the preview expected to be reaffirmed.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet interest margin declined 5 basis points to 3.70%\u201d; management guides to \u201c3.71% for full-year 2026.\u201d",
+      "expectation_evidence": "The preview put the Q3 base case at \u201c3.76\u20133.78%\u201d and said the base case expected \u201creaffirmed FY ranges\u201d; it cited prior FY26 NIM guidance of \u201c3.73\u20133.75%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest income was $149 million, below the preview\u2019s $151.4 million estimate, even though it grew more than 9% year over year. This was a shortfall against the expected quarterly result, not a decline in the business year over year.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord net interest income of $149 million (up over 9% year-over-year).\u201d",
+      "expectation_evidence": "Consensus net interest income was \u201c$151.4M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised its outlook for revenue to the high end of its range and now expects noninterest income to exceed the high end. The preview\u2019s base case assumed existing ranges would be reaffirmed; the offset is that expenses are expected at the high end rather than the low-to-middle end contemplated in the preview\u2019s base case.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201craised guidance, expecting revenue at the high end of range, noninterest income to exceed the high end, noninterest expense at the high end.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201creaffirmed FY ranges\u201d and quarterly expenses of \u201c$107\u2013108M\u201d; its bull case described raising guidance as a positive tell.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Credit costs were better than the preview\u2019s expected normalization toward roughly $10 million of quarterly charge-offs: net charge-offs were only 15 basis points annualized and below the low end of full-year guidance. The allowance also remained stable, rather than the preview\u2019s feared deterioration scenario emerging.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet charge-offs were just 15 basis points annualized, below the low end of full-year guidance, with the ACL stable at $149.6 million and coverage ratio of 1.12%.\u201d",
+      "expectation_evidence": "The preview said management had guided charge-offs toward \u201ca \u2018reversion to the mean\u2019 of roughly $10M a quarter\u201d and highlighted provision of \u201c~$6\u20138M\u201d as consensus, with risks of $12M or more.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Fee income outperformed the preview\u2019s expectation of a sequential decline: noninterest income grew 11.6% year over year, while trust and other financial services income grew 25.7%, substantially faster than the 11.1% growth expected for trust and financial services. Mortgage banking remained nearly nonexistent, so the strength was concentrated in the wealth-related business.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNoninterest income rose 11.6% year-over-year, driven by 25.7% growth in trust and other financial services income from the wealth management buildout, while mortgage banking remains nearly nonexistent.\u201d",
+      "expectation_evidence": "The preview estimated noninterest income at \u201c$32.0M\u201d and \u201c\u20136.4%\u201d quarter over quarter, and trust and financial services at \u201c$8.93M\u201d with \u201c+11.1%\u201d year over year.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said elevated CRE runoff could reach an inflection point within one to two quarters and allow net CRE growth to turn slightly positive. That is a more constructive outlook than the preview\u2019s expectation that CRE would be largely flat in H2 while runoff offset C&I production.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects elevated CRE runoff to reach an inflection point within one to two quarters, potentially turning net CRE growth slightly positive.\u201d",
+      "expectation_evidence": "The preview said management had guided CRE to be \u201clargely flat\u201d in H2 and framed total growth as C&I production minus CRE runoff.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The reported cost of deposits was 1.44%, below the preview\u2019s Q2 reference of 1.83%. The preview expected continued deposit-cost declines, but the reported level was substantially lower than that reference.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPeriod-end deposits grew $113 million (3.2% annualized), with cost of deposits stable at 1.44%.\u201d",
+      "expectation_evidence": "The preview listed Q2 2026 cost of deposits at \u201c1.83%\u201d and noted a streak of \u201cfour consecutive quarters of lower deposit costs.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management set a target of 200 basis points of annual positive operating leverage, a constructive operating goal not anticipated in the preview, which instead warned that the expense step-up could mark the efficiency story topping out.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201ctargets 200 basis points of annual positive operating leverage.\u201d",
+      "expectation_evidence": "The preview warned that expenses at or above $109 million could mean \u201cthe operating-leverage story [is] topping out\u201d and described upward pressure from technology, branch, and talent investment.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total revenue modestly exceeded the consensus estimate, although the beat was small and partly offset by the miss in net interest income.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNorthwest posted record quarterly revenue of $185 million.\u201d",
+      "expectation_evidence": "Consensus total revenue was \u201c$183.9M.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 NIM fell to 3.70%, well below the preview\u2019s expected 3.76\u20133.78% and down 5 basis points from Q2. Management also guided to 3.71% for full-year 2026, below the previously stated 3.73\u20133.75% range the preview expected to be reaffirmed.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet interest margin declined 5 basis points to 3.70%\u201d; management guides to \u201c3.71% for full-year 2026.\u201d",
+      "expectation_evidence": "The preview put the Q3 base case at \u201c3.76\u20133.78%\u201d and said the base case expected \u201creaffirmed FY ranges\u201d; it cited prior FY26 NIM guidance of \u201c3.73\u20133.75%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "Net interest income was $149 million, below the preview\u2019s $151.4 million estimate, even though it grew more than 9% year over year. This was a shortfall against the expected quarterly result, not a decline in the business year over year.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord net interest income of $149 million (up over 9% year-over-year).\u201d",
+      "expectation_evidence": "Consensus net interest income was \u201c$151.4M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Management raised its outlook for revenue to the high end of its range and now expects noninterest income to exceed the high end. The preview\u2019s base case assumed existing ranges would be reaffirmed; the offset is that expenses are expected at the high end rather than the low-to-middle end contemplated in the preview\u2019s base case.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201craised guidance, expecting revenue at the high end of range, noninterest income to exceed the high end, noninterest expense at the high end.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201creaffirmed FY ranges\u201d and quarterly expenses of \u201c$107\u2013108M\u201d; its bull case described raising guidance as a positive tell.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Credit costs were better than the preview\u2019s expected normalization toward roughly $10 million of quarterly charge-offs: net charge-offs were only 15 basis points annualized and below the low end of full-year guidance. The allowance also remained stable, rather than the preview\u2019s feared deterioration scenario emerging.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet charge-offs were just 15 basis points annualized, below the low end of full-year guidance, with the ACL stable at $149.6 million and coverage ratio of 1.12%.\u201d",
+      "expectation_evidence": "The preview said management had guided charge-offs toward \u201ca \u2018reversion to the mean\u2019 of roughly $10M a quarter\u201d and highlighted provision of \u201c~$6\u20138M\u201d as consensus, with risks of $12M or more.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Fee income outperformed the preview\u2019s expectation of a sequential decline: noninterest income grew 11.6% year over year, while trust and other financial services income grew 25.7%, substantially faster than the 11.1% growth expected for trust and financial services. Mortgage banking remained nearly nonexistent, so the strength was concentrated in the wealth-related business.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNoninterest income rose 11.6% year-over-year, driven by 25.7% growth in trust and other financial services income from the wealth management buildout, while mortgage banking remains nearly nonexistent.\u201d",
+      "expectation_evidence": "The preview estimated noninterest income at \u201c$32.0M\u201d and \u201c\u20136.4%\u201d quarter over quarter, and trust and financial services at \u201c$8.93M\u201d with \u201c+11.1%\u201d year over year.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Management said elevated CRE runoff could reach an inflection point within one to two quarters and allow net CRE growth to turn slightly positive. That is a more constructive outlook than the preview\u2019s expectation that CRE would be largely flat in H2 while runoff offset C&I production.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects elevated CRE runoff to reach an inflection point within one to two quarters, potentially turning net CRE growth slightly positive.\u201d",
+      "expectation_evidence": "The preview said management had guided CRE to be \u201clargely flat\u201d in H2 and framed total growth as C&I production minus CRE runoff.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "The reported cost of deposits was 1.44%, below the preview\u2019s Q2 reference of 1.83%. The preview expected continued deposit-cost declines, but the reported level was substantially lower than that reference.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPeriod-end deposits grew $113 million (3.2% annualized), with cost of deposits stable at 1.44%.\u201d",
+      "expectation_evidence": "The preview listed Q2 2026 cost of deposits at \u201c1.83%\u201d and noted a streak of \u201cfour consecutive quarters of lower deposit costs.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 7,
+      "description": "Management set a target of 200 basis points of annual positive operating leverage, a constructive operating goal not anticipated in the preview, which instead warned that the expense step-up could mark the efficiency story topping out.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201ctargets 200 basis points of annual positive operating leverage.\u201d",
+      "expectation_evidence": "The preview warned that expenses at or above $109 million could mean \u201cthe operating-leverage story [is] topping out\u201d and described upward pressure from technology, branch, and talent investment.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Total revenue modestly exceeded the consensus estimate, although the beat was small and partly offset by the miss in net interest income.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNorthwest posted record quarterly revenue of $185 million.\u201d",
+      "expectation_evidence": "Consensus total revenue was \u201c$183.9M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

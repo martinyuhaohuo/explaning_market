@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Piedmont\u2019s leasing economics were much stronger than the preview\u2019s expected cash-spread range: cash and accrual spreads reached 26% and 35%, respectively, and net effective rent after CapEx rose to a new high of $29.31 per square foot. The preview cited 8%\u201314% as the expected cash-spread range and the prior quarter\u2019s $25.56 as the record net effective rent.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCash and accrual leasing spreads reached 26% and 35% respectively\u201d; net effective rents after CapEx \u201chit an all-time high of $29.31 per square foot.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201ccash spreads 8\u201314%\u201d; it also cited Q2\u2019s \u201crecord net effective rent of $25.56/sf.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The signed-but-not-commenced pipeline was materially smaller than the preview\u2019s stated baseline, reducing the near-term occupancy and revenue conversion expected from leases already signed.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "The pipeline represents \u201croughly $29 million of annual revenue, or 410 basis points of occupancy.\u201d",
+      "expectation_evidence": "The preview said the backlog was \u201c$39M of annualized cash rent = ~570bp of future occupancy.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Same-store NOI and its outlook were stronger than the preview\u2019s expectation of cash growth decelerating and accrual growth reaching only mid-single digits. Q3 accrual growth was 7%, and full-year cash guidance now reaches 8.5%, above the preview\u2019s 8% upper end.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 same-store NOI grew \u201capproximately 8% on a cash basis and 7% on an accrual basis,\u201d with full-year guidance of \u201c7.5%-8.5% cash and 5%-6% accrual.\u201d",
+      "expectation_evidence": "The preview said full-year guidance was \u201c5\u20138% on both bases,\u201d expected \u201c2H cash deceleration,\u201d and called for accrual growth \u201caccelerating toward mid-single digits.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year core FFO guidance was raised to $1.55\u2013$1.57, modestly above the preview\u2019s central expectation of $1.53\u2013$1.55 and one cent above its broader expected range at the high end. The preview did expect a raise to reflect the refinancing, so the upside was limited rather than wholly unexpected.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management \u201craised and narrowed\u201d 2026 core FFO guidance to \u201c$1.55-$1.57,\u201d now \u201c$0.06 above original guidance at the midpoint.\u201d",
+      "expectation_evidence": "The preview\u2019s base case was \u201cNarrowed to upper half, $1.53\u2013$1.55\u201d; it said a raise to \u201c$1.53\u2013$1.56\u201d would bank the refinancing benefit.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The refinancing lowered the weighted average cost of debt further than the preview anticipated: the preview expected a step-down toward 5.0%\u20135.1%, while management reported 4.8%. The transaction itself was already known before the release.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company issued \u201c$230 million of 2.875% exchangeable notes\u201d to redeem the remaining 9.250% notes, \u201ccutting weighted average cost of debt over 70 bps to 4.8%.\u201d",
+      "expectation_evidence": "The preview said weighted average cost of debt \u201cshould step down from 5.50% toward ~5.0\u20135.1%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Piedmont disclosed an acquisition in Arlington at better initial economics than the preview\u2019s general acquisition outlook: the property was 83% leased with a 10% going-in cap rate and potential returns of 12%, versus the preview\u2019s expectation of 70%\u201380% leased acquisitions at high-single-digit initial yields. The preview did anticipate a Northern Virginia acquisition pipeline, but not this specific purchase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Piedmont acquired \u201cthe 83% leased 4075 Wilson Boulevard in Arlington for ~$52 million ($280/sf) at an estimated going-in 10% cap rate with potential to drive returns to 12%.\u201d",
+      "expectation_evidence": "The preview described the acquisition pipeline as \u201cDallas / Northern Virginia, 70\u201380% leased, high-single-digit going-in yields stabilizing to low double digits.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Piedmont contracted to sell Enclave Place in Houston and earmark most of the proceeds for debt repayment, a specific asset sale and use of proceeds not anticipated in the preview. This supports the preview\u2019s deleveraging objective, though the call facts do not provide a realized leverage ratio.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The company contracted to sell Enclave Place for \u201c$81.75 million (closing Q4 2026),\u201d with \u201c~$80 million of proceeds earmarked to pay down the $152 million line balance.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management described deliberately holding larger vacant blocks, including about 350,000 square feet in Atlanta despite roughly 400,000 square feet of prospects. That can defer occupancy conversion versus the preview\u2019s focus on converting the signed pipeline, although management cited a 10%\u201315% embedded mark-to-market as upside; it also identified D.C. and Ballston as weak-growth submarkets.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management is \u201cdeliberately holding larger blocks,\u201d including \u201c~350,000 sf of Central Perimeter Atlanta vacancy with ~400,000 sf of prospects,\u201d estimates a \u201c10%-15% embedded mark-to-market,\u201d and cited D.C. and Ballston as \u201cthe weakest-growth submarkets.\u201d",
+      "expectation_evidence": "The preview highlighted the \u201cleased-vs-economic occupancy gap,\u201d said to \u201cwatch SNC dollars and commencement timing,\u201d and noted management\u2019s goal of occupancy in the \u201clow 90s by 2027.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Piedmont\u2019s leasing economics were much stronger than the preview\u2019s expected cash-spread range: cash and accrual spreads reached 26% and 35%, respectively, and net effective rent after CapEx rose to a new high of $29.31 per square foot. The preview cited 8%\u201314% as the expected cash-spread range and the prior quarter\u2019s $25.56 as the record net effective rent.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCash and accrual leasing spreads reached 26% and 35% respectively\u201d; net effective rents after CapEx \u201chit an all-time high of $29.31 per square foot.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201ccash spreads 8\u201314%\u201d; it also cited Q2\u2019s \u201crecord net effective rent of $25.56/sf.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 1,
+      "description": "The signed-but-not-commenced pipeline was materially smaller than the preview\u2019s stated baseline, reducing the near-term occupancy and revenue conversion expected from leases already signed.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "The pipeline represents \u201croughly $29 million of annual revenue, or 410 basis points of occupancy.\u201d",
+      "expectation_evidence": "The preview said the backlog was \u201c$39M of annualized cash rent = ~570bp of future occupancy.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Same-store NOI and its outlook were stronger than the preview\u2019s expectation of cash growth decelerating and accrual growth reaching only mid-single digits. Q3 accrual growth was 7%, and full-year cash guidance now reaches 8.5%, above the preview\u2019s 8% upper end.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 same-store NOI grew \u201capproximately 8% on a cash basis and 7% on an accrual basis,\u201d with full-year guidance of \u201c7.5%-8.5% cash and 5%-6% accrual.\u201d",
+      "expectation_evidence": "The preview said full-year guidance was \u201c5\u20138% on both bases,\u201d expected \u201c2H cash deceleration,\u201d and called for accrual growth \u201caccelerating toward mid-single digits.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Full-year core FFO guidance was raised to $1.55\u2013$1.57, modestly above the preview\u2019s central expectation of $1.53\u2013$1.55 and one cent above its broader expected range at the high end. The preview did expect a raise to reflect the refinancing, so the upside was limited rather than wholly unexpected.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management \u201craised and narrowed\u201d 2026 core FFO guidance to \u201c$1.55-$1.57,\u201d now \u201c$0.06 above original guidance at the midpoint.\u201d",
+      "expectation_evidence": "The preview\u2019s base case was \u201cNarrowed to upper half, $1.53\u2013$1.55\u201d; it said a raise to \u201c$1.53\u2013$1.56\u201d would bank the refinancing benefit.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "The refinancing lowered the weighted average cost of debt further than the preview anticipated: the preview expected a step-down toward 5.0%\u20135.1%, while management reported 4.8%. The transaction itself was already known before the release.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company issued \u201c$230 million of 2.875% exchangeable notes\u201d to redeem the remaining 9.250% notes, \u201ccutting weighted average cost of debt over 70 bps to 4.8%.\u201d",
+      "expectation_evidence": "The preview said weighted average cost of debt \u201cshould step down from 5.50% toward ~5.0\u20135.1%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 5,
+      "description": "Piedmont disclosed an acquisition in Arlington at better initial economics than the preview\u2019s general acquisition outlook: the property was 83% leased with a 10% going-in cap rate and potential returns of 12%, versus the preview\u2019s expectation of 70%\u201380% leased acquisitions at high-single-digit initial yields. The preview did anticipate a Northern Virginia acquisition pipeline, but not this specific purchase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Piedmont acquired \u201cthe 83% leased 4075 Wilson Boulevard in Arlington for ~$52 million ($280/sf) at an estimated going-in 10% cap rate with potential to drive returns to 12%.\u201d",
+      "expectation_evidence": "The preview described the acquisition pipeline as \u201cDallas / Northern Virginia, 70\u201380% leased, high-single-digit going-in yields stabilizing to low double digits.\u201d",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 6,
+      "description": "Piedmont contracted to sell Enclave Place in Houston and earmark most of the proceeds for debt repayment, a specific asset sale and use of proceeds not anticipated in the preview. This supports the preview\u2019s deleveraging objective, though the call facts do not provide a realized leverage ratio.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The company contracted to sell Enclave Place for \u201c$81.75 million (closing Q4 2026),\u201d with \u201c~$80 million of proceeds earmarked to pay down the $152 million line balance.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 7,
+      "description": "Management described deliberately holding larger vacant blocks, including about 350,000 square feet in Atlanta despite roughly 400,000 square feet of prospects. That can defer occupancy conversion versus the preview\u2019s focus on converting the signed pipeline, although management cited a 10%\u201315% embedded mark-to-market as upside; it also identified D.C. and Ballston as weak-growth submarkets.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management is \u201cdeliberately holding larger blocks,\u201d including \u201c~350,000 sf of Central Perimeter Atlanta vacancy with ~400,000 sf of prospects,\u201d estimates a \u201c10%-15% embedded mark-to-market,\u201d and cited D.C. and Ballston as \u201cthe weakest-growth submarkets.\u201d",
+      "expectation_evidence": "The preview highlighted the \u201cleased-vs-economic occupancy gap,\u201d said to \u201cwatch SNC dollars and commencement timing,\u201d and noted management\u2019s goal of occupancy in the \u201clow 90s by 2027.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

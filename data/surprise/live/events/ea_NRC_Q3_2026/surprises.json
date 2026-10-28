@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Revenue was $38 million, up 11% year over year, versus the preview\u2019s $35.8 million consensus and implied 3.4% growth. The large customer implementation contributed less than half of the growth, so the beat was not driven solely by that account.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRevenue grew 11% year-over-year to $38 million in Q3 2026,\u201d accelerating from 4% growth in the first half; the large implementation \u201crepresented less than half of Q3 revenue growth.\u201d",
+      "expectation_evidence": "\u201cRevenue | Q3 FY2026 Consensus | $35.80M\u201d; implied Y/Y growth \u201c+3.4%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA was $10.9 million at a 28% margin, above the preview\u2019s approximately $9.7 million and 27% guide-derived expectation, despite the conference-timing headwind. The year-over-year margin decline was 3 percentage points rather than the preview\u2019s implied 4-point decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA was $10.9 million with a 28% margin\u201d; the HUB conference timing reduced the margin comparison by \u201capproximately 4 percentage points.\u201d",
+      "expectation_evidence": "The preview derived \u201c~$9.7M @ 27%\u201d and said Q2 management expected \u201cQ3 adj. EBITDA margin ~27%\u201d; its comparison with Q3\u201925 implied \u201c\u2212400bps.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "TRCV reached $154 million, a sequential record above the prior $152.1 million high, but it fell short of the preview\u2019s $155\u2013157 million estimate and its bogey of at least 10% year-over-year growth. The reported growth rate was 9%.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal recurring contract value (TRCV) grew 9% year-over-year to $154 million.\u201d",
+      "expectation_evidence": "The preview estimated TRCV at \u201c~$155\u2013157M\u201d and set a bogey of \u201c>$152.1M, and \u2265+10% Y/Y.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The next enablement/rounding phase of the large customer agreement is now on track to go live in Q3 2027, rather than the preview\u2019s expectation that the next phase would complete by year-end 2026. Its expected revenue contribution is also smaller than the first phase.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "The enablement/rounding phase \u201cremains on track to go live in Q3 2027 with a smaller revenue contribution than the first phase.\u201d",
+      "expectation_evidence": "The preview said the \u201cnext phase completes by year-end 2026\u201d and flagged the landmark customer\u2019s phase-2 ramp as a potential Q3 driver.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The effective tax rate was approximately 36%, below the roughly 40% rate the preview expected for Q3. The company attributed the lower rate to fewer nondeductible items tied to the departing CFO.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe effective tax rate fell to approximately 36% from 40%, due to fewer nondeductible items tied to the CFO departure.\u201d",
+      "expectation_evidence": "The preview said management expected an \u201cEffective tax rate ~40% in both Q3 and Q4.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Free cash flow rose to $7 million, a substantial improvement from the preview\u2019s description of near-breakeven Q2 cash flow and its concern about funding the dividend and buybacks. The improvement was supported by working-capital changes and lower capex after the headquarters build-out.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFree cash flow reached $7 million,\u201d supported by \u201cchanges in receivables and deferred revenue and reduced capex following completion of the headquarters build-out.\u201d",
+      "expectation_evidence": "The preview noted \u201c$0.1M in Q2\u201d free cash flow against a $0.16 dividend and active buybacks, and flagged FCF as a key item to watch.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company repurchased approximately 790,000 shares in the quarter, nearly double the roughly 397,000 shares bought back in Q2, despite the preview\u2019s concern that debt and thin equity could constrain further repurchases. The dividend remained at $0.16 per share as expected.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "NRC \u201cpaid a $0.16 per share dividend and repurchased approximately 790,000 shares under its existing $60 million authorization.\u201d",
+      "expectation_evidence": "The preview said the $0.16 quarterly dividend was maintained and that the balance sheet \u201cconstrains how aggressively management can keep buying stock\u201d; it cited approximately 397K Q2 repurchases.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The CFO departed and a successor search is underway; the departure also led to a reversal of stock-based compensation expense that helped net income. The preview discussed management-transition costs and stock-comp normalization but did not anticipate this specific departure or expense reversal.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income was $4.7 million, aided by the reversal of stock-based compensation expense for the departing CFO\u201d; \u201cCFO Shane Harrison departed and a search for a successor is underway.\u201d",
+      "expectation_evidence": "The preview said to watch whether stock compensation normalized and whether \u201cthe $3.2M of management-transition costs fully drop out,\u201d but did not identify a CFO departure or an expense reversal.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Revenue was $38 million, up 11% year over year, versus the preview\u2019s $35.8 million consensus and implied 3.4% growth. The large customer implementation contributed less than half of the growth, so the beat was not driven solely by that account.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRevenue grew 11% year-over-year to $38 million in Q3 2026,\u201d accelerating from 4% growth in the first half; the large implementation \u201crepresented less than half of Q3 revenue growth.\u201d",
+      "expectation_evidence": "\u201cRevenue | Q3 FY2026 Consensus | $35.80M\u201d; implied Y/Y growth \u201c+3.4%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Adjusted EBITDA was $10.9 million at a 28% margin, above the preview\u2019s approximately $9.7 million and 27% guide-derived expectation, despite the conference-timing headwind. The year-over-year margin decline was 3 percentage points rather than the preview\u2019s implied 4-point decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA was $10.9 million with a 28% margin\u201d; the HUB conference timing reduced the margin comparison by \u201capproximately 4 percentage points.\u201d",
+      "expectation_evidence": "The preview derived \u201c~$9.7M @ 27%\u201d and said Q2 management expected \u201cQ3 adj. EBITDA margin ~27%\u201d; its comparison with Q3\u201925 implied \u201c\u2212400bps.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "TRCV reached $154 million, a sequential record above the prior $152.1 million high, but it fell short of the preview\u2019s $155\u2013157 million estimate and its bogey of at least 10% year-over-year growth. The reported growth rate was 9%.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal recurring contract value (TRCV) grew 9% year-over-year to $154 million.\u201d",
+      "expectation_evidence": "The preview estimated TRCV at \u201c~$155\u2013157M\u201d and set a bogey of \u201c>$152.1M, and \u2265+10% Y/Y.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The next enablement/rounding phase of the large customer agreement is now on track to go live in Q3 2027, rather than the preview\u2019s expectation that the next phase would complete by year-end 2026. Its expected revenue contribution is also smaller than the first phase.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "The enablement/rounding phase \u201cremains on track to go live in Q3 2027 with a smaller revenue contribution than the first phase.\u201d",
+      "expectation_evidence": "The preview said the \u201cnext phase completes by year-end 2026\u201d and flagged the landmark customer\u2019s phase-2 ramp as a potential Q3 driver.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "The effective tax rate was approximately 36%, below the roughly 40% rate the preview expected for Q3. The company attributed the lower rate to fewer nondeductible items tied to the departing CFO.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe effective tax rate fell to approximately 36% from 40%, due to fewer nondeductible items tied to the CFO departure.\u201d",
+      "expectation_evidence": "The preview said management expected an \u201cEffective tax rate ~40% in both Q3 and Q4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 5,
+      "description": "Free cash flow rose to $7 million, a substantial improvement from the preview\u2019s description of near-breakeven Q2 cash flow and its concern about funding the dividend and buybacks. The improvement was supported by working-capital changes and lower capex after the headquarters build-out.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFree cash flow reached $7 million,\u201d supported by \u201cchanges in receivables and deferred revenue and reduced capex following completion of the headquarters build-out.\u201d",
+      "expectation_evidence": "The preview noted \u201c$0.1M in Q2\u201d free cash flow against a $0.16 dividend and active buybacks, and flagged FCF as a key item to watch.",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "The company repurchased approximately 790,000 shares in the quarter, nearly double the roughly 397,000 shares bought back in Q2, despite the preview\u2019s concern that debt and thin equity could constrain further repurchases. The dividend remained at $0.16 per share as expected.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "NRC \u201cpaid a $0.16 per share dividend and repurchased approximately 790,000 shares under its existing $60 million authorization.\u201d",
+      "expectation_evidence": "The preview said the $0.16 quarterly dividend was maintained and that the balance sheet \u201cconstrains how aggressively management can keep buying stock\u201d; it cited approximately 397K Q2 repurchases.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "The CFO departed and a successor search is underway; the departure also led to a reversal of stock-based compensation expense that helped net income. The preview discussed management-transition costs and stock-comp normalization but did not anticipate this specific departure or expense reversal.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income was $4.7 million, aided by the reversal of stock-based compensation expense for the departing CFO\u201d; \u201cCFO Shane Harrison departed and a search for a successor is underway.\u201d",
+      "expectation_evidence": "The preview said to watch whether stock compensation normalized and whether \u201cthe $3.2M of management-transition costs fully drop out,\u201d but did not identify a CFO departure or an expense reversal.",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

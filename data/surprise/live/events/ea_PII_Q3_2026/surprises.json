@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 operational adjusted EPS was $0.95, well above the preview\u2019s $0.59 consensus and roughly $0.50 guidance-implied estimate. The result substantially exceeded the expected level even excluding tariff refunds.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOperational adjusted EPS (excluding $10M tariff refunds) was $0.95 versus $0.41 a year ago, well above expectations.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $0.59\u201d; \u201cGuidance-implied Q3 EPS: ~$0.50.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 sales growth far outpaced the preview\u2019s roughly 2\u20133% expected growth: reported sales rose 11%, or 17% organically excluding Indian Motorcycle. That indicates a substantially stronger quarter than the revenue consensus implied.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 reported sales rose 11% (17% organically excluding Indian Motorcycle).\u201d",
+      "expectation_evidence": "\u201cRevenue: $1.90B\u201d; \u201cImplied YoY: +2% to +3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Polaris raised full-year operational adjusted EPS guidance to $2.40\u2013$2.50, rather than reaffirming the prior range as the preview\u2019s base case expected. The new range is $0.35 above the prior range\u2019s midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPolaris raised full-year operational adjusted EPS guidance to $2.40-$2.50 (from $2.05-$2.15), marking the third guidance increase this year.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 FY sales narrowed to upper half, EPS reaffirmed not raised\u201d; \u201cFY26 guidance action \u2014 reaffirm is the base case; a raise is the bull trigger.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The strong Q3 EPS result included about $0.30 shifted forward from Q4 because Ranger production ramped earlier than expected and snowmobiles shipped early. That makes the Q3 beat less indicative of earnings generated in the quarter and leaves Q4 with less earnings contribution than the preview\u2019s framing implied.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cApproximately $0.30 of adjusted EPS shifted from Q4 into Q3 due to earlier-than-expected Ranger production ramp at Huntsville and early snowmobile shipments.\u201d",
+      "expectation_evidence": "\u201cGuidance-implied Q3 EPS: ~$0.50\u201d; preview-derived Q4 EPS was \u201c$0.31\u2013$0.41.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised full-year sales guidance to $7.55\u2013$7.60 billion, rather than merely narrowing to the upper half of the previous range as the preview\u2019s base case anticipated. The increase came despite management expecting Q4 organic sales to be roughly flat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year sales guidance was raised to $7.55-$7.60 billion \u2026 with Q4 organic sales expected to be roughly flat.\u201d",
+      "expectation_evidence": "\u201cStanding FY2026 guidance: Adj. sales $7.30\u2013$7.50B\u201d; \u201cBase: \u2026 FY sales narrowed to upper half.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cash generation and deleveraging were stronger than the preview\u2019s expectation of positive but unremarkable cash flow and further H2 improvement: operating cash flow was about $382 million, debt fell by more than $320 million, and net leverage reached 2.0x versus 2.6x at midyear.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperating cash flow of ~$382M and debt reduction of over $320M\u201d; \u201cNet leverage was reduced from 3.4x at the start of the year to 2.0x at the end of Q3.\u201d",
+      "expectation_evidence": "\u201cFCF positive but unremarkable\u201d; \u201cNet leverage improved to 2.6x from 3.6x sequentially, and management expects further H2 improvement.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised its full-year retail outlook from flat to low-single-digit growth. That is a modest improvement over the preview\u2019s flat base case, although the preview noted management saw potential for low-single-digit H2 retail growth if demand held.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised its full-year retail outlook from flat to low single-digit growth\u201d; October retail tracking was \u201cin low single digits in line with expectations.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 retail flat\u201d; management had guided H2 retail to \u201cflattish, could be up low-single digits if demand holds.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed factories running at about 70% capacity and pointed to incremental margin upside as volumes recover, adding a potential source of operating leverage that the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFactories running at ~70% capacity providing incremental margin upside as volumes recover.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 operational adjusted EPS was $0.95, well above the preview\u2019s $0.59 consensus and roughly $0.50 guidance-implied estimate. The result substantially exceeded the expected level even excluding tariff refunds.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOperational adjusted EPS (excluding $10M tariff refunds) was $0.95 versus $0.41 a year ago, well above expectations.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $0.59\u201d; \u201cGuidance-implied Q3 EPS: ~$0.50.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Q3 sales growth far outpaced the preview\u2019s roughly 2\u20133% expected growth: reported sales rose 11%, or 17% organically excluding Indian Motorcycle. That indicates a substantially stronger quarter than the revenue consensus implied.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 reported sales rose 11% (17% organically excluding Indian Motorcycle).\u201d",
+      "expectation_evidence": "\u201cRevenue: $1.90B\u201d; \u201cImplied YoY: +2% to +3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Polaris raised full-year operational adjusted EPS guidance to $2.40\u2013$2.50, rather than reaffirming the prior range as the preview\u2019s base case expected. The new range is $0.35 above the prior range\u2019s midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPolaris raised full-year operational adjusted EPS guidance to $2.40-$2.50 (from $2.05-$2.15), marking the third guidance increase this year.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 FY sales narrowed to upper half, EPS reaffirmed not raised\u201d; \u201cFY26 guidance action \u2014 reaffirm is the base case; a raise is the bull trigger.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The strong Q3 EPS result included about $0.30 shifted forward from Q4 because Ranger production ramped earlier than expected and snowmobiles shipped early. That makes the Q3 beat less indicative of earnings generated in the quarter and leaves Q4 with less earnings contribution than the preview\u2019s framing implied.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cApproximately $0.30 of adjusted EPS shifted from Q4 into Q3 due to earlier-than-expected Ranger production ramp at Huntsville and early snowmobile shipments.\u201d",
+      "expectation_evidence": "\u201cGuidance-implied Q3 EPS: ~$0.50\u201d; preview-derived Q4 EPS was \u201c$0.31\u2013$0.41.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "The company raised full-year sales guidance to $7.55\u2013$7.60 billion, rather than merely narrowing to the upper half of the previous range as the preview\u2019s base case anticipated. The increase came despite management expecting Q4 organic sales to be roughly flat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year sales guidance was raised to $7.55-$7.60 billion \u2026 with Q4 organic sales expected to be roughly flat.\u201d",
+      "expectation_evidence": "\u201cStanding FY2026 guidance: Adj. sales $7.30\u2013$7.50B\u201d; \u201cBase: \u2026 FY sales narrowed to upper half.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Cash generation and deleveraging were stronger than the preview\u2019s expectation of positive but unremarkable cash flow and further H2 improvement: operating cash flow was about $382 million, debt fell by more than $320 million, and net leverage reached 2.0x versus 2.6x at midyear.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperating cash flow of ~$382M and debt reduction of over $320M\u201d; \u201cNet leverage was reduced from 3.4x at the start of the year to 2.0x at the end of Q3.\u201d",
+      "expectation_evidence": "\u201cFCF positive but unremarkable\u201d; \u201cNet leverage improved to 2.6x from 3.6x sequentially, and management expects further H2 improvement.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Management raised its full-year retail outlook from flat to low-single-digit growth. That is a modest improvement over the preview\u2019s flat base case, although the preview noted management saw potential for low-single-digit H2 retail growth if demand held.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised its full-year retail outlook from flat to low single-digit growth\u201d; October retail tracking was \u201cin low single digits in line with expectations.\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 retail flat\u201d; management had guided H2 retail to \u201cflattish, could be up low-single digits if demand holds.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Management disclosed factories running at about 70% capacity and pointed to incremental margin upside as volumes recover, adding a potential source of operating leverage that the preview did not identify.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFactories running at ~70% capacity providing incremental margin upside as volumes recover.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

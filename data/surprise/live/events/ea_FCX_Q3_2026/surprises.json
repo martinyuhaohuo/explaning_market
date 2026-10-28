@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "Investors were looking for the 2026 copper-volume plan to be reaffirmed, but FCX cut copper sales guidance by about 2% for 2026 and 2.5% for 2027, citing lower U.S. and Chile production. The cuts are a negative deviation from the expected reaffirmation, even though 2027 production is still forecast to grow substantially.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company cut its 2026 copper sales guidance by about 2% and 2027 guidance by about 2.5% due to lower U.S. and Chile production.\u201d",
+      "expectation_evidence": "\u201cFY2026 volume reaffirmation (3.1B lbs Cu / 650k oz Au). The buy-side expects a reaffirm.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The expected Grasberg ramp to 80% capacity by mid-2027 was reiterated, but near-full capacity is now targeted for year-end 2028 rather than the preview\u2019s expectation of full capacity by year-end 2027. That pushes the completion of the recovery about a year later than anticipated.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGrasberg reached 67% of mine capacity in Q3 2026, with management targeting 80% by mid-2027 and near-full capacity by year-end 2028.\u201d",
+      "expectation_evidence": "\u201c80% of capacity by mid-2027, full capacity by year-end 2027.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected 2027 guidance to be deferred, but FCX gave a capital-spending figure and raised 2027 capex by about $400 million to $5.2 billion. The Bagdad expansion decision is expected in Q4, but its roughly $4.5 billion cost is not included in that 2027 capex figure, leaving a large project commitment outside the stated budget.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 capital expenditure guidance was raised about $400 million to $5.2 billion\u201d; \u201cA Bagdad expansion investment decision is expected in Q4 2026 at a roughly $4.5 billion cost\u201d; \u201cno amount included in 2027 capex guidance.\u201d",
+      "expectation_evidence": "\u201c2027 formally deferred to the December/January guidance release\u201d; the preview also flagged \u201cany first-pass 2027 capex figure.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview focused on the risk that costs above the Q3 level could undermine the $1.90/lb full-year target. FCX disclosed an approximately $500 million energy-cost increase, including more than doubled diesel prices, but maintained that unit-cost guidance because molybdenum credits offset the pressure. The cost headwind was substantial, while the maintained guidance was better than the risk scenario implied.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRising energy costs, led by more than a doubling of diesel prices, added approximately $500 million to costs in 2026 versus 2025, yet 2026 net unit cash cost guidance was maintained at $1.90 per pound thanks to by-product (molybdenum) offsets.\u201d",
+      "expectation_evidence": "\u201cIf the actual print shows cost pressure beyond the gold deferral \u2014 labor, diesel, mining rates, Grasberg fixed-cost absorption \u2014 the \u2018transitory\u2019 framing breaks and the FY2026 $1.90/lb target ... goes with it.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview noted leach progress toward a 300-million-pound annual target, but the call described a next-generation additive with lab recoveries more than four times those of the initial additive and potential to scale production toward 800 million pounds by 2030. This is a more ambitious longer-term opportunity, although it remains unproven in field testing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA next-generation proprietary leaching additive showed lab recoveries more than 4x the initial additive and will be field-tested in 2027, with potential to scale leach production toward 800 million pounds by 2030.\u201d",
+      "expectation_evidence": "\u201cleach initiative toward 300M lbs/yr\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Investors were looking for the 2026 copper-volume plan to be reaffirmed, but FCX cut copper sales guidance by about 2% for 2026 and 2.5% for 2027, citing lower U.S. and Chile production. The cuts are a negative deviation from the expected reaffirmation, even though 2027 production is still forecast to grow substantially.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company cut its 2026 copper sales guidance by about 2% and 2027 guidance by about 2.5% due to lower U.S. and Chile production.\u201d",
+      "expectation_evidence": "\u201cFY2026 volume reaffirmation (3.1B lbs Cu / 650k oz Au). The buy-side expects a reaffirm.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "The expected Grasberg ramp to 80% capacity by mid-2027 was reiterated, but near-full capacity is now targeted for year-end 2028 rather than the preview\u2019s expectation of full capacity by year-end 2027. That pushes the completion of the recovery about a year later than anticipated.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cGrasberg reached 67% of mine capacity in Q3 2026, with management targeting 80% by mid-2027 and near-full capacity by year-end 2028.\u201d",
+      "expectation_evidence": "\u201c80% of capacity by mid-2027, full capacity by year-end 2027.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "The preview expected 2027 guidance to be deferred, but FCX gave a capital-spending figure and raised 2027 capex by about $400 million to $5.2 billion. The Bagdad expansion decision is expected in Q4, but its roughly $4.5 billion cost is not included in that 2027 capex figure, leaving a large project commitment outside the stated budget.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 capital expenditure guidance was raised about $400 million to $5.2 billion\u201d; \u201cA Bagdad expansion investment decision is expected in Q4 2026 at a roughly $4.5 billion cost\u201d; \u201cno amount included in 2027 capex guidance.\u201d",
+      "expectation_evidence": "\u201c2027 formally deferred to the December/January guidance release\u201d; the preview also flagged \u201cany first-pass 2027 capex figure.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 3,
+      "description": "The preview focused on the risk that costs above the Q3 level could undermine the $1.90/lb full-year target. FCX disclosed an approximately $500 million energy-cost increase, including more than doubled diesel prices, but maintained that unit-cost guidance because molybdenum credits offset the pressure. The cost headwind was substantial, while the maintained guidance was better than the risk scenario implied.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRising energy costs, led by more than a doubling of diesel prices, added approximately $500 million to costs in 2026 versus 2025, yet 2026 net unit cash cost guidance was maintained at $1.90 per pound thanks to by-product (molybdenum) offsets.\u201d",
+      "expectation_evidence": "\u201cIf the actual print shows cost pressure beyond the gold deferral \u2014 labor, diesel, mining rates, Grasberg fixed-cost absorption \u2014 the \u2018transitory\u2019 framing breaks and the FY2026 $1.90/lb target ... goes with it.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "The preview noted leach progress toward a 300-million-pound annual target, but the call described a next-generation additive with lab recoveries more than four times those of the initial additive and potential to scale production toward 800 million pounds by 2030. This is a more ambitious longer-term opportunity, although it remains unproven in field testing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA next-generation proprietary leaching additive showed lab recoveries more than 4x the initial additive and will be field-tested in 2027, with potential to scale leach production toward 800 million pounds by 2030.\u201d",
+      "expectation_evidence": "\u201cleach initiative toward 300M lbs/yr\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

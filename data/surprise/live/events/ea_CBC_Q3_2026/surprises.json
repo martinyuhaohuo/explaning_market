@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected FTE NIM of about 4.42\u20134.45%, but CBC reported 4.51%; net interest income was also $218.9 million versus the preview\u2019s roughly $217 million estimate. The margin came in above the preview\u2019s range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest income rose $20 million year-over-year to $218.9 million, with FTE net interest margin expanding 12 basis points to 4.51%.\u201d",
+      "expectation_evidence": "\u201cMy estimate: \u2026 NII ~$217M (FTE NIM 4.42\u20134.45%).\u201d The preview also flagged \u201cFTE NIM vs. ~4.45% whisper.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview\u2019s consensus was $0.49 per share, while CBC reported $0.48. That was a small miss, although it was within the preview\u2019s own $0.48\u2013$0.49 estimate range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net income was $116.2 million, or $0.48 per share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS | Q3'26 Consensus | $0.49.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview looked for at least 5\u20136% annualized loan growth excluding consumer loans, and its base case assumed 4\u20136%. CBC reported 3% linked-quarter annualized growth overall and about 4% excluding declining indirect consumer loans, slightly below that range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLoans grew 3% linked-quarter annualized (about 4% excluding declining indirect consumer loans).\u201d",
+      "expectation_evidence": "\u201cNeed \u22655\u20136% annualized ex-consumer plus commercial pipeline confirmation.\u201d The base case also assumed \u201cloans +4\u20136% ann. ex-consumer.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview cited net charge-offs of 10 basis points and expected them to remain steady. CBC reported 12 basis points, a slight deterioration, though management said credit remained benign and saw no thematic shift in risk.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet charge-offs remained benign at just 12 basis points for the quarter, and management sees no thematic shift in credit risk.\u201d",
+      "expectation_evidence": "\u201cNCOs steady at 10bp.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview estimated an efficiency ratio of about 46%, while CBC reported 45.4%, indicating somewhat better efficiency than expected.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FTE efficiency ratio [was] at a strong 45.4%.\u201d",
+      "expectation_evidence": "\u201cExpenses ~$133M (\u224846% efficiency).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview did not anticipate a pension-related gain. CBC said it expects a nonrecurring pretax gain of approximately $27 million in Q4 after contracting the plan termination payments.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects to record a nonrecurring pretax gain of approximately $27 million in Q4 from terminating its frozen pension plan, with termination payments now contracted.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The preview was concerned that deposit costs might not stay anchored through a rising-rate cycle. CBC reported deposit costs down 8 basis points year-over-year and management expected a mid- to low-20s deposit beta if rates rise, offering a more favorable deposit-cost outlook than that concern implied.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCost of deposits fell 8 basis points year-over-year, and management expects a mid- to low-20s deposit beta in a rising-rate environment.\u201d",
+      "expectation_evidence": "\u201cWatch whether deposit cost (1.10%, 36% noninterest-bearing) stays anchored.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview emphasized intermediate-curve pressure on spreads and cited $1.3 billion of loans repricing in H2 2026. CBC also described a cash flow hedge placed at quarter-end, but disclosed a future repricing tailwind: $2.2 billion of loans in 2027 rolling off rates near 6% into yields roughly 100 basis points higher. The hedge and higher-yield resets create a more balanced outlook than the preview\u2019s rate-compression concern alone suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe bank remains slightly asset-sensitive and placed a cash flow hedge at quarter-end, with $700 million of fixed loans repricing in Q4 and $2.2 billion in 2027 rolling off a ~6% rate into yields roughly 100 bps higher.\u201d",
+      "expectation_evidence": "\u201cCFO Ciroli explicitly flagged intermediate-curve sensitivity \u2014 sharp rate increases compress spreads.\u201d The preview also cited \u201c$1.3B of loans reprice in H2'26 at a 5.8% yield.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected FTE NIM of about 4.42\u20134.45%, but CBC reported 4.51%; net interest income was also $218.9 million versus the preview\u2019s roughly $217 million estimate. The margin came in above the preview\u2019s range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest income rose $20 million year-over-year to $218.9 million, with FTE net interest margin expanding 12 basis points to 4.51%.\u201d",
+      "expectation_evidence": "\u201cMy estimate: \u2026 NII ~$217M (FTE NIM 4.42\u20134.45%).\u201d The preview also flagged \u201cFTE NIM vs. ~4.45% whisper.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "The preview\u2019s consensus was $0.49 per share, while CBC reported $0.48. That was a small miss, although it was within the preview\u2019s own $0.48\u2013$0.49 estimate range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net income was $116.2 million, or $0.48 per share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS | Q3'26 Consensus | $0.49.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "The preview looked for at least 5\u20136% annualized loan growth excluding consumer loans, and its base case assumed 4\u20136%. CBC reported 3% linked-quarter annualized growth overall and about 4% excluding declining indirect consumer loans, slightly below that range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLoans grew 3% linked-quarter annualized (about 4% excluding declining indirect consumer loans).\u201d",
+      "expectation_evidence": "\u201cNeed \u22655\u20136% annualized ex-consumer plus commercial pipeline confirmation.\u201d The base case also assumed \u201cloans +4\u20136% ann. ex-consumer.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The preview cited net charge-offs of 10 basis points and expected them to remain steady. CBC reported 12 basis points, a slight deterioration, though management said credit remained benign and saw no thematic shift in risk.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet charge-offs remained benign at just 12 basis points for the quarter, and management sees no thematic shift in credit risk.\u201d",
+      "expectation_evidence": "\u201cNCOs steady at 10bp.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "The preview estimated an efficiency ratio of about 46%, while CBC reported 45.4%, indicating somewhat better efficiency than expected.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FTE efficiency ratio [was] at a strong 45.4%.\u201d",
+      "expectation_evidence": "\u201cExpenses ~$133M (\u224846% efficiency).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "The preview did not anticipate a pension-related gain. CBC said it expects a nonrecurring pretax gain of approximately $27 million in Q4 after contracting the plan termination payments.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects to record a nonrecurring pretax gain of approximately $27 million in Q4 from terminating its frozen pension plan, with termination payments now contracted.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "The preview was concerned that deposit costs might not stay anchored through a rising-rate cycle. CBC reported deposit costs down 8 basis points year-over-year and management expected a mid- to low-20s deposit beta if rates rise, offering a more favorable deposit-cost outlook than that concern implied.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCost of deposits fell 8 basis points year-over-year, and management expects a mid- to low-20s deposit beta in a rising-rate environment.\u201d",
+      "expectation_evidence": "\u201cWatch whether deposit cost (1.10%, 36% noninterest-bearing) stays anchored.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "The preview emphasized intermediate-curve pressure on spreads and cited $1.3 billion of loans repricing in H2 2026. CBC also described a cash flow hedge placed at quarter-end, but disclosed a future repricing tailwind: $2.2 billion of loans in 2027 rolling off rates near 6% into yields roughly 100 basis points higher. The hedge and higher-yield resets create a more balanced outlook than the preview\u2019s rate-compression concern alone suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe bank remains slightly asset-sensitive and placed a cash flow hedge at quarter-end, with $700 million of fixed loans repricing in Q4 and $2.2 billion in 2027 rolling off a ~6% rate into yields roughly 100 bps higher.\u201d",
+      "expectation_evidence": "\u201cCFO Ciroli explicitly flagged intermediate-curve sensitivity \u2014 sharp rate increases compress spreads.\u201d The preview also cited \u201c$1.3B of loans reprice in H2'26 at a 5.8% yield.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

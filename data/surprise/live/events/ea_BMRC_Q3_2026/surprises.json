@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "BMRC reported diluted EPS of $0.62, above the preview\u2019s $0.575 consensus estimate. That also reached the top of the preview\u2019s $0.60\u2013$0.62 inferred whisper range, rather than falling short of the higher buy-side bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net income rose to $9.9 million ($0.62 per share)\u201d",
+      "expectation_evidence": "\u201cDiluted EPS ... $0.575\u201d; the preview also put the \u201cworking whisper\u201d at \u201c$0.60\u20130.62.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Margin expansion was stronger than the preview\u2019s own estimate: the preview modeled a 6-basis-point sequential increase and cited a 3.44\u20133.45% June exit rate, while the call reported a 10-basis-point sequential expansion and a September tax-equivalent NIM of 3.54%. The September figure was about 3.46% excluding one-way deposit sales, so the exit-rate headline was stronger than the underlying comparison.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded 10 basis points sequentially\u201d; \u201cthe September NIM was 3.54% tax-equivalent (about 3.46% excluding one-way deposit sales).\u201d",
+      "expectation_evidence": "\u201cMy Q3E NIM ... 3.44% (+6bp)\u201d; the preview also identified \u201c3.44\u20133.45%\u201d as the June exit rate and said \u201cAbove 3.48% = re-rating.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Deposits reversed the prior quarter\u2019s outflow: deposits grew $25.3 million after falling $58.2 million in Q2, and noninterest-bearing deposits rose to 37.8% of the total from the preview\u2019s cited 36.7%. That was better than the preview\u2019s concern that deposit outflows might continue and its hope that they would merely stop.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits grew $25.3 million, including a $45 million increase in noninterest-bearing deposits, which now represent 37.8% of total deposits.\u201d",
+      "expectation_evidence": "\u201cDeposits fell $58M\u201d in Q2; the preview said \u201cDeposit outflows stop\u201d in its bull scenario and warned that \u201cdeposits keep running off\u201d in its bear scenario.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised its estimate of the loan-yield benefit from repricing and remixing: the call cited roughly 25 basis points of monthly loan-yield benefit a year out, versus the preview\u2019s cited estimate of about 20 basis points over the next 12 months. New fundings also came at a higher rate than the prior-quarter figure cited in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects roughly 25 basis points of monthly loan yield benefit a year out under a flat balance sheet, improved from about 20 basis points estimated last quarter\u201d; new fundings were originated at \u201c6.65% (up 12 bps).\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201c~20bp of loan-yield benefit over the next 12 months (~5bp/quarter)\u201d and cited Q2 commitments at a \u201c6.53% weighted-average rate.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Payoffs fell sharply, which the call attributed in part to resolving problematic pandemic-era CRE and wine loans and described as a normalizing trend. The preview focused on pipeline conversion and the risk of continued balance-sheet shrinkage but did not anticipate this payoff decline or the resolution of those loans.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPayoffs fell sharply to $31.6 million from $71 million, including resolution of about $28 million of problematic pandemic-era CRE and wine industry loans, signaling a normalizing payoff trend.\u201d",
+      "expectation_evidence": "The preview said Q3 was when the loan pipeline \u201cshould convert\u201d and warned that if it did not, \u201cthe growth story slips to 2027\u201d; it gave no payoff estimate.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Credit was not entirely free of migration: a $114 million owner-occupied CRE relationship was downgraded, contrary to the preview\u2019s baseline of no new migration. The borrower was paying as agreed with no expected loss, but loan and unfunded-commitment provisions totaled $825,000, above the preview\u2019s roughly $300,000 assumption.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA $114 million owner-occupied CRE relationship was downgraded due to a borrower-specific issue, but the borrower is paying as agreed with no expected loss\u201d; there was \u201ca $500,000 loan provision and $325,000 unfunded commitment provision.\u201d",
+      "expectation_evidence": "The preview said the credit bar was \u201csimply \u2018no new migration\u2019\u201d and modeled a \u201c+$0.3M\u201d provision, with consensus at \u201c~+$0.3M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Rising rates drove a marked deterioration in tangible capital and book value, instead of the improvement the preview expected: TCE fell to 8.05% from 8.52%, and tangible book value was $18.81 rather than the preview\u2019s expected increase from $19.92. CET1 improved to 12.96%, but that did not offset the AOCI-driven decline in the tangible measures.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRising market rates reduced AOCI by $24.8 million, lowering the tangible common equity ratio to 8.05% and tangible book value to $18.81, while CET1 improved to 12.96%.\u201d",
+      "expectation_evidence": "The preview cited \u201cTCE 8.52% (+19bp)\u201d and \u201cTBVPS $19.92 (+$0.15).\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "BMRC reported diluted EPS of $0.62, above the preview\u2019s $0.575 consensus estimate. That also reached the top of the preview\u2019s $0.60\u2013$0.62 inferred whisper range, rather than falling short of the higher buy-side bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net income rose to $9.9 million ($0.62 per share)\u201d",
+      "expectation_evidence": "\u201cDiluted EPS ... $0.575\u201d; the preview also put the \u201cworking whisper\u201d at \u201c$0.60\u20130.62.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Margin expansion was stronger than the preview\u2019s own estimate: the preview modeled a 6-basis-point sequential increase and cited a 3.44\u20133.45% June exit rate, while the call reported a 10-basis-point sequential expansion and a September tax-equivalent NIM of 3.54%. The September figure was about 3.46% excluding one-way deposit sales, so the exit-rate headline was stronger than the underlying comparison.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded 10 basis points sequentially\u201d; \u201cthe September NIM was 3.54% tax-equivalent (about 3.46% excluding one-way deposit sales).\u201d",
+      "expectation_evidence": "\u201cMy Q3E NIM ... 3.44% (+6bp)\u201d; the preview also identified \u201c3.44\u20133.45%\u201d as the June exit rate and said \u201cAbove 3.48% = re-rating.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Deposits reversed the prior quarter\u2019s outflow: deposits grew $25.3 million after falling $58.2 million in Q2, and noninterest-bearing deposits rose to 37.8% of the total from the preview\u2019s cited 36.7%. That was better than the preview\u2019s concern that deposit outflows might continue and its hope that they would merely stop.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits grew $25.3 million, including a $45 million increase in noninterest-bearing deposits, which now represent 37.8% of total deposits.\u201d",
+      "expectation_evidence": "\u201cDeposits fell $58M\u201d in Q2; the preview said \u201cDeposit outflows stop\u201d in its bull scenario and warned that \u201cdeposits keep running off\u201d in its bear scenario.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Management raised its estimate of the loan-yield benefit from repricing and remixing: the call cited roughly 25 basis points of monthly loan-yield benefit a year out, versus the preview\u2019s cited estimate of about 20 basis points over the next 12 months. New fundings also came at a higher rate than the prior-quarter figure cited in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects roughly 25 basis points of monthly loan yield benefit a year out under a flat balance sheet, improved from about 20 basis points estimated last quarter\u201d; new fundings were originated at \u201c6.65% (up 12 bps).\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201c~20bp of loan-yield benefit over the next 12 months (~5bp/quarter)\u201d and cited Q2 commitments at a \u201c6.53% weighted-average rate.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Payoffs fell sharply, which the call attributed in part to resolving problematic pandemic-era CRE and wine loans and described as a normalizing trend. The preview focused on pipeline conversion and the risk of continued balance-sheet shrinkage but did not anticipate this payoff decline or the resolution of those loans.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPayoffs fell sharply to $31.6 million from $71 million, including resolution of about $28 million of problematic pandemic-era CRE and wine industry loans, signaling a normalizing payoff trend.\u201d",
+      "expectation_evidence": "The preview said Q3 was when the loan pipeline \u201cshould convert\u201d and warned that if it did not, \u201cthe growth story slips to 2027\u201d; it gave no payoff estimate.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Credit was not entirely free of migration: a $114 million owner-occupied CRE relationship was downgraded, contrary to the preview\u2019s baseline of no new migration. The borrower was paying as agreed with no expected loss, but loan and unfunded-commitment provisions totaled $825,000, above the preview\u2019s roughly $300,000 assumption.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA $114 million owner-occupied CRE relationship was downgraded due to a borrower-specific issue, but the borrower is paying as agreed with no expected loss\u201d; there was \u201ca $500,000 loan provision and $325,000 unfunded commitment provision.\u201d",
+      "expectation_evidence": "The preview said the credit bar was \u201csimply \u2018no new migration\u2019\u201d and modeled a \u201c+$0.3M\u201d provision, with consensus at \u201c~+$0.3M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "Rising rates drove a marked deterioration in tangible capital and book value, instead of the improvement the preview expected: TCE fell to 8.05% from 8.52%, and tangible book value was $18.81 rather than the preview\u2019s expected increase from $19.92. CET1 improved to 12.96%, but that did not offset the AOCI-driven decline in the tangible measures.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cRising market rates reduced AOCI by $24.8 million, lowering the tangible common equity ratio to 8.05% and tangible book value to $18.81, while CET1 improved to 12.96%.\u201d",
+      "expectation_evidence": "The preview cited \u201cTCE 8.52% (+19bp)\u201d and \u201cTBVPS $19.92 (+$0.15).\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Reported adjusted EPS of $6.16 missed the preview\u2019s $6.42\u2013$6.47 consensus, but excluding the $0.69-per-share non-cash TCA deferral headwind, EPS would have been $6.85\u2014above consensus and the preview\u2019s base-case range. The reported miss was therefore driven by a headwind the preview anticipated, while the underlying result was stronger than expected.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS was $6.16, which would have been $6.85 excluding a non-cash TCA deferral headwind of $0.69 per share.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $6.42 \u2013 $6.47\u201d; the preview also described a realistic unofficial bar of \u201c~$6.20\u2013$6.35\u201d and expected the TCA deferral direction to be \u201cNeutral to negative,\u201d with \u201ca $0.60\u20130.70/share swing.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue came in at $4.4 billion, slightly below the preview\u2019s consensus range and base-case range. The gap to the low end was small, but the revenue line was identified as the harder test.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company generated $4.4 billion in revenue.\u201d",
+      "expectation_evidence": "\u201cRevenue: $4.43B \u2013 $4.52B (mid ~$4.47B)\u201d and base case \u201c$4.42\u20134.50B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross profit was below the preview\u2019s estimated $745\u2013$760 million, at $732 million. The reported 16.6% gross margin accompanied that shortfall.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$732 million gross profit (16.6% margin).\u201d",
+      "expectation_evidence": "\u201cGross profit: ~$745\u2013760M (est.).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The adjusted operating margin was 4.9%, below the preview\u2019s estimated 5.1\u20135.3% range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201c$111 million adjusted net income with a 4.9% adjusted operating margin.\u201d",
+      "expectation_evidence": "\u201cAdj. op. margin: ~5.1\u20135.3% (est.).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SG&A was 67.4% of gross profit, above the preview\u2019s roughly 66% base estimate, though not as high as its stated stress level. Management reaffirmed the low-60s target for end-2027 and said the improvement would come roughly half from gross-profit growth and half from cost savings.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSG&A as a percentage of gross profit reaching the low 60% range by the end of 2027, down from 67.4% all-store (67% same-store) in Q3, driven roughly half by gross profit growth and half by cost savings.\u201d",
+      "expectation_evidence": "\u201cSG&A % of gross profit (adj.): ~66%\u201d; the preview said \u201cbelow 65% says it's working ahead of schedule\u201d and \u201c>68% says the cost story is slipping.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Parts and service gross profit was flat and warranty gross profit fell 1%, weaker than the preview\u2019s expectation for low-to-mid-single-digit parts and service growth. Repair orders were down 1.9%; management attributed the weakness largely to Tekion transition disruption rather than consumer weakness.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer pay parts and service gross profit was flat and warranty gross profit was down 1%, with repair order count down 1.9%, attributed largely to Tekion transition disruption rather than consumer weakness.\u201d",
+      "expectation_evidence": "The preview expected \u201cParts & service revenue growth\u201d of \u201c+3 to 5%\u201d and said management guided \u201clow-to-mid single digits from Q3 forward.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Used retail PVR was $1,777, well below the preview\u2019s roughly $1,950 estimate, even as used retail volume improved sequentially. That is a larger margin give-back than the preview\u2019s base case implied.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUsed retail gross profit grew 3% and used retail PVR rose 10% to $1,777, with all-store used retail volume up 4.5% sequentially.\u201d",
+      "expectation_evidence": "The preview estimated used retail units and GPU at \u201c~34,000 / ~$1,950\u201d and said the base case expected \u201cGPU to give back some ground as the trade-off.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Same-store new units fell 8%, with EV sales down 76% and accounting for five percentage points of the decline. The preview anticipated EV softness, but did not indicate a company EV sales drop of this scale.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame-store new units fell 8% year-over-year against a tough comparison, with declining EV volume accounting for 5 of the 8 percentage points, as EV sales dropped 76% and represented just 2.1% of total units.\u201d",
+      "expectation_evidence": "The preview said industry Q3 new units were \u201croughly flat (\u20110.5%, ~16.1M SAAR)\u201d and flagged EV softness, noting BEV sales were down 29.2% year-to-date through September.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company said it would prioritize reducing net leverage to 3.0x before pursuing share buybacks or tuck-in acquisitions. That is a more cautious near-term capital-return stance than the preview\u2019s expected buyback pace, and leverage was 3.5x versus its roughly 3.3x estimate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage stood at 3.5x with a priority of reaching the 3x target by mid-2027 before pursuing share buybacks and tuck-in acquisitions.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~3.3x / $100\u2013140M\u201d for leverage and buybacks and said management had indicated that \u201cbuybacks beat M&A.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The FTC administrative proceeding against Asbury was dismissed in early October, a favorable legal development not flagged in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FTC administrative proceeding against the company was dismissed in early October.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The longest-tenured Tekion stores already showed stronger customer-pay gross profit and productivity measures, rather than benefits being deferred entirely to 2027 as the preview\u2019s base case anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLongest-tenured Tekion stores (Koons and Georgia) showed customer pay gross profit up 7% versus flat for the total company, with units per salesperson up 4% and gross profit per technician up 9%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case said Tekion benefits would \u201cbegin to materialize in 2027\u201d; it described Q3 benefits as deferred to 2027.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Reported adjusted EPS of $6.16 missed the preview\u2019s $6.42\u2013$6.47 consensus, but excluding the $0.69-per-share non-cash TCA deferral headwind, EPS would have been $6.85\u2014above consensus and the preview\u2019s base-case range. The reported miss was therefore driven by a headwind the preview anticipated, while the underlying result was stronger than expected.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS was $6.16, which would have been $6.85 excluding a non-cash TCA deferral headwind of $0.69 per share.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $6.42 \u2013 $6.47\u201d; the preview also described a realistic unofficial bar of \u201c~$6.20\u2013$6.35\u201d and expected the TCA deferral direction to be \u201cNeutral to negative,\u201d with \u201ca $0.60\u20130.70/share swing.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Revenue came in at $4.4 billion, slightly below the preview\u2019s consensus range and base-case range. The gap to the low end was small, but the revenue line was identified as the harder test.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company generated $4.4 billion in revenue.\u201d",
+      "expectation_evidence": "\u201cRevenue: $4.43B \u2013 $4.52B (mid ~$4.47B)\u201d and base case \u201c$4.42\u20134.50B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Gross profit was below the preview\u2019s estimated $745\u2013$760 million, at $732 million. The reported 16.6% gross margin accompanied that shortfall.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$732 million gross profit (16.6% margin).\u201d",
+      "expectation_evidence": "\u201cGross profit: ~$745\u2013760M (est.).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The adjusted operating margin was 4.9%, below the preview\u2019s estimated 5.1\u20135.3% range.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201c$111 million adjusted net income with a 4.9% adjusted operating margin.\u201d",
+      "expectation_evidence": "\u201cAdj. op. margin: ~5.1\u20135.3% (est.).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "SG&A was 67.4% of gross profit, above the preview\u2019s roughly 66% base estimate, though not as high as its stated stress level. Management reaffirmed the low-60s target for end-2027 and said the improvement would come roughly half from gross-profit growth and half from cost savings.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSG&A as a percentage of gross profit reaching the low 60% range by the end of 2027, down from 67.4% all-store (67% same-store) in Q3, driven roughly half by gross profit growth and half by cost savings.\u201d",
+      "expectation_evidence": "\u201cSG&A % of gross profit (adj.): ~66%\u201d; the preview said \u201cbelow 65% says it's working ahead of schedule\u201d and \u201c>68% says the cost story is slipping.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 5,
+      "description": "Parts and service gross profit was flat and warranty gross profit fell 1%, weaker than the preview\u2019s expectation for low-to-mid-single-digit parts and service growth. Repair orders were down 1.9%; management attributed the weakness largely to Tekion transition disruption rather than consumer weakness.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer pay parts and service gross profit was flat and warranty gross profit was down 1%, with repair order count down 1.9%, attributed largely to Tekion transition disruption rather than consumer weakness.\u201d",
+      "expectation_evidence": "The preview expected \u201cParts & service revenue growth\u201d of \u201c+3 to 5%\u201d and said management guided \u201clow-to-mid single digits from Q3 forward.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "Used retail PVR was $1,777, well below the preview\u2019s roughly $1,950 estimate, even as used retail volume improved sequentially. That is a larger margin give-back than the preview\u2019s base case implied.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUsed retail gross profit grew 3% and used retail PVR rose 10% to $1,777, with all-store used retail volume up 4.5% sequentially.\u201d",
+      "expectation_evidence": "The preview estimated used retail units and GPU at \u201c~34,000 / ~$1,950\u201d and said the base case expected \u201cGPU to give back some ground as the trade-off.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "Same-store new units fell 8%, with EV sales down 76% and accounting for five percentage points of the decline. The preview anticipated EV softness, but did not indicate a company EV sales drop of this scale.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame-store new units fell 8% year-over-year against a tough comparison, with declining EV volume accounting for 5 of the 8 percentage points, as EV sales dropped 76% and represented just 2.1% of total units.\u201d",
+      "expectation_evidence": "The preview said industry Q3 new units were \u201croughly flat (\u20110.5%, ~16.1M SAAR)\u201d and flagged EV softness, noting BEV sales were down 29.2% year-to-date through September.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "The company said it would prioritize reducing net leverage to 3.0x before pursuing share buybacks or tuck-in acquisitions. That is a more cautious near-term capital-return stance than the preview\u2019s expected buyback pace, and leverage was 3.5x versus its roughly 3.3x estimate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage stood at 3.5x with a priority of reaching the 3x target by mid-2027 before pursuing share buybacks and tuck-in acquisitions.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~3.3x / $100\u2013140M\u201d for leverage and buybacks and said management had indicated that \u201cbuybacks beat M&A.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 9,
+      "description": "The FTC administrative proceeding against Asbury was dismissed in early October, a favorable legal development not flagged in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FTC administrative proceeding against the company was dismissed in early October.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "other"
+    },
+    {
+      "position": 10,
+      "description": "The longest-tenured Tekion stores already showed stronger customer-pay gross profit and productivity measures, rather than benefits being deferred entirely to 2027 as the preview\u2019s base case anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLongest-tenured Tekion stores (Koons and Georgia) showed customer pay gross profit up 7% versus flat for the total company, with units per salesperson up 4% and gross profit per technician up 9%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case said Tekion benefits would \u201cbegin to materialize in 2027\u201d; it described Q3 benefits as deferred to 2027.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

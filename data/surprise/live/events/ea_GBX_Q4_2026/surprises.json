@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 EPS was far below the preview\u2019s $0.80 consensus: Greenbrier reported $0.27, or $0.39 excluding $0.12 per share of facility-related rationalization costs. Even the adjusted figure was about half the expected amount.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 revenue was $591 million ... with EPS of $0.27, or $0.39 excluding $0.12 per share of facility-related rationalization costs.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS ... Consensus $0.80\u201d; the preview also said the practical bar was \u201cmid-to-high $0.80s.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Greenbrier\u2019s FY2027 EPS guidance has a lower bound below the preview\u2019s roughly $3.35 market-implied figure, although the upper bound is higher. The $2.75\u2013$3.75 range therefore leaves more downside at the low end than the preview\u2019s \u201cguide starting with a 3\u201d expectation suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFor fiscal 2027, Greenbrier guided to EPS of $2.75 to $3.75.\u201d",
+      "expectation_evidence": "\u201cThe 11.4x forward multiple implies a market FY27 EPS near ~$3.35\u201d; \u201cA guide starting with a 3 is survivable.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year deliveries came in below the FY26 guidance range, rather than reaching the expected 15,650\u201315,850 cars. Greenbrier delivered 15,400, a shortfall of 250\u2013450 cars.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGreenbrier delivered 15,400 railcars in fiscal 2026,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c15,650\u201315,850\u201d deliveries.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY26 core EPS was below the company\u2019s guidance range: $2.60 versus the preview\u2019s cited $3.00\u2013$3.15 guide. This adds a full-year shortfall beyond the Q4 miss.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGreenbrier delivered ... core EPS of $2.60,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview\u2019s FY26 guidance table listed diluted EPS of \u201c$3.00\u20133.15.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY26 aggregate gross margin was below the bottom of the cited full-year guidance range. The reported 13.6% compares with expected guidance of 13.8%\u201314.2%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAggregate gross margin of 13.6%,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview listed FY26 aggregate gross margin guidance of \u201c13.8\u201314.2%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 revenue missed the $605.1 million consensus, although it remained within the $530\u2013$630 million range implied by FY26 guidance. The miss was modest at about 2%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 revenue was $591 million.\u201d",
+      "expectation_evidence": "\u201cRevenue ... Consensus $605.1M\u201d; the preview\u2019s guidance-implied Q4 range was \u201c$530\u2013630M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Backlog and book-to-bill were stronger than the preview\u2019s estimate: backlog rose to 14,000 cars and $2.1 billion, and Q4 book-to-bill was near 1. The preview expected roughly 13,150\u201313,350 cars, about $2.0 billion, and a Q4 book-to-bill around 0.86x.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBacklog rose to 14,000 railcars valued at $2.1 billion, the first sequential increase since fiscal 2024\u201d; Q4 book-to-bill was \u201cnear 1, the highest since Q3 fiscal 2024.\u201d",
+      "expectation_evidence": "The preview\u2019s bridge estimated \u201c13,150\u201313,350 units, ~$2.0B\u201d and \u201cQ4 book-to-bill \u2248 0.86x.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Recurring revenue grew substantially as Greenbrier expanded its owned fleet, providing a stronger leasing contribution than the preview quantified. The preview flagged leasing earnings as a possible offset to manufacturing weakness; the reported recurring-revenue increase was 55%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The owned lease fleet grew \u201cby roughly 4,000 railcars (23%) to approximately 21,000 units\u201d at \u201c98% utilization,\u201d while recurring revenue \u201cgrew 55% to $175 million from $113 million.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cwhether recurring leasing earnings keep backfilling manufacturing weakness.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed that pending trade actions are weighing on tank-car demand, a risk the preview did not identify. Management tempered the concern, saying the actions would raise prices passed to customers and would not materially affect Greenbrier\u2019s long-term financial performance.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPending trade actions on tank cars and freight rail couplers are weighing on tank car demand,\u201d but management said they \u201cwould raise prices passed to customers without materially impacting Greenbrier's long-term financial performance.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 EPS was far below the preview\u2019s $0.80 consensus: Greenbrier reported $0.27, or $0.39 excluding $0.12 per share of facility-related rationalization costs. Even the adjusted figure was about half the expected amount.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 revenue was $591 million ... with EPS of $0.27, or $0.39 excluding $0.12 per share of facility-related rationalization costs.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS ... Consensus $0.80\u201d; the preview also said the practical bar was \u201cmid-to-high $0.80s.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Greenbrier\u2019s FY2027 EPS guidance has a lower bound below the preview\u2019s roughly $3.35 market-implied figure, although the upper bound is higher. The $2.75\u2013$3.75 range therefore leaves more downside at the low end than the preview\u2019s \u201cguide starting with a 3\u201d expectation suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFor fiscal 2027, Greenbrier guided to EPS of $2.75 to $3.75.\u201d",
+      "expectation_evidence": "\u201cThe 11.4x forward multiple implies a market FY27 EPS near ~$3.35\u201d; \u201cA guide starting with a 3 is survivable.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Full-year deliveries came in below the FY26 guidance range, rather than reaching the expected 15,650\u201315,850 cars. Greenbrier delivered 15,400, a shortfall of 250\u2013450 cars.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGreenbrier delivered 15,400 railcars in fiscal 2026,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c15,650\u201315,850\u201d deliveries.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "FY26 core EPS was below the company\u2019s guidance range: $2.60 versus the preview\u2019s cited $3.00\u2013$3.15 guide. This adds a full-year shortfall beyond the Q4 miss.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGreenbrier delivered ... core EPS of $2.60,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview\u2019s FY26 guidance table listed diluted EPS of \u201c$3.00\u20133.15.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "FY26 aggregate gross margin was below the bottom of the cited full-year guidance range. The reported 13.6% compares with expected guidance of 13.8%\u201314.2%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAggregate gross margin of 13.6%,\u201d with results \u201cfalling below company expectations for the year.\u201d",
+      "expectation_evidence": "The preview listed FY26 aggregate gross margin guidance of \u201c13.8\u201314.2%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "Q4 revenue missed the $605.1 million consensus, although it remained within the $530\u2013$630 million range implied by FY26 guidance. The miss was modest at about 2%.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 revenue was $591 million.\u201d",
+      "expectation_evidence": "\u201cRevenue ... Consensus $605.1M\u201d; the preview\u2019s guidance-implied Q4 range was \u201c$530\u2013630M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Backlog and book-to-bill were stronger than the preview\u2019s estimate: backlog rose to 14,000 cars and $2.1 billion, and Q4 book-to-bill was near 1. The preview expected roughly 13,150\u201313,350 cars, about $2.0 billion, and a Q4 book-to-bill around 0.86x.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBacklog rose to 14,000 railcars valued at $2.1 billion, the first sequential increase since fiscal 2024\u201d; Q4 book-to-bill was \u201cnear 1, the highest since Q3 fiscal 2024.\u201d",
+      "expectation_evidence": "The preview\u2019s bridge estimated \u201c13,150\u201313,350 units, ~$2.0B\u201d and \u201cQ4 book-to-bill \u2248 0.86x.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Recurring revenue grew substantially as Greenbrier expanded its owned fleet, providing a stronger leasing contribution than the preview quantified. The preview flagged leasing earnings as a possible offset to manufacturing weakness; the reported recurring-revenue increase was 55%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The owned lease fleet grew \u201cby roughly 4,000 railcars (23%) to approximately 21,000 units\u201d at \u201c98% utilization,\u201d while recurring revenue \u201cgrew 55% to $175 million from $113 million.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cwhether recurring leasing earnings keep backfilling manufacturing weakness.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "Management disclosed that pending trade actions are weighing on tank-car demand, a risk the preview did not identify. Management tempered the concern, saying the actions would raise prices passed to customers and would not materially affect Greenbrier\u2019s long-term financial performance.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPending trade actions on tank cars and freight rail couplers are weighing on tank car demand,\u201d but management said they \u201cwould raise prices passed to customers without materially impacting Greenbrier's long-term financial performance.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "external_environment"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 adjusted EPS was $6.57, 4% above expectations and $0.26 above the midpoint of guidance. The preview put consensus at $6.38 and described $6.45\u2013$6.50 as the inferred functional bar, so the reported result cleared both by a meaningful amount.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 9% year-over-year with adjusted EPS of $6.57, coming in $0.26 above the midpoint of guidance and 4% above expectations.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS $6.38\u201d; \u201cthe functional buy-side bar \u2026 is likely ~$6.45\u20136.50.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 net yields grew 0.6% despite a company guide of approximately flat. The preview treated flat as the guide and identified +1% or better as a stronger signal, making the result a modest upside to the formal expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 net yields rose 0.6%, about 60 basis points above guidance.\u201d",
+      "expectation_evidence": "\u201cNet Yields (cc) \u2026 ~flat\u201d; the preview also said \u201c+1.0% or better signals pricing power is holding.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said that at the spot fuel rate when Perfecta launched, 2027 earnings would exceed the program target by about $1 per share, and reaffirmed a 20% EPS CAGR with a '$20 handle' in 2027. That is more reassuring than the preview\u2019s derived ~$19.75 2027 EPS estimate and its concern that fuel could put the Perfecta target at risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAt the spot fuel rate when the Perfecta program launched, 2027 earnings would exceed the target by about $1 per share,\u201d and management remained \u201con track for a 20% EPS CAGR with a '$20 handle' in 2027.\u201d",
+      "expectation_evidence": "\u201cFY2027 Adjusted EPS ~$19.75 (derived)\u201d; the preview said 2027 fuel was \u201cthe swing disclosure\u201d and that materially unhedged fuel could put the Perfecta 20% CAGR \u201cvisibly at risk.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected the Sandals deal to be accretive in 2027, but management said its 2027 earnings contribution would be immaterial. The stated goal of several hundred million dollars in synergies over time offers longer-term upside, but does not offset the lower near-term contribution expectation.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Sandals investment is expected to close in early 2027, be accounted for on a one-quarter lag, and contribute immaterially to 2027 earnings while targeting several hundred million dollars in synergies over time.\u201d",
+      "expectation_evidence": "The preview described the deal as \u201cguided accretive in 2027\u201d and said to watch for \u201cthe first quantified accretion figure.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "RCL ended Q3 with $7.4 billion of liquidity, above the preview\u2019s $6.9 billion estimate, and said leverage remained below 3x despite the planned Sandals investment. That is a more comfortable balance-sheet position than the preview\u2019s liquidity and leverage concerns suggested.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company ended Q3 with $7.4 billion in liquidity and leverage below 3x\u201d; the Sandals business \u201ccarries leverage below 1x and can self-fund its development plan.\u201d",
+      "expectation_evidence": "The preview cited \u201c$6.9B liquidity\u201d and said \u201cleverage trajectory and any refinancing commentary matter more than usual\u201d alongside the $3 billion Sandals cash outlay.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call provided an early, specific 2027 operating outlook that the preview did not expect before January: capacity growth of 4.5%, with about 200 basis points of structural headwinds in Q1 and yield growth weighted to the second half. The full-year outlook remains positive, but the disclosed timing points to a more uneven start to 2027 than the preview had laid out.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company guided 2027 capacity growth of 4.5%, with first quarter facing approximately 200 basis points of structural headwinds and yield growth weighted toward the second half of the year.\u201d",
+      "expectation_evidence": "\u201cNext-year guidance does not arrive until January.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 adjusted EPS was $6.57, 4% above expectations and $0.26 above the midpoint of guidance. The preview put consensus at $6.38 and described $6.45\u2013$6.50 as the inferred functional bar, so the reported result cleared both by a meaningful amount.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 9% year-over-year with adjusted EPS of $6.57, coming in $0.26 above the midpoint of guidance and 4% above expectations.\u201d",
+      "expectation_evidence": "\u201cAdjusted EPS $6.38\u201d; \u201cthe functional buy-side bar \u2026 is likely ~$6.45\u20136.50.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Q3 net yields grew 0.6% despite a company guide of approximately flat. The preview treated flat as the guide and identified +1% or better as a stronger signal, making the result a modest upside to the formal expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 net yields rose 0.6%, about 60 basis points above guidance.\u201d",
+      "expectation_evidence": "\u201cNet Yields (cc) \u2026 ~flat\u201d; the preview also said \u201c+1.0% or better signals pricing power is holding.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Management said that at the spot fuel rate when Perfecta launched, 2027 earnings would exceed the program target by about $1 per share, and reaffirmed a 20% EPS CAGR with a '$20 handle' in 2027. That is more reassuring than the preview\u2019s derived ~$19.75 2027 EPS estimate and its concern that fuel could put the Perfecta target at risk.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAt the spot fuel rate when the Perfecta program launched, 2027 earnings would exceed the target by about $1 per share,\u201d and management remained \u201con track for a 20% EPS CAGR with a '$20 handle' in 2027.\u201d",
+      "expectation_evidence": "\u201cFY2027 Adjusted EPS ~$19.75 (derived)\u201d; the preview said 2027 fuel was \u201cthe swing disclosure\u201d and that materially unhedged fuel could put the Perfecta 20% CAGR \u201cvisibly at risk.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The preview expected the Sandals deal to be accretive in 2027, but management said its 2027 earnings contribution would be immaterial. The stated goal of several hundred million dollars in synergies over time offers longer-term upside, but does not offset the lower near-term contribution expectation.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Sandals investment is expected to close in early 2027, be accounted for on a one-quarter lag, and contribute immaterially to 2027 earnings while targeting several hundred million dollars in synergies over time.\u201d",
+      "expectation_evidence": "The preview described the deal as \u201cguided accretive in 2027\u201d and said to watch for \u201cthe first quantified accretion figure.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "RCL ended Q3 with $7.4 billion of liquidity, above the preview\u2019s $6.9 billion estimate, and said leverage remained below 3x despite the planned Sandals investment. That is a more comfortable balance-sheet position than the preview\u2019s liquidity and leverage concerns suggested.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company ended Q3 with $7.4 billion in liquidity and leverage below 3x\u201d; the Sandals business \u201ccarries leverage below 1x and can self-fund its development plan.\u201d",
+      "expectation_evidence": "The preview cited \u201c$6.9B liquidity\u201d and said \u201cleverage trajectory and any refinancing commentary matter more than usual\u201d alongside the $3 billion Sandals cash outlay.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "The call provided an early, specific 2027 operating outlook that the preview did not expect before January: capacity growth of 4.5%, with about 200 basis points of structural headwinds in Q1 and yield growth weighted to the second half. The full-year outlook remains positive, but the disclosed timing points to a more uneven start to 2027 than the preview had laid out.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company guided 2027 capacity growth of 4.5%, with first quarter facing approximately 200 basis points of structural headwinds and yield growth weighted toward the second half of the year.\u201d",
+      "expectation_evidence": "\u201cNext-year guidance does not arrive until January.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

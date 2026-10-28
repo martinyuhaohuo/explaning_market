@@ -1,0 +1,111 @@
+{
+  "event_id": "ea_APAM_Q3_2026",
+  "ticker": "APAM",
+  "company": "Artisan Partners Asset Management Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:30:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Artisan Partners Asset Management Inc. (APAM), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:30 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Artisan Partners Asset Management Inc. (APAM), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:30 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:07:00.202086+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Skill",
+      "detail": "earnings-preview"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Artisan Partners APAM Q3 2026 earnings consensus EPS revenue estimate"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Artisan Partners APAM second quarter 2026 results AUM guidance"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "APAM stock price reaction after earnings history implied move options October 2026"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "07f072c8-0195-4104-a1bc-ecd8f2bfc9eb",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 8,
+  "duration_ms": 33490,
+  "total_cost_usd": 0.03940891,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 8728,
+    "cache_read_input_tokens": 85341,
+    "output_tokens": 3444,
+    "output_tokens_details": {
+      "thinking_tokens": 530
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8728
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2558,
+        "cache_read_input_tokens": 25166,
+        "cache_creation_input_tokens": 1599,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 1599,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:07:35.071357+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

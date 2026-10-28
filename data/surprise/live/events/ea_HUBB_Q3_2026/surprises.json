@@ -1,0 +1,240 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected a slight Q3 sales miss against its $1.85\u2013$1.86 billion consensus bar; Hubbell instead reported $1.873 billion, a modest beat.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 25% year-over-year to $1.873 billion.\u201d",
+      "expectation_evidence": "\u201cExpect a modest revenue miss against a stretched $1.85B bar\u201d; consensus was \u201c$1.85B \u2026 / $1.86B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Electrical Solutions organic growth and profitability were well above the preview\u2019s estimates: organic growth was 22% versus a 13\u201315% segment-build estimate, and its adjusted margin reached 24.8% versus an expected roughly 21.5\u201322%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201c11% organic growth (22% in Electrical Solutions and 5% in Utility Solutions)\u201d and Electrical Solutions adjusted operating margins \u201cexpanded 400 basis points year-over-year to 24.8%.\u201d",
+      "expectation_evidence": "The segment build estimated Electrical Solutions \u201cOrganic +13\u201315%\u201d; the preview said its adjusted margin \u201cmust be >21.5%, ideally >22%\u201d and its base case was \u201c~21.5\u201322%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consolidated adjusted operating margin was 25.5%, substantially above the preview\u2019s roughly 24.3% Q3 estimate, rather than merely delivering the needed second-half expansion.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOverall adjusted operating margin reaching 25.5% (up 160 bps).\u201d",
+      "expectation_evidence": "The preview estimated Q3 adjusted operating margin at \u201c~24.3%\u201d and said \u201cQ3 alone needs ~24.3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Data center sales grew over 80% organically, far faster than the preview\u2019s roughly 45\u201355% Q3 expectation; management also expects the business to reach about 15% of Electrical revenue by year-end and keep growing strongly in 2027.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cData center sales surged over 80% organically in the quarter\u201d and are expected to represent \u201cabout 15% of Electrical segment revenues exiting 2026,\u201d with \u201ccontinued strong growth anticipated in 2027.\u201d",
+      "expectation_evidence": "The preview\u2019s base case assumed \u201cdata center +45\u201355%\u201d and described the FY target as \u201c~+50%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised its sales outlook to 18\u201319% growth, above the prior 16\u201318% frame, with Electrical Solutions organic growth guidance raised to 17\u201318%. This is a stronger upgrade than the preview\u2019s expected narrow-to-slightly-higher overall guide.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management raised \u201cElectrical Solutions organic growth guidance to 17\u201318% and total sales growth to 18\u201319%.\u201d",
+      "expectation_evidence": "The preview described FY guidance of \u201c+16\u201318%\u201d and expected \u201ca narrow-to-slightly-higher FY guide.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Utility Solutions underperformed the preview\u2019s growth expectation, and management cut its full-year organic growth outlook to 6\u20137% from the preview\u2019s 7\u20139% target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Utility Solutions delivered \u201c5%\u201d organic growth, and management \u201clowered the Utility Solutions full-year organic growth outlook to 6-7%.\u201d",
+      "expectation_evidence": "The preview\u2019s segment build estimated Utility Solutions at \u201c+10\u201311%\u201d; it also cited a FY target of \u201c+7\u20139% organic.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "A temporary meters component shortage shifted about $15 million of revenue out of Q3 and into Q4, an unanticipated near-term disruption to the Grid Automation line the preview expected to turn positive. Production was restored, with double-digit Grid Automation growth expected in Q4.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cA temporary meters component shortage shifted approximately $15 million of revenue from Q3 into Q4, with full production already restored and double-digit Grid Automation growth expected in Q4.\u201d",
+      "expectation_evidence": "The preview expected Grid Automation to show Q3 growth of \u201c+5% or better.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NSI was not only contributing materially at accretive margins but was also integrating ahead of plan, easing the integration concern the preview identified as a key swing factor.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe NSI acquisition contributed 29 points to Electrical Solutions revenue growth at accretive margins and is tracking ahead of initial integration expectations.\u201d",
+      "expectation_evidence": "The preview called NSI \u201cthe swing factor on both growth and the leverage critique\u201d and said \u201cthe NSI integration gets re-underwritten\u201d if Electrical margins were weak.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Utility backlog had built by more than $500 million year-to-date, about 30% since the start of the year, providing stronger-than-typical visibility into 2027 and reinforcing the forward demand picture.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUtility Solutions backlog built by over $500 million year-to-date (up roughly 30% since the start of the year), providing stronger-than-typical visibility into 2027.\u201d",
+      "expectation_evidence": "The preview cited H1 book-to-bill of \u201c~1.2x with orders booking into 2027\u201d and flagged Utility book-to-bill and 2027 framing as key metrics.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management gave a concrete 2027 outlook of at least mid-single-digit organic growth, 25\u201330% incrementals, and price-cost-productivity neutral to dollar-positive, providing more specific support for the 2027 setup than the preview anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management expects \u201c2027 organic growth of at least mid-single digits with price-cost-productivity neutral to dollar-positive and incrementals of 25-30%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Electrical price increases are being accelerated into Q4, a stronger near-term pricing action than the preview\u2019s expectation that pricing would continue to hold against material costs.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201caccelerating Electrical price increases into Q4.\u201d",
+      "expectation_evidence": "The preview said pricing was \u201ctracking 3\u20134 pts for FY26\u201d and flagged whether price was \u201cstill fully covering material cost.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarterly capacity additions are expected to double from about $25 million in 2026 to $50 million in 2027, concentrated in transmission, substation, and data center markets. This adds a significant capacity ramp that the preview did not specify, with growth potential balanced against its concerns about spending.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuarterly incremental capacity additions were about $25 million per quarter in 2026 and are expected to roughly double to $50 million per quarter in 2027, concentrated in transmission, substation, and data center markets.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The raised full-year adjusted EPS range of $20.40\u2013$20.60 was broadly near the preview\u2019s base-case range, but fell short of its highlighted $20.70-or-higher raise scenario.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised its full-year 2026 adjusted EPS outlook to $20.40-$20.60, representing 12-13% growth.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201c$20.45\u2013$20.65,\u201d while its catalyst checklist highlighted \u201craise to \u2265$20.70 vs. mere narrowing.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected a slight Q3 sales miss against its $1.85\u2013$1.86 billion consensus bar; Hubbell instead reported $1.873 billion, a modest beat.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 25% year-over-year to $1.873 billion.\u201d",
+      "expectation_evidence": "\u201cExpect a modest revenue miss against a stretched $1.85B bar\u201d; consensus was \u201c$1.85B \u2026 / $1.86B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Electrical Solutions organic growth and profitability were well above the preview\u2019s estimates: organic growth was 22% versus a 13\u201315% segment-build estimate, and its adjusted margin reached 24.8% versus an expected roughly 21.5\u201322%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201c11% organic growth (22% in Electrical Solutions and 5% in Utility Solutions)\u201d and Electrical Solutions adjusted operating margins \u201cexpanded 400 basis points year-over-year to 24.8%.\u201d",
+      "expectation_evidence": "The segment build estimated Electrical Solutions \u201cOrganic +13\u201315%\u201d; the preview said its adjusted margin \u201cmust be >21.5%, ideally >22%\u201d and its base case was \u201c~21.5\u201322%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Consolidated adjusted operating margin was 25.5%, substantially above the preview\u2019s roughly 24.3% Q3 estimate, rather than merely delivering the needed second-half expansion.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOverall adjusted operating margin reaching 25.5% (up 160 bps).\u201d",
+      "expectation_evidence": "The preview estimated Q3 adjusted operating margin at \u201c~24.3%\u201d and said \u201cQ3 alone needs ~24.3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Data center sales grew over 80% organically, far faster than the preview\u2019s roughly 45\u201355% Q3 expectation; management also expects the business to reach about 15% of Electrical revenue by year-end and keep growing strongly in 2027.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cData center sales surged over 80% organically in the quarter\u201d and are expected to represent \u201cabout 15% of Electrical segment revenues exiting 2026,\u201d with \u201ccontinued strong growth anticipated in 2027.\u201d",
+      "expectation_evidence": "The preview\u2019s base case assumed \u201cdata center +45\u201355%\u201d and described the FY target as \u201c~+50%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "The company raised its sales outlook to 18\u201319% growth, above the prior 16\u201318% frame, with Electrical Solutions organic growth guidance raised to 17\u201318%. This is a stronger upgrade than the preview\u2019s expected narrow-to-slightly-higher overall guide.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management raised \u201cElectrical Solutions organic growth guidance to 17\u201318% and total sales growth to 18\u201319%.\u201d",
+      "expectation_evidence": "The preview described FY guidance of \u201c+16\u201318%\u201d and expected \u201ca narrow-to-slightly-higher FY guide.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Utility Solutions underperformed the preview\u2019s growth expectation, and management cut its full-year organic growth outlook to 6\u20137% from the preview\u2019s 7\u20139% target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Utility Solutions delivered \u201c5%\u201d organic growth, and management \u201clowered the Utility Solutions full-year organic growth outlook to 6-7%.\u201d",
+      "expectation_evidence": "The preview\u2019s segment build estimated Utility Solutions at \u201c+10\u201311%\u201d; it also cited a FY target of \u201c+7\u20139% organic.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "A temporary meters component shortage shifted about $15 million of revenue out of Q3 and into Q4, an unanticipated near-term disruption to the Grid Automation line the preview expected to turn positive. Production was restored, with double-digit Grid Automation growth expected in Q4.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cA temporary meters component shortage shifted approximately $15 million of revenue from Q3 into Q4, with full production already restored and double-digit Grid Automation growth expected in Q4.\u201d",
+      "expectation_evidence": "The preview expected Grid Automation to show Q3 growth of \u201c+5% or better.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "NSI was not only contributing materially at accretive margins but was also integrating ahead of plan, easing the integration concern the preview identified as a key swing factor.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe NSI acquisition contributed 29 points to Electrical Solutions revenue growth at accretive margins and is tracking ahead of initial integration expectations.\u201d",
+      "expectation_evidence": "The preview called NSI \u201cthe swing factor on both growth and the leverage critique\u201d and said \u201cthe NSI integration gets re-underwritten\u201d if Electrical margins were weak.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 8,
+      "description": "Utility backlog had built by more than $500 million year-to-date, about 30% since the start of the year, providing stronger-than-typical visibility into 2027 and reinforcing the forward demand picture.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUtility Solutions backlog built by over $500 million year-to-date (up roughly 30% since the start of the year), providing stronger-than-typical visibility into 2027.\u201d",
+      "expectation_evidence": "The preview cited H1 book-to-bill of \u201c~1.2x with orders booking into 2027\u201d and flagged Utility book-to-bill and 2027 framing as key metrics.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "Management gave a concrete 2027 outlook of at least mid-single-digit organic growth, 25\u201330% incrementals, and price-cost-productivity neutral to dollar-positive, providing more specific support for the 2027 setup than the preview anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management expects \u201c2027 organic growth of at least mid-single digits with price-cost-productivity neutral to dollar-positive and incrementals of 25-30%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "Electrical price increases are being accelerated into Q4, a stronger near-term pricing action than the preview\u2019s expectation that pricing would continue to hold against material costs.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201caccelerating Electrical price increases into Q4.\u201d",
+      "expectation_evidence": "The preview said pricing was \u201ctracking 3\u20134 pts for FY26\u201d and flagged whether price was \u201cstill fully covering material cost.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 11,
+      "description": "Quarterly capacity additions are expected to double from about $25 million in 2026 to $50 million in 2027, concentrated in transmission, substation, and data center markets. This adds a significant capacity ramp that the preview did not specify, with growth potential balanced against its concerns about spending.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQuarterly incremental capacity additions were about $25 million per quarter in 2026 and are expected to roughly double to $50 million per quarter in 2027, concentrated in transmission, substation, and data center markets.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 12,
+      "description": "The raised full-year adjusted EPS range of $20.40\u2013$20.60 was broadly near the preview\u2019s base-case range, but fell short of its highlighted $20.70-or-higher raise scenario.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised its full-year 2026 adjusted EPS outlook to $20.40-$20.60, representing 12-13% growth.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201c$20.45\u2013$20.65,\u201d while its catalyst checklist highlighted \u201craise to \u2265$20.70 vs. mere narrowing.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    }
+  ]
+}

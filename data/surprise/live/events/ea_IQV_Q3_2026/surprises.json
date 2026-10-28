@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "R&D Solutions generated $3.2B of net new bookings, above the preview\u2019s implied $3.0\u20133.1B, while LTM bookings rose to $11.7B and advanced for a fifth consecutive quarter. The preview expected about $11.3B of LTM bookings and four consecutive quarters of increases.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D Solutions delivered $3.2 billion in net new bookings, up 15% year-over-year for the strongest clinical bookings in four years\u201d; \u201cLast-12-month net new bookings reached $11.7 billion, up 14% year-over-year and rising for five consecutive quarters.\u201d",
+      "expectation_evidence": "\u201cnet new bookings of roughly $3.0\u20133.1B\u201d; \u201cLTM bookings $11.3B (+13%) have risen four straight quarters.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue of $4.428B beat the $4.37B consensus, and organic growth was approximately 6%, above the high end of guidance. The reported 8% growth also exceeded the preview\u2019s expected 6.4% growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue reached $4.428 billion, growing 8% reported and 8.6% at constant currency, with organic growth of approximately 6%\u2014more than 2x the prior-year rate and above the high end of guidance.\u201d",
+      "expectation_evidence": "\u201cRevenue | $4.37B ($4.40B rounded) ... YoY +6.4%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted diluted EPS of $3.34 beat the preview\u2019s $3.24\u2013$3.25 consensus range and its $3.30\u2013$3.32 working whisper estimate. Growth of 11.3% was also ahead of the preview\u2019s expected 8.0% growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rose 11.3% to $3.34, beating guidance driven entirely by operational performance.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | $3.24\u2013$3.25 ... YoY +8.0%\u201d; \u201ca functional whisper of roughly $3.30\u20133.32 is a reasonable working assumption.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "IQVIA raised its full-year 2026 guidance rather than merely narrowing it to the upper half as the preview expected. The increase was modest, however: the new EPS range still tops out at $13.00, below the preview\u2019s bull-case threshold of raising above $13.05.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance: revenue to $17.35\u2013$17.50 billion, adjusted EBITDA to $4.025\u2013$4.055 billion, and adjusted EPS to $12.90\u2013$13.00.\u201d",
+      "expectation_evidence": "\u201cNarrowing to the upper half ($17.40\u201317.48B / $12.95\u201313.05) is the base case\u201d; the bull scenario called for \u201cFY EPS raised above $13.05.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "A review of inactive trials cut contracted backlog by about $2.1B, leaving it at $32.6B versus the $34.67B consensus figure. The preview had flagged inactive trials as a backlog-quality risk, but the size of the reduction was still a material headline shortfall; stronger near-term backlog revenue partly offsets that concern.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cA detailed review of inactive trials led to a ~$2.1 billion backlog reduction, with contracted backlog ending at $32.6 billion.\u201d",
+      "expectation_evidence": "\u201cContracted backlog | $34.67B\u201d; the preview also noted \u201c~5% of backlog could be inactive trials\u201d and that management said it \u201cwouldn't affect guidance.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue expected from backlog over the next 12 months rose to $9.4B, up 10%, ahead of the preview\u2019s $9.2B and 7.5% growth reading. That is stronger near-term backlog conversion than the preview\u2019s 8%+ acceleration target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cnext-12-months revenue from backlog at $9.4 billion, up 10%.\u201d",
+      "expectation_evidence": "\u201c$9.2B at June 30, +7.5% YoY\u201d; \u201cIt needs to hold \u22657.5% and ideally accelerate toward 8%+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA was slightly above the preview\u2019s estimate, and margin expanded 20 basis points for a second straight quarter despite an approximately 60-basis-point net non-operational headwind. Excluding pass-through and currency effects, underlying margin improvement was about 80 basis points.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 adjusted EBITDA was $1.032 billion (up 8.7%) with 20 basis points of margin expansion, the second consecutive quarter of expansion despite an ~60 bps net non-operational headwind\u201d; \u201cunderlying adjusted EBITDA margins would have improved approximately 80 basis points.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA | ~$1.02B (my est., not street-sourced).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Broader demand indicators were notably strong: EBP funding reached $90B year-to-date, while clinical trial starts and RFP flow were up high single digits and new drug launches were up over 40%. This extended beyond the preview\u2019s more general account of a funding recovery and its watch for improved RFP volumes.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEBP funding up more than 85% year-to-date to $90 billion, clinical trial starts up high single digits, RFP flow up high single digits, and new drug launches up over 40%.\u201d",
+      "expectation_evidence": "\u201cbiotech funding has rebounded past ~$50B year-to-date\u201d; the preview\u2019s bull commentary included \u201cRFP volumes up.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net leverage ended at 3.45x, below the 3.59x level cited in the preview, indicating a stronger balance-sheet position than that reference point. The preview flagged leverage and capital discipline as watch items.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cnet leverage ended at 3.45x trailing-12-month adjusted EBITDA.\u201d",
+      "expectation_evidence": "\u201cnet leverage 3.59x.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "R&D Solutions generated $3.2B of net new bookings, above the preview\u2019s implied $3.0\u20133.1B, while LTM bookings rose to $11.7B and advanced for a fifth consecutive quarter. The preview expected about $11.3B of LTM bookings and four consecutive quarters of increases.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D Solutions delivered $3.2 billion in net new bookings, up 15% year-over-year for the strongest clinical bookings in four years\u201d; \u201cLast-12-month net new bookings reached $11.7 billion, up 14% year-over-year and rising for five consecutive quarters.\u201d",
+      "expectation_evidence": "\u201cnet new bookings of roughly $3.0\u20133.1B\u201d; \u201cLTM bookings $11.3B (+13%) have risen four straight quarters.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Revenue of $4.428B beat the $4.37B consensus, and organic growth was approximately 6%, above the high end of guidance. The reported 8% growth also exceeded the preview\u2019s expected 6.4% growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue reached $4.428 billion, growing 8% reported and 8.6% at constant currency, with organic growth of approximately 6%\u2014more than 2x the prior-year rate and above the high end of guidance.\u201d",
+      "expectation_evidence": "\u201cRevenue | $4.37B ($4.40B rounded) ... YoY +6.4%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted diluted EPS of $3.34 beat the preview\u2019s $3.24\u2013$3.25 consensus range and its $3.30\u2013$3.32 working whisper estimate. Growth of 11.3% was also ahead of the preview\u2019s expected 8.0% growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rose 11.3% to $3.34, beating guidance driven entirely by operational performance.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | $3.24\u2013$3.25 ... YoY +8.0%\u201d; \u201ca functional whisper of roughly $3.30\u20133.32 is a reasonable working assumption.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "IQVIA raised its full-year 2026 guidance rather than merely narrowing it to the upper half as the preview expected. The increase was modest, however: the new EPS range still tops out at $13.00, below the preview\u2019s bull-case threshold of raising above $13.05.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance: revenue to $17.35\u2013$17.50 billion, adjusted EBITDA to $4.025\u2013$4.055 billion, and adjusted EPS to $12.90\u2013$13.00.\u201d",
+      "expectation_evidence": "\u201cNarrowing to the upper half ($17.40\u201317.48B / $12.95\u201313.05) is the base case\u201d; the bull scenario called for \u201cFY EPS raised above $13.05.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "A review of inactive trials cut contracted backlog by about $2.1B, leaving it at $32.6B versus the $34.67B consensus figure. The preview had flagged inactive trials as a backlog-quality risk, but the size of the reduction was still a material headline shortfall; stronger near-term backlog revenue partly offsets that concern.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cA detailed review of inactive trials led to a ~$2.1 billion backlog reduction, with contracted backlog ending at $32.6 billion.\u201d",
+      "expectation_evidence": "\u201cContracted backlog | $34.67B\u201d; the preview also noted \u201c~5% of backlog could be inactive trials\u201d and that management said it \u201cwouldn't affect guidance.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Revenue expected from backlog over the next 12 months rose to $9.4B, up 10%, ahead of the preview\u2019s $9.2B and 7.5% growth reading. That is stronger near-term backlog conversion than the preview\u2019s 8%+ acceleration target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cnext-12-months revenue from backlog at $9.4 billion, up 10%.\u201d",
+      "expectation_evidence": "\u201c$9.2B at June 30, +7.5% YoY\u201d; \u201cIt needs to hold \u22657.5% and ideally accelerate toward 8%+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Adjusted EBITDA was slightly above the preview\u2019s estimate, and margin expanded 20 basis points for a second straight quarter despite an approximately 60-basis-point net non-operational headwind. Excluding pass-through and currency effects, underlying margin improvement was about 80 basis points.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 adjusted EBITDA was $1.032 billion (up 8.7%) with 20 basis points of margin expansion, the second consecutive quarter of expansion despite an ~60 bps net non-operational headwind\u201d; \u201cunderlying adjusted EBITDA margins would have improved approximately 80 basis points.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA | ~$1.02B (my est., not street-sourced).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "Broader demand indicators were notably strong: EBP funding reached $90B year-to-date, while clinical trial starts and RFP flow were up high single digits and new drug launches were up over 40%. This extended beyond the preview\u2019s more general account of a funding recovery and its watch for improved RFP volumes.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEBP funding up more than 85% year-to-date to $90 billion, clinical trial starts up high single digits, RFP flow up high single digits, and new drug launches up over 40%.\u201d",
+      "expectation_evidence": "\u201cbiotech funding has rebounded past ~$50B year-to-date\u201d; the preview\u2019s bull commentary included \u201cRFP volumes up.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Net leverage ended at 3.45x, below the 3.59x level cited in the preview, indicating a stronger balance-sheet position than that reference point. The preview flagged leverage and capital discipline as watch items.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cnet leverage ended at 3.45x trailing-12-month adjusted EBITDA.\u201d",
+      "expectation_evidence": "\u201cnet leverage 3.59x.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

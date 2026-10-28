@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_MMYT_Q2_2027",
+  "event_datetime": "2026-10-26T11:30:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-26T14:01:18.481734+00:00",
+  "predictions": [
+    {
+      "identifier_value": "MMYT",
+      "predicted_percentile": 0.5459283534002812
+    }
+  ]
+}

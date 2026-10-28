@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Whirlpool reported Q3 net sales of $3.7 billion, below the preview\u2019s $3.91 billion consensus (and the $3.96 billion alternate estimate). That is a material revenue shortfall.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 net sales were $3.7 billion\u201d amid \u201csofter North American industry demand.\u201d",
+      "expectation_evidence": "\u201cNet sales | $3.91B\u201d and \u201cNet sales (alt.) | $3.96B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Ongoing EPS was a loss of $0.21 rather than the preview\u2019s anchored expectation of $0.78, a sharp miss that also fell below the preview\u2019s older $0.93\u2013$1.01 alternatives.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOngoing EPS of negative $0.21.\u201d",
+      "expectation_evidence": "\u201cAnchor to ~$0.78\u2013$0.85; treat $1.00 as the stale print.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year outlook now calls for a 2.0%\u20132.2% ongoing EBIT margin, far below the roughly 4.0% margin in the prior guidance cited in the preview. Revenue is also now expected to decline about 1.5%, rather than the prior roughly $15.0 billion sales outlook.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull year 2026 guidance was cut,\u201d with \u201crevenue decline of approximately 1.5%\u201d and \u201congoing EBIT margin of 2% to 2.2%.\u201d",
+      "expectation_evidence": "The preview lists the prior August guidance as \u201csales ~$15.0B, EBIT margin ~4.0%\u201d and says a guide cut was largely anticipated, with a base-case EPS guide reset to \u201c~$1.75\u2013$2.25.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 ongoing EBIT margin improved sequentially, but only to 2.6% rather than the roughly 4.1% margin implied by the preview\u2019s consensus EPS and sales. The reported shortfall was attributed to raw-material, fuel, and logistics inflation.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOngoing EBIT margin improved sequentially 80 basis points to 2.6%, but fell short of the expected larger step-up due to raw material, fuel, and logistics cost inflation.\u201d",
+      "expectation_evidence": "\u201cConsensus EPS of $0.78 on $3.91B back-solves to roughly 4.1% ongoing EBIT margin \u2014 a ~230bp sequential jump in one quarter.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 consumed about $1.1 billion of free cash flow, with no visible quarterly cash progress against the preview\u2019s expectation for Q3 working-capital evidence. Full-year FCF is guided to only approximately $300 million rather than the prior \u201c> $300M\u201d target, and achieving it now requires another $150 million of working capital beyond normalization.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 free cash flow was a consumption of approximately $1.1 billion\u201d; \u201cFull year free cash flow is guided to approximately $300 million (~2% of net sales), requiring an additional $150 million of working capital beyond normalization.\u201d",
+      "expectation_evidence": "\u201cFY guide is >$300M FCF\u201d and \u201ca reiterated net-debt target with visible Q3 working-capital progress is the single most bullish thing in the release.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The cash shortfall included an unexpected $150 million receivable exposure to bankrupt Brazilian retailer Grupo Casas Bahia. Management expects to collect about $100 million in Q4, leaving collection timing and the remainder unresolved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 cash consumption was \u201churt by ~$150 million in receivables from bankrupt Brazilian retailer Grupo Casas Bahia, of which ~$100 million is expected to be collected in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Despite the cash consumption, Whirlpool lowered its year-end net-debt target to below $4.5 billion from below $5 billion. That is better than the preview\u2019s already closely watched expectation of merely reiterating the under-$5-billion target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement cut year-end net debt guidance to below $4.5 billion from the prior target of less than $5 billion,\u201d with \u201cover $3 billion in available liquidity\u201d and no major maturities until 2028.",
+      "expectation_evidence": "The preview identifies a \u201cstated target of <$5.0B by year-end\u201d and says \u201creiterating net-debt target with visible Q3 cash proof\u201d would be bullish.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net tariffs were a 225-basis-point headwind, slightly worse than the preview\u2019s reference point of a 200-basis-point Q2 headwind and its expectation of similar Q3 and Q4 levels. This is a modest escalation rather than a major departure from the preview\u2019s tariff outlook.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet tariffs were a 225 basis point headwind in the quarter, driven by incremental Section 232 tariffs in the U.S.\u201d",
+      "expectation_evidence": "\u201cA 200bp headwind in Q2; management guided \u2018similar levels in Q3 and Q4, plus/minus.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Whirlpool announced additional price increases\u20147% in North America and up to 10% in Latin America\u2014beyond the increases already discussed in the preview. The benefit is delayed, however: management said Q4 impact would be limited and the increases would fully ramp into 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdditional price increases of 7% in North America (effective November 1 in Canada, December 3 in the U.S.) and up to 10% in Latin America, with limited Q4 impact and full ramp into 2027.\u201d",
+      "expectation_evidence": "The preview described prior increases of \u201c>10%\u201d in April, \u201c4% list increase in July,\u201d and \u201c~5% August price actions\u201d in Latin America, and said Q3 would test price realization.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SDA Global\u2019s 18.6% EBIT margin was well above the 11.9%\u201312% margin cited in the preview. October U.S. orders were also up about 40%, although management said seasonal demand had shifted from Q3 into Q4 rather than describing the entire increase as incremental demand.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSDA Global delivered an 18.6% EBIT margin with U.S. October orders up approximately 40% year-over-year as seasonal demand shifted from Q3 into Q4, supporting double-digit full-year growth.\u201d",
+      "expectation_evidence": "\u201cSDA (KitchenAid) ran 11.9\u201312% EBIT margin with 16% US sell-through growth,\u201d and the preview expected trade-inventory normalization in Q3.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The footprint program is now quantified at $290 million in structural cost benefits, but most are expected in 2027 rather than landing in Q4. The preview mentioned Q4 realization as a possible bullish signal, so the longer timing tempers the benefit even as the scale and completed distribution-center reduction are concrete positives.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManufacturing and supply chain footprint actions are expected to deliver $290 million in structural cost benefits, largely realized in 2027, with a completed 25% reduction in local distribution center count.\u201d",
+      "expectation_evidence": "The preview\u2019s bull-case signals included \u201cAmana/Rio Claro/Ramos footprint savings confirmed as landing in Q4.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Whirlpool reported Q3 net sales of $3.7 billion, below the preview\u2019s $3.91 billion consensus (and the $3.96 billion alternate estimate). That is a material revenue shortfall.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 net sales were $3.7 billion\u201d amid \u201csofter North American industry demand.\u201d",
+      "expectation_evidence": "\u201cNet sales | $3.91B\u201d and \u201cNet sales (alt.) | $3.96B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Ongoing EPS was a loss of $0.21 rather than the preview\u2019s anchored expectation of $0.78, a sharp miss that also fell below the preview\u2019s older $0.93\u2013$1.01 alternatives.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOngoing EPS of negative $0.21.\u201d",
+      "expectation_evidence": "\u201cAnchor to ~$0.78\u2013$0.85; treat $1.00 as the stale print.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "The full-year outlook now calls for a 2.0%\u20132.2% ongoing EBIT margin, far below the roughly 4.0% margin in the prior guidance cited in the preview. Revenue is also now expected to decline about 1.5%, rather than the prior roughly $15.0 billion sales outlook.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cFull year 2026 guidance was cut,\u201d with \u201crevenue decline of approximately 1.5%\u201d and \u201congoing EBIT margin of 2% to 2.2%.\u201d",
+      "expectation_evidence": "The preview lists the prior August guidance as \u201csales ~$15.0B, EBIT margin ~4.0%\u201d and says a guide cut was largely anticipated, with a base-case EPS guide reset to \u201c~$1.75\u2013$2.25.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Q3 ongoing EBIT margin improved sequentially, but only to 2.6% rather than the roughly 4.1% margin implied by the preview\u2019s consensus EPS and sales. The reported shortfall was attributed to raw-material, fuel, and logistics inflation.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOngoing EBIT margin improved sequentially 80 basis points to 2.6%, but fell short of the expected larger step-up due to raw material, fuel, and logistics cost inflation.\u201d",
+      "expectation_evidence": "\u201cConsensus EPS of $0.78 on $3.91B back-solves to roughly 4.1% ongoing EBIT margin \u2014 a ~230bp sequential jump in one quarter.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Q3 consumed about $1.1 billion of free cash flow, with no visible quarterly cash progress against the preview\u2019s expectation for Q3 working-capital evidence. Full-year FCF is guided to only approximately $300 million rather than the prior \u201c> $300M\u201d target, and achieving it now requires another $150 million of working capital beyond normalization.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 free cash flow was a consumption of approximately $1.1 billion\u201d; \u201cFull year free cash flow is guided to approximately $300 million (~2% of net sales), requiring an additional $150 million of working capital beyond normalization.\u201d",
+      "expectation_evidence": "\u201cFY guide is >$300M FCF\u201d and \u201ca reiterated net-debt target with visible Q3 working-capital progress is the single most bullish thing in the release.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "The cash shortfall included an unexpected $150 million receivable exposure to bankrupt Brazilian retailer Grupo Casas Bahia. Management expects to collect about $100 million in Q4, leaving collection timing and the remainder unresolved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 cash consumption was \u201churt by ~$150 million in receivables from bankrupt Brazilian retailer Grupo Casas Bahia, of which ~$100 million is expected to be collected in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Despite the cash consumption, Whirlpool lowered its year-end net-debt target to below $4.5 billion from below $5 billion. That is better than the preview\u2019s already closely watched expectation of merely reiterating the under-$5-billion target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement cut year-end net debt guidance to below $4.5 billion from the prior target of less than $5 billion,\u201d with \u201cover $3 billion in available liquidity\u201d and no major maturities until 2028.",
+      "expectation_evidence": "The preview identifies a \u201cstated target of <$5.0B by year-end\u201d and says \u201creiterating net-debt target with visible Q3 cash proof\u201d would be bullish.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Net tariffs were a 225-basis-point headwind, slightly worse than the preview\u2019s reference point of a 200-basis-point Q2 headwind and its expectation of similar Q3 and Q4 levels. This is a modest escalation rather than a major departure from the preview\u2019s tariff outlook.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet tariffs were a 225 basis point headwind in the quarter, driven by incremental Section 232 tariffs in the U.S.\u201d",
+      "expectation_evidence": "\u201cA 200bp headwind in Q2; management guided \u2018similar levels in Q3 and Q4, plus/minus.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 8,
+      "description": "Whirlpool announced additional price increases\u20147% in North America and up to 10% in Latin America\u2014beyond the increases already discussed in the preview. The benefit is delayed, however: management said Q4 impact would be limited and the increases would fully ramp into 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdditional price increases of 7% in North America (effective November 1 in Canada, December 3 in the U.S.) and up to 10% in Latin America, with limited Q4 impact and full ramp into 2027.\u201d",
+      "expectation_evidence": "The preview described prior increases of \u201c>10%\u201d in April, \u201c4% list increase in July,\u201d and \u201c~5% August price actions\u201d in Latin America, and said Q3 would test price realization.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 9,
+      "description": "SDA Global\u2019s 18.6% EBIT margin was well above the 11.9%\u201312% margin cited in the preview. October U.S. orders were also up about 40%, although management said seasonal demand had shifted from Q3 into Q4 rather than describing the entire increase as incremental demand.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSDA Global delivered an 18.6% EBIT margin with U.S. October orders up approximately 40% year-over-year as seasonal demand shifted from Q3 into Q4, supporting double-digit full-year growth.\u201d",
+      "expectation_evidence": "\u201cSDA (KitchenAid) ran 11.9\u201312% EBIT margin with 16% US sell-through growth,\u201d and the preview expected trade-inventory normalization in Q3.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 10,
+      "description": "The footprint program is now quantified at $290 million in structural cost benefits, but most are expected in 2027 rather than landing in Q4. The preview mentioned Q4 realization as a possible bullish signal, so the longer timing tempers the benefit even as the scale and completed distribution-center reduction are concrete positives.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManufacturing and supply chain footprint actions are expected to deliver $290 million in structural cost benefits, largely realized in 2027, with a completed 25% reduction in local distribution center count.\u201d",
+      "expectation_evidence": "The preview\u2019s bull-case signals included \u201cAmana/Rio Claro/Ramos footprint savings confirmed as landing in Q4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

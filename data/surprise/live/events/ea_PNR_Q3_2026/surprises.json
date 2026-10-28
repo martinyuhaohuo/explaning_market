@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Pentair reported adjusted EPS of $1.18, well above the preview\u2019s $1.07 consensus and the $1.05\u2013$1.08 guidance range. The beat was substantially larger than the preview\u2019s in-line-to-slightly-soft base case.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS of $1.18 significantly exceeded the company's guidance range of $1.05 to $1.08.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Consensus: $1.07\u201d; the preview also says the \u201cprint itself is nearly pre-ordained\u201d and its base case is \u201cin line with guide.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Pool sales fell 18%, a much smaller decline than the preview\u2019s expected 25% decline and $266 million estimate. Management said the completed destock, rather than weak demand, was the primary driver; the roughly $280 million destock was larger than the preview\u2019s approximately $250 million estimate, but it was completed by the end of Q3.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPool sales declined 18% year-over-year to $291 million \u2026 driven primarily by the now-completed channel inventory destock rather than weak demand\u201d; the destock \u201ctotaled roughly $280 million across Q2 and Q3.\u201d",
+      "expectation_evidence": "Pool consensus was \u201c$266M\u201d and \u201c\u221225.0%\u201d; the preview highlighted whether destocking was \u201cactually over\u201d and said the expected FY impact was \u201c~$250M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted operating income was stronger than the preview\u2019s implied expectation: the July guidance called for a 14\u201316% decline, while the reported $242 million compares with $263 million a year earlier, a decline of about 8%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating income of $242 million.\u201d",
+      "expectation_evidence": "The consensus table reports adjusted operating income \u201cDown 14\u201316%\u201d; Q3 FY2025 adjusted operating income was \u201c$263M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Tariff refunds were much smaller than the preview\u2019s illustrative expectation for a refund-supported quarter, and management expects none in Q4. That leaves a roughly $43 million headwind to repeat in 2027, making the EPS beat less dependent on refunds but creating a larger future comparison headwind.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 results benefited from only $8 million in tariff refunds versus $35 million in Q2, and management expects no further refunds in Q4, creating a ~$43 million headwind to repeat in 2027.\u201d",
+      "expectation_evidence": "The preview warned that \u201ca $1.07 \u2018in-line\u2019 print built on $20M+ of refunds is a lower-quality beat\u201d; it also cited a FY expectation of \u201c$35\u2013$50M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Water Solutions delivered strong profit and margin growth despite only $6 million of tariff refunds: segment income rose 16% and ROS expanded 370 basis points to 29%. This was better than the preview\u2019s concern that unusually high prior-quarter margins might not prove durable once refunds faded.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWater Solutions sales grew 1% to $422 million with segment income up 16% to $121 million and ROS expanding 370 bps to 29%, aided by $6 million in tariff refunds and 4% commercial growth.\u201d",
+      "expectation_evidence": "The preview flagged \u201cMargin durability ex-Pool, and how much is tariff refunds,\u201d noting Q2 margins were \u201cflattered by ~$35M of IEEPA tariff refunds.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Flow sales were materially below the preview\u2019s estimate, and management attributed the shortfall to delayed food and beverage spending. However, segment income and ROS still improved, so the miss was concentrated in revenue rather than profitability.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFlow sales rose 4% to $262 million with segment income up 15% and ROS expanding 250 bps to 26%, though results came in slightly below expectations due to delayed food and beverage spending.\u201d",
+      "expectation_evidence": "The preview estimated Flow sales of \u201c$274M\u201d and \u201c+8.9%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2027 Pool outlook was slightly below the preview\u2019s roughly 16% growth framing: management projected about 14% growth. But it said that growth could be achieved with flat sell-through and no market recovery, offering support for the forecast despite the preview\u2019s concern that a flat market could undermine it.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement expects Pool to deliver approximately $180 million of year-over-year sales growth (about 14%) in 2027 even assuming flat sell-through of ~$1.45 billion and no market recovery.\u201d",
+      "expectation_evidence": "The preview cited \u201c~$1.45B of 2027 Pool revenue\u201d versus ~$1.25B in 2026, \u201croughly +16%,\u201d and highlighted whether that framework would survive a flat pool market.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Taco financing left pro forma net leverage slightly higher than the preview\u2019s expected level, and the stated deleveraging target was less aggressive: about 2.5x leverage and a 1.5\u20132x goal, rather than approximately 2.4x at close and a sub-1.5x target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTaco was financed with $1.4 billion in term loan debt at ~5.25% interest, raising pro forma net leverage to ~2.5x with a plan to delever to 1.5-2x over the next 24 months.\u201d",
+      "expectation_evidence": "The preview expected \u201c~2.4x at Taco close\u201d and \u201ca sub-1.5x target within two years.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Pentair reported adjusted EPS of $1.18, well above the preview\u2019s $1.07 consensus and the $1.05\u2013$1.08 guidance range. The beat was substantially larger than the preview\u2019s in-line-to-slightly-soft base case.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 adjusted EPS of $1.18 significantly exceeded the company's guidance range of $1.05 to $1.08.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Consensus: $1.07\u201d; the preview also says the \u201cprint itself is nearly pre-ordained\u201d and its base case is \u201cin line with guide.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Pool sales fell 18%, a much smaller decline than the preview\u2019s expected 25% decline and $266 million estimate. Management said the completed destock, rather than weak demand, was the primary driver; the roughly $280 million destock was larger than the preview\u2019s approximately $250 million estimate, but it was completed by the end of Q3.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPool sales declined 18% year-over-year to $291 million \u2026 driven primarily by the now-completed channel inventory destock rather than weak demand\u201d; the destock \u201ctotaled roughly $280 million across Q2 and Q3.\u201d",
+      "expectation_evidence": "Pool consensus was \u201c$266M\u201d and \u201c\u221225.0%\u201d; the preview highlighted whether destocking was \u201cactually over\u201d and said the expected FY impact was \u201c~$250M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted operating income was stronger than the preview\u2019s implied expectation: the July guidance called for a 14\u201316% decline, while the reported $242 million compares with $263 million a year earlier, a decline of about 8%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating income of $242 million.\u201d",
+      "expectation_evidence": "The consensus table reports adjusted operating income \u201cDown 14\u201316%\u201d; Q3 FY2025 adjusted operating income was \u201c$263M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Tariff refunds were much smaller than the preview\u2019s illustrative expectation for a refund-supported quarter, and management expects none in Q4. That leaves a roughly $43 million headwind to repeat in 2027, making the EPS beat less dependent on refunds but creating a larger future comparison headwind.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 results benefited from only $8 million in tariff refunds versus $35 million in Q2, and management expects no further refunds in Q4, creating a ~$43 million headwind to repeat in 2027.\u201d",
+      "expectation_evidence": "The preview warned that \u201ca $1.07 \u2018in-line\u2019 print built on $20M+ of refunds is a lower-quality beat\u201d; it also cited a FY expectation of \u201c$35\u2013$50M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 4,
+      "description": "Water Solutions delivered strong profit and margin growth despite only $6 million of tariff refunds: segment income rose 16% and ROS expanded 370 basis points to 29%. This was better than the preview\u2019s concern that unusually high prior-quarter margins might not prove durable once refunds faded.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWater Solutions sales grew 1% to $422 million with segment income up 16% to $121 million and ROS expanding 370 bps to 29%, aided by $6 million in tariff refunds and 4% commercial growth.\u201d",
+      "expectation_evidence": "The preview flagged \u201cMargin durability ex-Pool, and how much is tariff refunds,\u201d noting Q2 margins were \u201cflattered by ~$35M of IEEPA tariff refunds.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "Flow sales were materially below the preview\u2019s estimate, and management attributed the shortfall to delayed food and beverage spending. However, segment income and ROS still improved, so the miss was concentrated in revenue rather than profitability.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFlow sales rose 4% to $262 million with segment income up 15% and ROS expanding 250 bps to 26%, though results came in slightly below expectations due to delayed food and beverage spending.\u201d",
+      "expectation_evidence": "The preview estimated Flow sales of \u201c$274M\u201d and \u201c+8.9%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "The 2027 Pool outlook was slightly below the preview\u2019s roughly 16% growth framing: management projected about 14% growth. But it said that growth could be achieved with flat sell-through and no market recovery, offering support for the forecast despite the preview\u2019s concern that a flat market could undermine it.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement expects Pool to deliver approximately $180 million of year-over-year sales growth (about 14%) in 2027 even assuming flat sell-through of ~$1.45 billion and no market recovery.\u201d",
+      "expectation_evidence": "The preview cited \u201c~$1.45B of 2027 Pool revenue\u201d versus ~$1.25B in 2026, \u201croughly +16%,\u201d and highlighted whether that framework would survive a flat pool market.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Taco financing left pro forma net leverage slightly higher than the preview\u2019s expected level, and the stated deleveraging target was less aggressive: about 2.5x leverage and a 1.5\u20132x goal, rather than approximately 2.4x at close and a sub-1.5x target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTaco was financed with $1.4 billion in term loan debt at ~5.25% interest, raising pro forma net leverage to ~2.5x with a plan to delever to 1.5-2x over the next 24 months.\u201d",
+      "expectation_evidence": "The preview expected \u201c~2.4x at Taco close\u201d and \u201ca sub-1.5x target within two years.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

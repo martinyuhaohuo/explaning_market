@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Adjusted EPS was expected around $1.19 and within the $1.10\u2013$1.30 guidance range, but Rogers reported $1.39, above even the guidance high end. That is a substantial upside gap.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Adjusted EPS increased 54% year-over-year to $1.39, above the high end of guidance.",
+      "expectation_evidence": "Consensus adjusted EPS was $1.19; Q3 guidance was $1.10\u2013$1.30.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview\u2019s base case put Q4 revenue at $235\u2013245 million, with roughly $240 million implied by full-year consensus. Rogers guided to $215\u2013225 million, a materially lower outlook, although the preview had identified a guide in this range as a downside scenario.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Q4 revenue guidance is $215\u2013225 million, with a sequential decline on seasonality.",
+      "expectation_evidence": "The preview\u2019s base case was Q4 guidance of $235\u2013245 million and it flagged the guide against roughly $240 million implied by FY26 consensus; it also described $215\u2013225 million as a possible downside case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected roughly 5% annual organic growth, while management now expects about 9% organic growth in both Q3 and Q4. That is a faster near-term growth pace than the Investor Day target suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management now expects organic growth of about 9% in Q3 and Q4, running ahead of the approximately 5% annual organic growth target set at Investor Day.",
+      "expectation_evidence": "The preview cited the recent Investor Day growth plan and described the quarter as well-telegraphed, but did not anticipate organic growth running at about 9% in both Q3 and Q4.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected a first design-win checkpoint and revenue beginning in the second half of 2027. The call disclosed two sizable new wins, with one already starting a slow ramp in Q4 2026 and expected to reach full volume by Q2 2027; the call did not specify that these wins were data-center-related.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Two sizable new design wins are expected to generate revenue in Q2\u2013Q3 2027; one has begun a slow ramp in Q4 2026 and is expected to reach full volume by Q2 2027.",
+      "expectation_evidence": "The preview said management had expected first AI data-center design wins within two quarters, with revenue starting in 2H 2027.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue was expected at $238 million, exactly the guidance midpoint, but came in at $236.1 million. The shortfall was modest and management attributed it to supply constraints.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Q3 sales rose 9% to $236.1 million, a couple of million dollars below the guidance midpoint due to supply constraints.",
+      "expectation_evidence": "Consensus net sales were $238.0 million, exactly the $238 million guidance midpoint.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA was close to the roughly $47 million expectation, but its margin reached 20.2%, above the approximately 19.8% expected. This also exceeded the preview\u2019s anticipated year-over-year margin expansion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Adjusted EBITDA grew 28% to $47.7 million, with margin expanding 300 basis points to 20.2%.",
+      "expectation_evidence": "The preview expected approximately $47 million of adjusted EBITDA at an approximately 19.8% margin, with about 250 basis points of year-over-year margin expansion.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin was expected around 33.7%, but reached 34.2%, the top of the company\u2019s guidance range. This was a better result than the consensus midpoint, despite rising commodity costs.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Gross margin reached 34.2%, up 70 basis points year-over-year, driven by higher volume and mix and partially offset by rising commodity costs.",
+      "expectation_evidence": "The preview put consensus gross margin at about 33.7% and noted a guidance range of 33.2%\u201334.2%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview highlighted the balance sheet and free cash flow but did not anticipate a quarterly share repurchase. Rogers bought back $9.3 million of shares while cash and short-term investments still increased by $25 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company repurchased $9.3 million of shares in Q3 and grew cash and short-term investments by $25 million to $236.4 million, with free cash flow of $35.4 million.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Adjusted EPS was expected around $1.19 and within the $1.10\u2013$1.30 guidance range, but Rogers reported $1.39, above even the guidance high end. That is a substantial upside gap.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Adjusted EPS increased 54% year-over-year to $1.39, above the high end of guidance.",
+      "expectation_evidence": "Consensus adjusted EPS was $1.19; Q3 guidance was $1.10\u2013$1.30.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The preview\u2019s base case put Q4 revenue at $235\u2013245 million, with roughly $240 million implied by full-year consensus. Rogers guided to $215\u2013225 million, a materially lower outlook, although the preview had identified a guide in this range as a downside scenario.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Q4 revenue guidance is $215\u2013225 million, with a sequential decline on seasonality.",
+      "expectation_evidence": "The preview\u2019s base case was Q4 guidance of $235\u2013245 million and it flagged the guide against roughly $240 million implied by FY26 consensus; it also described $215\u2013225 million as a possible downside case.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The preview expected roughly 5% annual organic growth, while management now expects about 9% organic growth in both Q3 and Q4. That is a faster near-term growth pace than the Investor Day target suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management now expects organic growth of about 9% in Q3 and Q4, running ahead of the approximately 5% annual organic growth target set at Investor Day.",
+      "expectation_evidence": "The preview cited the recent Investor Day growth plan and described the quarter as well-telegraphed, but did not anticipate organic growth running at about 9% in both Q3 and Q4.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The preview expected a first design-win checkpoint and revenue beginning in the second half of 2027. The call disclosed two sizable new wins, with one already starting a slow ramp in Q4 2026 and expected to reach full volume by Q2 2027; the call did not specify that these wins were data-center-related.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Two sizable new design wins are expected to generate revenue in Q2\u2013Q3 2027; one has begun a slow ramp in Q4 2026 and is expected to reach full volume by Q2 2027.",
+      "expectation_evidence": "The preview said management had expected first AI data-center design wins within two quarters, with revenue starting in 2H 2027.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 4,
+      "description": "Revenue was expected at $238 million, exactly the guidance midpoint, but came in at $236.1 million. The shortfall was modest and management attributed it to supply constraints.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Q3 sales rose 9% to $236.1 million, a couple of million dollars below the guidance midpoint due to supply constraints.",
+      "expectation_evidence": "Consensus net sales were $238.0 million, exactly the $238 million guidance midpoint.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Adjusted EBITDA was close to the roughly $47 million expectation, but its margin reached 20.2%, above the approximately 19.8% expected. This also exceeded the preview\u2019s anticipated year-over-year margin expansion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Adjusted EBITDA grew 28% to $47.7 million, with margin expanding 300 basis points to 20.2%.",
+      "expectation_evidence": "The preview expected approximately $47 million of adjusted EBITDA at an approximately 19.8% margin, with about 250 basis points of year-over-year margin expansion.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "Gross margin was expected around 33.7%, but reached 34.2%, the top of the company\u2019s guidance range. This was a better result than the consensus midpoint, despite rising commodity costs.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Gross margin reached 34.2%, up 70 basis points year-over-year, driven by higher volume and mix and partially offset by rising commodity costs.",
+      "expectation_evidence": "The preview put consensus gross margin at about 33.7% and noted a guidance range of 33.2%\u201334.2%.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "The preview highlighted the balance sheet and free cash flow but did not anticipate a quarterly share repurchase. Rogers bought back $9.3 million of shares while cash and short-term investments still increased by $25 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company repurchased $9.3 million of shares in Q3 and grew cash and short-term investments by $25 million to $236.4 million, with free cash flow of $35.4 million.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Comparable EPS was $0.91, above the preview\u2019s $0.88 consensus, and grew 11% year over year versus the roughly 6\u20137% growth implied by that estimate. The beat was modest in dollars, though the reported growth was stronger than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 comparable EPS was $0.91, an 11% increase that included a 2-point currency tailwind.\u201d",
+      "expectation_evidence": "\u201cComparable EPS $0.88\u201d and \u201cY/Y +6.1% to +7.4%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Organic revenue growth reached 7%, above the preview\u2019s estimated range of about 3.3% to 5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOrganic revenue grew 7%.\u201d",
+      "expectation_evidence": "\u201cOrganic revenue growth ~+3.3% to +5% (est. range).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Unit case volume grew 5%, beating the preview\u2019s roughly 3% buy-side framing and showing stronger overall volume than the preview\u2019s base case.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUnit case volume grew 5%.\u201d",
+      "expectation_evidence": "\u201cUnit case volume ~+3% (buy-side framing)\u201d and the base scenario expected \u201cVolume +3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Comparable operating margin expanded about 110 basis points, ahead of the preview\u2019s roughly 60-basis-point implied expansion. Comparable gross margin also rose about 170 basis points, despite the preview\u2019s focus on potential cost pressures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComparable gross margin expanded approximately 170 basis points and comparable operating margin expanded approximately 110 basis points, aided by underlying improvement, currency tailwinds, and the Nigeria finished-goods divestiture.\u201d",
+      "expectation_evidence": "\u201cComp. operating margin ~32.5% (implied)\u201d versus \u201c31.9%\u201d a year earlier, or about \u201c+60bps\u201d; the preview also flagged cane sugar and aluminum input costs as margin risks.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised the full-year comparable EPS growth outlook to at least 11%, above the preview\u2019s 9\u201310% prior guide and its expectation that management might reaffirm that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance to \u2026 comparable EPS growth of at least 11% versus the $3 base in 2025.\u201d",
+      "expectation_evidence": "The preview said the existing guide was \u201c9\u201310%\u201d and that \u201creaffirm at 9\u201310% is the bar\u201d; a raise \u201cabove 10%\u201d was its bull scenario.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year free cash flow guidance rose to at least $13 billion, above the preview\u2019s approximately $12.4 billion outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 free cash flow guidance was raised to at least $13 billion, with year-to-date free cash flow of $11.4 billion already exceeding the prior year.\u201d",
+      "expectation_evidence": "\u201cFCF ~$12.4B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "North America volume was flat rather than positive, missing the preview\u2019s base-case expectation of positive regional volume. The call cited holiday timing and finished-goods challenges, although volume improved sequentially during the quarter.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth America volume was flat, hurt by July 4 holiday timing and finished-goods challenges (including Topo Chico and BodyArmor comparisons), though volume improved sequentially each month in the quarter.\u201d",
+      "expectation_evidence": "The base scenario expected \u201cNA volume positive\u201d; the preview also called North America volume sign a key catalyst.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Group price/mix was only 1%, down from the preview\u2019s cited Q2 result of 2% and consistent with the concern that growth was shifting toward volume at the expense of price/mix. The reported 3-point unfavorable mix offset most of the 4 points of pricing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPrice/mix grew only 1%, as 4 points of pricing were offset by 3 points of unfavorable mix from geographic, category, and investment-timing factors\u2014potentially one of the lowest price/mix years in a decade.\u201d",
+      "expectation_evidence": "The preview flagged \u201cPrice/mix vs. concentrate sales split, group-wide\u201d and said \u201cthinning price/mix\u201d would indicate affordability pressure; Q2 price/mix was \u201c+2%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company reported a 22nd consecutive quarter of global value share gains, while the preview highlighted competitive losses in India as a vulnerability. India\u2019s top 10 brands also grew double digits, though that growth does not by itself establish that India\u2019s share losses reversed.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company delivered its 22nd consecutive quarter of global value share gains, with India's top 10 brands all growing double digits and Sprite up nearly 20% in the region.\u201d",
+      "expectation_evidence": "The preview said APAC \u201clost value share in NARTD, driven by competitive losses in India.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said net debt leverage was only 1.3x EBITDA, below the 2.0\u20132.5x target range, giving the company optionality ahead of the pending IRS decision. The preview flagged the IRS appeal but did not identify this balance-sheet flexibility.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet debt leverage stands at 1.3x EBITDA, below the 2.0\u20132.5x target range, giving the company optionality ahead of a pending IRS court decision expected in the coming months.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Comparable EPS was $0.91, above the preview\u2019s $0.88 consensus, and grew 11% year over year versus the roughly 6\u20137% growth implied by that estimate. The beat was modest in dollars, though the reported growth was stronger than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 comparable EPS was $0.91, an 11% increase that included a 2-point currency tailwind.\u201d",
+      "expectation_evidence": "\u201cComparable EPS $0.88\u201d and \u201cY/Y +6.1% to +7.4%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Organic revenue growth reached 7%, above the preview\u2019s estimated range of about 3.3% to 5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOrganic revenue grew 7%.\u201d",
+      "expectation_evidence": "\u201cOrganic revenue growth ~+3.3% to +5% (est. range).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Unit case volume grew 5%, beating the preview\u2019s roughly 3% buy-side framing and showing stronger overall volume than the preview\u2019s base case.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUnit case volume grew 5%.\u201d",
+      "expectation_evidence": "\u201cUnit case volume ~+3% (buy-side framing)\u201d and the base scenario expected \u201cVolume +3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Comparable operating margin expanded about 110 basis points, ahead of the preview\u2019s roughly 60-basis-point implied expansion. Comparable gross margin also rose about 170 basis points, despite the preview\u2019s focus on potential cost pressures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cComparable gross margin expanded approximately 170 basis points and comparable operating margin expanded approximately 110 basis points, aided by underlying improvement, currency tailwinds, and the Nigeria finished-goods divestiture.\u201d",
+      "expectation_evidence": "\u201cComp. operating margin ~32.5% (implied)\u201d versus \u201c31.9%\u201d a year earlier, or about \u201c+60bps\u201d; the preview also flagged cane sugar and aluminum input costs as margin risks.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Management raised the full-year comparable EPS growth outlook to at least 11%, above the preview\u2019s 9\u201310% prior guide and its expectation that management might reaffirm that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement raised full-year 2026 guidance to \u2026 comparable EPS growth of at least 11% versus the $3 base in 2025.\u201d",
+      "expectation_evidence": "The preview said the existing guide was \u201c9\u201310%\u201d and that \u201creaffirm at 9\u201310% is the bar\u201d; a raise \u201cabove 10%\u201d was its bull scenario.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Full-year free cash flow guidance rose to at least $13 billion, above the preview\u2019s approximately $12.4 billion outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 free cash flow guidance was raised to at least $13 billion, with year-to-date free cash flow of $11.4 billion already exceeding the prior year.\u201d",
+      "expectation_evidence": "\u201cFCF ~$12.4B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "North America volume was flat rather than positive, missing the preview\u2019s base-case expectation of positive regional volume. The call cited holiday timing and finished-goods challenges, although volume improved sequentially during the quarter.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth America volume was flat, hurt by July 4 holiday timing and finished-goods challenges (including Topo Chico and BodyArmor comparisons), though volume improved sequentially each month in the quarter.\u201d",
+      "expectation_evidence": "The base scenario expected \u201cNA volume positive\u201d; the preview also called North America volume sign a key catalyst.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Group price/mix was only 1%, down from the preview\u2019s cited Q2 result of 2% and consistent with the concern that growth was shifting toward volume at the expense of price/mix. The reported 3-point unfavorable mix offset most of the 4 points of pricing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPrice/mix grew only 1%, as 4 points of pricing were offset by 3 points of unfavorable mix from geographic, category, and investment-timing factors\u2014potentially one of the lowest price/mix years in a decade.\u201d",
+      "expectation_evidence": "The preview flagged \u201cPrice/mix vs. concentrate sales split, group-wide\u201d and said \u201cthinning price/mix\u201d would indicate affordability pressure; Q2 price/mix was \u201c+2%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 8,
+      "description": "The company reported a 22nd consecutive quarter of global value share gains, while the preview highlighted competitive losses in India as a vulnerability. India\u2019s top 10 brands also grew double digits, though that growth does not by itself establish that India\u2019s share losses reversed.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company delivered its 22nd consecutive quarter of global value share gains, with India's top 10 brands all growing double digits and Sprite up nearly 20% in the region.\u201d",
+      "expectation_evidence": "The preview said APAC \u201clost value share in NARTD, driven by competitive losses in India.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "Management said net debt leverage was only 1.3x EBITDA, below the 2.0\u20132.5x target range, giving the company optionality ahead of the pending IRS decision. The preview flagged the IRS appeal but did not identify this balance-sheet flexibility.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet debt leverage stands at 1.3x EBITDA, below the 2.0\u20132.5x target range, giving the company optionality ahead of a pending IRS court decision expected in the coming months.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "PACCAR's Q4 gross-margin guide was 14%\u201315%, implying flattish sequential margins, rather than the expansion beyond 14.5% the preview said management had indicated. Management attributed the outlook to production-cost inefficiencies.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 guidance of 14% to 15% reflecting flattish sequential margins due to production cost inefficiencies.\u201d",
+      "expectation_evidence": "\u201cManagement said on the Q2 call that Q4 margins expand beyond 14.5%\u201d; \u201cBuy-side wants 15.0%+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2027 US/Canada Class 8 forecast was a concrete 240,000\u2013280,000 trucks, rather than a possible deferral of specifics to January amid regulatory uncertainty. The upper end is constructive, though the 240,000 lower end is flat with the top of the 2026 forecast range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPACCAR projects the 2027 US/Canada Class 8 market to grow to 240,000-280,000 trucks versus 240,000-260,000 in 2026, signaling a bullish outlook despite uncertainty on non-conformance penalty (NCP) levels.\u201d",
+      "expectation_evidence": "\u201cBase = \u2018we\u2019ll give 2027 guidance in January.\u2019\u201d The preview also said management might hedge to \u201cawaiting clarity.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 deliveries were 40,100, below PACCAR's roughly 42,000-unit company guide, even though they essentially matched the Street's 40,107 estimate. The call attributed the shortfall to supplier constraints.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 deliveries of 40,100 trucks came in below expectations due to supply chain constraints.\u201d",
+      "expectation_evidence": "\u201cDeliveries | 42,000 | Company guide (Jul 28).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The truck-segment result was $570 million, well above the preview's $317 million truck pretax estimate. That is a substantially stronger segment result than the preview's estimate, despite the weaker-than-expected Q4 margin outlook.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTruck segment margin surged from $240 million in December 2025 to $570 million now.\u201d",
+      "expectation_evidence": "\u201cTruck pretax | $317M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "PACCAR Parts' margin declined slightly year over year, contrary to the preview's expectation that it would hold around 30%. The call also described fleets deferring maintenance purchases amid high operating costs and diesel prices, with CDL enforcement taking trucks out of service.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cParts margin declined slightly year-over-year due to mix shift\u201d; elevated operating costs, high diesel prices, and trucks pulled out of service from CDL enforcement \u201cled fleets to defer maintenance purchases.\u201d",
+      "expectation_evidence": "\u201cParts holding ~30% margin at $1.79B is what keeps the 16x forward multiple defensible\u201d; the preview also called for \u201c~29.8% margin.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Financial Services pretax income rose to $138 million, ahead of the preview's $132 million consensus estimate and its roughly $130 million base case. Stable finance margins and higher used-truck pricing supported the result.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFinancial Services pretax income rose 9.4% to $138 million on stable finance margins and higher used truck pricing.\u201d",
+      "expectation_evidence": "\u201cPFS pretax | $132M\u201d; the preview's base case assumed \u201cPFS pretax | $130M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Customers were reported to prefer proven 200-milligram engines with an NCP over adopting unvetted lower-NOx technology, supporting demand for current platforms. That is a more reassuring demand signal amid the regulatory uncertainty the preview identified as a central debate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomers overwhelmingly prefer buying proven 200-milligram engines with an NCP for 2027 rather than adopting unvetted lower-NOx engine technology, keeping demand strong for current platforms.\u201d",
+      "expectation_evidence": "The preview flagged \u201cthe pre-buy question\u201d and said that if management hedged to \u201cawaiting clarity,\u201d it would validate the derating.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "PACCAR generated $2.5 billion of operating cash over nine months, exceeding net income. The preview did not identify cash conversion as a key issue, so this was an additional positive reported metric rather than a result against a stated forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPACCAR generated $2.5 billion in cash from operations over nine months, exceeding net income.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "PACCAR's Q4 gross-margin guide was 14%\u201315%, implying flattish sequential margins, rather than the expansion beyond 14.5% the preview said management had indicated. Management attributed the outlook to production-cost inefficiencies.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 guidance of 14% to 15% reflecting flattish sequential margins due to production cost inefficiencies.\u201d",
+      "expectation_evidence": "\u201cManagement said on the Q2 call that Q4 margins expand beyond 14.5%\u201d; \u201cBuy-side wants 15.0%+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "The 2027 US/Canada Class 8 forecast was a concrete 240,000\u2013280,000 trucks, rather than a possible deferral of specifics to January amid regulatory uncertainty. The upper end is constructive, though the 240,000 lower end is flat with the top of the 2026 forecast range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPACCAR projects the 2027 US/Canada Class 8 market to grow to 240,000-280,000 trucks versus 240,000-260,000 in 2026, signaling a bullish outlook despite uncertainty on non-conformance penalty (NCP) levels.\u201d",
+      "expectation_evidence": "\u201cBase = \u2018we\u2019ll give 2027 guidance in January.\u2019\u201d The preview also said management might hedge to \u201cawaiting clarity.\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 2,
+      "description": "Q3 deliveries were 40,100, below PACCAR's roughly 42,000-unit company guide, even though they essentially matched the Street's 40,107 estimate. The call attributed the shortfall to supplier constraints.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 deliveries of 40,100 trucks came in below expectations due to supply chain constraints.\u201d",
+      "expectation_evidence": "\u201cDeliveries | 42,000 | Company guide (Jul 28).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The truck-segment result was $570 million, well above the preview's $317 million truck pretax estimate. That is a substantially stronger segment result than the preview's estimate, despite the weaker-than-expected Q4 margin outlook.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTruck segment margin surged from $240 million in December 2025 to $570 million now.\u201d",
+      "expectation_evidence": "\u201cTruck pretax | $317M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "PACCAR Parts' margin declined slightly year over year, contrary to the preview's expectation that it would hold around 30%. The call also described fleets deferring maintenance purchases amid high operating costs and diesel prices, with CDL enforcement taking trucks out of service.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cParts margin declined slightly year-over-year due to mix shift\u201d; elevated operating costs, high diesel prices, and trucks pulled out of service from CDL enforcement \u201cled fleets to defer maintenance purchases.\u201d",
+      "expectation_evidence": "\u201cParts holding ~30% margin at $1.79B is what keeps the 16x forward multiple defensible\u201d; the preview also called for \u201c~29.8% margin.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "Financial Services pretax income rose to $138 million, ahead of the preview's $132 million consensus estimate and its roughly $130 million base case. Stable finance margins and higher used-truck pricing supported the result.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFinancial Services pretax income rose 9.4% to $138 million on stable finance margins and higher used truck pricing.\u201d",
+      "expectation_evidence": "\u201cPFS pretax | $132M\u201d; the preview's base case assumed \u201cPFS pretax | $130M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "Customers were reported to prefer proven 200-milligram engines with an NCP over adopting unvetted lower-NOx technology, supporting demand for current platforms. That is a more reassuring demand signal amid the regulatory uncertainty the preview identified as a central debate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomers overwhelmingly prefer buying proven 200-milligram engines with an NCP for 2027 rather than adopting unvetted lower-NOx engine technology, keeping demand strong for current platforms.\u201d",
+      "expectation_evidence": "The preview flagged \u201cthe pre-buy question\u201d and said that if management hedged to \u201cawaiting clarity,\u201d it would validate the derating.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "PACCAR generated $2.5 billion of operating cash over nine months, exceeding net income. The preview did not identify cash conversion as a key issue, so this was an additional positive reported metric rather than a result against a stated forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPACCAR generated $2.5 billion in cash from operations over nine months, exceeding net income.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

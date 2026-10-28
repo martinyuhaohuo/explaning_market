@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_FFIV_Q4_2026",
+  "event_datetime": "2026-10-27T20:30:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-27T23:04:40.288073+00:00",
+  "predictions": [
+    {
+      "identifier_value": "FFIV",
+      "predicted_percentile": 0.5655857514854556
+    }
+  ]
+}

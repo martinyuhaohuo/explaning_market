@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "TNL reported adjusted EPS of $2.21, well above the preview's $2.05\u2013$2.06 consensus and above its $2.15 bull-case threshold. The 23% year-over-year increase also exceeded the preview's 14% implied growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEPS rose 23% to $2.21.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $2.05\u2013$2.06\u201d and \u201cImplied YoY | +14%\u201d; the bull case listed \u201c$2.15+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue reached $1.1 billion, above the preview's $1.08 billion consensus, and grew 5% versus the 3.5% growth implied by consensus. This was a modest top-line beat.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 5% to $1.1 billion.\u201d",
+      "expectation_evidence": "\u201cNet revenue | $1.08B\u201d and \u201cImplied YoY | +3.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Tours grew 7%, faster than the roughly 5% growth the preview said was needed and faster than Q2's 1%. This delivered stronger tour volume than the preview's operational baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTours up 7%.\u201d",
+      "expectation_evidence": "\u201cApplying [the guide midpoint] requires ~210K tours, or ~+5% YoY\u201d; tours had \u201cdecelerated sharply to +1% in Q2.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "VPG fell to $3,286, below the preview's $3,300\u2013$3,350 company guide range, rather than remaining flat to slightly higher. Management attributed the decline to acquisition mix dilution.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cReported volume per guest fell 1% to $3,286 due to acquisition mix dilution.\u201d",
+      "expectation_evidence": "\u201cVPG | $3,300\u2013$3,350\u201d; the preview said this implied \u201cessentially flat-to-+1.4% YoY.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "TNL raised and narrowed full-year guidance toward the top end instead of merely reaffirming the existing range: the EBITDA floor moved from $1.065 billion to $1.07 billion while the high end stayed at $1.085 billion. That is a positive change on the preview's main question about whether management would defend the demanding back-end-loaded outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised and narrowed full-year guidance to the top end,\u201d including EBITDA of \u201c$1.07B\u2013$1.085B.\u201d",
+      "expectation_evidence": "The preview called FY26 EBITDA guidance of \u201c$1,065\u2013$1,085M\u201d the \u201cdominant variable\u201d and said the market would watch whether it was \u201creaffirm[ed], raise[d], or trim[med].\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Travel and Membership revenue was $150 million, about $10 million below the preview's estimate of roughly $160 million; EBITDA was $51 million versus an estimate of about $52 million. The segment's decline therefore proved worse than the preview's already-weak outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe travel and membership segment posted $150 million revenue and $51 million EBITDA amid ongoing top-line decline.\u201d",
+      "expectation_evidence": "The preview estimated \u201cnear $160M revenue and ~$52M EBITDA\u201d if the decline persisted.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "In response to the segment's ongoing decline, TNL announced a cost program affecting about 300 employees, expected to produce roughly $16 million in annualized savings, mostly in 2027. The preview discussed the segment's deterioration but did not anticipate this restructuring or quantified savings plan.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA cost program affecting ~300 employees [is] expected to deliver ~$16 million in annualized savings mostly in 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management provided stronger evidence that the newer brands are scaling: Margaritaville Vacation Club is on pace for over $175 million in annual gross VOI sales, Accor Vacation Club is approaching $50 million in its third year, and new brands are expected to represent about 10% of sales this year. The preview did not quantify or flag this brand contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMargaritaville Vacation Club on pace for over $175 million in annual gross VOI sales,\u201d \u201cAccor Vacation Club approaching $50 million in only its third year,\u201d and \u201cnew brands are expected to be ~10% of total sales mix this year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management outlined a specific source of about $150 million of incremental liquidity in 2027\u2014half from acquired receivables and half from retiring 17 lower-demand properties\u2014and said it would support additional repurchases. This was more concrete and supportive of future buyback capacity than the preview's general expectation of early-2027 commentary.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExpects ~$150 million of incremental liquidity in 2027 (half from acquired receivables, half from retiring 17 lower-demand properties), supporting additional share repurchase capacity.\u201d",
+      "expectation_evidence": "The preview flagged \u201ccapital return and early 2027 framing\u201d and \u201cany preliminary 2027 commentary,\u201d but did not anticipate this liquidity amount or its sources.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "TNL reported adjusted EPS of $2.21, well above the preview's $2.05\u2013$2.06 consensus and above its $2.15 bull-case threshold. The 23% year-over-year increase also exceeded the preview's 14% implied growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEPS rose 23% to $2.21.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $2.05\u2013$2.06\u201d and \u201cImplied YoY | +14%\u201d; the bull case listed \u201c$2.15+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Revenue reached $1.1 billion, above the preview's $1.08 billion consensus, and grew 5% versus the 3.5% growth implied by consensus. This was a modest top-line beat.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 5% to $1.1 billion.\u201d",
+      "expectation_evidence": "\u201cNet revenue | $1.08B\u201d and \u201cImplied YoY | +3.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Tours grew 7%, faster than the roughly 5% growth the preview said was needed and faster than Q2's 1%. This delivered stronger tour volume than the preview's operational baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTours up 7%.\u201d",
+      "expectation_evidence": "\u201cApplying [the guide midpoint] requires ~210K tours, or ~+5% YoY\u201d; tours had \u201cdecelerated sharply to +1% in Q2.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "VPG fell to $3,286, below the preview's $3,300\u2013$3,350 company guide range, rather than remaining flat to slightly higher. Management attributed the decline to acquisition mix dilution.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cReported volume per guest fell 1% to $3,286 due to acquisition mix dilution.\u201d",
+      "expectation_evidence": "\u201cVPG | $3,300\u2013$3,350\u201d; the preview said this implied \u201cessentially flat-to-+1.4% YoY.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "TNL raised and narrowed full-year guidance toward the top end instead of merely reaffirming the existing range: the EBITDA floor moved from $1.065 billion to $1.07 billion while the high end stayed at $1.085 billion. That is a positive change on the preview's main question about whether management would defend the demanding back-end-loaded outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised and narrowed full-year guidance to the top end,\u201d including EBITDA of \u201c$1.07B\u2013$1.085B.\u201d",
+      "expectation_evidence": "The preview called FY26 EBITDA guidance of \u201c$1,065\u2013$1,085M\u201d the \u201cdominant variable\u201d and said the market would watch whether it was \u201creaffirm[ed], raise[d], or trim[med].\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Travel and Membership revenue was $150 million, about $10 million below the preview's estimate of roughly $160 million; EBITDA was $51 million versus an estimate of about $52 million. The segment's decline therefore proved worse than the preview's already-weak outlook.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe travel and membership segment posted $150 million revenue and $51 million EBITDA amid ongoing top-line decline.\u201d",
+      "expectation_evidence": "The preview estimated \u201cnear $160M revenue and ~$52M EBITDA\u201d if the decline persisted.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "In response to the segment's ongoing decline, TNL announced a cost program affecting about 300 employees, expected to produce roughly $16 million in annualized savings, mostly in 2027. The preview discussed the segment's deterioration but did not anticipate this restructuring or quantified savings plan.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA cost program affecting ~300 employees [is] expected to deliver ~$16 million in annualized savings mostly in 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 7,
+      "description": "Management provided stronger evidence that the newer brands are scaling: Margaritaville Vacation Club is on pace for over $175 million in annual gross VOI sales, Accor Vacation Club is approaching $50 million in its third year, and new brands are expected to represent about 10% of sales this year. The preview did not quantify or flag this brand contribution.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMargaritaville Vacation Club on pace for over $175 million in annual gross VOI sales,\u201d \u201cAccor Vacation Club approaching $50 million in only its third year,\u201d and \u201cnew brands are expected to be ~10% of total sales mix this year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Management outlined a specific source of about $150 million of incremental liquidity in 2027\u2014half from acquired receivables and half from retiring 17 lower-demand properties\u2014and said it would support additional repurchases. This was more concrete and supportive of future buyback capacity than the preview's general expectation of early-2027 commentary.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExpects ~$150 million of incremental liquidity in 2027 (half from acquired receivables, half from retiring 17 lower-demand properties), supporting additional share repurchase capacity.\u201d",
+      "expectation_evidence": "The preview flagged \u201ccapital return and early 2027 framing\u201d and \u201cany preliminary 2027 commentary,\u201d but did not anticipate this liquidity amount or its sources.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

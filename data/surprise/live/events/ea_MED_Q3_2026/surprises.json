@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "The preview said the top of the full-year EPS range was a loss of only $0.25 per share; the company instead guided to a full-year GAAP loss of $1.80\u2013$2.05 per share. That is a substantially worse outlook than the preview\u2019s stated expectation.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Full-year 2026 guidance calls for GAAP loss per share of $1.80\u2013$2.05.",
+      "expectation_evidence": "\u201cOn EPS, the top of the FY range (\u2212$0.25) requires roughly +$0.52 of Q4 EPS.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview treated a quantified Catalyst savings target of roughly $15\u201325 million or more, with timing, as a key expected disclosure. The reported facts describe $13.8 million of SG&A charges, a 230-basis-point gross-margin impact, and restructuring actions, but provide no dollar savings target or timing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProject Catalyst restructuring drove $13.8 million of SG&A charges and 230 basis points of gross margin impact,\u201d targeting facility closures, AI efficiencies, software sunsetting, and workforce reductions; no savings target or timing is reported in the facts.",
+      "expectation_evidence": "\u201cA credible incremental number ($15\u201325M+, with timing) is the single largest swing factor.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Active earning coaches fell to about 10,200, below the preview\u2019s 10,300\u201310,800 base range and representing an estimated 12.8% sequential decline from Q2\u2019s 11,700. The preview identified a decline below 8% sequentially as stabilization, so the coach base contracted faster than that benchmark.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cActive earning coaches fell to approximately 10,200 from 19,500 a year earlier,\u201d with management expecting further declines through year-end.",
+      "expectation_evidence": "The base scenario expected \u201c~10,300\u201310,800\u201d; the preview said \u201cDeceleration to <8% q/q (~10,800+) means the base is stabilizing.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted net loss was $2.1 million, or $0.19 per share, better than the preview\u2019s base expectation of a $0.25\u2013$0.40 adjusted loss per share. The reported adjusted loss also beat the cited $0.35 consensus loss.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted net loss was $2.1 million ($0.19 per share) excluding Catalyst charges.\u201d",
+      "expectation_evidence": "The base scenario projected \u201cEPS (ex-items) $(0.25) \u2013 $(0.40)\u201d; the consensus table listed diluted EPS of \u201c$(0.35).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue per active earning coach reached $7,064, slightly above the preview\u2019s expected range of roughly $6,800\u2013$7,000. The preview expected another increase, but the reported level exceeded its upper estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage revenue per active earning coach rose 54.1% year-over-year to $7,064,\u201d with coach productivity up an estimated 8% sequentially.",
+      "expectation_evidence": "The preview expected a fourth increase \u201cto ~$6,800\u20137,000.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview flagged Trilivy traction as an issue to watch but did not forecast adoption on this scale or the reported retention advantage. By September, 95% of active earning coaches were offering the line, and Premier+ retention from the first to second month was 6 percentage points above Premier.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdoption of the new Trilivy Reset product line was rapid, with 95% of active earning coaches offering the line to clients by September, and Premier+ first-to-second-month retention running 6 percentage points higher than Premier.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The preview expected the full-year revenue range to narrow toward $280\u2013$290 million. The company\u2019s $280\u2013$300 million range raised the lower end from the preview\u2019s $270 million guide arithmetic, but retained a $300 million upper end rather than narrowing to the expected range.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 guidance calls for revenue of $280\u2013$300 million.\u201d",
+      "expectation_evidence": "The preview\u2019s guide arithmetic used \u201cFY guidance of $270\u2013300M,\u201d while its base scenario expected the \u201cFY range narrowed toward $280\u2013290M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Top coach leaders investing their own capital through ownership stakes was not anticipated in the preview. Management presented the investments as evidence of field confidence in the 3.0 strategy.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA select group of top coach leaders are investing their own capital through ownership stakes in the company,\u201d which management framed as a \u201cgenerational moment\u201d signaling field confidence in the 3.0 strategy.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview said the top of the full-year EPS range was a loss of only $0.25 per share; the company instead guided to a full-year GAAP loss of $1.80\u2013$2.05 per share. That is a substantially worse outlook than the preview\u2019s stated expectation.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Full-year 2026 guidance calls for GAAP loss per share of $1.80\u2013$2.05.",
+      "expectation_evidence": "\u201cOn EPS, the top of the FY range (\u2212$0.25) requires roughly +$0.52 of Q4 EPS.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "The preview treated a quantified Catalyst savings target of roughly $15\u201325 million or more, with timing, as a key expected disclosure. The reported facts describe $13.8 million of SG&A charges, a 230-basis-point gross-margin impact, and restructuring actions, but provide no dollar savings target or timing.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cProject Catalyst restructuring drove $13.8 million of SG&A charges and 230 basis points of gross margin impact,\u201d targeting facility closures, AI efficiencies, software sunsetting, and workforce reductions; no savings target or timing is reported in the facts.",
+      "expectation_evidence": "\u201cA credible incremental number ($15\u201325M+, with timing) is the single largest swing factor.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Active earning coaches fell to about 10,200, below the preview\u2019s 10,300\u201310,800 base range and representing an estimated 12.8% sequential decline from Q2\u2019s 11,700. The preview identified a decline below 8% sequentially as stabilization, so the coach base contracted faster than that benchmark.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cActive earning coaches fell to approximately 10,200 from 19,500 a year earlier,\u201d with management expecting further declines through year-end.",
+      "expectation_evidence": "The base scenario expected \u201c~10,300\u201310,800\u201d; the preview said \u201cDeceleration to <8% q/q (~10,800+) means the base is stabilizing.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Adjusted net loss was $2.1 million, or $0.19 per share, better than the preview\u2019s base expectation of a $0.25\u2013$0.40 adjusted loss per share. The reported adjusted loss also beat the cited $0.35 consensus loss.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted net loss was $2.1 million ($0.19 per share) excluding Catalyst charges.\u201d",
+      "expectation_evidence": "The base scenario projected \u201cEPS (ex-items) $(0.25) \u2013 $(0.40)\u201d; the consensus table listed diluted EPS of \u201c$(0.35).\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "Revenue per active earning coach reached $7,064, slightly above the preview\u2019s expected range of roughly $6,800\u2013$7,000. The preview expected another increase, but the reported level exceeded its upper estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAverage revenue per active earning coach rose 54.1% year-over-year to $7,064,\u201d with coach productivity up an estimated 8% sequentially.",
+      "expectation_evidence": "The preview expected a fourth increase \u201cto ~$6,800\u20137,000.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "The preview flagged Trilivy traction as an issue to watch but did not forecast adoption on this scale or the reported retention advantage. By September, 95% of active earning coaches were offering the line, and Premier+ retention from the first to second month was 6 percentage points above Premier.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdoption of the new Trilivy Reset product line was rapid, with 95% of active earning coaches offering the line to clients by September, and Premier+ first-to-second-month retention running 6 percentage points higher than Premier.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "The preview expected the full-year revenue range to narrow toward $280\u2013$290 million. The company\u2019s $280\u2013$300 million range raised the lower end from the preview\u2019s $270 million guide arithmetic, but retained a $300 million upper end rather than narrowing to the expected range.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 guidance calls for revenue of $280\u2013$300 million.\u201d",
+      "expectation_evidence": "The preview\u2019s guide arithmetic used \u201cFY guidance of $270\u2013300M,\u201d while its base scenario expected the \u201cFY range narrowed toward $280\u2013290M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Top coach leaders investing their own capital through ownership stakes was not anticipated in the preview. Management presented the investments as evidence of field confidence in the 3.0 strategy.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA select group of top coach leaders are investing their own capital through ownership stakes in the company,\u201d which management framed as a \u201cgenerational moment\u201d signaling field confidence in the 3.0 strategy.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "financing_capital_structure"
+    }
+  ]
+}

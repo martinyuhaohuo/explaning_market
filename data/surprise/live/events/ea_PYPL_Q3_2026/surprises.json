@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 non-GAAP EPS was $1.45, well above the $1.31 consensus and contrary to the company\u2019s prior low-single-digit-decline guidance. The call attributed the beat to stronger transaction margins and lower operating expenses.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS grew 8% to $1.45 in Q3, beating guidance on stronger transaction margins and lower operating expenses.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS $1.31\u201d; company Q3 guidance was a \u201clow-single-digit decline.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "PayPal raised its full-year targets above the preview\u2019s baseline: EPS to approximately $5.60 from approximately $5.38, Transaction Margin Dollars to approximately $15.7 billion from approximately $15.6 billion, and adjusted free cash flow to at least $6.5 billion from at least $6.0 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year guidance to approximately $15.7 billion in Transaction Margin Dollars, approximately $5.60 non-GAAP EPS, and at least $6.5 billion in adjusted free cash flow.\u201d",
+      "expectation_evidence": "FY26 guidance was \u201cnon-GAAP EPS ~$5.38,\u201d \u201cTM$ ~$15.6B,\u201d and \u201cFCF \u2265$6.0B\u201d; the preview\u2019s bull scenario also identified a raise to at least $5.45 EPS and $15.7B TM$ as a stronger outcome.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said 2027 EPS growth should be similar to 2026 and warned investors not to annualize Q3\u2019s strong operating-expense performance because investment is ramping. That was more cautious than the preview\u2019s framing of 2027 as an inflection year.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement is targeting 2027 non-GAAP EPS growth similar to 2026 as it ramps investment, cautioning against annualizing strong second-half OpEx performance.\u201d",
+      "expectation_evidence": "The preview\u2019s base-case management tell was \u201ccontinued framing around 2027 as the inflection year.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Branded Checkout growth was expected to be about 2%, but management said the EU de minimis change was creating a roughly 70-basis-point headwind and keeping growth in the 1%\u20132% range through Q4. That leaves the outcome at or below the preview\u2019s expected pace.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe removal of the EU de minimis tax exemption created about 70 basis points of headwind to Branded Checkout and is expected to persist through Q4, keeping branded growth in the 1%-2% range.\u201d",
+      "expectation_evidence": "Company Q3 guidance was branded checkout \u201c~+2% CN\u201d; the preview also flagged EU regulatory changes as a risk to branded checkout.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Financial Services had become a substantial and fast-growing contributor: it accounted for more than 20% of Transaction Margin Dollars and was growing double digits, with users of those services generating 2\u20135 times higher ARPA. The preview did not identify this contribution or customer economics.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFinancial Services now represent more than 20% of Transaction Margin Dollars in 2026 and are growing double digits, with customers using these services generating 2x-5x higher ARPA.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Venmo Debit Card growth was stronger than the preview\u2019s cited Q2 pace: monthly active accounts were up more than 55% year over year versus Q2\u2019s 50%, and Q3 added a record 1.6 million first-time users.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe Venmo Debit Card reached 6.7 million monthly active accounts, up more than 55% year-over-year, with a record 1.6 million first-time users in Q3.\u201d",
+      "expectation_evidence": "The preview cited Q2 \u201cdebit card MAAs +50%\u201d and flagged Venmo monetization as a key metric to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "PSP/Braintree volume growth was 8%\u201310%, below the preview\u2019s cited Q2 growth rate of 13%; however, value-added-services attach improved from 5% to 6%, a favorable signal against the preview\u2019s concern about pricing pressure and take rate.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPSP/Braintree volume grew 8-10%, with value-added services attach rate increasing to 6% from 5% a year ago.\u201d",
+      "expectation_evidence": "The preview said Q2 PSP growth had accelerated to \u201c+13%\u201d and flagged whether growth was \u201cbeing bought with take rate\u201d amid pricing pressure.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The cost-savings program appeared ahead of the preview\u2019s year-end milestone: management said the Q4 exit run-rate would exceed $700 million, compared with the preview\u2019s expectation of about $400 million landing by year-end. PayPal also reported more than 2,000 headcount reductions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company is on track for at least $1.5 billion in gross run-rate cost savings over 2-3 years, raised its Q4 exit run-rate to more than $700 million, reduced headcount by over 2,000.\u201d",
+      "expectation_evidence": "The preview described the $1.5B gross savings plan as \u201c~$400M landing by end-2026.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 non-GAAP EPS was $1.45, well above the $1.31 consensus and contrary to the company\u2019s prior low-single-digit-decline guidance. The call attributed the beat to stronger transaction margins and lower operating expenses.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-GAAP EPS grew 8% to $1.45 in Q3, beating guidance on stronger transaction margins and lower operating expenses.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EPS $1.31\u201d; company Q3 guidance was a \u201clow-single-digit decline.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "PayPal raised its full-year targets above the preview\u2019s baseline: EPS to approximately $5.60 from approximately $5.38, Transaction Margin Dollars to approximately $15.7 billion from approximately $15.6 billion, and adjusted free cash flow to at least $6.5 billion from at least $6.0 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year guidance to approximately $15.7 billion in Transaction Margin Dollars, approximately $5.60 non-GAAP EPS, and at least $6.5 billion in adjusted free cash flow.\u201d",
+      "expectation_evidence": "FY26 guidance was \u201cnon-GAAP EPS ~$5.38,\u201d \u201cTM$ ~$15.6B,\u201d and \u201cFCF \u2265$6.0B\u201d; the preview\u2019s bull scenario also identified a raise to at least $5.45 EPS and $15.7B TM$ as a stronger outcome.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Management said 2027 EPS growth should be similar to 2026 and warned investors not to annualize Q3\u2019s strong operating-expense performance because investment is ramping. That was more cautious than the preview\u2019s framing of 2027 as an inflection year.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement is targeting 2027 non-GAAP EPS growth similar to 2026 as it ramps investment, cautioning against annualizing strong second-half OpEx performance.\u201d",
+      "expectation_evidence": "The preview\u2019s base-case management tell was \u201ccontinued framing around 2027 as the inflection year.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Branded Checkout growth was expected to be about 2%, but management said the EU de minimis change was creating a roughly 70-basis-point headwind and keeping growth in the 1%\u20132% range through Q4. That leaves the outcome at or below the preview\u2019s expected pace.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe removal of the EU de minimis tax exemption created about 70 basis points of headwind to Branded Checkout and is expected to persist through Q4, keeping branded growth in the 1%-2% range.\u201d",
+      "expectation_evidence": "Company Q3 guidance was branded checkout \u201c~+2% CN\u201d; the preview also flagged EU regulatory changes as a risk to branded checkout.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Financial Services had become a substantial and fast-growing contributor: it accounted for more than 20% of Transaction Margin Dollars and was growing double digits, with users of those services generating 2\u20135 times higher ARPA. The preview did not identify this contribution or customer economics.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFinancial Services now represent more than 20% of Transaction Margin Dollars in 2026 and are growing double digits, with customers using these services generating 2x-5x higher ARPA.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "Venmo Debit Card growth was stronger than the preview\u2019s cited Q2 pace: monthly active accounts were up more than 55% year over year versus Q2\u2019s 50%, and Q3 added a record 1.6 million first-time users.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe Venmo Debit Card reached 6.7 million monthly active accounts, up more than 55% year-over-year, with a record 1.6 million first-time users in Q3.\u201d",
+      "expectation_evidence": "The preview cited Q2 \u201cdebit card MAAs +50%\u201d and flagged Venmo monetization as a key metric to watch.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "PSP/Braintree volume growth was 8%\u201310%, below the preview\u2019s cited Q2 growth rate of 13%; however, value-added-services attach improved from 5% to 6%, a favorable signal against the preview\u2019s concern about pricing pressure and take rate.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPSP/Braintree volume grew 8-10%, with value-added services attach rate increasing to 6% from 5% a year ago.\u201d",
+      "expectation_evidence": "The preview said Q2 PSP growth had accelerated to \u201c+13%\u201d and flagged whether growth was \u201cbeing bought with take rate\u201d amid pricing pressure.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "The cost-savings program appeared ahead of the preview\u2019s year-end milestone: management said the Q4 exit run-rate would exceed $700 million, compared with the preview\u2019s expectation of about $400 million landing by year-end. PayPal also reported more than 2,000 headcount reductions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company is on track for at least $1.5 billion in gross run-rate cost savings over 2-3 years, raised its Q4 exit run-rate to more than $700 million, reduced headcount by over 2,000.\u201d",
+      "expectation_evidence": "The preview described the $1.5B gross savings plan as \u201c~$400M landing by end-2026.\u201d",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

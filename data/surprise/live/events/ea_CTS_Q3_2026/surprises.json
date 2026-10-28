@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "CTS raised FY2026 adjusted EPS guidance to $2.78\u2013$2.88, with the new floor above the preview\u2019s expected $2.72\u2013$2.80+ raise and the new ceiling slightly above its $2.75\u2013$2.85 bull case. The raised floor is the clearest upside relative to the preview\u2019s emphasis on whether guidance would move above $2.70.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to\u2026 adjusted diluted EPS of $2.78\u2013$2.88.\u201d",
+      "expectation_evidence": "\u201cA raise to $2.72\u20132.80+ confirms the margin story is structural\u201d; the bull case expected FY guidance of \u201c$2.75\u20132.85.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin reached 42.2%, well above the preview\u2019s estimated 40.5\u201341.0% and the 41.5% Q2 record it identified as the key level to watch. The size of the margin gain was stronger than the preview\u2019s expected range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin reached a record 42.2%, up 330 basis points year-over-year.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~40.5\u201341.0%\u201d and asked whether \u201c41.5% hold[s].\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said the unusually favorable project mix behind the record margin should normalize in coming quarters. That is a more explicit warning of a pullback than the preview\u2019s hoped-for framing of the record as a possible new baseline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management warned of \u201cnormalization in coming quarters due to an unusually favorable project mix.\u201d",
+      "expectation_evidence": "The preview asked whether the record margin would be \u201cframed as a new baseline rather than a peak.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue was $150 million, about 2.8% above the $145.96 million consensus and at the top of the preview\u2019s bull-case revenue range. The result beat the central expectation, though it was not above the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 5% year-over-year to $150 million.\u201d",
+      "expectation_evidence": "Q3 revenue consensus was \u201c$145.96M\u201d; the bull case was \u201c$150\u2013153M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS of $0.77 exceeded the $0.653 consensus and the preview\u2019s $0.70\u2013$0.74 buy-side anchor, but about $0.04 came from favorable foreign exchange. Excluding that benefit, the result was roughly $0.73, near the top of the preview\u2019s buy-side range rather than a similarly large underlying beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS hit a record $0.77\u2026 including approximately $0.04 of foreign currency favorability.\u201d",
+      "expectation_evidence": "Q3 adjusted EPS consensus was \u201c$0.653\u201d; the preview said buy-side holders were \u201canchored closer to $0.70\u20130.74.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CTS raised FY2026 revenue guidance to $580\u2013$590 million from $565\u2013$585 million. Both ends moved up, although the ranges overlap and the preview did not give a specific expected revised revenue range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to revenue of $580M-$590M.\u201d",
+      "expectation_evidence": "The preview listed existing FY2026 revenue guidance of \u201c$565\u2013585M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Transportation revenue grew 2% year-over-year, better than the preview\u2019s base-case expectation of a 2%\u20135% decline and a reversal from the recent negative trend. The preview had identified a return to growth as an important test for the new CEO.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTransportation [was] up 2%.\u201d",
+      "expectation_evidence": "The base case expected \u201ctransportation -2% to -5%\u201d; the preview also highlighted whether transportation had \u201creturned to growth.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Diversified end-market revenue grew 7%, below the preview\u2019s expected 12%\u201315% and below its stated 10% level for preserving the diversification thesis. The result suggests weaker conversion into sales than the preview anticipated, even as the overall quarter beat revenue consensus.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDiversified end markets [were] up 7%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cDiversified +12\u201315%\u201d and said \u201cdeceleration below ~+10% breaks the central bull thesis.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Aerospace and defense bookings were particularly strong at 1.91 book-to-bill, well above the previously reported 1.23 and a strong signal relative to the preview\u2019s expectation that A&D would strengthen. That booking strength had not yet translated into year-over-year sales growth: A&D sales were down 7%, despite rising 30% sequentially.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAerospace/defense [book-to-bill was] at 1.91\u201d; A&D sales were \u201cdown 7% year-over-year but up 30% sequentially.\u201d",
+      "expectation_evidence": "The preview cited A&D book-to-bill of \u201c1.23\u201d and said A&D would \u201cstrengthen in the second half, supported by bookings, backlog and funding deployment.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Medical bookings weakened sharply: book-to-bill was 0.66, versus the previously reported 1.21, and medical revenue also fell 4% sequentially. That contrasts with the preview\u2019s expectation that medical volumes would normalize and that bookings would convert, although revenue was still up 21% year-over-year.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMedical lagged at 0.66 due to order timing\u201d; medical revenue \u201cgrew 21% year-over-year to $27 million but declined 4% sequentially on order timing.\u201d",
+      "expectation_evidence": "The preview cited medical book-to-bill of \u201c1.21\u201d and said medical therapeutic volumes would \u201cnormalize\u201d; it also expected A&D and medical backlog to ship.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Millar is expected to add about $30 million in annual revenue, above the preview\u2019s estimate of roughly $13\u2013$20 million annualized. CTS also disclosed that the deal is expected to become EPS-accretive in the second half of 2027, a timing detail the preview did not specify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "CTS acquired Millar for \u201capproximately $50 million in cash,\u201d expected to add \u201c~$30 million in annual revenue\u201d and become \u201cEPS accretive in the second half of 2027.\u201d",
+      "expectation_evidence": "The preview estimated Millar\u2019s contribution at \u201c~$13\u201320M annualized\u201d and said revenue contribution was not disclosed.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "CTS raised FY2026 adjusted EPS guidance to $2.78\u2013$2.88, with the new floor above the preview\u2019s expected $2.72\u2013$2.80+ raise and the new ceiling slightly above its $2.75\u2013$2.85 bull case. The raised floor is the clearest upside relative to the preview\u2019s emphasis on whether guidance would move above $2.70.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to\u2026 adjusted diluted EPS of $2.78\u2013$2.88.\u201d",
+      "expectation_evidence": "\u201cA raise to $2.72\u20132.80+ confirms the margin story is structural\u201d; the bull case expected FY guidance of \u201c$2.75\u20132.85.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Gross margin reached 42.2%, well above the preview\u2019s estimated 40.5\u201341.0% and the 41.5% Q2 record it identified as the key level to watch. The size of the margin gain was stronger than the preview\u2019s expected range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin reached a record 42.2%, up 330 basis points year-over-year.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~40.5\u201341.0%\u201d and asked whether \u201c41.5% hold[s].\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Management said the unusually favorable project mix behind the record margin should normalize in coming quarters. That is a more explicit warning of a pullback than the preview\u2019s hoped-for framing of the record as a possible new baseline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management warned of \u201cnormalization in coming quarters due to an unusually favorable project mix.\u201d",
+      "expectation_evidence": "The preview asked whether the record margin would be \u201cframed as a new baseline rather than a peak.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Revenue was $150 million, about 2.8% above the $145.96 million consensus and at the top of the preview\u2019s bull-case revenue range. The result beat the central expectation, though it was not above the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 5% year-over-year to $150 million.\u201d",
+      "expectation_evidence": "Q3 revenue consensus was \u201c$145.96M\u201d; the bull case was \u201c$150\u2013153M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Adjusted EPS of $0.77 exceeded the $0.653 consensus and the preview\u2019s $0.70\u2013$0.74 buy-side anchor, but about $0.04 came from favorable foreign exchange. Excluding that benefit, the result was roughly $0.73, near the top of the preview\u2019s buy-side range rather than a similarly large underlying beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS hit a record $0.77\u2026 including approximately $0.04 of foreign currency favorability.\u201d",
+      "expectation_evidence": "Q3 adjusted EPS consensus was \u201c$0.653\u201d; the preview said buy-side holders were \u201canchored closer to $0.70\u20130.74.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 5,
+      "description": "CTS raised FY2026 revenue guidance to $580\u2013$590 million from $565\u2013$585 million. Both ends moved up, although the ranges overlap and the preview did not give a specific expected revised revenue range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 guidance to revenue of $580M-$590M.\u201d",
+      "expectation_evidence": "The preview listed existing FY2026 revenue guidance of \u201c$565\u2013585M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Transportation revenue grew 2% year-over-year, better than the preview\u2019s base-case expectation of a 2%\u20135% decline and a reversal from the recent negative trend. The preview had identified a return to growth as an important test for the new CEO.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTransportation [was] up 2%.\u201d",
+      "expectation_evidence": "The base case expected \u201ctransportation -2% to -5%\u201d; the preview also highlighted whether transportation had \u201creturned to growth.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "Diversified end-market revenue grew 7%, below the preview\u2019s expected 12%\u201315% and below its stated 10% level for preserving the diversification thesis. The result suggests weaker conversion into sales than the preview anticipated, even as the overall quarter beat revenue consensus.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDiversified end markets [were] up 7%.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cDiversified +12\u201315%\u201d and said \u201cdeceleration below ~+10% breaks the central bull thesis.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "Aerospace and defense bookings were particularly strong at 1.91 book-to-bill, well above the previously reported 1.23 and a strong signal relative to the preview\u2019s expectation that A&D would strengthen. That booking strength had not yet translated into year-over-year sales growth: A&D sales were down 7%, despite rising 30% sequentially.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAerospace/defense [book-to-bill was] at 1.91\u201d; A&D sales were \u201cdown 7% year-over-year but up 30% sequentially.\u201d",
+      "expectation_evidence": "The preview cited A&D book-to-bill of \u201c1.23\u201d and said A&D would \u201cstrengthen in the second half, supported by bookings, backlog and funding deployment.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "Medical bookings weakened sharply: book-to-bill was 0.66, versus the previously reported 1.21, and medical revenue also fell 4% sequentially. That contrasts with the preview\u2019s expectation that medical volumes would normalize and that bookings would convert, although revenue was still up 21% year-over-year.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMedical lagged at 0.66 due to order timing\u201d; medical revenue \u201cgrew 21% year-over-year to $27 million but declined 4% sequentially on order timing.\u201d",
+      "expectation_evidence": "The preview cited medical book-to-bill of \u201c1.21\u201d and said medical therapeutic volumes would \u201cnormalize\u201d; it also expected A&D and medical backlog to ship.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 10,
+      "description": "Millar is expected to add about $30 million in annual revenue, above the preview\u2019s estimate of roughly $13\u2013$20 million annualized. CTS also disclosed that the deal is expected to become EPS-accretive in the second half of 2027, a timing detail the preview did not specify.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "CTS acquired Millar for \u201capproximately $50 million in cash,\u201d expected to add \u201c~$30 million in annual revenue\u201d and become \u201cEPS accretive in the second half of 2027.\u201d",
+      "expectation_evidence": "The preview estimated Millar\u2019s contribution at \u201c~$13\u201320M annualized\u201d and said revenue contribution was not disclosed.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

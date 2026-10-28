@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "The preview looked for another quarter of double-digit Engineered Solutions order growth and a sequential backlog build; instead, orders grew more than 30%, automation backlog rose more than 30% both sequentially and year over year, and book-to-bill reached its highest level in over four years.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEngineered Solutions orders grew more than 30% year-over-year with book-to-bill at its highest level in over four years, and automation backlog grew over 30% both sequentially and year-over-year.\u201d",
+      "expectation_evidence": "\u201cA fourth consecutive quarter of double-digit order growth plus sequential backlog build is the single most bullish thing management can say.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected a full-year EPS raise to reflect operating momentum, but AIT raised the range by only $0.05 at each end and said the change solely reflected a lower share count from buybacks; sales-growth and EBITDA-margin guidance were unchanged.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cModestly raised full-year FY2027 EPS guidance to $11.70-$12.20 (from $11.65-$12.15), solely reflecting a lower share count from buybacks, while maintaining sales growth guidance of 4%-6.5% and EBITDA margin guidance of 12.5%-12.8%.\u201d",
+      "expectation_evidence": "\u201cThe bar is a raise\u201d; the base case also said \u201cGuidance moves to the upper half of the range rather than being lifted outright.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Service Center organic growth came in at 3.5%, below the preview\u2019s 5.4% segment-revenue consensus and its bull-case expectation that the segment would hold at least 5%. Its margin also declined, with LIFO, the prior-year AR provision comparison, and elevated employee health costs contributing to pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cService Center organic sales growth moderated to 3.5% (from 8% last quarter) due to tougher comparisons, with segment EBITDA margin declining 35 basis points to 13.6%.\u201d Management also cited \u201ca 3.3 percentage point headwind to EBITDA growth and over 40 basis point headwind to margins\u201d from higher LIFO expense, the AR provision comparison, and elevated health costs.",
+      "expectation_evidence": "\u201cService Center revenue | $824M | +5.4%\u201d; the bull-case operating requirement was that \u201cService Center holds \u22655% organic (management flagged it may \u2018moderate a little\u2019).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Engineered Solutions delivered 14.1% organic growth and 24% incremental EBITDA margins, exceeding the preview\u2019s segment growth estimate and its expectation for mid-to-high-teens incremental margins; EBITDA margin expanded 120 basis points to 15.1%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEngineered Solutions delivered 14.1% organic sales growth with 24.7% EBITDA growth (24% incremental margins) and 120 basis points of EBITDA margin expansion to 15.1%.\u201d",
+      "expectation_evidence": "\u201cEngineered Solutions revenue | $472M | +13.2%\u201d; the preview said management targets \u201cmid-to-high-teens incremental EBITDA margins at mid-single-digit organic growth.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin expanded despite the expected LIFO drag, and management said the result beat Q1 guidance. That was better than the preview\u2019s risk case in which rising LIFO could make gross-margin expansion difficult if pricing had normalized.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin expanded 25 basis points to 30.4% (nearly 50 basis points excluding a 23 basis point LIFO headwind), beating Q1 guidance.\u201d",
+      "expectation_evidence": "The preview estimated \u201cQ1 FY27 LIFO of ~$6\u20137M\u201d as a \u201c~30\u201335bp gross margin headwind\u201d and said that if pricing normalized while LIFO rose, \u201cgross margin compresses.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview looked for another quarter of double-digit Engineered Solutions order growth and a sequential backlog build; instead, orders grew more than 30%, automation backlog rose more than 30% both sequentially and year over year, and book-to-bill reached its highest level in over four years.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cEngineered Solutions orders grew more than 30% year-over-year with book-to-bill at its highest level in over four years, and automation backlog grew over 30% both sequentially and year-over-year.\u201d",
+      "expectation_evidence": "\u201cA fourth consecutive quarter of double-digit order growth plus sequential backlog build is the single most bullish thing management can say.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "The preview expected a full-year EPS raise to reflect operating momentum, but AIT raised the range by only $0.05 at each end and said the change solely reflected a lower share count from buybacks; sales-growth and EBITDA-margin guidance were unchanged.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cModestly raised full-year FY2027 EPS guidance to $11.70-$12.20 (from $11.65-$12.15), solely reflecting a lower share count from buybacks, while maintaining sales growth guidance of 4%-6.5% and EBITDA margin guidance of 12.5%-12.8%.\u201d",
+      "expectation_evidence": "\u201cThe bar is a raise\u201d; the base case also said \u201cGuidance moves to the upper half of the range rather than being lifted outright.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Service Center organic growth came in at 3.5%, below the preview\u2019s 5.4% segment-revenue consensus and its bull-case expectation that the segment would hold at least 5%. Its margin also declined, with LIFO, the prior-year AR provision comparison, and elevated employee health costs contributing to pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cService Center organic sales growth moderated to 3.5% (from 8% last quarter) due to tougher comparisons, with segment EBITDA margin declining 35 basis points to 13.6%.\u201d Management also cited \u201ca 3.3 percentage point headwind to EBITDA growth and over 40 basis point headwind to margins\u201d from higher LIFO expense, the AR provision comparison, and elevated health costs.",
+      "expectation_evidence": "\u201cService Center revenue | $824M | +5.4%\u201d; the bull-case operating requirement was that \u201cService Center holds \u22655% organic (management flagged it may \u2018moderate a little\u2019).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Engineered Solutions delivered 14.1% organic growth and 24% incremental EBITDA margins, exceeding the preview\u2019s segment growth estimate and its expectation for mid-to-high-teens incremental margins; EBITDA margin expanded 120 basis points to 15.1%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEngineered Solutions delivered 14.1% organic sales growth with 24.7% EBITDA growth (24% incremental margins) and 120 basis points of EBITDA margin expansion to 15.1%.\u201d",
+      "expectation_evidence": "\u201cEngineered Solutions revenue | $472M | +13.2%\u201d; the preview said management targets \u201cmid-to-high-teens incremental EBITDA margins at mid-single-digit organic growth.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Gross margin expanded despite the expected LIFO drag, and management said the result beat Q1 guidance. That was better than the preview\u2019s risk case in which rising LIFO could make gross-margin expansion difficult if pricing had normalized.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGross margin expanded 25 basis points to 30.4% (nearly 50 basis points excluding a 23 basis point LIFO headwind), beating Q1 guidance.\u201d",
+      "expectation_evidence": "The preview estimated \u201cQ1 FY27 LIFO of ~$6\u20137M\u201d as a \u201c~30\u201335bp gross margin headwind\u201d and said that if pricing normalized while LIFO rose, \u201cgross margin compresses.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

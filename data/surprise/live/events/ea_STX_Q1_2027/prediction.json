@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_STX_Q1_2027",
+  "event_datetime": "2026-10-27T21:00:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-28T00:02:37.348033+00:00",
+  "predictions": [
+    {
+      "identifier_value": "STX",
+      "predicted_percentile": 0.5732793215062445
+    }
+  ]
+}

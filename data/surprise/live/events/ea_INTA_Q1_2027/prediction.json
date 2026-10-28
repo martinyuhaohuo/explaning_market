@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_INTA_Q1_2027",
+  "event_datetime": "2026-10-27T21:00:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-28T02:02:31.617342+00:00",
+  "predictions": [
+    {
+      "identifier_value": "INTA",
+      "predicted_percentile": 0.5344784733345208
+    }
+  ]
+}

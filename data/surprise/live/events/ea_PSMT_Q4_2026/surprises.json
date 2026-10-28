@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Q4 diluted EPS was $1.21, below the preview\u2019s $1.26\u2013$1.27 quarterly consensus, despite rising about 19% year over year. Full-year EPS of $5.40 also came in below the preview\u2019s roughly $5.45 projection.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 diluted EPS rose approximately 19% to $1.21 from $1.02\u201d and \u201cfull-year EPS increased 12% to $5.40 from $4.82.\u201d",
+      "expectation_evidence": "\u201cEPS (diluted) | Q4 FY26 Consensus | $1.26\u2013$1.27\u201d; the full-year context says a $1.27 Q4 lands FY26 at \u201c~$5.45 EPS.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The RELEX forecasting and replenishment rollout slipped beyond the previously communicated Q2 FY27 target, and management gave no replacement completion date. The preview did not flag a risk of a further delay.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe RELEX forecasting and replenishment system implementation was delayed beyond the previously communicated Q2 fiscal 2027 target, with no new completion date provided due to process complexity across 13 countries.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Q4 merchandise sales were stronger than the preview\u2019s roughly $1.43 billion estimate, reaching nearly $1.5 billion. The reported growth included a substantial currency tailwind: constant-currency sales growth was 7.8%, while reported growth was 13.8%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 fiscal 2026 net merchandise sales reached nearly $1.5 billion, up 13.8% year-over-year (7.8% in constant currency).\u201d",
+      "expectation_evidence": "\u201cNet merchandise sales | ~$1.43B (est.)\u201d; the preview also said \u201cModest revenue upside is the single highest-confidence call.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "A $14.3 million combination of one-time and allocated costs weighed on Colombia\u2019s operating margin. The preview anticipated Chile pre-opening costs, but did not flag this broader Colombia margin burden, including transfer-pricing reallocations and taxes.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cColombia's operating margin was weighed down by roughly $14.3 million in one-time and allocated costs, including $4.2 million of Chile start-up expenses, $9 million in transfer pricing reallocations, and wealth and plastic taxes.\u201d",
+      "expectation_evidence": "The preview noted that \u201cChile pre-opening builds from here into the spring 2027 launch,\u201d but did not anticipate the $14.3 million Colombia cost burden.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The Q4 effective tax rate was much lower than the preview\u2019s roughly 29% assumption, with discrete tax benefits providing an unanticipated boost. The favorable items were specific reversals and credits rather than an indicated ongoing tax-rate reduction.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 effective tax rate fell to 25% from 32% due to roughly $2.5 million in discrete items including a $1.9 million U.S. tax contingency reversal and a $0.6 million Dominican Republic solar credit.\u201d",
+      "expectation_evidence": "The preview\u2019s base case assumed \u201ctax ~29%\u201d and identified \u201cTax rate vs. ~29%\u201d as a catalyst to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year SG&A rose to 13.2% of revenue from 12.9%, with technology spending and full-year CEO compensation adding to the margin pressure. The preview discussed SG&A and Chile pre-opening drag but did not identify these costs as drivers of the full-year increase.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year SG&A rose to 13.2% of revenue from 12.9%, with 20 basis points from technology investments and 10 basis points from full-year CEO compensation, pressuring operating margins.\u201d",
+      "expectation_evidence": "The preview flagged \u201cSG&A and pre-opening drag\u201d and specified Q3 SG&A of 13.3%, but did not forecast the full-year 13.2% rate or cite technology and CEO costs.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q4 diluted EPS was $1.21, below the preview\u2019s $1.26\u2013$1.27 quarterly consensus, despite rising about 19% year over year. Full-year EPS of $5.40 also came in below the preview\u2019s roughly $5.45 projection.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 diluted EPS rose approximately 19% to $1.21 from $1.02\u201d and \u201cfull-year EPS increased 12% to $5.40 from $4.82.\u201d",
+      "expectation_evidence": "\u201cEPS (diluted) | Q4 FY26 Consensus | $1.26\u2013$1.27\u201d; the full-year context says a $1.27 Q4 lands FY26 at \u201c~$5.45 EPS.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The RELEX forecasting and replenishment rollout slipped beyond the previously communicated Q2 FY27 target, and management gave no replacement completion date. The preview did not flag a risk of a further delay.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe RELEX forecasting and replenishment system implementation was delayed beyond the previously communicated Q2 fiscal 2027 target, with no new completion date provided due to process complexity across 13 countries.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "Q4 merchandise sales were stronger than the preview\u2019s roughly $1.43 billion estimate, reaching nearly $1.5 billion. The reported growth included a substantial currency tailwind: constant-currency sales growth was 7.8%, while reported growth was 13.8%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 fiscal 2026 net merchandise sales reached nearly $1.5 billion, up 13.8% year-over-year (7.8% in constant currency).\u201d",
+      "expectation_evidence": "\u201cNet merchandise sales | ~$1.43B (est.)\u201d; the preview also said \u201cModest revenue upside is the single highest-confidence call.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "A $14.3 million combination of one-time and allocated costs weighed on Colombia\u2019s operating margin. The preview anticipated Chile pre-opening costs, but did not flag this broader Colombia margin burden, including transfer-pricing reallocations and taxes.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cColombia's operating margin was weighed down by roughly $14.3 million in one-time and allocated costs, including $4.2 million of Chile start-up expenses, $9 million in transfer pricing reallocations, and wealth and plastic taxes.\u201d",
+      "expectation_evidence": "The preview noted that \u201cChile pre-opening builds from here into the spring 2027 launch,\u201d but did not anticipate the $14.3 million Colombia cost burden.",
+      "expectation_source": "none",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "The Q4 effective tax rate was much lower than the preview\u2019s roughly 29% assumption, with discrete tax benefits providing an unanticipated boost. The favorable items were specific reversals and credits rather than an indicated ongoing tax-rate reduction.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 effective tax rate fell to 25% from 32% due to roughly $2.5 million in discrete items including a $1.9 million U.S. tax contingency reversal and a $0.6 million Dominican Republic solar credit.\u201d",
+      "expectation_evidence": "The preview\u2019s base case assumed \u201ctax ~29%\u201d and identified \u201cTax rate vs. ~29%\u201d as a catalyst to watch.",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 5,
+      "description": "Full-year SG&A rose to 13.2% of revenue from 12.9%, with technology spending and full-year CEO compensation adding to the margin pressure. The preview discussed SG&A and Chile pre-opening drag but did not identify these costs as drivers of the full-year increase.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year SG&A rose to 13.2% of revenue from 12.9%, with 20 basis points from technology investments and 10 basis points from full-year CEO compensation, pressuring operating margins.\u201d",
+      "expectation_evidence": "The preview flagged \u201cSG&A and pre-opening drag\u201d and specified Q3 SG&A of 13.3%, but did not forecast the full-year 13.2% rate or cite technology and CEO costs.",
+      "expectation_source": "none",
+      "dimension": "costs_expenses"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $218 million, above both the $213.2 million consensus and the company\u2019s $216 million guidance ceiling. The beat was modest relative to the preview\u2019s $216 million functional bar.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 FY2026 revenue reached a record $218 million\u201d and \u201cexceed[ed] the top end of guidance.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Consensus\u201d total revenue was \u201c213.2\u201d; the guide was \u201c210 \u2013 216\u201d; the preview\u2019s \u201cfunctional bar\u201d was \u201c~$216M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 non-GAAP EPS of $0.84 topped the $0.79 consensus and exceeded the $0.82 high end of guidance. It also beat the preview\u2019s estimated $0.82 functional bar, though by only $0.02.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 non-GAAP EPS was $0.84.\u201d",
+      "expectation_evidence": "Consensus was \u201c$0.79\u201d; guidance was \u201c$0.75 \u2013 $0.82\u201d; the preview\u2019s \u201cfunctional bar\u201d was \u201c~$0.82.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 revenue guidance of $227\u2013233 million has a $230 million midpoint, at the top of the preview\u2019s expected $222\u2013230 million range, and its high end is above that range. This is a somewhat stronger outlook than the preview\u2019s central expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 guidance calls for revenue of $227-233 million.\u201d",
+      "expectation_evidence": "The preview\u2019s Q4 bar was \u201c~$222\u2013230M revenue.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company reported record operating cash flow of $102 million, well above the preview\u2019s expectation of a rebound toward $80 million or more.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord cash flow from operations of $102 million.\u201d",
+      "expectation_evidence": "The preview said \u201ca rebound toward $80M+ would defuse point 4.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company disclosed a $100 million accelerated repurchase, $135 million of total buybacks in the quarter, and a plan to return 40\u201350% of free cash flow over time. The preview had highlighted insider selling but did not anticipate this shareholder-return commitment; the repurchases also reduced cash and securities by $48 million from Q2.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company completed a $100 million accelerated share repurchase and plans to return 40-50% of free cash flow to shareholders over time\u201d; buybacks were \u201c$135 million,\u201d reducing cash and marketable securities \u201cdown $48 million from Q2.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company supplied full-year 2026 growth expectations\u2014revenue up about 18%, product revenue up about 24%, and non-GAAP EPS up about 24%\u2014which the preview had not quantified. There is no directly comparable full-year estimate in the preview, so the degree of outperformance versus expectations is unclear.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 revenue is expected to grow ~18% over 2025, with product revenue up ~24% and non-GAAP EPS up ~24%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $218 million, above both the $213.2 million consensus and the company\u2019s $216 million guidance ceiling. The beat was modest relative to the preview\u2019s $216 million functional bar.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 FY2026 revenue reached a record $218 million\u201d and \u201cexceed[ed] the top end of guidance.\u201d",
+      "expectation_evidence": "\u201cQ3'26 Consensus\u201d total revenue was \u201c213.2\u201d; the guide was \u201c210 \u2013 216\u201d; the preview\u2019s \u201cfunctional bar\u201d was \u201c~$216M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Q3 non-GAAP EPS of $0.84 topped the $0.79 consensus and exceeded the $0.82 high end of guidance. It also beat the preview\u2019s estimated $0.82 functional bar, though by only $0.02.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 non-GAAP EPS was $0.84.\u201d",
+      "expectation_evidence": "Consensus was \u201c$0.79\u201d; guidance was \u201c$0.75 \u2013 $0.82\u201d; the preview\u2019s \u201cfunctional bar\u201d was \u201c~$0.82.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "Q4 revenue guidance of $227\u2013233 million has a $230 million midpoint, at the top of the preview\u2019s expected $222\u2013230 million range, and its high end is above that range. This is a somewhat stronger outlook than the preview\u2019s central expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 guidance calls for revenue of $227-233 million.\u201d",
+      "expectation_evidence": "The preview\u2019s Q4 bar was \u201c~$222\u2013230M revenue.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The company reported record operating cash flow of $102 million, well above the preview\u2019s expectation of a rebound toward $80 million or more.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRecord cash flow from operations of $102 million.\u201d",
+      "expectation_evidence": "The preview said \u201ca rebound toward $80M+ would defuse point 4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 4,
+      "description": "The company disclosed a $100 million accelerated repurchase, $135 million of total buybacks in the quarter, and a plan to return 40\u201350% of free cash flow over time. The preview had highlighted insider selling but did not anticipate this shareholder-return commitment; the repurchases also reduced cash and securities by $48 million from Q2.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company completed a $100 million accelerated share repurchase and plans to return 40-50% of free cash flow to shareholders over time\u201d; buybacks were \u201c$135 million,\u201d reducing cash and marketable securities \u201cdown $48 million from Q2.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 5,
+      "description": "The company supplied full-year 2026 growth expectations\u2014revenue up about 18%, product revenue up about 24%, and non-GAAP EPS up about 24%\u2014which the preview had not quantified. There is no directly comparable full-year estimate in the preview, so the degree of outperformance versus expectations is unclear.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 revenue is expected to grow ~18% over 2025, with product revenue up ~24% and non-GAAP EPS up ~24%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

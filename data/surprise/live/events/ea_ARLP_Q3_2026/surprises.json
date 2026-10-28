@@ -1,0 +1,222 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected Oil & Gas royalty revenue in the $78\u201392 million range after the first full AllDale quarter. ARLP reported $59.8 million: a record, but substantially below that expected range.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOil & Gas Royalty revenues hit a record $59.8 million\u201d on record BOE volumes of 1.45 million.",
+      "expectation_evidence": "\u201cQ2 set a record at $46.3M; a full AllDale quarter into a $100+ Brent tape should produce something in the $78\u201392M range.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Coal segment expense per ton was much lower than the preview\u2019s estimate, despite the concern that Hamilton\u2019s restart could initially raise costs. Hamilton resumed longwall production, set monthly records in July and August, and became ARLP\u2019s lowest-cost operation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSegment adjusted EBITDA expense per ton improving 13.1% YoY to $35.64\u201d; Hamilton resumed production, \u201csetting monthly records in July and August and becoming the company's lowest-cost operation.\u201d",
+      "expectation_evidence": "The preview modeled \u201c~$37.75\u201d expense per ton and flagged that \u201cnew-mine startups usually run hot on cost before they run cheap.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Coal sales volume exceeded the preview\u2019s approximately 9.0 million-ton estimate, although the gap was limited.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCoal sales volumes reached 9.3 million tons.\u201d",
+      "expectation_evidence": "The base case modeled \u201cCoal tons sold\u201d at \u201c9.0M,\u201d based on management\u2019s approximate 9 million-ton guidance for Q3.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The average coal sales price fell rather than staying stable against Q2, as the preview\u2019s base case assumed. The lower price was partly offset by the substantially better cost per ton.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAverage coal sales price to $53.93 per ton,\u201d down 8.3% year over year.",
+      "expectation_evidence": "The preview modeled realized price at \u201c~$54.75\u201d and cited management\u2019s expectation of pricing \u201cstable and consistent with second-quarter revenues on a per ton basis.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Distribution coverage improved to a three-year high but fell short of the preview\u2019s modeled 1.9\u20132.0x. Management also said it would wait for coverage above 1.5x to be sustained beyond one quarter before raising the distribution.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe distribution coverage ratio improved to a three-year high of 1.76x,\u201d while management prioritized acquisitions and debt paydown over a raise until sustaining 1.5x coverage beyond one quarter.",
+      "expectation_evidence": "The base case implied \u201c~1.9\u20132.0x coverage\u201d; the preview said a raise was a live decision, while also noting that management had prioritized balance-sheet flexibility, debt paydown, and royalty M&A.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "ARLP announced that it would reopen the suspended Mettiki mine under a new multiyear supply agreement, reversing the preview\u2019s expectation that the mine would remain a source of lost production. The restart is expected to add about 550,000 tons in 2027, with some potential for export met coal.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSigned a new multiyear supply agreement reopening the suspended Mettiki mine,\u201d returning nearly 150 miners and adding \u201capproximately 550,000 tons of 2027 production,\u201d with potential for \u201c150,000-200,000 tons of export met coal.\u201d",
+      "expectation_evidence": "The preview referred to \u201cthe Metiki longwall cessation\u201d and flagged the mine\u2019s cessation as a factor behind Appalachia\u2019s cost risk.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2027 committed-and-priced book grew beyond the preview\u2019s 29.4-million-ton starting point and exceeded the 30.5\u201331 million-ton level identified as a target to work toward.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "ARLP had \u201c31.7 million tons committed and priced for 2027,\u201d and added \u201c4.2 million committed and priced tons through 2028 during the quarter.\u201d",
+      "expectation_evidence": "The preview cited a \u201c29.4M-ton 2027 book\u201d and said it \u201cneeds to grow toward the 30.5\u201331M implied by Craft's \u20181.0\u20131.3M ton increase in 2027.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management gave a firmer positive forward pricing outlook than the preview\u2019s concern that coal prices were rolling down: 2027 coal revenue per ton is expected to be at least level with 2026, with 2028 pricing trending stronger.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects 2027 coal segment revenue to be equal to or slightly higher than 2026 on a per-ton basis, with 2028 pricing trending stronger.\u201d",
+      "expectation_evidence": "The preview said \u201cCoal price is still rolling down\u201d as legacy contracts expire and identified new 2027 tonnage priced above the current ~$55 realization as a key forward datapoint.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management identified an additional source of potential export-volume upside if barge constraints ease, which the preview did not flag as an opportunity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201csees potential export upside of 0.5 to 1 million tons if logistical barge constraints ease.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The updated 2026 coal-volume guidance raised the midpoint from the prior range, slightly improving the volume outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Updated guidance tightened coal sales volumes to \u201c34.5-35.5 million tons (raising the midpoint).\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c33.75\u201335.25M tons.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The updated 2026 coal-price guidance was lower and narrower than the preview\u2019s guidance anchor, despite the volume midpoint increase.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Updated coal sales price guidance was \u201c$54.25-$54.75 per ton.\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c$54\u201356/ton.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net income per unit was slightly below the preview\u2019s modeled GAAP EPU, though the preview had anticipated a positive bitcoin mark and the reported figure remained close to its estimate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Net income attributable to ARLP was $139.6 million, or \u201c$1.08 per unit.\u201d",
+      "expectation_evidence": "The preview modeled \u201cGAAP EPU\u201d at \u201c~$1.11,\u201d including an estimated positive bitcoin mark.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected Oil & Gas royalty revenue in the $78\u201392 million range after the first full AllDale quarter. ARLP reported $59.8 million: a record, but substantially below that expected range.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cOil & Gas Royalty revenues hit a record $59.8 million\u201d on record BOE volumes of 1.45 million.",
+      "expectation_evidence": "\u201cQ2 set a record at $46.3M; a full AllDale quarter into a $100+ Brent tape should produce something in the $78\u201392M range.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Coal segment expense per ton was much lower than the preview\u2019s estimate, despite the concern that Hamilton\u2019s restart could initially raise costs. Hamilton resumed longwall production, set monthly records in July and August, and became ARLP\u2019s lowest-cost operation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSegment adjusted EBITDA expense per ton improving 13.1% YoY to $35.64\u201d; Hamilton resumed production, \u201csetting monthly records in July and August and becoming the company's lowest-cost operation.\u201d",
+      "expectation_evidence": "The preview modeled \u201c~$37.75\u201d expense per ton and flagged that \u201cnew-mine startups usually run hot on cost before they run cheap.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 2,
+      "description": "Coal sales volume exceeded the preview\u2019s approximately 9.0 million-ton estimate, although the gap was limited.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCoal sales volumes reached 9.3 million tons.\u201d",
+      "expectation_evidence": "The base case modeled \u201cCoal tons sold\u201d at \u201c9.0M,\u201d based on management\u2019s approximate 9 million-ton guidance for Q3.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The average coal sales price fell rather than staying stable against Q2, as the preview\u2019s base case assumed. The lower price was partly offset by the substantially better cost per ton.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAverage coal sales price to $53.93 per ton,\u201d down 8.3% year over year.",
+      "expectation_evidence": "The preview modeled realized price at \u201c~$54.75\u201d and cited management\u2019s expectation of pricing \u201cstable and consistent with second-quarter revenues on a per ton basis.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 4,
+      "description": "Distribution coverage improved to a three-year high but fell short of the preview\u2019s modeled 1.9\u20132.0x. Management also said it would wait for coverage above 1.5x to be sustained beyond one quarter before raising the distribution.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe distribution coverage ratio improved to a three-year high of 1.76x,\u201d while management prioritized acquisitions and debt paydown over a raise until sustaining 1.5x coverage beyond one quarter.",
+      "expectation_evidence": "The base case implied \u201c~1.9\u20132.0x coverage\u201d; the preview said a raise was a live decision, while also noting that management had prioritized balance-sheet flexibility, debt paydown, and royalty M&A.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 5,
+      "description": "ARLP announced that it would reopen the suspended Mettiki mine under a new multiyear supply agreement, reversing the preview\u2019s expectation that the mine would remain a source of lost production. The restart is expected to add about 550,000 tons in 2027, with some potential for export met coal.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSigned a new multiyear supply agreement reopening the suspended Mettiki mine,\u201d returning nearly 150 miners and adding \u201capproximately 550,000 tons of 2027 production,\u201d with potential for \u201c150,000-200,000 tons of export met coal.\u201d",
+      "expectation_evidence": "The preview referred to \u201cthe Metiki longwall cessation\u201d and flagged the mine\u2019s cessation as a factor behind Appalachia\u2019s cost risk.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 6,
+      "description": "The 2027 committed-and-priced book grew beyond the preview\u2019s 29.4-million-ton starting point and exceeded the 30.5\u201331 million-ton level identified as a target to work toward.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "ARLP had \u201c31.7 million tons committed and priced for 2027,\u201d and added \u201c4.2 million committed and priced tons through 2028 during the quarter.\u201d",
+      "expectation_evidence": "The preview cited a \u201c29.4M-ton 2027 book\u201d and said it \u201cneeds to grow toward the 30.5\u201331M implied by Craft's \u20181.0\u20131.3M ton increase in 2027.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Management gave a firmer positive forward pricing outlook than the preview\u2019s concern that coal prices were rolling down: 2027 coal revenue per ton is expected to be at least level with 2026, with 2028 pricing trending stronger.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement expects 2027 coal segment revenue to be equal to or slightly higher than 2026 on a per-ton basis, with 2028 pricing trending stronger.\u201d",
+      "expectation_evidence": "The preview said \u201cCoal price is still rolling down\u201d as legacy contracts expire and identified new 2027 tonnage priced above the current ~$55 realization as a key forward datapoint.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Management identified an additional source of potential export-volume upside if barge constraints ease, which the preview did not flag as an opportunity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201csees potential export upside of 0.5 to 1 million tons if logistical barge constraints ease.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 9,
+      "description": "The updated 2026 coal-volume guidance raised the midpoint from the prior range, slightly improving the volume outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Updated guidance tightened coal sales volumes to \u201c34.5-35.5 million tons (raising the midpoint).\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c33.75\u201335.25M tons.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "The updated 2026 coal-price guidance was lower and narrower than the preview\u2019s guidance anchor, despite the volume midpoint increase.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Updated coal sales price guidance was \u201c$54.25-$54.75 per ton.\u201d",
+      "expectation_evidence": "The preview listed FY26 guidance of \u201c$54\u201356/ton.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 11,
+      "description": "Net income per unit was slightly below the preview\u2019s modeled GAAP EPU, though the preview had anticipated a positive bitcoin mark and the reported figure remained close to its estimate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Net income attributable to ARLP was $139.6 million, or \u201c$1.08 per unit.\u201d",
+      "expectation_evidence": "The preview modeled \u201cGAAP EPU\u201d at \u201c~$1.11,\u201d including an estimated positive bitcoin mark.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    }
+  ]
+}

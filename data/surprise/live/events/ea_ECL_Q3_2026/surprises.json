@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Ecolab delivered 7% organic sales growth, above the preview\u2019s 6.0\u20136.5% consensus range and at the top of the company\u2019s 6\u20137% H2 guide. This was a modest upside versus the expected acceleration.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEcolab delivered 7% organic sales growth in Q3 2026.\u201d",
+      "expectation_evidence": "\u201cOrganic sales growth | ~6.0\u20136.5%\u201d; company guidance was \u201c6\u20137% (H2).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Organic operating income margin reached 19.6%, above the preview\u2019s roughly 19% adjusted-margin expectation. The preview anticipated margin improvement, but the reported level was better than that benchmark.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOrganic operating income margin expanded to 19.6%.\u201d",
+      "expectation_evidence": "\u201cAdj. operating margin | ~19%\u201d; the preview also described the margin bridge as targeting \u201c~19% adjusted / ~20% organic.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Institutional & Specialty had slightly declining volume, weaker than the preview\u2019s expectation that growth below roughly 3% would be a concern. North American restaurant foot traffic was down mid-single digits, but the preview had highlighted the segment\u2019s prior 4% growth despite similar traffic pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInstitutional & Specialty was the weak spot with slightly declining volume amid North American restaurant foot traffic falling mid-single digits.\u201d",
+      "expectation_evidence": "\u201cIf this decelerates below ~3%, the \u2018defensive ballast\u2019 part of the story cracks\u201d; the preview also noted Institutional & Specialty \u201cgrew 4% in Q2 despite restaurant foot traffic down 5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CoolIT\u2019s financing and amortization burden was quantified at roughly 10% of Q3 EPS and is expected to rise to about 12% in Q4. The preview acknowledged the drag but called for confirmation that it had not grown, so the further increase into Q4 is a negative development.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCoolIT \u2026 carried an interest/amortization drag of roughly 10% on EPS in Q3, expected to rise to about 12% in Q4 due to an extra month from reporting lag.\u201d",
+      "expectation_evidence": "\u201cManagement has already pre-flagged the CoolIT amortization/financing hit inside the FY guide \u2014 confirm it hasn't grown.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said elevated commodity costs are expected to persist through the end of 2027, extending the cost-pressure outlook beyond the preview\u2019s expectation of high-single-digit inflation for the remainder of 2026. That longer duration is a negative change even though pricing is running at the expected level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPricing is running at 5%-6% \u2026 to offset elevated commodity costs expected to persist through end of 2027.\u201d",
+      "expectation_evidence": "The preview described \u201chigh-single-digit commodity inflation for the remainder of 2026.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Ecolab Digital sales rose 34%, a strong reported growth rate that the preview did not discuss or set an expectation for. This is a positive, newly surfaced operating result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEcolab Digital sales rose 34%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Pest Elimination accelerated to 8% growth, and management reported that Pest Intelligence connects over 800,000 devices and delivers nearly 99% pest-free results versus a 94% industry standard. The preview did not provide a Pest growth or performance expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPest Elimination accelerated to 8% growth, with Pest Intelligence now connecting over 800,000 devices and delivering nearly 99% pest-free results versus the 94% industry standard.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Ecolab delivered 7% organic sales growth, above the preview\u2019s 6.0\u20136.5% consensus range and at the top of the company\u2019s 6\u20137% H2 guide. This was a modest upside versus the expected acceleration.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEcolab delivered 7% organic sales growth in Q3 2026.\u201d",
+      "expectation_evidence": "\u201cOrganic sales growth | ~6.0\u20136.5%\u201d; company guidance was \u201c6\u20137% (H2).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Organic operating income margin reached 19.6%, above the preview\u2019s roughly 19% adjusted-margin expectation. The preview anticipated margin improvement, but the reported level was better than that benchmark.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOrganic operating income margin expanded to 19.6%.\u201d",
+      "expectation_evidence": "\u201cAdj. operating margin | ~19%\u201d; the preview also described the margin bridge as targeting \u201c~19% adjusted / ~20% organic.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Institutional & Specialty had slightly declining volume, weaker than the preview\u2019s expectation that growth below roughly 3% would be a concern. North American restaurant foot traffic was down mid-single digits, but the preview had highlighted the segment\u2019s prior 4% growth despite similar traffic pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInstitutional & Specialty was the weak spot with slightly declining volume amid North American restaurant foot traffic falling mid-single digits.\u201d",
+      "expectation_evidence": "\u201cIf this decelerates below ~3%, the \u2018defensive ballast\u2019 part of the story cracks\u201d; the preview also noted Institutional & Specialty \u201cgrew 4% in Q2 despite restaurant foot traffic down 5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "CoolIT\u2019s financing and amortization burden was quantified at roughly 10% of Q3 EPS and is expected to rise to about 12% in Q4. The preview acknowledged the drag but called for confirmation that it had not grown, so the further increase into Q4 is a negative development.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCoolIT \u2026 carried an interest/amortization drag of roughly 10% on EPS in Q3, expected to rise to about 12% in Q4 due to an extra month from reporting lag.\u201d",
+      "expectation_evidence": "\u201cManagement has already pre-flagged the CoolIT amortization/financing hit inside the FY guide \u2014 confirm it hasn't grown.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "Management said elevated commodity costs are expected to persist through the end of 2027, extending the cost-pressure outlook beyond the preview\u2019s expectation of high-single-digit inflation for the remainder of 2026. That longer duration is a negative change even though pricing is running at the expected level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPricing is running at 5%-6% \u2026 to offset elevated commodity costs expected to persist through end of 2027.\u201d",
+      "expectation_evidence": "The preview described \u201chigh-single-digit commodity inflation for the remainder of 2026.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Ecolab Digital sales rose 34%, a strong reported growth rate that the preview did not discuss or set an expectation for. This is a positive, newly surfaced operating result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cEcolab Digital sales rose 34%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "Pest Elimination accelerated to 8% growth, and management reported that Pest Intelligence connects over 800,000 devices and delivers nearly 99% pest-free results versus a 94% industry standard. The preview did not provide a Pest growth or performance expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPest Elimination accelerated to 8% growth, with Pest Intelligence now connecting over 800,000 devices and delivering nearly 99% pest-free results versus the 94% industry standard.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    }
+  ]
+}

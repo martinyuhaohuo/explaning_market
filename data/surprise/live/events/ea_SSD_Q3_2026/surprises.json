@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 sales were $638.1 million, above the preview\u2019s roughly $625 million consensus. The preview expected about a 1-point price contribution in H2, but pricing contributed 2.5% to sales growth and drove almost all of the beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 2.3% year-over-year to $638.1 million, driven almost entirely by 2.5% pricing contribution while global volumes were roughly flat.\u201d",
+      "expectation_evidence": "Revenue consensus was \u201c$625.4M\u201d; management had guided H2 pricing to \u201c~1 point.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Diluted EPS was $2.68, above even the preview\u2019s highest cited consensus of $2.56, despite the preview\u2019s warning that the Stockton land-sale gain had shifted out of Q3.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDiluted EPS rose to $2.68 from $2.58.\u201d",
+      "expectation_evidence": "The preview cited diluted EPS consensus estimates of \u201c$2.45,\u201d \u201c$2.56,\u201d and \u201c$2.53,\u201d and said the Stockton gain \u201cslipped out of Q3 into Q4.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "North America sales grew 3.8%, and management said volumes had outperformed single-family housing starts by roughly 400 basis points on a trailing 12-month basis. That is stronger than the preview\u2019s concern that North American volumes might be flat to slightly negative, though the volume comparison is trailing rather than Q3-only.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth America net sales grew 3.8% to $502 million\u201d and \u201cvolumes outperformed single-family housing starts by roughly 400 basis points on a trailing 12-month basis.\u201d",
+      "expectation_evidence": "The preview said the Street was embedding \u201croughly flat-to-slightly-negative volume\u201d and that investors wanted \u201cflat-to-positive\u201d North American volumes against starts.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin was 45.7%, below the preview\u2019s watch range of roughly 46% to 46.5%, with higher material, depreciation, and freight costs; Wood Products margin also fell to 44.9% from 46.2%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated gross margin declined 40 basis points to 45.7% due to higher material, depreciation and freight costs, with Wood Products margin falling to 44.9% from 46.2%.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cconsolidated GM ~46%\u201d and gave a base scenario of \u201cGM ~46\u201346.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reported steel costs up more than 50% year over year and at a four-year high, and said additional pricing actions would be announced soon. The preview had flagged rising steel costs and the pricing decision as issues, but not an increase of this stated scale or such near-term action.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSteel costs are now up over 50% year-over-year at a 4-year high,\u201d prompting \u201cadditional pricing actions to be announced in the coming weeks, likely effective early January 2027.\u201d",
+      "expectation_evidence": "The preview cited \u201crising steel prices\u201d as a challenge and flagged \u201cthe pricing decision\u201d and whether management would \u201cpush another price increase into an affordability-constrained market.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised the low end of its full-year operating-margin guidance to 20.0% from the previously reaffirmed 19.7%, while retaining the 20.5% high end.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 guidance was set at a 20.0% to 20.5% operating margin.\u201d",
+      "expectation_evidence": "The preview said FY2026 guidance was \u201c19.7%\u201320.5%\u201d and listed reaffirming that range as the base case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Operating expenses fell 6.3% and SG&A headcount was down about 6%, showing cost savings and attrition leverage while the preview had identified the carryover of the cost-savings program as an open question.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperating expenses fell 6.3% to $150.5 million (23.6% of sales versus 25.8%) with SG&A headcount down about 6%, reflecting cost-savings and attrition leverage.\u201d",
+      "expectation_evidence": "The preview flagged \u201ccarryover of the $30M cost-savings program\u201d as a 2027 issue to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Board approved a new $1 billion share repurchase authorization with no expiration, replacing the existing $200 million plan\u2014far larger than the authorization the preview described.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Board approved a new $1 billion share repurchase authorization with no expiration (replacing a $200 million plan)\u201d after $66.3 million of Q3 repurchases.",
+      "expectation_evidence": "The preview described a \u201craised $200M authorization\u201d and a commitment to return \u201c\u226535% of FCF.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said volumes were projected to be slightly lower for the rest of the year, adding a cautious near-term volume outlook even as it kept full-year margin guidance within the prior range\u2019s upper end.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cU.S. housing starts expected down low single digits and volumes projected slightly lower for the rest of the year.\u201d",
+      "expectation_evidence": "The preview\u2019s base scenario expected \u201cvolumes flat to \u22121%,\u201d and its FY assumption was U.S. starts \u201cdown low-single-digits.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 sales were $638.1 million, above the preview\u2019s roughly $625 million consensus. The preview expected about a 1-point price contribution in H2, but pricing contributed 2.5% to sales growth and drove almost all of the beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 net sales rose 2.3% year-over-year to $638.1 million, driven almost entirely by 2.5% pricing contribution while global volumes were roughly flat.\u201d",
+      "expectation_evidence": "Revenue consensus was \u201c$625.4M\u201d; management had guided H2 pricing to \u201c~1 point.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Diluted EPS was $2.68, above even the preview\u2019s highest cited consensus of $2.56, despite the preview\u2019s warning that the Stockton land-sale gain had shifted out of Q3.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDiluted EPS rose to $2.68 from $2.58.\u201d",
+      "expectation_evidence": "The preview cited diluted EPS consensus estimates of \u201c$2.45,\u201d \u201c$2.56,\u201d and \u201c$2.53,\u201d and said the Stockton gain \u201cslipped out of Q3 into Q4.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "North America sales grew 3.8%, and management said volumes had outperformed single-family housing starts by roughly 400 basis points on a trailing 12-month basis. That is stronger than the preview\u2019s concern that North American volumes might be flat to slightly negative, though the volume comparison is trailing rather than Q3-only.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNorth America net sales grew 3.8% to $502 million\u201d and \u201cvolumes outperformed single-family housing starts by roughly 400 basis points on a trailing 12-month basis.\u201d",
+      "expectation_evidence": "The preview said the Street was embedding \u201croughly flat-to-slightly-negative volume\u201d and that investors wanted \u201cflat-to-positive\u201d North American volumes against starts.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Gross margin was 45.7%, below the preview\u2019s watch range of roughly 46% to 46.5%, with higher material, depreciation, and freight costs; Wood Products margin also fell to 44.9% from 46.2%.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConsolidated gross margin declined 40 basis points to 45.7% due to higher material, depreciation and freight costs, with Wood Products margin falling to 44.9% from 46.2%.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cconsolidated GM ~46%\u201d and gave a base scenario of \u201cGM ~46\u201346.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Management reported steel costs up more than 50% year over year and at a four-year high, and said additional pricing actions would be announced soon. The preview had flagged rising steel costs and the pricing decision as issues, but not an increase of this stated scale or such near-term action.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSteel costs are now up over 50% year-over-year at a 4-year high,\u201d prompting \u201cadditional pricing actions to be announced in the coming weeks, likely effective early January 2027.\u201d",
+      "expectation_evidence": "The preview cited \u201crising steel prices\u201d as a challenge and flagged \u201cthe pricing decision\u201d and whether management would \u201cpush another price increase into an affordability-constrained market.\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 5,
+      "description": "The company raised the low end of its full-year operating-margin guidance to 20.0% from the previously reaffirmed 19.7%, while retaining the 20.5% high end.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 guidance was set at a 20.0% to 20.5% operating margin.\u201d",
+      "expectation_evidence": "The preview said FY2026 guidance was \u201c19.7%\u201320.5%\u201d and listed reaffirming that range as the base case.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Operating expenses fell 6.3% and SG&A headcount was down about 6%, showing cost savings and attrition leverage while the preview had identified the carryover of the cost-savings program as an open question.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperating expenses fell 6.3% to $150.5 million (23.6% of sales versus 25.8%) with SG&A headcount down about 6%, reflecting cost-savings and attrition leverage.\u201d",
+      "expectation_evidence": "The preview flagged \u201ccarryover of the $30M cost-savings program\u201d as a 2027 issue to watch.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 7,
+      "description": "The Board approved a new $1 billion share repurchase authorization with no expiration, replacing the existing $200 million plan\u2014far larger than the authorization the preview described.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe Board approved a new $1 billion share repurchase authorization with no expiration (replacing a $200 million plan)\u201d after $66.3 million of Q3 repurchases.",
+      "expectation_evidence": "The preview described a \u201craised $200M authorization\u201d and a commitment to return \u201c\u226535% of FCF.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 8,
+      "description": "Management said volumes were projected to be slightly lower for the rest of the year, adding a cautious near-term volume outlook even as it kept full-year margin guidance within the prior range\u2019s upper end.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cU.S. housing starts expected down low single digits and volumes projected slightly lower for the rest of the year.\u201d",
+      "expectation_evidence": "The preview\u2019s base scenario expected \u201cvolumes flat to \u22121%,\u201d and its FY assumption was U.S. starts \u201cdown low-single-digits.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

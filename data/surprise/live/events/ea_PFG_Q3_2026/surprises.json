@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "PFG\u2019s reported Q3 EPS was $2.22, below the preview\u2019s $2.30\u2013$2.42 base range, because the after-tax drag from lower-than-expected variable investment income and Encaje was 27 cents\u2014larger than the 10\u201320 cents the preview expected to isolate. Excluding significant variances, EPS was about $2.49, within the preview\u2019s expected $2.42\u2013$2.52 range, so the shortfall was concentrated in the variance bridge.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 non-GAAP operating earnings were $482 million ($2.22 EPS), but lower-than-expected variable investment income and Encaje performance created a $59 million ($0.27 per share) after-tax drag.\u201d",
+      "expectation_evidence": "The preview said the base case was \u201cReported EPS $2.30\u20132.42\u201d and expected encaje and alternatives to be \u201cisolated at 10\u201320c\u201d; it gave an ex-variance range of \u201c$2.42\u20132.52.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total-company net cash flow was close to flat at negative $11 million, much better than the preview\u2019s concern about continued pressure after Q2\u2019s $11.1 billion outflow and its bear case of investment-management outflows worse than $5 billion. U.S. retail active equity strategies still had outflows, but the overall flow result was far less negative than the preview\u2019s risk framing suggested.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal company net cash flow was negative $11 million in the quarter,\u201d with outflows in U.S. retail active equity strategies; management expected near-term pressure to persist.",
+      "expectation_evidence": "The preview highlighted Q2 enterprise AUM net cash flow of \u201c\u2212$11.1B,\u201d asked whether the \u201c$10B committed-but-not-funded pipeline\u201d funded, and described a bear case of \u201cIM outflows worse than \u2212$5B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Private markets and active ETFs brought in $1.3 billion of positive net cash flow combined, and active ETF AUM reached $14 billion, up 84% year over year. The preview focused on whether the investment-management pipeline funded but did not anticipate these specific inflows or the ETF growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPrivate markets generated $800 million and active ETFs $500 million of positive net cash flow in Q3, with active ETF AUM reaching $14 billion, up 84% year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "PFG said full-year buybacks are now expected toward the low end of the target range because of the unplanned Beam acquisition, rather than simply reaffirming the capital-deployment plan the preview expected. Q3 buybacks themselves were $250 million, matching the amount highlighted in the preview\u2019s Q2 baseline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year buybacks now expected toward the low end of the target range due to the unplanned Beam acquisition.\u201d",
+      "expectation_evidence": "The preview said capital deployment had a \u201c$1.5\u20131.8B FY target,\u201d was \u201cback-half weighted,\u201d and its base scenario expected FY deployment to be \u201creaffirmed.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Life insurance adjusted pretax operating earnings rose 29% and its margin expanded 420 basis points, a much stronger operating result than the preview\u2019s only life-specific estimate\u2014fees up 2.2%\u2014would suggest. The preview did not provide an earnings or margin forecast for the segment.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLife insurance adjusted pretax operating earnings jumped 29% to $39 million with margin up 420 basis points to 16.4%, driven by improved mortality frequency and severity.\u201d",
+      "expectation_evidence": "The preview listed \u201cLife Insurance \u2014 fees: $115.3M | +2.2%\u201d and did not give a segment earnings or margin expectation.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "International pension AUM was $166 billion, above the preview\u2019s $164.3 billion estimate, and earnings grew 11%. The AUM beat was modest; the preview did not forecast pension earnings growth.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cInternational pension earnings grew 11% with AUM up 10% to $166 billion.\u201d",
+      "expectation_evidence": "The preview estimated \u201cInternational Pension AUM\u201d at \u201c$164.3B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite a 59% overall Specialty Benefits loss ratio, individual disability had elevated claims volatility, an adverse detail not anticipated in the preview\u2019s discussion of favorable incidence and a loss ratio expected below guidance.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Specialty Benefits had \u201ca 59% loss ratio,\u201d though \u201cindividual disability saw elevated claims volatility.\u201d",
+      "expectation_evidence": "The preview said management expected the loss ratio below the 60\u201364% range because of \u201cdental network optimization and favorable incidence,\u201d and described a 58\u201360% result as validating the margin story.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "PFG\u2019s reported Q3 EPS was $2.22, below the preview\u2019s $2.30\u2013$2.42 base range, because the after-tax drag from lower-than-expected variable investment income and Encaje was 27 cents\u2014larger than the 10\u201320 cents the preview expected to isolate. Excluding significant variances, EPS was about $2.49, within the preview\u2019s expected $2.42\u2013$2.52 range, so the shortfall was concentrated in the variance bridge.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 non-GAAP operating earnings were $482 million ($2.22 EPS), but lower-than-expected variable investment income and Encaje performance created a $59 million ($0.27 per share) after-tax drag.\u201d",
+      "expectation_evidence": "The preview said the base case was \u201cReported EPS $2.30\u20132.42\u201d and expected encaje and alternatives to be \u201cisolated at 10\u201320c\u201d; it gave an ex-variance range of \u201c$2.42\u20132.52.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Total-company net cash flow was close to flat at negative $11 million, much better than the preview\u2019s concern about continued pressure after Q2\u2019s $11.1 billion outflow and its bear case of investment-management outflows worse than $5 billion. U.S. retail active equity strategies still had outflows, but the overall flow result was far less negative than the preview\u2019s risk framing suggested.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal company net cash flow was negative $11 million in the quarter,\u201d with outflows in U.S. retail active equity strategies; management expected near-term pressure to persist.",
+      "expectation_evidence": "The preview highlighted Q2 enterprise AUM net cash flow of \u201c\u2212$11.1B,\u201d asked whether the \u201c$10B committed-but-not-funded pipeline\u201d funded, and described a bear case of \u201cIM outflows worse than \u2212$5B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 2,
+      "description": "Private markets and active ETFs brought in $1.3 billion of positive net cash flow combined, and active ETF AUM reached $14 billion, up 84% year over year. The preview focused on whether the investment-management pipeline funded but did not anticipate these specific inflows or the ETF growth.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPrivate markets generated $800 million and active ETFs $500 million of positive net cash flow in Q3, with active ETF AUM reaching $14 billion, up 84% year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "PFG said full-year buybacks are now expected toward the low end of the target range because of the unplanned Beam acquisition, rather than simply reaffirming the capital-deployment plan the preview expected. Q3 buybacks themselves were $250 million, matching the amount highlighted in the preview\u2019s Q2 baseline.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year buybacks now expected toward the low end of the target range due to the unplanned Beam acquisition.\u201d",
+      "expectation_evidence": "The preview said capital deployment had a \u201c$1.5\u20131.8B FY target,\u201d was \u201cback-half weighted,\u201d and its base scenario expected FY deployment to be \u201creaffirmed.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 4,
+      "description": "Life insurance adjusted pretax operating earnings rose 29% and its margin expanded 420 basis points, a much stronger operating result than the preview\u2019s only life-specific estimate\u2014fees up 2.2%\u2014would suggest. The preview did not provide an earnings or margin forecast for the segment.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLife insurance adjusted pretax operating earnings jumped 29% to $39 million with margin up 420 basis points to 16.4%, driven by improved mortality frequency and severity.\u201d",
+      "expectation_evidence": "The preview listed \u201cLife Insurance \u2014 fees: $115.3M | +2.2%\u201d and did not give a segment earnings or margin expectation.",
+      "expectation_source": "none",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "International pension AUM was $166 billion, above the preview\u2019s $164.3 billion estimate, and earnings grew 11%. The AUM beat was modest; the preview did not forecast pension earnings growth.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cInternational pension earnings grew 11% with AUM up 10% to $166 billion.\u201d",
+      "expectation_evidence": "The preview estimated \u201cInternational Pension AUM\u201d at \u201c$164.3B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Despite a 59% overall Specialty Benefits loss ratio, individual disability had elevated claims volatility, an adverse detail not anticipated in the preview\u2019s discussion of favorable incidence and a loss ratio expected below guidance.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Specialty Benefits had \u201ca 59% loss ratio,\u201d though \u201cindividual disability saw elevated claims volatility.\u201d",
+      "expectation_evidence": "The preview said management expected the loss ratio below the 60\u201364% range because of \u201cdental network optimization and favorable incidence,\u201d and described a 58\u201360% result as validating the margin story.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

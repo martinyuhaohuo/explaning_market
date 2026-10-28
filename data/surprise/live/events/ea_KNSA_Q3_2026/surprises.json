@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 ARCALYST revenue was $286 million, well above the preview\u2019s roughly $260 million consensus and its own $267 million estimate. The roughly $42\u201342.5 million sequential increase also far exceeded the preview\u2019s modeled increase of about $23 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 ARCALYST revenue grew 58% year-over-year to $286 million, representing roughly $42-42.5 million in quarter-over-quarter growth.\u201d",
+      "expectation_evidence": "\u201cRevenue (ARCALYST net product) | $260.2\u2013260.7M\u201d; \u201cMy Estimate | $267M\u201d; the preview\u2019s build showed Q2 revenue of $243.6M and Q3 estimate of $267.0M.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Kiniksa raised FY2026 revenue guidance to $1.045\u2013$1.050 billion, above the preview\u2019s expected raise to $1.000\u2013$1.015 billion. The result positions ARCALYST to exceed $1 billion in annual revenue for the first time, while the preview described a $1.0 billion handle as the needed bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cKiniksa raised its full-year 2026 revenue guidance to $1.045 billion to $1.050 billion, positioning ARCALYST to exceed $1 billion in annual revenue for the first time.\u201d",
+      "expectation_evidence": "\u201cFY26 ARCALYST guidance | $980\u2013995M (current) | Raise to $1.000\u20131.015B\u201d; the preview said \u201cNeed a $1.0B handle.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Operating and net income substantially exceeded the preview\u2019s modeled results, while ARCALYST collaboration profit grew faster than sales. This contrasts with the preview\u2019s concern that collaboration expense was rising as a share of sales and could constrain operating leverage.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 operating income rose to $54.2 million and net income to $47.3 million\u201d; \u201cARCALYST collaboration profit grew 67% to $211.6 million, outpacing sales growth.\u201d",
+      "expectation_evidence": "The preview modeled \u201cOperating income\u201d of \u201c$33.1M\u201d and \u201cNet income\u201d of \u201c$29.3M,\u201d and flagged collaboration expense as a swing factor, assuming it would rise to \u201c36.5% of sales.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call highlighted meaningful ARCALYST prescribing among first-recurrence patients, an additional patient pool not quantified in the preview\u2019s expectations, which centered on penetration of the 14,000-patient multiple-recurrence population.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAbout 20% of prescriptions already coming from the 26,000 annual first-recurrence patients.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management reported unusually large engagement increases from the Hearts Home DTC campaign, a marketing result the preview did not discuss or set an expectation for.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Hearts Home DTC campaign drove a 12-fold increase in ARCALYST website traffic and an eightfold increase in engaged sessions, with roughly 55% of ad viewers motivated to speak with their healthcare provider.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 ARCALYST revenue was $286 million, well above the preview\u2019s roughly $260 million consensus and its own $267 million estimate. The roughly $42\u201342.5 million sequential increase also far exceeded the preview\u2019s modeled increase of about $23 million.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 ARCALYST revenue grew 58% year-over-year to $286 million, representing roughly $42-42.5 million in quarter-over-quarter growth.\u201d",
+      "expectation_evidence": "\u201cRevenue (ARCALYST net product) | $260.2\u2013260.7M\u201d; \u201cMy Estimate | $267M\u201d; the preview\u2019s build showed Q2 revenue of $243.6M and Q3 estimate of $267.0M.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Kiniksa raised FY2026 revenue guidance to $1.045\u2013$1.050 billion, above the preview\u2019s expected raise to $1.000\u2013$1.015 billion. The result positions ARCALYST to exceed $1 billion in annual revenue for the first time, while the preview described a $1.0 billion handle as the needed bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cKiniksa raised its full-year 2026 revenue guidance to $1.045 billion to $1.050 billion, positioning ARCALYST to exceed $1 billion in annual revenue for the first time.\u201d",
+      "expectation_evidence": "\u201cFY26 ARCALYST guidance | $980\u2013995M (current) | Raise to $1.000\u20131.015B\u201d; the preview said \u201cNeed a $1.0B handle.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Operating and net income substantially exceeded the preview\u2019s modeled results, while ARCALYST collaboration profit grew faster than sales. This contrasts with the preview\u2019s concern that collaboration expense was rising as a share of sales and could constrain operating leverage.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 operating income rose to $54.2 million and net income to $47.3 million\u201d; \u201cARCALYST collaboration profit grew 67% to $211.6 million, outpacing sales growth.\u201d",
+      "expectation_evidence": "The preview modeled \u201cOperating income\u201d of \u201c$33.1M\u201d and \u201cNet income\u201d of \u201c$29.3M,\u201d and flagged collaboration expense as a swing factor, assuming it would rise to \u201c36.5% of sales.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The call highlighted meaningful ARCALYST prescribing among first-recurrence patients, an additional patient pool not quantified in the preview\u2019s expectations, which centered on penetration of the 14,000-patient multiple-recurrence population.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAbout 20% of prescriptions already coming from the 26,000 annual first-recurrence patients.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Management reported unusually large engagement increases from the Hearts Home DTC campaign, a marketing result the preview did not discuss or set an expectation for.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Hearts Home DTC campaign drove a 12-fold increase in ARCALYST website traffic and an eightfold increase in engaged sessions, with roughly 55% of ad viewers motivated to speak with their healthcare provider.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "BOH reported diluted EPS of $1.49, two cents below the $1.51 consensus estimate. That was in line with the preview\u2019s bottom-up build, but slightly weaker than the headline consensus it highlighted.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 diluted EPS was $1.49.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS $1.51\u201d consensus; the preview\u2019s bottom-up build estimated \u201cDiluted EPS ~ $1.49.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest margin expanded, as expected, but reached 2.82% rather than the preview\u2019s modeled 2.83%. The shortfall was small, while the tenth consecutive quarter of expansion matched the preview\u2019s central NIM narrative.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 4 basis points to 2.82%, marking the tenth consecutive quarter of expansion.\u201d",
+      "expectation_evidence": "The preview modeled \u201cNIM 2.83%\u201d and highlighted \u201c~2.83%\u201d as the print to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest income came in above the preview\u2019s own estimate, even though its modeled NIM was a little higher. The preview estimated about $155.5 million, versus reported net interest income of $156.1 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income \u2026 rose to $156.1 million.\u201d",
+      "expectation_evidence": "The preview\u2019s bottom-up build estimated \u201cNet interest income \u2026 ~$155.5M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected noninterest-bearing deposits to remain 27% of total, but BOH also reported that average deposits fell 0.8% and quarter-end deposits fell $411 million. The decline was partly intentional, and management now expects modest deposit growth in Q4, a forward-looking improvement not specified in the preview.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAverage deposits declined 0.8% and end-of-quarter deposits fell $411 million, partly due to an intentional runoff of roughly $200 million of high-cost public funds, with management expecting a return to modest deposit growth in Q4.\u201d Noninterest-bearing deposits remained \u201cabout 27% of total.\u201d",
+      "expectation_evidence": "The preview expected \u201c10\u201315% runoff in public deposits\u201d and noted that noninterest-bearing deposits were \u201c27% in Q2.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Nonperforming assets rose sharply to 30 basis points from 8, contrary to the preview\u2019s expectation that they would stay near 8 basis points. The issue was limited to one commercial real-estate-secured loan, with resolution expected through an asset sale and any loss described as immaterial and already reserved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNonperforming assets jumped to 30 basis points from 8 basis points due to a single real-estate-secured commercial loan expected to be resolved via asset sale, with any associated loss deemed immaterial and already reserved.\u201d",
+      "expectation_evidence": "The preview set BOH\u2019s credit bar as \u201cNPAs near 8bp\u201d and said migration of the single borrower relationship to NPA would reset the narrative.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Other reported credit measures were better than the preview\u2019s cautious baseline: criticized assets fell to 2.37% from 2.81%, while net charge-offs were 9 basis points, near the preview\u2019s 10-basis-point bar. This was a favorable counterpoint to the single-loan NPA increase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDelinquencies at 46 bps, net charge-offs at 9 bps, and criticized assets declining to 2.37% from 2.81%.\u201d",
+      "expectation_evidence": "The preview identified criticized assets at \u201c2.81% in Q2,\u201d anticipated \u201ccriticized-asset drift,\u201d and set the bar to \u201chold NCOs near 10bp.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "BOH expanded its buyback authorization by an additional $200 million, well beyond the preview\u2019s reference to $89 million remaining. The planned $20 million Q3 repurchase and another $20 million in Q4 were in line with the preview; the much larger added authorization was not.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company repurchased $20 million of stock at ~$78 per share in Q3, plans another $20 million in Q4, and the Board authorized an additional $200 million to the buyback plan.\u201d",
+      "expectation_evidence": "The preview said \u201c$20M of buyback was planned for each of Q3 and Q4 with $89M remaining authorization.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Trust, asset-management, annuity, and insurance fees showed stronger growth than the preview\u2019s expectation of stable trust and wealth fees. The reported figure is for the first nine months, rather than Q3 alone, so it does not establish a specific quarterly fee-income beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTrust/asset management and annuity/insurance fees totaled $45.2 million for the first nine months, up 11.5% year-over-year, reflecting wealth management investment payoffs.\u201d",
+      "expectation_evidence": "The preview\u2019s build assumed \u201cTrust/wealth stable; no large one-offs assumed.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The effective tax rate was slightly above the preview\u2019s assumed range, creating a modest headwind to earnings. BOH attributed the increase to added valuation reserves on certain investments.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe effective tax rate rose to 23.2% due to added valuation reserves on certain investments.\u201d",
+      "expectation_evidence": "The preview\u2019s EPS build assumed a \u201c~22\u201323% tax\u201d rate.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "BOH reported diluted EPS of $1.49, two cents below the $1.51 consensus estimate. That was in line with the preview\u2019s bottom-up build, but slightly weaker than the headline consensus it highlighted.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 diluted EPS was $1.49.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS $1.51\u201d consensus; the preview\u2019s bottom-up build estimated \u201cDiluted EPS ~ $1.49.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Net interest margin expanded, as expected, but reached 2.82% rather than the preview\u2019s modeled 2.83%. The shortfall was small, while the tenth consecutive quarter of expansion matched the preview\u2019s central NIM narrative.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 4 basis points to 2.82%, marking the tenth consecutive quarter of expansion.\u201d",
+      "expectation_evidence": "The preview modeled \u201cNIM 2.83%\u201d and highlighted \u201c~2.83%\u201d as the print to watch.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Net interest income came in above the preview\u2019s own estimate, even though its modeled NIM was a little higher. The preview estimated about $155.5 million, versus reported net interest income of $156.1 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income \u2026 rose to $156.1 million.\u201d",
+      "expectation_evidence": "The preview\u2019s bottom-up build estimated \u201cNet interest income \u2026 ~$155.5M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "The preview expected noninterest-bearing deposits to remain 27% of total, but BOH also reported that average deposits fell 0.8% and quarter-end deposits fell $411 million. The decline was partly intentional, and management now expects modest deposit growth in Q4, a forward-looking improvement not specified in the preview.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAverage deposits declined 0.8% and end-of-quarter deposits fell $411 million, partly due to an intentional runoff of roughly $200 million of high-cost public funds, with management expecting a return to modest deposit growth in Q4.\u201d Noninterest-bearing deposits remained \u201cabout 27% of total.\u201d",
+      "expectation_evidence": "The preview expected \u201c10\u201315% runoff in public deposits\u201d and noted that noninterest-bearing deposits were \u201c27% in Q2.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 4,
+      "description": "Nonperforming assets rose sharply to 30 basis points from 8, contrary to the preview\u2019s expectation that they would stay near 8 basis points. The issue was limited to one commercial real-estate-secured loan, with resolution expected through an asset sale and any loss described as immaterial and already reserved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNonperforming assets jumped to 30 basis points from 8 basis points due to a single real-estate-secured commercial loan expected to be resolved via asset sale, with any associated loss deemed immaterial and already reserved.\u201d",
+      "expectation_evidence": "The preview set BOH\u2019s credit bar as \u201cNPAs near 8bp\u201d and said migration of the single borrower relationship to NPA would reset the narrative.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Other reported credit measures were better than the preview\u2019s cautious baseline: criticized assets fell to 2.37% from 2.81%, while net charge-offs were 9 basis points, near the preview\u2019s 10-basis-point bar. This was a favorable counterpoint to the single-loan NPA increase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDelinquencies at 46 bps, net charge-offs at 9 bps, and criticized assets declining to 2.37% from 2.81%.\u201d",
+      "expectation_evidence": "The preview identified criticized assets at \u201c2.81% in Q2,\u201d anticipated \u201ccriticized-asset drift,\u201d and set the bar to \u201chold NCOs near 10bp.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "BOH expanded its buyback authorization by an additional $200 million, well beyond the preview\u2019s reference to $89 million remaining. The planned $20 million Q3 repurchase and another $20 million in Q4 were in line with the preview; the much larger added authorization was not.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company repurchased $20 million of stock at ~$78 per share in Q3, plans another $20 million in Q4, and the Board authorized an additional $200 million to the buyback plan.\u201d",
+      "expectation_evidence": "The preview said \u201c$20M of buyback was planned for each of Q3 and Q4 with $89M remaining authorization.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "Trust, asset-management, annuity, and insurance fees showed stronger growth than the preview\u2019s expectation of stable trust and wealth fees. The reported figure is for the first nine months, rather than Q3 alone, so it does not establish a specific quarterly fee-income beat.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTrust/asset management and annuity/insurance fees totaled $45.2 million for the first nine months, up 11.5% year-over-year, reflecting wealth management investment payoffs.\u201d",
+      "expectation_evidence": "The preview\u2019s build assumed \u201cTrust/wealth stable; no large one-offs assumed.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 8,
+      "description": "The effective tax rate was slightly above the preview\u2019s assumed range, creating a modest headwind to earnings. BOH attributed the increase to added valuation reserves on certain investments.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe effective tax rate rose to 23.2% due to added valuation reserves on certain investments.\u201d",
+      "expectation_evidence": "The preview\u2019s EPS build assumed a \u201c~22\u201323% tax\u201d rate.",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

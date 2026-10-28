@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "The preview put Q3 core EPS at $0.48, with $0.45\u2013$0.46 in its bear case. ARCC reported $0.46, two cents below consensus and at the low end of that bear-case range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core earnings of $0.46 per share\u201d",
+      "expectation_evidence": "\u201cCore EPS (non-GAAP) $0.48\u201d; the bear case expected \u201c$0.45\u20130.46.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "ARCC announced an acquisition the preview did not anticipate: MFIC will add over 200 portfolio companies and is expected to be modestly accretive to core EPS. The purchase uses a deeper discount to NAV, with the discount concentrated in a small portion of higher-uncertainty investments.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cARCC announced an agreement to acquire\u201d MFIC, \u201cexpected to be modestly accretive to core EPS,\u201d adding \u201cover 200 portfolio companies\u201d; it is \u201cbeing purchased at a deeper discount to NAV,\u201d with the discount \u201cconcentrated in a small percentage of higher-uncertainty investments.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Q3 originations slowed to $2.1 billion and the closing ratio was moderately below its historical average, a weaker conversion outcome than the preview\u2019s pipeline-focused setup suggested. Management attributed this to greater selectivity and a slower deal environment.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 originations slowed to $2.1 billion with a closing ratio moderately below the historical ~5% average,\u201d attributed to \u201cincreased selectivity and a slower overall deal environment.\u201d",
+      "expectation_evidence": "The preview noted \u201cQ2 deal reviews +25% sequentially; June was \u2018one of our strongest months in two years.\u2019 Did that convert?\u201d and identified whether the \u201cJune pipeline converts\u201d as a key scenario driver.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite the slower Q3, post-quarter activity was notably strong: $1.1 billion of Q4 commitments had already closed and the backlog was about $2.5 billion, described as historically strong. This offers a more constructive near-term pipeline signal than the Q3 slowdown alone would suggest.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPost-quarter momentum is strong, with $1.1 billion of commitments already closed in Q4 and an investment backlog of approximately $2.5 billion, described as historically strong levels.\u201d",
+      "expectation_evidence": "The preview asked whether the pipeline would convert and listed \u201cnet portfolio growth\u201d as a bull-case driver, but did not forecast this level of Q4 commitments or backlog.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "New first-lien spreads widened 50 basis points quarter over quarter, a stronger improvement in lending terms than the preview\u2019s cited 20-basis-point increase in new senior loan spreads since Q4\u201925. Leverage on new loans also decreased by 0.5 turn.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFirst lien spreads on new originations widened 50 basis points quarter-over-quarter while leverage levels decreased by 0.5 turn, reflecting improved lending market conditions.\u201d",
+      "expectation_evidence": "The preview cited \u201cnew senior loan spreads +20bp vs. Q4\u201925\u201d and highlighted spread and funding-cost trends as key items to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net leverage came in below the preview\u2019s 1.12x figure, at 1.06x (1.10x pro forma for an unsettled trade), while available liquidity was about $7 billion versus the preview\u2019s roughly $6.0 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage was 1.06x (1.10x pro forma for an unsettled trade), with ~$7 billion of available liquidity.\u201d",
+      "expectation_evidence": "The preview reported \u201cDebt/equity (net) \u2026 1.12x\u201d and \u201c~$6.0B liquidity.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview put Q3 core EPS at $0.48, with $0.45\u2013$0.46 in its bear case. ARCC reported $0.46, two cents below consensus and at the low end of that bear-case range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core earnings of $0.46 per share\u201d",
+      "expectation_evidence": "\u201cCore EPS (non-GAAP) $0.48\u201d; the bear case expected \u201c$0.45\u20130.46.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "ARCC announced an acquisition the preview did not anticipate: MFIC will add over 200 portfolio companies and is expected to be modestly accretive to core EPS. The purchase uses a deeper discount to NAV, with the discount concentrated in a small portion of higher-uncertainty investments.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cARCC announced an agreement to acquire\u201d MFIC, \u201cexpected to be modestly accretive to core EPS,\u201d adding \u201cover 200 portfolio companies\u201d; it is \u201cbeing purchased at a deeper discount to NAV,\u201d with the discount \u201cconcentrated in a small percentage of higher-uncertainty investments.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 2,
+      "description": "Q3 originations slowed to $2.1 billion and the closing ratio was moderately below its historical average, a weaker conversion outcome than the preview\u2019s pipeline-focused setup suggested. Management attributed this to greater selectivity and a slower deal environment.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 originations slowed to $2.1 billion with a closing ratio moderately below the historical ~5% average,\u201d attributed to \u201cincreased selectivity and a slower overall deal environment.\u201d",
+      "expectation_evidence": "The preview noted \u201cQ2 deal reviews +25% sequentially; June was \u2018one of our strongest months in two years.\u2019 Did that convert?\u201d and identified whether the \u201cJune pipeline converts\u201d as a key scenario driver.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Despite the slower Q3, post-quarter activity was notably strong: $1.1 billion of Q4 commitments had already closed and the backlog was about $2.5 billion, described as historically strong. This offers a more constructive near-term pipeline signal than the Q3 slowdown alone would suggest.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPost-quarter momentum is strong, with $1.1 billion of commitments already closed in Q4 and an investment backlog of approximately $2.5 billion, described as historically strong levels.\u201d",
+      "expectation_evidence": "The preview asked whether the pipeline would convert and listed \u201cnet portfolio growth\u201d as a bull-case driver, but did not forecast this level of Q4 commitments or backlog.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "New first-lien spreads widened 50 basis points quarter over quarter, a stronger improvement in lending terms than the preview\u2019s cited 20-basis-point increase in new senior loan spreads since Q4\u201925. Leverage on new loans also decreased by 0.5 turn.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFirst lien spreads on new originations widened 50 basis points quarter-over-quarter while leverage levels decreased by 0.5 turn, reflecting improved lending market conditions.\u201d",
+      "expectation_evidence": "The preview cited \u201cnew senior loan spreads +20bp vs. Q4\u201925\u201d and highlighted spread and funding-cost trends as key items to watch.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 5,
+      "description": "Net leverage came in below the preview\u2019s 1.12x figure, at 1.06x (1.10x pro forma for an unsettled trade), while available liquidity was about $7 billion versus the preview\u2019s roughly $6.0 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet leverage was 1.06x (1.10x pro forma for an unsettled trade), with ~$7 billion of available liquidity.\u201d",
+      "expectation_evidence": "The preview reported \u201cDebt/equity (net) \u2026 1.12x\u201d and \u201c~$6.0B liquidity.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

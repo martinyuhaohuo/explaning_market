@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "FY2026 adjusted EBITDA was $4.1 million, below the preview\u2019s roughly $4.9 million estimate. That is a noticeable shortfall from the modeled result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull year adjusted EBITDA increased 134.2% to $4.1 million.\u201d",
+      "expectation_evidence": "The preview modeled FY2026 adjusted EBITDA at \u201c~$4.9M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY2026 revenue was above the preview\u2019s $30.4 million consensus, but slightly below its $31.85 million base estimate. The result beat the published bar while landing just under the preview\u2019s own forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull year fiscal 2026 consolidated revenue increased 7.6% to $31.6 million.\u201d",
+      "expectation_evidence": "The preview listed FY26 consensus of \u201c$30.4M\u201d and a base estimate of \u201c$31.85M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 revenue exceeded the $7.25 million published consensus and fell within the preview\u2019s $7.7\u20138.1 million whisper range, but was below its $7.95 million base estimate. It was a beat against consensus, but not against the preview\u2019s central forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 revenue rose 4% to $7.8 million.\u201d",
+      "expectation_evidence": "The preview cited Q4 consensus of \u201c$7.25M,\u201d a base estimate of \u201c$7.95M,\u201d and a \u201c$7.7\u20138.1M\u201d realistic whisper range.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY2026 non-GAAP net income per diluted share was $0.24, above the $0.20 consensus but below the preview\u2019s $0.27 base estimate. It therefore beat the published estimate without reaching the preview\u2019s own forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNon-GAAP net income rose to $3.1 million ($0.24 per diluted share).\u201d",
+      "expectation_evidence": "The preview listed FY26 EPS consensus of \u201c$0.20 (likely non-GAAP)\u201d and a base estimate of \u201c$0.27 non-GAAP.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Marketplace ARPU reached $0.121, below the preview\u2019s expected ARPMAU of about $0.127. The reported 30.5% year-over-year increase was strong, but the level was short of the preview estimate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarketplace ARPU rose 30.5% to $0.121.\u201d",
+      "expectation_evidence": "The preview estimated Q4 ARPMAU at \u201c~$0.127.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "FY2026 adjusted EBITDA was $4.1 million, below the preview\u2019s roughly $4.9 million estimate. That is a noticeable shortfall from the modeled result.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull year adjusted EBITDA increased 134.2% to $4.1 million.\u201d",
+      "expectation_evidence": "The preview modeled FY2026 adjusted EBITDA at \u201c~$4.9M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "FY2026 revenue was above the preview\u2019s $30.4 million consensus, but slightly below its $31.85 million base estimate. The result beat the published bar while landing just under the preview\u2019s own forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull year fiscal 2026 consolidated revenue increased 7.6% to $31.6 million.\u201d",
+      "expectation_evidence": "The preview listed FY26 consensus of \u201c$30.4M\u201d and a base estimate of \u201c$31.85M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Q4 revenue exceeded the $7.25 million published consensus and fell within the preview\u2019s $7.7\u20138.1 million whisper range, but was below its $7.95 million base estimate. It was a beat against consensus, but not against the preview\u2019s central forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ4 revenue rose 4% to $7.8 million.\u201d",
+      "expectation_evidence": "The preview cited Q4 consensus of \u201c$7.25M,\u201d a base estimate of \u201c$7.95M,\u201d and a \u201c$7.7\u20138.1M\u201d realistic whisper range.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "FY2026 non-GAAP net income per diluted share was $0.24, above the $0.20 consensus but below the preview\u2019s $0.27 base estimate. It therefore beat the published estimate without reaching the preview\u2019s own forecast.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNon-GAAP net income rose to $3.1 million ($0.24 per diluted share).\u201d",
+      "expectation_evidence": "The preview listed FY26 EPS consensus of \u201c$0.20 (likely non-GAAP)\u201d and a base estimate of \u201c$0.27 non-GAAP.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "Marketplace ARPU reached $0.121, below the preview\u2019s expected ARPMAU of about $0.127. The reported 30.5% year-over-year increase was strong, but the level was short of the preview estimate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarketplace ARPU rose 30.5% to $0.121.\u201d",
+      "expectation_evidence": "The preview estimated Q4 ARPMAU at \u201c~$0.127.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

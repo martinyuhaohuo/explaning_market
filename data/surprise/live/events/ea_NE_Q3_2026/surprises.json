@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $684 million, below the $713.8 million consensus and just under the preview\u2019s $685\u2013715 million base-case range. The quarter\u2019s 5% sequential decline was attributed to rigs transitioning between contracts.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA was $201 million (28% margin) on total revenue of $684 million, a 5% sequential decline due to rigs transitioning between contracts.\u201d",
+      "expectation_evidence": "\u201cQ3 2026 Consensus\u201d total revenue: \u201c$713.8M\u201d; base scenario revenue: \u201c$685\u2013715M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Noble lowered the top end of FY2026 adjusted EBITDA guidance from $925 million to $900 million, rather than reaffirming the prior range. The stated reason was slightly later starts for the Voyager and Valiant rigs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 adjusted EBITDA guidance was narrowed to $850-900 million (trimmed from the prior high end of $925 million) due to slightly later starts for the Voyager and Valiant rigs.\u201d",
+      "expectation_evidence": "The preview identified \u201cFY26 adj. EBITDA guidance ($850\u2013925M)\u201d as the key metric and said the base case was \u201cFY guidance reaffirmed.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "2026 capex guidance rose to $680\u2013705 million from $615\u2013665 million, increasing the expected cash investment above the range used in the preview\u2019s cash-generation discussion. Noble said the increase was primarily customer-reimbursable capex, which limits how much of the increase signals higher unreimbursed spending.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2026 capex guidance was raised to $680-705 million from $615-665 million, primarily due to higher customer reimbursable capital expenditures.\u201d",
+      "expectation_evidence": "The preview discussed FY26 guidance using a \u201ccapex midpoint $640M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Backlog was $6.7 billion, below the preview\u2019s expected flat $6.8\u20137.0 billion range. This was despite $560 million of new awards over the past three months, so awards did not prevent backlog from coming in below that expectation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company secured approximately $560 million in new contract awards over the past three months, bringing total backlog to $6.7 billion.\u201d",
+      "expectation_evidence": "The base scenario expected \u201cbacklog flat at $6.8\u20137.0B\u201d; the preview also highlighted backlog versus \u201c$6.8B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The $560 million of awards exceeded the preview\u2019s $400 million-plus award level in its bull scenario, providing a stronger-than-that-benchmark contracting result even though total backlog was below the base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company secured approximately $560 million in new contract awards over the past three months.\u201d",
+      "expectation_evidence": "The bull scenario called for the \u201cFSR [to] add[] $400M+ backlog.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Marketed ultra-deepwater utilization reached 99%\u2014109 of 110 rigs contracted\u2014surpassing the 2024 peak, a much stronger current contracting picture than the preview\u2019s concern about falling floater contracting and utilization. However, working utilization remained 10 units below its 2024 high, so contracted status had not fully translated into peak operating utilization.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMarketed ultra-deepwater utilization has reached 99% (109 of 110 rigs contracted), eclipsing the 2024 peak, while working utilization of 88 rigs remains 10 units below the 2024 high.\u201d",
+      "expectation_evidence": "The preview said \u201cFloaters contracted fell to 61% from 68%; floater utilization 59% from 65%\u201d and asked whether the contracted percentage would \u201cinflect or keep sliding.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Four of Noble\u2019s five CJ-70 jack-ups were contracted in Norway at $230,000\u2013$300,000 per day. That is a concrete fleet-contracting improvement against the preview\u2019s focus on uncontracted units and the need for additional fixtures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFour of Noble's five CJ-70 jack-ups are now contracted in Norway at $230,000-$300,000 per day.\u201d",
+      "expectation_evidence": "The preview said the market was watching for fixtures for \u201cBlackRhino, BlackHawk, Stanley Lafosse and Noble Viking,\u201d and described additional idle-unit contracting as a bull-case driver.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Noble indicated stronger 2027 revenue visibility than the preview\u2019s approximately $2.3 billion backlog-conversion framing: roughly $2.6 billion is now scheduled to convert in 2027. It also said about 20% more fleet capacity is contracted for 2H27 than 1H27, with EBITDA expected to build meaningfully after Q1.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRoughly $2.6 billion [is] scheduled for revenue conversion in 2027\u201d; \u201capproximately 20% more fleet capacity is already contracted for the second half of 2027 versus the first half\u201d; and \u201cQ1 2027 EBITDA [is] expected to be similar to Q4 2026 before building meaningfully each quarter.\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201c~$2.3B of 2027 backlog conversion\u201d and a \u201cmeaningful earnings inflection by 2H27.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $684 million, below the $713.8 million consensus and just under the preview\u2019s $685\u2013715 million base-case range. The quarter\u2019s 5% sequential decline was attributed to rigs transitioning between contracts.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 adjusted EBITDA was $201 million (28% margin) on total revenue of $684 million, a 5% sequential decline due to rigs transitioning between contracts.\u201d",
+      "expectation_evidence": "\u201cQ3 2026 Consensus\u201d total revenue: \u201c$713.8M\u201d; base scenario revenue: \u201c$685\u2013715M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Noble lowered the top end of FY2026 adjusted EBITDA guidance from $925 million to $900 million, rather than reaffirming the prior range. The stated reason was slightly later starts for the Voyager and Valiant rigs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 adjusted EBITDA guidance was narrowed to $850-900 million (trimmed from the prior high end of $925 million) due to slightly later starts for the Voyager and Valiant rigs.\u201d",
+      "expectation_evidence": "The preview identified \u201cFY26 adj. EBITDA guidance ($850\u2013925M)\u201d as the key metric and said the base case was \u201cFY guidance reaffirmed.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "2026 capex guidance rose to $680\u2013705 million from $615\u2013665 million, increasing the expected cash investment above the range used in the preview\u2019s cash-generation discussion. Noble said the increase was primarily customer-reimbursable capex, which limits how much of the increase signals higher unreimbursed spending.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2026 capex guidance was raised to $680-705 million from $615-665 million, primarily due to higher customer reimbursable capital expenditures.\u201d",
+      "expectation_evidence": "The preview discussed FY26 guidance using a \u201ccapex midpoint $640M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Backlog was $6.7 billion, below the preview\u2019s expected flat $6.8\u20137.0 billion range. This was despite $560 million of new awards over the past three months, so awards did not prevent backlog from coming in below that expectation.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company secured approximately $560 million in new contract awards over the past three months, bringing total backlog to $6.7 billion.\u201d",
+      "expectation_evidence": "The base scenario expected \u201cbacklog flat at $6.8\u20137.0B\u201d; the preview also highlighted backlog versus \u201c$6.8B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "The $560 million of awards exceeded the preview\u2019s $400 million-plus award level in its bull scenario, providing a stronger-than-that-benchmark contracting result even though total backlog was below the base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company secured approximately $560 million in new contract awards over the past three months.\u201d",
+      "expectation_evidence": "The bull scenario called for the \u201cFSR [to] add[] $400M+ backlog.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Marketed ultra-deepwater utilization reached 99%\u2014109 of 110 rigs contracted\u2014surpassing the 2024 peak, a much stronger current contracting picture than the preview\u2019s concern about falling floater contracting and utilization. However, working utilization remained 10 units below its 2024 high, so contracted status had not fully translated into peak operating utilization.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMarketed ultra-deepwater utilization has reached 99% (109 of 110 rigs contracted), eclipsing the 2024 peak, while working utilization of 88 rigs remains 10 units below the 2024 high.\u201d",
+      "expectation_evidence": "The preview said \u201cFloaters contracted fell to 61% from 68%; floater utilization 59% from 65%\u201d and asked whether the contracted percentage would \u201cinflect or keep sliding.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Four of Noble\u2019s five CJ-70 jack-ups were contracted in Norway at $230,000\u2013$300,000 per day. That is a concrete fleet-contracting improvement against the preview\u2019s focus on uncontracted units and the need for additional fixtures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFour of Noble's five CJ-70 jack-ups are now contracted in Norway at $230,000-$300,000 per day.\u201d",
+      "expectation_evidence": "The preview said the market was watching for fixtures for \u201cBlackRhino, BlackHawk, Stanley Lafosse and Noble Viking,\u201d and described additional idle-unit contracting as a bull-case driver.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 7,
+      "description": "Noble indicated stronger 2027 revenue visibility than the preview\u2019s approximately $2.3 billion backlog-conversion framing: roughly $2.6 billion is now scheduled to convert in 2027. It also said about 20% more fleet capacity is contracted for 2H27 than 1H27, with EBITDA expected to build meaningfully after Q1.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRoughly $2.6 billion [is] scheduled for revenue conversion in 2027\u201d; \u201capproximately 20% more fleet capacity is already contracted for the second half of 2027 versus the first half\u201d; and \u201cQ1 2027 EBITDA [is] expected to be similar to Q4 2026 before building meaningfully each quarter.\u201d",
+      "expectation_evidence": "The preview said management had guided to \u201c~$2.3B of 2027 backlog conversion\u201d and a \u201cmeaningful earnings inflection by 2H27.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Revenue was expected around $297 million, with the preview\u2019s informal \u201cwhisper\u201d at above $300 million; Manhattan reported a record $306 million, beating consensus and clearing that higher bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal quarterly revenue rose 11% to a record $306 million, exceeding the $300 million mark for the first time and beating expectations.\u201d",
+      "expectation_evidence": "\u201cTotal revenue | Q3'26 Consensus | $297.0M\u201d; the preview also says \u201cThe functional whisper is \u2018revenue above $300M.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cloud revenue was expected at about $130 million and roughly 24% growth, with services expected to be about $133 million. Instead, cloud reached $134 million and grew 28%, overtaking services for the first time.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 cloud revenue grew 28% year-over-year to $134 million, accelerating from 24% in Q1 and 26% in Q2, with cloud revenue surpassing services revenue for the first time.\u201d",
+      "expectation_evidence": "\u201cCloud subscription rev. | ~$130M (guide-anchored)\u201d and \u201cServices revenue | ~$133M\u201d; the preview also calls ~$132M+ and approximately 25% growth a clear positive.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The quarter-end RPO dollar amount landed within the preview\u2019s expected range, but its 25% year-over-year growth was ahead of the preview\u2019s roughly 20\u201322% estimate. Management also raised its full-year RPO growth outlook to 21%, above the prior 18\u201320% range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRPO increased 25% year-over-year to $2.59 billion (up 5% sequentially), and the company raised its full-year RPO growth outlook to 21%, up from the prior 18%-20% range.\u201d",
+      "expectation_evidence": "The preview derived quarter-end RPO of \u201c~$2.58\u20132.62B\u201d and described it as \u201c~+20\u201322%\u201d; it also said the FY exit target was \u201c$2.62\u20132.68B, \u2018toward high end.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The full-year outlook exceeded the preview\u2019s already-raised bull-case thresholds: revenue guidance is now $1.176\u2013$1.178 billion versus the preview\u2019s $1.170 billion-plus bar, and adjusted EPS is $5.54\u2013$5.56 versus a base expectation of about $5.50. The $291 million Q4 revenue guide is also above the roughly $287 million implied by the prior full-year midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided Q4 total revenue down to about $291 million reflecting retail peak seasonality, with full-year revenue of $1.176-$1.178 billion and full-year adjusted EPS raised to $5.54-$5.56.\u201d",
+      "expectation_evidence": "The preview says investors wanted FY revenue \u201c~$1,170M+\u201d and adjusted EPS \u201ctoward $5.55+\u201d; its prior-guidance arithmetic implied Q4 revenue of \u201conly ~$287M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS was expected at $1.46; the reported $1.55 was a clear beat. It also exceeded the preview\u2019s bull-case range ceiling of $1.58 only in neither direction? Actually it falls within that range, while still well above the base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS grew 14% to $1.55 \u2026 both beating expectations.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Q3'26 Consensus | $1.46\u201d; the preview\u2019s base scenario was \u201c$1.46\u20131.50.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted operating margin was expected around 36.9%; it came in at 37.6%, a 70-basis-point beat of the guide-anchored expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted operating margin expanding to 37.6%.\u201d",
+      "expectation_evidence": "The preview gives \u201cAdj. operating margin \u2026 ~36\u201337%\u201d and identifies \u201c~36.9%\u201d as the guide.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview noted that GAAP EPS had declined year over year in both Q1 and Q2. In Q3 it grew 8% to $1.04 and beat expectations, reversing that recent pattern.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP EPS grew 8% to $1.04 \u2026 both beating expectations.\u201d",
+      "expectation_evidence": "The preview notes that \u201cGAAP EPS was down y/y in both Q1 and Q2.\u201d",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The fourth consecutive record bookings quarter was anticipated, but the preview did not flag that year-to-date deal volume would already exceed all of 2025. That cumulative volume is an additional sign of stronger bookings momentum than the preview quantified.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company delivered its fourth consecutive record bookings quarter, with year-to-date deal volume already surpassing full-year 2025 total deal volume.\u201d",
+      "expectation_evidence": "The preview says Q2 followed \u201cthree consecutive record bookings quarters\u201d and lists a \u201cFourth straight record bookings quarter\u201d in its scenarios.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The preview expected pipeline color and said early Editions wins could be incremental upside, but did not anticipate partner-sourced deals increasing more than fourfold year over year. First Enterprise and Essentials wins were also reported; material revenue impact is still expected only in the second half of 2027, rather than being a near-term revenue driver.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNew Editions packaging launched in Q3 with first Enterprise and Essentials Edition wins, partner-sourced deals up more than 4x year-over-year, with material Editions revenue impact expected in the second half of 2027.\u201d",
+      "expectation_evidence": "The preview says Editions launched only about a week before quarter-end, so \u201cExpect pipeline color, not revenue,\u201d and calls early wins incremental upside.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management explicitly endorsed 2027 consensus, including 20% cloud growth and continued operating-margin expansion. This provided forward validation against the preview\u2019s concern that 2027 could bring elevated AI and go-to-market spending pressure on margins.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement endorsed 2027 consensus estimates as appropriate, including 20% cloud revenue growth, low single-digit services growth, and continued operating margin expansion.\u201d",
+      "expectation_evidence": "The preview flags \u201cEarly signaling of elevated AI/go-to-market spend for 2027\u201d as a risk and asks for 2027 framing.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Revenue was expected around $297 million, with the preview\u2019s informal \u201cwhisper\u201d at above $300 million; Manhattan reported a record $306 million, beating consensus and clearing that higher bar.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal quarterly revenue rose 11% to a record $306 million, exceeding the $300 million mark for the first time and beating expectations.\u201d",
+      "expectation_evidence": "\u201cTotal revenue | Q3'26 Consensus | $297.0M\u201d; the preview also says \u201cThe functional whisper is \u2018revenue above $300M.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Cloud revenue was expected at about $130 million and roughly 24% growth, with services expected to be about $133 million. Instead, cloud reached $134 million and grew 28%, overtaking services for the first time.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 cloud revenue grew 28% year-over-year to $134 million, accelerating from 24% in Q1 and 26% in Q2, with cloud revenue surpassing services revenue for the first time.\u201d",
+      "expectation_evidence": "\u201cCloud subscription rev. | ~$130M (guide-anchored)\u201d and \u201cServices revenue | ~$133M\u201d; the preview also calls ~$132M+ and approximately 25% growth a clear positive.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "The quarter-end RPO dollar amount landed within the preview\u2019s expected range, but its 25% year-over-year growth was ahead of the preview\u2019s roughly 20\u201322% estimate. Management also raised its full-year RPO growth outlook to 21%, above the prior 18\u201320% range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRPO increased 25% year-over-year to $2.59 billion (up 5% sequentially), and the company raised its full-year RPO growth outlook to 21%, up from the prior 18%-20% range.\u201d",
+      "expectation_evidence": "The preview derived quarter-end RPO of \u201c~$2.58\u20132.62B\u201d and described it as \u201c~+20\u201322%\u201d; it also said the FY exit target was \u201c$2.62\u20132.68B, \u2018toward high end.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The full-year outlook exceeded the preview\u2019s already-raised bull-case thresholds: revenue guidance is now $1.176\u2013$1.178 billion versus the preview\u2019s $1.170 billion-plus bar, and adjusted EPS is $5.54\u2013$5.56 versus a base expectation of about $5.50. The $291 million Q4 revenue guide is also above the roughly $287 million implied by the prior full-year midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided Q4 total revenue down to about $291 million reflecting retail peak seasonality, with full-year revenue of $1.176-$1.178 billion and full-year adjusted EPS raised to $5.54-$5.56.\u201d",
+      "expectation_evidence": "The preview says investors wanted FY revenue \u201c~$1,170M+\u201d and adjusted EPS \u201ctoward $5.55+\u201d; its prior-guidance arithmetic implied Q4 revenue of \u201conly ~$287M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Adjusted EPS was expected at $1.46; the reported $1.55 was a clear beat. It also exceeded the preview\u2019s bull-case range ceiling of $1.58 only in neither direction? Actually it falls within that range, while still well above the base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS grew 14% to $1.55 \u2026 both beating expectations.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Q3'26 Consensus | $1.46\u201d; the preview\u2019s base scenario was \u201c$1.46\u20131.50.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 5,
+      "description": "Adjusted operating margin was expected around 36.9%; it came in at 37.6%, a 70-basis-point beat of the guide-anchored expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted operating margin expanding to 37.6%.\u201d",
+      "expectation_evidence": "The preview gives \u201cAdj. operating margin \u2026 ~36\u201337%\u201d and identifies \u201c~36.9%\u201d as the guide.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "The preview noted that GAAP EPS had declined year over year in both Q1 and Q2. In Q3 it grew 8% to $1.04 and beat expectations, reversing that recent pattern.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP EPS grew 8% to $1.04 \u2026 both beating expectations.\u201d",
+      "expectation_evidence": "The preview notes that \u201cGAAP EPS was down y/y in both Q1 and Q2.\u201d",
+      "expectation_source": "none",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 7,
+      "description": "The fourth consecutive record bookings quarter was anticipated, but the preview did not flag that year-to-date deal volume would already exceed all of 2025. That cumulative volume is an additional sign of stronger bookings momentum than the preview quantified.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company delivered its fourth consecutive record bookings quarter, with year-to-date deal volume already surpassing full-year 2025 total deal volume.\u201d",
+      "expectation_evidence": "The preview says Q2 followed \u201cthree consecutive record bookings quarters\u201d and lists a \u201cFourth straight record bookings quarter\u201d in its scenarios.",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "The preview expected pipeline color and said early Editions wins could be incremental upside, but did not anticipate partner-sourced deals increasing more than fourfold year over year. First Enterprise and Essentials wins were also reported; material revenue impact is still expected only in the second half of 2027, rather than being a near-term revenue driver.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNew Editions packaging launched in Q3 with first Enterprise and Essentials Edition wins, partner-sourced deals up more than 4x year-over-year, with material Editions revenue impact expected in the second half of 2027.\u201d",
+      "expectation_evidence": "The preview says Editions launched only about a week before quarter-end, so \u201cExpect pipeline color, not revenue,\u201d and calls early wins incremental upside.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 9,
+      "description": "Management explicitly endorsed 2027 consensus, including 20% cloud growth and continued operating-margin expansion. This provided forward validation against the preview\u2019s concern that 2027 could bring elevated AI and go-to-market spending pressure on margins.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement endorsed 2027 consensus estimates as appropriate, including 20% cloud revenue growth, low single-digit services growth, and continued operating margin expansion.\u201d",
+      "expectation_evidence": "The preview flags \u201cEarly signaling of elevated AI/go-to-market spend for 2027\u201d as a risk and asks for 2027 framing.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

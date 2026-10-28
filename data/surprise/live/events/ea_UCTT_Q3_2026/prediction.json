@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_UCTT_Q3_2026",
+  "event_datetime": "2026-10-27T20:45:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-27T23:05:35.474338+00:00",
+  "predictions": [
+    {
+      "identifier_value": "UCTT",
+      "predicted_percentile": 0.5922809213778273
+    }
+  ]
+}

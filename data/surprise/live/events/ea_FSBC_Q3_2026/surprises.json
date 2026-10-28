@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "FSBC\u2019s net income was $21.9 million, above the preview\u2019s estimates of about $20.2 million at consensus and $20.6 million in its own model. Basic EPS was $0.92 versus the preview\u2019s $0.854 diluted-EPS consensus, though those EPS measures are not directly comparable.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income rose to $21.9 million in Q3 2026\u201d and \u201cbasic EPS of $0.92.\u201d",
+      "expectation_evidence": "\u201cNet income\u201d estimate: \u201c~$20.6M\u201d; consensus \u201c~$20.2M.\u201d Diluted EPS consensus: \u201c$0.854.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total deposit growth appears far below the preview\u2019s modeled increase of about $250 million: non-wholesale deposits rose $75.1 million while wholesale deposits fell $50 million, implying only about $25 million of net growth. The funding mix nevertheless improved, with non-wholesale deposits reaching about 96% of total deposits and noninterest-bearing deposits 25.1%.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-wholesale deposits increased $75.1 million while wholesale deposits fell $50 million,\u201d raising non-wholesale deposits to \u201c~96% of total\u201d and noninterest-bearing deposits to \u201c25.1%.\u201d",
+      "expectation_evidence": "The preview estimated deposits of \u201c$4.80B\u201d in Q2 and \u201c~$5.05B\u201d in Q3.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Loan growth was weaker than the preview\u2019s roughly $250\u2013260 million expectation: loans held for investment increased $184.5 million. The 10%\u201312% loan-growth guidance for Q4 2026 and full-year 2027 also points to a slower pace than Q2\u2019s 29% annualized growth, despite the preview\u2019s focus on deploying the new capital and whether that pace would hold.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Loans held for investment \u201cgrew $184.5 million (~16% annualized)\u201d and management guided to \u201cloan growth of 10% to 12% for Q4 2026 and for full-year 2027.\u201d",
+      "expectation_evidence": "The preview estimated Q3 loans at \u201c~$4.78B\u201d from Q2\u2019s \u201c$4.52B,\u201d and its base scenario assumed \u201cloans +$250M.\u201d It also noted that loans grew \u201c29% annualized in Q2\u201d and asked whether \u201cthe pace holds.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NIM expanded more than the preview\u2019s estimate, reaching 3.69% versus its 3.66% estimate and the base-case range\u2019s 3.64%\u20133.68%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 6 basis points to 3.69%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cNIM\u201d at \u201c3.66%\u201d and described its base scenario as \u201cNIM 3.64\u20133.68%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management provided a forward NIM range of 3.65%\u20133.75%, rather than explicitly guiding to at least 3.70% exiting 2026 as the preview said the buy-side wanted. The range includes 3.70% but also leaves room for a lower level.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Management guided to a \u201ccomfortable range of 3.65% to 3.75% going forward.\u201d",
+      "expectation_evidence": "The preview said \u201cthe buy-side wants 3.70%+ exiting 2026\u201d and that bull commentary would include \u201cexplicit NIM guidance of 3.70%+ exiting the year.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The efficiency ratio improved to 39.13%, better than the preview\u2019s estimate of about 40% and below its stated 40% base-case level.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe efficiency ratio improved to 39.13% from 40.91% in Q2.\u201d",
+      "expectation_evidence": "The preview estimated \u201cEfficiency ratio\u201d at \u201c~40%\u201d and described its base case as \u201cefficiency ~40%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The $2.5 million provision was modestly below the preview\u2019s $2.6\u2013$3.0 million base-case range and its $2.8 million estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company recorded a $2.5 million provision for credit losses.\u201d",
+      "expectation_evidence": "The preview estimated provision at \u201c$2.8M\u201d and its base scenario specified \u201cprovision $2.6\u20133.0M.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "FSBC\u2019s net income was $21.9 million, above the preview\u2019s estimates of about $20.2 million at consensus and $20.6 million in its own model. Basic EPS was $0.92 versus the preview\u2019s $0.854 diluted-EPS consensus, though those EPS measures are not directly comparable.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet income rose to $21.9 million in Q3 2026\u201d and \u201cbasic EPS of $0.92.\u201d",
+      "expectation_evidence": "\u201cNet income\u201d estimate: \u201c~$20.6M\u201d; consensus \u201c~$20.2M.\u201d Diluted EPS consensus: \u201c$0.854.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Total deposit growth appears far below the preview\u2019s modeled increase of about $250 million: non-wholesale deposits rose $75.1 million while wholesale deposits fell $50 million, implying only about $25 million of net growth. The funding mix nevertheless improved, with non-wholesale deposits reaching about 96% of total deposits and noninterest-bearing deposits 25.1%.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNon-wholesale deposits increased $75.1 million while wholesale deposits fell $50 million,\u201d raising non-wholesale deposits to \u201c~96% of total\u201d and noninterest-bearing deposits to \u201c25.1%.\u201d",
+      "expectation_evidence": "The preview estimated deposits of \u201c$4.80B\u201d in Q2 and \u201c~$5.05B\u201d in Q3.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Loan growth was weaker than the preview\u2019s roughly $250\u2013260 million expectation: loans held for investment increased $184.5 million. The 10%\u201312% loan-growth guidance for Q4 2026 and full-year 2027 also points to a slower pace than Q2\u2019s 29% annualized growth, despite the preview\u2019s focus on deploying the new capital and whether that pace would hold.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Loans held for investment \u201cgrew $184.5 million (~16% annualized)\u201d and management guided to \u201cloan growth of 10% to 12% for Q4 2026 and for full-year 2027.\u201d",
+      "expectation_evidence": "The preview estimated Q3 loans at \u201c~$4.78B\u201d from Q2\u2019s \u201c$4.52B,\u201d and its base scenario assumed \u201cloans +$250M.\u201d It also noted that loans grew \u201c29% annualized in Q2\u201d and asked whether \u201cthe pace holds.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "NIM expanded more than the preview\u2019s estimate, reaching 3.69% versus its 3.66% estimate and the base-case range\u2019s 3.64%\u20133.68%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 6 basis points to 3.69%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cNIM\u201d at \u201c3.66%\u201d and described its base scenario as \u201cNIM 3.64\u20133.68%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Management provided a forward NIM range of 3.65%\u20133.75%, rather than explicitly guiding to at least 3.70% exiting 2026 as the preview said the buy-side wanted. The range includes 3.70% but also leaves room for a lower level.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Management guided to a \u201ccomfortable range of 3.65% to 3.75% going forward.\u201d",
+      "expectation_evidence": "The preview said \u201cthe buy-side wants 3.70%+ exiting 2026\u201d and that bull commentary would include \u201cexplicit NIM guidance of 3.70%+ exiting the year.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The efficiency ratio improved to 39.13%, better than the preview\u2019s estimate of about 40% and below its stated 40% base-case level.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe efficiency ratio improved to 39.13% from 40.91% in Q2.\u201d",
+      "expectation_evidence": "The preview estimated \u201cEfficiency ratio\u201d at \u201c~40%\u201d and described its base case as \u201cefficiency ~40%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 6,
+      "description": "The $2.5 million provision was modestly below the preview\u2019s $2.6\u2013$3.0 million base-case range and its $2.8 million estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company recorded a $2.5 million provision for credit losses.\u201d",
+      "expectation_evidence": "The preview estimated provision at \u201c$2.8M\u201d and its base scenario specified \u201cprovision $2.6\u20133.0M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

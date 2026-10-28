@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Pulmonx reported $22.8 million of revenue, about 4% above the $21.93 million consensus and 6% year-over-year growth versus the preview\u2019s implied 2%. The return to growth was expected, but the growth rate and revenue beat were stronger than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Worldwide revenue was $22.8 million, a 6% increase over the prior year.",
+      "expectation_evidence": "\u201cconsensus $21.93M implies the first year-over-year revenue growth (+2.0%)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The quarterly adjusted EBITDA loss was substantially smaller than the preview\u2019s estimated $5.5 million loss: Pulmonx reported a $3.5 million loss, nearly 60% narrower year over year.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EBITDA loss narrowed nearly 60% year-over-year to $3.5 million.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA (est.) ~$(5.5)M\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The net loss per share was $0.19, a smaller loss than the preview\u2019s $0.26 consensus estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cnet loss improved 40% to $8.4 million ($0.19 loss per share versus $0.34 prior year).\u201d",
+      "expectation_evidence": "\u201cEPS $(0.26)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "U.S. revenue reached $14.9 million, above the preview\u2019s $13.8\u2013$14.3 million estimate range, and grew 7% year over year. The preview highlighted positive U.S. growth as a key question, but its base case expected U.S. revenue to be roughly flat year over year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cU.S. revenue grew 7% year-over-year to $14.9 million.\u201d",
+      "expectation_evidence": "\u201cU.S. $13.8\u201314.3M\u201d; \u201cBase ... U.S. roughly flat YoY\u201d; \u201cU.S. revenue YoY turning positive.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Pulmonx added only 8 U.S. treating centers, below the preview\u2019s watchpoint of at least 12 for the quarter and its roughly 40-per-year target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c8 new U.S. treating centers added during the quarter.\u201d",
+      "expectation_evidence": "\u201ctreating center adds \u226512 (Q2 pace) against the ~40/year target\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management raised full-year gross margin guidance to approximately 77%, above the prior approximately 76% guide the preview expected to remain in force.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201craised gross margin guidance to approximately 77%.\u201d",
+      "expectation_evidence": "\u201cFY26 gross margin ~76%\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year operating expense guidance came down to $108\u2013$109 million, below the preview\u2019s expected $109\u2013$111 million range; the stated stock-based compensation estimate also fell to about $14 million from about $15 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cfull year 2026 OpEx now expected between $108 million and $109 million including ~$14 million of stock-based compensation.\u201d",
+      "expectation_evidence": "\u201cFY26 opex $109\u2013111M, incl. ~$15M stock comp\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Expected full-year cash burn improved modestly to roughly $22 million, compared with the preview\u2019s expected $23 million cash decrease.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull year 2026 cash burn is expected to be roughly $22 million, a 30% reduction from 2025.\u201d",
+      "expectation_evidence": "\u201cFY26 cash decrease ~$23M\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Pulmonx reported $22.8 million of revenue, about 4% above the $21.93 million consensus and 6% year-over-year growth versus the preview\u2019s implied 2%. The return to growth was expected, but the growth rate and revenue beat were stronger than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Worldwide revenue was $22.8 million, a 6% increase over the prior year.",
+      "expectation_evidence": "\u201cconsensus $21.93M implies the first year-over-year revenue growth (+2.0%)\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "The quarterly adjusted EBITDA loss was substantially smaller than the preview\u2019s estimated $5.5 million loss: Pulmonx reported a $3.5 million loss, nearly 60% narrower year over year.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted EBITDA loss narrowed nearly 60% year-over-year to $3.5 million.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA (est.) ~$(5.5)M\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "The net loss per share was $0.19, a smaller loss than the preview\u2019s $0.26 consensus estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cnet loss improved 40% to $8.4 million ($0.19 loss per share versus $0.34 prior year).\u201d",
+      "expectation_evidence": "\u201cEPS $(0.26)\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "U.S. revenue reached $14.9 million, above the preview\u2019s $13.8\u2013$14.3 million estimate range, and grew 7% year over year. The preview highlighted positive U.S. growth as a key question, but its base case expected U.S. revenue to be roughly flat year over year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cU.S. revenue grew 7% year-over-year to $14.9 million.\u201d",
+      "expectation_evidence": "\u201cU.S. $13.8\u201314.3M\u201d; \u201cBase ... U.S. roughly flat YoY\u201d; \u201cU.S. revenue YoY turning positive.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Pulmonx added only 8 U.S. treating centers, below the preview\u2019s watchpoint of at least 12 for the quarter and its roughly 40-per-year target.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c8 new U.S. treating centers added during the quarter.\u201d",
+      "expectation_evidence": "\u201ctreating center adds \u226512 (Q2 pace) against the ~40/year target\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Management raised full-year gross margin guidance to approximately 77%, above the prior approximately 76% guide the preview expected to remain in force.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201craised gross margin guidance to approximately 77%.\u201d",
+      "expectation_evidence": "\u201cFY26 gross margin ~76%\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Full-year operating expense guidance came down to $108\u2013$109 million, below the preview\u2019s expected $109\u2013$111 million range; the stated stock-based compensation estimate also fell to about $14 million from about $15 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cfull year 2026 OpEx now expected between $108 million and $109 million including ~$14 million of stock-based compensation.\u201d",
+      "expectation_evidence": "\u201cFY26 opex $109\u2013111M, incl. ~$15M stock comp\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Expected full-year cash burn improved modestly to roughly $22 million, compared with the preview\u2019s expected $23 million cash decrease.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull year 2026 cash burn is expected to be roughly $22 million, a 30% reduction from 2025.\u201d",
+      "expectation_evidence": "\u201cFY26 cash decrease ~$23M\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

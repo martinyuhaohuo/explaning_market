@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "CLW guided to only $10\u201320 million of Q4 adjusted EBITDA, well below the preview\u2019s $35\u201340 million threshold for validating the recovery. The company cited seasonal volume declines, Augusta disruptions, Cypress Bend maintenance, and higher seasonal energy costs.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company guided Q4 2026 adjusted EBITDA to $10-20 million,\u201d reflecting \u201cseasonal volume declines, continued Augusta disruptions, $5-7 million in Cypress Bend maintenance costs, and ~$4 million in seasonal energy cost increases.\u201d",
+      "expectation_evidence": "\u201cQ4 guide \u2265 $35\u201340M EBITDA \u2014 required to validate a ~$140M 2027 run-rate.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview described the two $60-per-ton increases as worth $50\u201360 million annually, but the call said the first $60-per-ton increase is fully implemented and is expected to deliver more than $70 million annually. That is a stronger stated benefit, although the facts do not give the implementation status of the second increase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe first $60/ton price increase is fully implemented and expected to deliver more than $70 million in annual benefit.\u201d",
+      "expectation_evidence": "\u201cManagement says they're worth $50\u201360M annualized ($10\u201320M in 2026).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview expected Q3 net sales of $388.4 million, while CLW reported $385 million, a small miss; sales were down 4% year over year versus the preview\u2019s 2.7% expected decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet sales fell 4% year-over-year to $385 million, driven by lower market-based pricing and a 1% decline in shipments.\u201d",
+      "expectation_evidence": "\u201cNet sales | $388.4M\u201d and \u201cCons. vs. YoY | \u22122.7%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call disclosed serious Augusta mill operating failures and a larger, longer-lasting maintenance burden than the preview identified: the mill had been running below needed production, unplanned capital investment was required, and two outages are now expected in 2027.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperational failures in the pulp, power and recovery areas of the Augusta mill caused it to run roughly 10-15% below needed production over recent quarters, requiring additional unplanned capital investment.\u201d Maintenance was \u201cdeferred to January 2027 at an estimated $12-15 million,\u201d with another outage in Q2 or Q3 2027 \u201ccosting $7-10 million.\u201d",
+      "expectation_evidence": "The preview noted that CLW was \u201cstruggling to deliver products on time,\u201d but did not describe Augusta production failures or these 2027 outage costs.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "CLW reported substantial Middle East conflict-related costs that the preview did not identify: about $12 million in Q3, nearly $30 million for the year, and another $1\u20132 million expected in Q4.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMiddle East conflict-related costs totaled approximately $12 million in Q3 and are approaching $30 million for the full year, with an additional $1-2 million expected in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "CLW received a further $17.5 million insurance payment in Q3, identified as the final payment. The preview cited $33 million of recoveries through Q2 and expected $33 million of insurance recoveries to aid FY26 cash flow, so this additional payment was not reflected in that stated expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company received a fourth and final representation and warranty insurance payment of $17.5 million,\u201d bringing total recoveries to $73 million; \u201c$9.5 million of Q3 recoveries offset Augusta operational losses.\u201d",
+      "expectation_evidence": "\u201cFY26 guide: positive FCF, capex $65\u201375M, $20\u201330M working-capital release, aided by $33M insurance recoveries and ~$30M tax refunds.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call announced that CFO Sherri Baker will leave in a few weeks for a new opportunity in Texas; the preview did not flag an impending CFO departure.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCFO Sherri Baker is leaving the company in a few weeks for a new opportunity in Texas after more than three years in the role.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "CLW guided to only $10\u201320 million of Q4 adjusted EBITDA, well below the preview\u2019s $35\u201340 million threshold for validating the recovery. The company cited seasonal volume declines, Augusta disruptions, Cypress Bend maintenance, and higher seasonal energy costs.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company guided Q4 2026 adjusted EBITDA to $10-20 million,\u201d reflecting \u201cseasonal volume declines, continued Augusta disruptions, $5-7 million in Cypress Bend maintenance costs, and ~$4 million in seasonal energy cost increases.\u201d",
+      "expectation_evidence": "\u201cQ4 guide \u2265 $35\u201340M EBITDA \u2014 required to validate a ~$140M 2027 run-rate.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "The preview described the two $60-per-ton increases as worth $50\u201360 million annually, but the call said the first $60-per-ton increase is fully implemented and is expected to deliver more than $70 million annually. That is a stronger stated benefit, although the facts do not give the implementation status of the second increase.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe first $60/ton price increase is fully implemented and expected to deliver more than $70 million in annual benefit.\u201d",
+      "expectation_evidence": "\u201cManagement says they're worth $50\u201360M annualized ($10\u201320M in 2026).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The preview expected Q3 net sales of $388.4 million, while CLW reported $385 million, a small miss; sales were down 4% year over year versus the preview\u2019s 2.7% expected decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet sales fell 4% year-over-year to $385 million, driven by lower market-based pricing and a 1% decline in shipments.\u201d",
+      "expectation_evidence": "\u201cNet sales | $388.4M\u201d and \u201cCons. vs. YoY | \u22122.7%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "The call disclosed serious Augusta mill operating failures and a larger, longer-lasting maintenance burden than the preview identified: the mill had been running below needed production, unplanned capital investment was required, and two outages are now expected in 2027.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOperational failures in the pulp, power and recovery areas of the Augusta mill caused it to run roughly 10-15% below needed production over recent quarters, requiring additional unplanned capital investment.\u201d Maintenance was \u201cdeferred to January 2027 at an estimated $12-15 million,\u201d with another outage in Q2 or Q3 2027 \u201ccosting $7-10 million.\u201d",
+      "expectation_evidence": "The preview noted that CLW was \u201cstruggling to deliver products on time,\u201d but did not describe Augusta production failures or these 2027 outage costs.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "CLW reported substantial Middle East conflict-related costs that the preview did not identify: about $12 million in Q3, nearly $30 million for the year, and another $1\u20132 million expected in Q4.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cMiddle East conflict-related costs totaled approximately $12 million in Q3 and are approaching $30 million for the full year, with an additional $1-2 million expected in Q4.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 5,
+      "description": "CLW received a further $17.5 million insurance payment in Q3, identified as the final payment. The preview cited $33 million of recoveries through Q2 and expected $33 million of insurance recoveries to aid FY26 cash flow, so this additional payment was not reflected in that stated expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company received a fourth and final representation and warranty insurance payment of $17.5 million,\u201d bringing total recoveries to $73 million; \u201c$9.5 million of Q3 recoveries offset Augusta operational losses.\u201d",
+      "expectation_evidence": "\u201cFY26 guide: positive FCF, capex $65\u201375M, $20\u201330M working-capital release, aided by $33M insurance recoveries and ~$30M tax refunds.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "The call announced that CFO Sherri Baker will leave in a few weeks for a new opportunity in Texas; the preview did not flag an impending CFO departure.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCFO Sherri Baker is leaving the company in a few weeks for a new opportunity in Texas after more than three years in the role.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    }
+  ]
+}

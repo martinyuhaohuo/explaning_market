@@ -1,0 +1,222 @@
+{
+  "surprises": [
+    {
+      "description": "TRU reported adjusted EPS of $1.25, $0.04 above the high end of its Q3 guidance and above the preview\u2019s $1.23\u2013$1.25 whisper range. The result was stronger than the preview\u2019s published-consensus ceiling of $1.21.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rising 14% to $1.25, beating the high end of guidance by $0.04.\u201d",
+      "expectation_evidence": "\u201cThe buy-side whisper is almost certainly $1.23\u2013$1.25\u201d; consensus EPS was \u201c$1.19\u2013$1.21.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Rather than holding or cutting FY EPS guidance as the preview\u2019s base case contemplated, TRU raised its outlook to 12%\u201313% growth, or $4.81\u2013$4.88. That is above the prior $4.75\u2013$4.83 range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year adjusted diluted EPS guidance was raised 1 percentage point to 12%-13% growth ($4.81-$4.88).\u201d",
+      "expectation_evidence": "The preview\u2019s base case said \u201cFY EPS range maintained via cost offsets,\u201d while its key question was whether guidance would be \u201cheld at $4.75\u2013$4.83, or cut?\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The margin outlook deteriorated more than the preview\u2019s margin-acceleration case implied: underlying margins are now expected to be flat to up 20 bps, versus the prior expectation of 50\u201370 bps of expansion. TRU cited technology reinvestment and higher legal and regulatory costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year adjusted EBITDA margin is guided down 60-80 basis points, with underlying margins now expected flat to up 20 bps (versus prior 50-70 bps expansion) due to reinvestment in technology and higher legal/regulatory costs.\u201d",
+      "expectation_evidence": "The preview said the margin guide embedded \u201c+20\u201340bps underlying expansion\u201d and expected Q4 to be \u201cthe margin-acceleration quarter.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Mortgage inquiries fell 16% in Q3, and the outlook worsened further: full-year inquiries are now expected to decline about 10%, with a decline of more than 20% in Q4. That is weaker than the preview\u2019s mid-to-high-single-digit full-year decline assumption and its low-double-digit H2 inquiry assumption.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDespite a 16% decline in inquiries, with full-year mortgage inquiries now expected to decline ~10% and more than 20% in Q4.\u201d",
+      "expectation_evidence": "The preview said the mortgage guide assumed \u201cmid-to-high-single-digit FY inquiry declines\u201d and TRU had guided Q3 assuming \u201conly low-double-digit H2 inquiry declines.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Mortgage revenue growth came in below the preview\u2019s referenced Q3 guide, both reported and excluding FICO royalties: 21% versus 28% reported, and 5% versus 6% ex-FICO. The reported growth was still strong, but missed those benchmarks.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMortgage revenue grew 21% (5% excluding FICO royalties).\u201d",
+      "expectation_evidence": "The preview said the guide assumed mortgage growth of \u201c+28% reported (+6% ex-FICO royalty).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "TRU provided a more specific and bounded estimate of bi-merge exposure: a shift from tri-merge to bi-merge would affect about $33 million of revenue and $0.15 of adjusted EPS, below 1% of revenue and under 3% of EPS. This narrows the preview\u2019s broader roughly $100 million-plus at-risk framing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOnly ~$100 million in annual revenue is directly tied to the FHFA Tri-Merge requirement, with a shift to bi-merge impacting roughly $33 million in revenue and $0.15 of adjusted EPS\u2014less than 1% of revenue and under 3% of EPS.\u201d",
+      "expectation_evidence": "The preview described \u201c~$100M+\u201d of revenue tied to GSE tri-merge and said a quantified, bounded bi-merge impact was important; its bull case anticipated \u201c<2% revenue.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "TRU\u2019s organic constant-currency growth was 8%, above the preview\u2019s Q3 guidance range of 4.0%\u20135.5%. Excluding FICO mortgage royalties, growth was 5.5%, at the top of that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 organic constant currency revenue grew 8% (5.5% excluding FICO mortgage royalties).\u201d",
+      "expectation_evidence": "The preview listed Q3 organic constant-currency growth guidance of \u201c+4.0% \u2013 +5.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The balance sheet and buyback plans improved beyond the preview\u2019s starting point: leverage fell from the cited 2.6x to 2.5x, and the buyback authorization increased by $1 billion to $2 billion, with about $500 million of repurchases planned for the year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company reduced its leverage ratio to 2.5x, reaching the top of its long-term target range, and increased buyback authorization by $1 billion to $2 billion while planning ~$500 million in full-year repurchases.\u201d",
+      "expectation_evidence": "The preview cited \u201cleverage 2.6x vs. <2.5x target\u201d and \u201c$150M repurchased YTD with H2 \u2018at least comparable.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "International growth returned to double digits, with India and Latin America each growing 18%; India\u2019s reported growth was well above the preview\u2019s cited 8%. Some Brazil growth was one-time revenue, tempering the quality of the regional result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInternational returned to double-digit growth at 10%, led by India and Latin America each growing 18%, though some Brazil growth was one-time revenue.\u201d",
+      "expectation_evidence": "The preview cited \u201cIndia +8%, Canada +10%, Mexico ahead of plan\u201d as part of the non-mortgage growth setup.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "TRU disclosed an additional 2027 earnings headwind not raised in the preview: net interest expense is expected to rise by roughly $60 million, partly because a 1.4% swap expires and is replaced with one in the mid-4% range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 net interest expense is expected to rise by roughly $60 million due to higher rate forecasts and replacement of an expiring 1.4% swap with a new swap in the mid-4% range.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management disclosed that VantageScore was used in roughly 35% of mortgage credit pulls in Q3, providing a concrete adoption measure that the preview did not give. The preview had flagged VantageScore pricing as a potential bi-merge mitigation, but did not state an expected usage level.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cVantageScore was included in roughly 35% of mortgage credit pulls in Q3.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "TRU said Insurance is expected to exceed $430 million in 2026 revenue and has reached a scale comparable to mortgage revenue excluding FICO royalties. The preview provided no Insurance-specific revenue outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cInsurance delivered its ninth straight quarter of double-digit growth and is expected to exceed $430 million in 2026 revenue, now comparable to the mortgage business excluding FICO royalties.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "TRU reported adjusted EPS of $1.25, $0.04 above the high end of its Q3 guidance and above the preview\u2019s $1.23\u2013$1.25 whisper range. The result was stronger than the preview\u2019s published-consensus ceiling of $1.21.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS rising 14% to $1.25, beating the high end of guidance by $0.04.\u201d",
+      "expectation_evidence": "\u201cThe buy-side whisper is almost certainly $1.23\u2013$1.25\u201d; consensus EPS was \u201c$1.19\u2013$1.21.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Rather than holding or cutting FY EPS guidance as the preview\u2019s base case contemplated, TRU raised its outlook to 12%\u201313% growth, or $4.81\u2013$4.88. That is above the prior $4.75\u2013$4.83 range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year adjusted diluted EPS guidance was raised 1 percentage point to 12%-13% growth ($4.81-$4.88).\u201d",
+      "expectation_evidence": "The preview\u2019s base case said \u201cFY EPS range maintained via cost offsets,\u201d while its key question was whether guidance would be \u201cheld at $4.75\u2013$4.83, or cut?\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The margin outlook deteriorated more than the preview\u2019s margin-acceleration case implied: underlying margins are now expected to be flat to up 20 bps, versus the prior expectation of 50\u201370 bps of expansion. TRU cited technology reinvestment and higher legal and regulatory costs.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year adjusted EBITDA margin is guided down 60-80 basis points, with underlying margins now expected flat to up 20 bps (versus prior 50-70 bps expansion) due to reinvestment in technology and higher legal/regulatory costs.\u201d",
+      "expectation_evidence": "The preview said the margin guide embedded \u201c+20\u201340bps underlying expansion\u201d and expected Q4 to be \u201cthe margin-acceleration quarter.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Mortgage inquiries fell 16% in Q3, and the outlook worsened further: full-year inquiries are now expected to decline about 10%, with a decline of more than 20% in Q4. That is weaker than the preview\u2019s mid-to-high-single-digit full-year decline assumption and its low-double-digit H2 inquiry assumption.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cDespite a 16% decline in inquiries, with full-year mortgage inquiries now expected to decline ~10% and more than 20% in Q4.\u201d",
+      "expectation_evidence": "The preview said the mortgage guide assumed \u201cmid-to-high-single-digit FY inquiry declines\u201d and TRU had guided Q3 assuming \u201conly low-double-digit H2 inquiry declines.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Mortgage revenue growth came in below the preview\u2019s referenced Q3 guide, both reported and excluding FICO royalties: 21% versus 28% reported, and 5% versus 6% ex-FICO. The reported growth was still strong, but missed those benchmarks.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMortgage revenue grew 21% (5% excluding FICO royalties).\u201d",
+      "expectation_evidence": "The preview said the guide assumed mortgage growth of \u201c+28% reported (+6% ex-FICO royalty).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "TRU provided a more specific and bounded estimate of bi-merge exposure: a shift from tri-merge to bi-merge would affect about $33 million of revenue and $0.15 of adjusted EPS, below 1% of revenue and under 3% of EPS. This narrows the preview\u2019s broader roughly $100 million-plus at-risk framing.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOnly ~$100 million in annual revenue is directly tied to the FHFA Tri-Merge requirement, with a shift to bi-merge impacting roughly $33 million in revenue and $0.15 of adjusted EPS\u2014less than 1% of revenue and under 3% of EPS.\u201d",
+      "expectation_evidence": "The preview described \u201c~$100M+\u201d of revenue tied to GSE tri-merge and said a quantified, bounded bi-merge impact was important; its bull case anticipated \u201c<2% revenue.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "TRU\u2019s organic constant-currency growth was 8%, above the preview\u2019s Q3 guidance range of 4.0%\u20135.5%. Excluding FICO mortgage royalties, growth was 5.5%, at the top of that range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 organic constant currency revenue grew 8% (5.5% excluding FICO mortgage royalties).\u201d",
+      "expectation_evidence": "The preview listed Q3 organic constant-currency growth guidance of \u201c+4.0% \u2013 +5.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "The balance sheet and buyback plans improved beyond the preview\u2019s starting point: leverage fell from the cited 2.6x to 2.5x, and the buyback authorization increased by $1 billion to $2 billion, with about $500 million of repurchases planned for the year.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company reduced its leverage ratio to 2.5x, reaching the top of its long-term target range, and increased buyback authorization by $1 billion to $2 billion while planning ~$500 million in full-year repurchases.\u201d",
+      "expectation_evidence": "The preview cited \u201cleverage 2.6x vs. <2.5x target\u201d and \u201c$150M repurchased YTD with H2 \u2018at least comparable.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 8,
+      "description": "International growth returned to double digits, with India and Latin America each growing 18%; India\u2019s reported growth was well above the preview\u2019s cited 8%. Some Brazil growth was one-time revenue, tempering the quality of the regional result.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInternational returned to double-digit growth at 10%, led by India and Latin America each growing 18%, though some Brazil growth was one-time revenue.\u201d",
+      "expectation_evidence": "The preview cited \u201cIndia +8%, Canada +10%, Mexico ahead of plan\u201d as part of the non-mortgage growth setup.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 9,
+      "description": "TRU disclosed an additional 2027 earnings headwind not raised in the preview: net interest expense is expected to rise by roughly $60 million, partly because a 1.4% swap expires and is replaced with one in the mid-4% range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c2027 net interest expense is expected to rise by roughly $60 million due to higher rate forecasts and replacement of an expiring 1.4% swap with a new swap in the mid-4% range.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "Management disclosed that VantageScore was used in roughly 35% of mortgage credit pulls in Q3, providing a concrete adoption measure that the preview did not give. The preview had flagged VantageScore pricing as a potential bi-merge mitigation, but did not state an expected usage level.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cVantageScore was included in roughly 35% of mortgage credit pulls in Q3.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 11,
+      "description": "TRU said Insurance is expected to exceed $430 million in 2026 revenue and has reached a scale comparable to mortgage revenue excluding FICO royalties. The preview provided no Insurance-specific revenue outlook.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cInsurance delivered its ninth straight quarter of double-digit growth and is expected to exceed $430 million in 2026 revenue, now comparable to the mortgage business excluding FICO royalties.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

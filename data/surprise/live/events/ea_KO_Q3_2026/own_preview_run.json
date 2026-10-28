@@ -1,0 +1,108 @@
+{
+  "event_id": "ea_KO_Q3_2026",
+  "ticker": "KO",
+  "company": "The Coca-Cola Company",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T10:55:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "The Coca-Cola Company (KO), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:55 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview The Coca-Cola Company (KO), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:55 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:43:57.155205+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Coca-Cola KO Q3 2026 earnings preview consensus EPS revenue October 2026"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Coca-Cola Q2 2026 earnings results guidance organic revenue comparable EPS"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.hudson-labs.com/research/coca-cola-q3-2026-earnings-preview-ko-revenue-eps-preview"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 2,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "1b5e15f9-9a85-43fe-88ad-b3419c77579d",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 5,
+  "duration_ms": 32578,
+  "total_cost_usd": 0.029188475000000005,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 7071,
+    "cache_read_input_tokens": 82950,
+    "output_tokens": 3933,
+    "output_tokens_details": {
+      "thinking_tokens": 836
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7071
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3109,
+        "cache_read_input_tokens": 23990,
+        "cache_creation_input_tokens": 1118,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 1118,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:44:30.810924+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

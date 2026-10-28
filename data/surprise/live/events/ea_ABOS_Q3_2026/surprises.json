@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected only a reaffirmation of \u201clate 2026\u201d or possibly a named December window; Acumen specified that it expects to announce the ALTITUDE-AD topline results in November 2026, narrowing the timing.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAcumen confirmed it expects to announce top line Phase II ALTITUDE-AD results for sabirnetug in November 2026.\u201d",
+      "expectation_evidence": "The preview said to watch whether \u201clate 2026\u201d becomes a month (\u201cDecember\u201d), stays verbatim, or softens.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Acumen disclosed a specific bar for advancing sabirnetug to Phase III: approximately 30% slowing on the primary endpoint after 18 months. The preview discussed the readout and analysis plan but did not state a management success threshold.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement set a success bar of approximately 30% slowing on the iADRS primary endpoint after the 18-month placebo-controlled period as the basis for advancing to Phase III.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management put a number on expected ARIA-E rates\u2014low double digits\u2014and said they may be consistent across genotypes. The preview flagged ARIA rates as important but gave no expected rate or genotype outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects low double-digit ARIA-E rates that may be consistent across genotypes, supporting a potentially differentiated benefit-to-risk safety profile.\u201d",
+      "expectation_evidence": "The preview said to watch for \u201csafety including ARIA rates\u201d and confirmation that \u201cno blinded safety signal has surfaced.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 R&D expense was $21.1 million, above the preview\u2019s $18.5 million estimate, despite the preview\u2019s expectation that the prior JCR-related expense would roll off.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D expenses fell to $21.1 million in Q3 due to reduced manufacturing, materials, and CRO costs.\u201d",
+      "expectation_evidence": "The preview estimated \u201cR&D expense \u2026 $18.5M\u201d and said the prior-quarter JCR charge had been expensed in Q2.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The $25.4 million net loss was larger than the preview\u2019s $23.6 million estimate, though smaller than the roughly $31 million loss implied by consensus. The bottom-line result therefore differed depending on which preview benchmark is used.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D expenses fell to $21.1 million in Q3 \u2026 contributing to a net loss of $25.4 million.\u201d",
+      "expectation_evidence": "The preview listed \u201cNet loss ~$31M (implied)\u201d and \u201cMy estimate: $23.6M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Primary-study retention reportedly exceeded expectations, and more than 95% of eligible patients consented to enter the open-label extension. The preview did not discuss these retention or rollover figures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOver 95% of eligible patients consented to roll over into the 12-month open-label extension, and primary study retention reportedly exceeded expectations.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "call"
+    },
+    {
+      "description": "Management said it envisions one confirmatory Phase III after positive Phase II results and plans to include a subcutaneous formulation in that trial. The preview did not anticipate this specific development plan.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement envisions a single confirmatory Phase III following positive Phase II results and plans to incorporate a subcutaneous formulation into the Phase III, analogous to the LEQEMBI development path.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected only a reaffirmation of \u201clate 2026\u201d or possibly a named December window; Acumen specified that it expects to announce the ALTITUDE-AD topline results in November 2026, narrowing the timing.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAcumen confirmed it expects to announce top line Phase II ALTITUDE-AD results for sabirnetug in November 2026.\u201d",
+      "expectation_evidence": "The preview said to watch whether \u201clate 2026\u201d becomes a month (\u201cDecember\u201d), stays verbatim, or softens.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Acumen disclosed a specific bar for advancing sabirnetug to Phase III: approximately 30% slowing on the primary endpoint after 18 months. The preview discussed the readout and analysis plan but did not state a management success threshold.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement set a success bar of approximately 30% slowing on the iADRS primary endpoint after the 18-month placebo-controlled period as the basis for advancing to Phase III.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "Management put a number on expected ARIA-E rates\u2014low double digits\u2014and said they may be consistent across genotypes. The preview flagged ARIA rates as important but gave no expected rate or genotype outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company expects low double-digit ARIA-E rates that may be consistent across genotypes, supporting a potentially differentiated benefit-to-risk safety profile.\u201d",
+      "expectation_evidence": "The preview said to watch for \u201csafety including ARIA rates\u201d and confirmation that \u201cno blinded safety signal has surfaced.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Q3 R&D expense was $21.1 million, above the preview\u2019s $18.5 million estimate, despite the preview\u2019s expectation that the prior JCR-related expense would roll off.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D expenses fell to $21.1 million in Q3 due to reduced manufacturing, materials, and CRO costs.\u201d",
+      "expectation_evidence": "The preview estimated \u201cR&D expense \u2026 $18.5M\u201d and said the prior-quarter JCR charge had been expensed in Q2.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "The $25.4 million net loss was larger than the preview\u2019s $23.6 million estimate, though smaller than the roughly $31 million loss implied by consensus. The bottom-line result therefore differed depending on which preview benchmark is used.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cR&D expenses fell to $21.1 million in Q3 \u2026 contributing to a net loss of $25.4 million.\u201d",
+      "expectation_evidence": "The preview listed \u201cNet loss ~$31M (implied)\u201d and \u201cMy estimate: $23.6M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 5,
+      "description": "Primary-study retention reportedly exceeded expectations, and more than 95% of eligible patients consented to enter the open-label extension. The preview did not discuss these retention or rollover figures.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOver 95% of eligible patients consented to roll over into the 12-month open-label extension, and primary study retention reportedly exceeded expectations.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "call",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Management said it envisions one confirmatory Phase III after positive Phase II results and plans to include a subcutaneous formulation in that trial. The preview did not anticipate this specific development plan.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement envisions a single confirmatory Phase III following positive Phase II results and plans to incorporate a subcutaneous formulation into the Phase III, analogous to the LEQEMBI development path.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

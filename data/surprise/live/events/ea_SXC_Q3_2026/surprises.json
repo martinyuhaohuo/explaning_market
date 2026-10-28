@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "The preview expected Q3 adjusted EBITDA of roughly $63\u201366 million; SunCoke reported $76.9 million, a substantial beat.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 consolidated adjusted EBITDA reached $76.9 million.\u201d",
+      "expectation_evidence": "\u201cConsol. Adj. EBITDA: not published; ~$63\u201366M implied\u201d and \u201cMy estimate: Adj. EBITDA ~$66M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview treated a narrowing within the $250\u2013265 million annual EBITDA range as the base case. Management now expects full-year EBITDA to modestly exceed the range\u2019s $265 million high end.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement now expects full-year 2026 consolidated adjusted EBITDA to modestly exceed the high end of its $250-265 million guidance range.\u201d",
+      "expectation_evidence": "\u201cFY26 narrowed inside $250\u2013265M\u201d was described as the base case, \u201cnot another raise.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Industrial Services EBITDA was expected to be about $25\u201327 million as terminal activity normalized, but it reached $32.1 million. Terminal handling was 6.4 million tons, above the preview\u2019s cited Q1 level of 5.64 million tons, while the company also benefited from an extra month of Phoenix results.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cIndustrial Services Q3 adjusted EBITDA jumped to $32.1 million from $18.2 million, aided by an extra month of Phoenix results and higher terminal handling volumes of 6.4 million tons.\u201d",
+      "expectation_evidence": "\u201cIndustrial Services Adj. EBITDA \u2014 target ~$25\u201327M\u201d; management had guided volumes back \u201ccloser to Q1 levels\u201d (5.64Mt).",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview described any Algoma recovery as unmodeled optionality; SunCoke instead reached a settlement and says it was made whole. The settlement also supported a higher free cash flow outlook of $180\u2013185 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSunCoke reached a confidential settlement with Algoma Steel over its 2025 claim, confirming it was \u2018made whole\u2019\u201d; \u201cThe company raised its full-year free cash flow guidance to $180-185 million, reflecting the Algoma settlement impact.\u201d",
+      "expectation_evidence": "\u201cAlgoma. $90.1M impairment taken in Q4 2025 ... enforcement is being pursued. Any recovery is unmodeled optionality.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Domestic Coke sales volume was estimated at about 840,000 tons, but actual volume was 875,000 tons despite the Haverhill I shutdown. Domestic Coke EBITDA also exceeded the preview\u2019s implied $47\u201350 million quarterly range, reaching $51.1 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDomestic Coke Q3 adjusted EBITDA rose to $51.1 million from $44 million a year earlier, despite coke sales volumes falling to 875,000 tons from 951,000 tons due to the Haverhill I shutdown.\u201d",
+      "expectation_evidence": "\u201cDomestic Coke sales volume ~840kt (my est.)\u201d; the preview\u2019s implied quarterly Domestic Coke EBITDA was \u201c$47\u201350M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management cautioned that the Middletown turbine insurance recovery is excluded from guidance and may not arrive until early 2027. The preview had identified insurance proceeds as a possible support for Domestic Coke results, so the recovery is less certain as a 2026 contributor than that framing suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInsurance recovery for the Middletown turbine failure is excluded from guidance and may slip into early 2027; if received in 2026, results would significantly exceed the high end of guidance.\u201d",
+      "expectation_evidence": "The preview said Domestic Coke needed \u201cMiddletown's returned turbine (restarted May), insurance recovery proceeds, and the 51\u201352% coal-to-coke yields to all persist,\u201d and flagged the \u201cone-time vs. operating split.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview put liquidity at about $207 million and the revolver balance at $160.5 million; SunCoke ended Q3 with about $276 million of liquidity and paid down $53.5 million of its revolver.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSunCoke ended Q3 with ~$276 million liquidity and 2.34x gross leverage, generated $94.8 million in operating cash flow, [and] paid down $53.5 million of its revolver.\u201d",
+      "expectation_evidence": "\u201cLiquidity ~$207M\u201d; \u201cRevolver drawn $160.5M of $325M.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview expected Q3 adjusted EBITDA of roughly $63\u201366 million; SunCoke reported $76.9 million, a substantial beat.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 consolidated adjusted EBITDA reached $76.9 million.\u201d",
+      "expectation_evidence": "\u201cConsol. Adj. EBITDA: not published; ~$63\u201366M implied\u201d and \u201cMy estimate: Adj. EBITDA ~$66M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "The preview treated a narrowing within the $250\u2013265 million annual EBITDA range as the base case. Management now expects full-year EBITDA to modestly exceed the range\u2019s $265 million high end.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement now expects full-year 2026 consolidated adjusted EBITDA to modestly exceed the high end of its $250-265 million guidance range.\u201d",
+      "expectation_evidence": "\u201cFY26 narrowed inside $250\u2013265M\u201d was described as the base case, \u201cnot another raise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Industrial Services EBITDA was expected to be about $25\u201327 million as terminal activity normalized, but it reached $32.1 million. Terminal handling was 6.4 million tons, above the preview\u2019s cited Q1 level of 5.64 million tons, while the company also benefited from an extra month of Phoenix results.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cIndustrial Services Q3 adjusted EBITDA jumped to $32.1 million from $18.2 million, aided by an extra month of Phoenix results and higher terminal handling volumes of 6.4 million tons.\u201d",
+      "expectation_evidence": "\u201cIndustrial Services Adj. EBITDA \u2014 target ~$25\u201327M\u201d; management had guided volumes back \u201ccloser to Q1 levels\u201d (5.64Mt).",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The preview described any Algoma recovery as unmodeled optionality; SunCoke instead reached a settlement and says it was made whole. The settlement also supported a higher free cash flow outlook of $180\u2013185 million.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cSunCoke reached a confidential settlement with Algoma Steel over its 2025 claim, confirming it was \u2018made whole\u2019\u201d; \u201cThe company raised its full-year free cash flow guidance to $180-185 million, reflecting the Algoma settlement impact.\u201d",
+      "expectation_evidence": "\u201cAlgoma. $90.1M impairment taken in Q4 2025 ... enforcement is being pursued. Any recovery is unmodeled optionality.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 4,
+      "description": "Domestic Coke sales volume was estimated at about 840,000 tons, but actual volume was 875,000 tons despite the Haverhill I shutdown. Domestic Coke EBITDA also exceeded the preview\u2019s implied $47\u201350 million quarterly range, reaching $51.1 million.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cDomestic Coke Q3 adjusted EBITDA rose to $51.1 million from $44 million a year earlier, despite coke sales volumes falling to 875,000 tons from 951,000 tons due to the Haverhill I shutdown.\u201d",
+      "expectation_evidence": "\u201cDomestic Coke sales volume ~840kt (my est.)\u201d; the preview\u2019s implied quarterly Domestic Coke EBITDA was \u201c$47\u201350M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Management cautioned that the Middletown turbine insurance recovery is excluded from guidance and may not arrive until early 2027. The preview had identified insurance proceeds as a possible support for Domestic Coke results, so the recovery is less certain as a 2026 contributor than that framing suggested.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cInsurance recovery for the Middletown turbine failure is excluded from guidance and may slip into early 2027; if received in 2026, results would significantly exceed the high end of guidance.\u201d",
+      "expectation_evidence": "The preview said Domestic Coke needed \u201cMiddletown's returned turbine (restarted May), insurance recovery proceeds, and the 51\u201352% coal-to-coke yields to all persist,\u201d and flagged the \u201cone-time vs. operating split.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "The preview put liquidity at about $207 million and the revolver balance at $160.5 million; SunCoke ended Q3 with about $276 million of liquidity and paid down $53.5 million of its revolver.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSunCoke ended Q3 with ~$276 million liquidity and 2.34x gross leverage, generated $94.8 million in operating cash flow, [and] paid down $53.5 million of its revolver.\u201d",
+      "expectation_evidence": "\u201cLiquidity ~$207M\u201d; \u201cRevolver drawn $160.5M of $325M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

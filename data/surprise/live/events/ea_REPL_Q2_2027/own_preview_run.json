@@ -1,0 +1,107 @@
+{
+  "event_id": "ea_REPL_Q2_2027",
+  "ticker": "REPL",
+  "company": "Replimune Group, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T12:00:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Replimune Group, Inc. (REPL), fiscal period Q2 FY2027, earnings release scheduled 2026-10-28 12:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Replimune Group, Inc. (REPL), fiscal period Q2 FY2027, earnings release scheduled 2026-10-28 12:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:21:40.018335+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Replimune REPL Q2 fiscal 2027 earnings preview consensus EPS"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Replimune RP1 vusolimogene FDA BLA 2026 news"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Replimune RP1 FDA decision advisory committee vote outcome"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "48071c3d-1487-4806-962e-7e95b2142bcb",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 5,
+  "duration_ms": 27287,
+  "total_cost_usd": 0.03849393,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 7072,
+    "cache_read_input_tokens": 61763,
+    "output_tokens": 3155,
+    "output_tokens_details": {
+      "thinking_tokens": 514
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7072
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2503,
+        "cache_read_input_tokens": 23849,
+        "cache_creation_input_tokens": 1260,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 1260,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:22:08.604708+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Centene reported Q3 adjusted EPS of $0.58, far above the preview\u2019s roughly $0.07\u2013$0.10 consensus range. The preview noted that the estimate was unusually low, but the reported beat was still much larger than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCentene reported Q3 2026 adjusted diluted EPS of $0.58, beating expectations, driven primarily by Medicare segment outperformance.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $0.07 (Zacks) / $0.096 (MarketBeat)\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Centene raised its 2026 adjusted EPS floor to greater than $5.20, above the prior greater-than-$4.80 guide and at the high end of the preview\u2019s desired raise range. The preview expected a raise, but this was stronger than its base-case threshold of greater than $5.00.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 adjusted diluted EPS guidance to greater than $5.20, up from prior guidance of greater than $4.80.\u201d",
+      "expectation_evidence": "\u201cAnything short of a raise to the \u2018>$5.00\u2013$5.25\u2019 zone will be read as management pre-funding a weak Q4 or a weak 2027.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2027 adjusted EPS jump-off point is about $4.70 after removing $0.50 of non-recurring 2026 earnings, below the preview\u2019s roughly $5.30 2027 consensus. However, management said it expects to grow EPS above both that baseline and the revised $5.20 2026 guidance, giving a more bullish growth commitment than a low baseline alone would suggest.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided to an approximately $4.70 adjusted EPS jump-off point for 2027, stripping out $0.50 of non-recurring 2026 earnings ($180 million marketplace, $160 million Medicare), but expects to grow EPS above both the $4.70 baseline and the revised $5.20 guidance.\u201d",
+      "expectation_evidence": "\u201cFY27 adj. EPS consensus | ~$5.30\u201d and \u201cManagement must bridge over ~$0.50 of non-recurring 2026 items, Medicaid attrition, and the Stars hit.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Centene said Medicare Advantage is on track to break even in 2026, a full year ahead of the preview\u2019s expectation of breakeven-or-better in 2027. That is an earlier turnaround than investors were led to expect.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMedicare Advantage is now on track to reach breakeven in 2026, a full year ahead of the turnaround plan.\u201d",
+      "expectation_evidence": "\u201cCentene \u2026 has cut ~3,000 plans and exited 344 counties targeting MA breakeven-or-better in 2027.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The PDP 2026 pretax margin outlook moved up to the mid-to-high 3% range from guidance of greater than 3%. The preview expected a margin above 3%, but did not anticipate this higher range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe PDP business raised its 2026 pretax margin outlook to the mid-to-high 3% range, up from the prior greater than 3% guidance.\u201d",
+      "expectation_evidence": "\u201cMedicare HBR \u2026 PDP margin >3%; MA ~breakeven.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Although the preview expected Marketplace to remain within its 4.5%\u20135.0% margin target, Centene now expects a full-year result at the top of the range. This is a modestly better outcome than simply tracking within the range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarketplace is now expected to deliver a full-year pretax margin at the top of the 4.5% to 5% range.\u201d",
+      "expectation_evidence": "\u201cMarketplace margin and morbidity. The 4.5\u20135.0% margin guide was Q2's biggest upside surprise.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Centene disclosed $480 million in workforce and enterprise optimization costs, including $276 million of Q3 severance, which the preview did not anticipate. The company said the actions position SG&A as a tailwind for 2027, but the excluded-from-adjusted-results charges are a new near-term cost.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company recorded $480 million in workforce and enterprise optimization costs (excluded from adjusted results), including $276 million of severance in Q3, positioning SG&A as a tailwind for 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Centene plans to exit its roughly $4 billion Health Net commercial group business, a material portfolio change not flagged in the preview. The exit is to occur over 18 to 24 months, but the call facts provide no quantified earnings effect.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCentene is exiting its roughly $4 billion Health Net commercial group business (largely in California) over the next 18 to 24 months.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The call introduced specific 2027 headwinds from OB3 Medicaid attrition and removal of California\u2019s unsatisfactory-immigration-status population. The preview discussed Medicaid work requirements and ACA subsidy risks, but did not identify these specific sources of additional attrition.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c[Centene] faces 2027 headwinds from OB3 Medicaid attrition and removal of the California unsatisfactory immigration status population.\u201d",
+      "expectation_evidence": "\u201cThree structural 2027 headwinds \u2014 Medicaid work requirements starting in January, the post-subsidy ACA risk pool, and a severe Star Ratings downgrade now under litigation \u2014 all land in the same guide.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Centene expects PDP margins to reset to 2%\u20133% in 2027, below the greater-than-3% margin level highlighted in the preview. This signals a weaker forward margin outlook even as the 2026 PDP outlook improved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPDP margins [are] expected to reset to a 2% to 3% range.\u201d",
+      "expectation_evidence": "\u201cMedicare HBR \u2026 PDP margin >3%; MA ~breakeven.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Centene reported an additional $1.1 billion of senior-note repurchases since the Q2 call, alongside a lower 2026 interest-expense midpoint of $610 million. The preview anticipated further debt paydown but did not suggest a reduction of this size since Q2.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal debt was reduced to $15.0 billion from $18.5 billion at the end of 2024, including an additional $1.1 billion of senior notes repurchased since the Q2 call, lowering interest expense to a $610 million midpoint for 2026.\u201d",
+      "expectation_evidence": "\u201cSecondary: capital deployment \u2014 buyback pace at ~$33.5B market cap, further debt paydown after Q1's $1.0B.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Centene reported Q3 adjusted EPS of $0.58, far above the preview\u2019s roughly $0.07\u2013$0.10 consensus range. The preview noted that the estimate was unusually low, but the reported beat was still much larger than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCentene reported Q3 2026 adjusted diluted EPS of $0.58, beating expectations, driven primarily by Medicare segment outperformance.\u201d",
+      "expectation_evidence": "\u201cAdjusted diluted EPS | $0.07 (Zacks) / $0.096 (MarketBeat)\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Centene raised its 2026 adjusted EPS floor to greater than $5.20, above the prior greater-than-$4.80 guide and at the high end of the preview\u2019s desired raise range. The preview expected a raise, but this was stronger than its base-case threshold of greater than $5.00.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 adjusted diluted EPS guidance to greater than $5.20, up from prior guidance of greater than $4.80.\u201d",
+      "expectation_evidence": "\u201cAnything short of a raise to the \u2018>$5.00\u2013$5.25\u2019 zone will be read as management pre-funding a weak Q4 or a weak 2027.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The 2027 adjusted EPS jump-off point is about $4.70 after removing $0.50 of non-recurring 2026 earnings, below the preview\u2019s roughly $5.30 2027 consensus. However, management said it expects to grow EPS above both that baseline and the revised $5.20 2026 guidance, giving a more bullish growth commitment than a low baseline alone would suggest.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement guided to an approximately $4.70 adjusted EPS jump-off point for 2027, stripping out $0.50 of non-recurring 2026 earnings ($180 million marketplace, $160 million Medicare), but expects to grow EPS above both the $4.70 baseline and the revised $5.20 guidance.\u201d",
+      "expectation_evidence": "\u201cFY27 adj. EPS consensus | ~$5.30\u201d and \u201cManagement must bridge over ~$0.50 of non-recurring 2026 items, Medicaid attrition, and the Stars hit.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Centene said Medicare Advantage is on track to break even in 2026, a full year ahead of the preview\u2019s expectation of breakeven-or-better in 2027. That is an earlier turnaround than investors were led to expect.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMedicare Advantage is now on track to reach breakeven in 2026, a full year ahead of the turnaround plan.\u201d",
+      "expectation_evidence": "\u201cCentene \u2026 has cut ~3,000 plans and exited 344 counties targeting MA breakeven-or-better in 2027.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "The PDP 2026 pretax margin outlook moved up to the mid-to-high 3% range from guidance of greater than 3%. The preview expected a margin above 3%, but did not anticipate this higher range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe PDP business raised its 2026 pretax margin outlook to the mid-to-high 3% range, up from the prior greater than 3% guidance.\u201d",
+      "expectation_evidence": "\u201cMedicare HBR \u2026 PDP margin >3%; MA ~breakeven.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Although the preview expected Marketplace to remain within its 4.5%\u20135.0% margin target, Centene now expects a full-year result at the top of the range. This is a modestly better outcome than simply tracking within the range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cMarketplace is now expected to deliver a full-year pretax margin at the top of the 4.5% to 5% range.\u201d",
+      "expectation_evidence": "\u201cMarketplace margin and morbidity. The 4.5\u20135.0% margin guide was Q2's biggest upside surprise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Centene disclosed $480 million in workforce and enterprise optimization costs, including $276 million of Q3 severance, which the preview did not anticipate. The company said the actions position SG&A as a tailwind for 2027, but the excluded-from-adjusted-results charges are a new near-term cost.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company recorded $480 million in workforce and enterprise optimization costs (excluded from adjusted results), including $276 million of severance in Q3, positioning SG&A as a tailwind for 2027.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 7,
+      "description": "Centene plans to exit its roughly $4 billion Health Net commercial group business, a material portfolio change not flagged in the preview. The exit is to occur over 18 to 24 months, but the call facts provide no quantified earnings effect.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCentene is exiting its roughly $4 billion Health Net commercial group business (largely in California) over the next 18 to 24 months.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 8,
+      "description": "The call introduced specific 2027 headwinds from OB3 Medicaid attrition and removal of California\u2019s unsatisfactory-immigration-status population. The preview discussed Medicaid work requirements and ACA subsidy risks, but did not identify these specific sources of additional attrition.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c[Centene] faces 2027 headwinds from OB3 Medicaid attrition and removal of the California unsatisfactory immigration status population.\u201d",
+      "expectation_evidence": "\u201cThree structural 2027 headwinds \u2014 Medicaid work requirements starting in January, the post-subsidy ACA risk pool, and a severe Star Ratings downgrade now under litigation \u2014 all land in the same guide.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Centene expects PDP margins to reset to 2%\u20133% in 2027, below the greater-than-3% margin level highlighted in the preview. This signals a weaker forward margin outlook even as the 2026 PDP outlook improved.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPDP margins [are] expected to reset to a 2% to 3% range.\u201d",
+      "expectation_evidence": "\u201cMedicare HBR \u2026 PDP margin >3%; MA ~breakeven.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "Centene reported an additional $1.1 billion of senior-note repurchases since the Q2 call, alongside a lower 2026 interest-expense midpoint of $610 million. The preview anticipated further debt paydown but did not suggest a reduction of this size since Q2.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal debt was reduced to $15.0 billion from $18.5 billion at the end of 2024, including an additional $1.1 billion of senior notes repurchased since the Q2 call, lowering interest expense to a $610 million midpoint for 2026.\u201d",
+      "expectation_evidence": "\u201cSecondary: capital deployment \u2014 buyback pace at ~$33.5B market cap, further debt paydown after Q1's $1.0B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

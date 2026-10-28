@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "BFST reported GAAP EPS of $0.71, below the preview\u2019s $0.74\u2013$0.75 consensus range, but core EPS was $0.79 after excluding $3.5 million of merger expenses\u2014above both consensus and the preview\u2019s $0.76 estimate. The headline was therefore weaker on a GAAP basis but stronger on underlying profitability.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 GAAP net income was $23.2 million ($0.71 EPS), while core non-GAAP net income was $26 million ($0.79 EPS), excluding $3.5 million in merger-related expenses.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS (Q3'26): Consensus $0.74\u2013$0.75\u201d; the preview\u2019s model estimated \u201cDiluted EPS \u2026 $0.76.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Core NIM reached 3.80%, about 8 basis points above the preview\u2019s 3.72% estimate, and management expects further expansion in Q4. That was stronger than the preview\u2019s concern that the hiking-rate backdrop could leave Q4 margin expansion flatter than investors had expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCore net interest margin expanded 12 basis points to 3.80%\u201d; management guided to \u201ccontinued low-to-mid single-digit basis point margin expansion in Q4.\u201d",
+      "expectation_evidence": "The preview modeled \u201ccore ~3.72%\u201d and said the risk was that \u201cQ4 NIM guidance comes in flatter than the \u2018modest improvement\u2019 cadence the Street extrapolated.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Deposits rebounded by $141.2 million after the $229 million Q2 decline, rather than shrinking for a second consecutive quarter. The commercial money-market inflows also let BFST reduce brokered deposits and FHLB borrowings.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits increased $141.2 million (7.7% annualized), including $180.1 million in commercial money market accounts, enabling paydown of ~$66 million in brokered deposits and $108 million in FHLB borrowings.\u201d",
+      "expectation_evidence": "The preview said \u201ca second quarter of deposit shrinkage would force funding-cost questions\u201d after deposits fell $229 million in Q2.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Core noninterest expense was $56.9 million, below the approximately $58 million Q3 expectation, as Progressive acquisition savings arrived faster than anticipated. This was a better cost result than the preview\u2019s estimate, not merely the expected step-down.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCore noninterest expense fell $1.4 million to $56.9 million due to accelerated Progressive acquisition cost saves.\u201d",
+      "expectation_evidence": "The preview modeled core noninterest expense of \u201c$58.0M\u201d and noted management had guided to \u201c~$58M\u201d for Q3.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NPLs declined only modestly to 1.24% of loans, rather than reaching the preview\u2019s expected Q3 range of roughly $67\u201376 million from $84.1 million. Management described more cleanup ahead, with upwards of $15 million of NPA reductions in Q4 and the 50-basis-point NPL goal framed as a target over time rather than the preview\u2019s approximately $50 million year-end target.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNonperforming loans decreasing only modestly to 1.24% of loans held for investment\u201d; management expects \u201cNPA reductions of upwards of $15 million in Q4,\u201d targeting an NPL-to-loans ratio of \u201c50 basis points or less over time.\u201d",
+      "expectation_evidence": "The preview said management guided to \u201c10\u201320% NPL resolution in Q3\u201d and a \u201c~$50M year-end NPL target,\u201d implying Q3 NPLs of roughly \u201c$67\u201376M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net charge-offs increased, contrary to the preview\u2019s modeled roughly 9 basis points annualized, but management attributed the increase to one previously identified, fully reserved commercial relationship rather than a new credit migration. The higher charge-offs were a negative result, with the explanation limiting the apparent deterioration in credit quality.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet charge-offs increased during the quarter but were attributable to a single previously identified, fully reserved commercial relationship.\u201d",
+      "expectation_evidence": "The preview modeled \u201c~9bp NCOs annualized\u201d and flagged \u201cany new credit migration\u201d as a threat to the credit-healing narrative.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "BFST continued share buybacks even though the preview expected repurchases to be dormant at the current share price, which it put well above management\u2019s stated 120%-of-tangible-book threshold. Tangible book value per share grew only about 1.7% annualized amid AOCI pressure and buybacks, although management said growth would have exceeded 14% without those headwinds.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTangible book value per share grew ~1.7% annualized despite AOCI pressure and share buybacks\u201d; management noted it \u201cwould have grown over 14% absent those headwinds.\u201d",
+      "expectation_evidence": "The preview said that at $31.82, BFST was \u201cwell clear of management\u2019s own value threshold\u201d and that \u201cthe buyback \u2026 is almost certainly switched off.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 loan discount accretion was about $1.2 million because of higher early paydowns, a temporary earnings and margin support not identified in the preview. Management expects it to fall back to about $500,000 per quarter, so the Q3 contribution is not expected to persist.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLoan discount accretion was ~$1.2 million in Q3 due to higher early paydowns but is expected to normalize to about $500,000 per quarter going forward.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The financial services group disclosed revenue growth of more than 20% annualized and service to over 200 banks, a stronger growth datapoint than the preview\u2019s discussion of APC, SSW, and fee-income durability had anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe financial services group (now serving 200+ banks) is growing revenue over 20% annualized.\u201d",
+      "expectation_evidence": "The preview discussed APC\u2019s full-quarter contribution, SSW\u2019s $5.6 billion AUM, and \u201cFee income durability,\u201d but gave no expectation for financial-services-group revenue growth or bank count.",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "BFST reported GAAP EPS of $0.71, below the preview\u2019s $0.74\u2013$0.75 consensus range, but core EPS was $0.79 after excluding $3.5 million of merger expenses\u2014above both consensus and the preview\u2019s $0.76 estimate. The headline was therefore weaker on a GAAP basis but stronger on underlying profitability.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 GAAP net income was $23.2 million ($0.71 EPS), while core non-GAAP net income was $26 million ($0.79 EPS), excluding $3.5 million in merger-related expenses.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS (Q3'26): Consensus $0.74\u2013$0.75\u201d; the preview\u2019s model estimated \u201cDiluted EPS \u2026 $0.76.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Core NIM reached 3.80%, about 8 basis points above the preview\u2019s 3.72% estimate, and management expects further expansion in Q4. That was stronger than the preview\u2019s concern that the hiking-rate backdrop could leave Q4 margin expansion flatter than investors had expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCore net interest margin expanded 12 basis points to 3.80%\u201d; management guided to \u201ccontinued low-to-mid single-digit basis point margin expansion in Q4.\u201d",
+      "expectation_evidence": "The preview modeled \u201ccore ~3.72%\u201d and said the risk was that \u201cQ4 NIM guidance comes in flatter than the \u2018modest improvement\u2019 cadence the Street extrapolated.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Deposits rebounded by $141.2 million after the $229 million Q2 decline, rather than shrinking for a second consecutive quarter. The commercial money-market inflows also let BFST reduce brokered deposits and FHLB borrowings.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits increased $141.2 million (7.7% annualized), including $180.1 million in commercial money market accounts, enabling paydown of ~$66 million in brokered deposits and $108 million in FHLB borrowings.\u201d",
+      "expectation_evidence": "The preview said \u201ca second quarter of deposit shrinkage would force funding-cost questions\u201d after deposits fell $229 million in Q2.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 3,
+      "description": "Core noninterest expense was $56.9 million, below the approximately $58 million Q3 expectation, as Progressive acquisition savings arrived faster than anticipated. This was a better cost result than the preview\u2019s estimate, not merely the expected step-down.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCore noninterest expense fell $1.4 million to $56.9 million due to accelerated Progressive acquisition cost saves.\u201d",
+      "expectation_evidence": "The preview modeled core noninterest expense of \u201c$58.0M\u201d and noted management had guided to \u201c~$58M\u201d for Q3.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "NPLs declined only modestly to 1.24% of loans, rather than reaching the preview\u2019s expected Q3 range of roughly $67\u201376 million from $84.1 million. Management described more cleanup ahead, with upwards of $15 million of NPA reductions in Q4 and the 50-basis-point NPL goal framed as a target over time rather than the preview\u2019s approximately $50 million year-end target.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNonperforming loans decreasing only modestly to 1.24% of loans held for investment\u201d; management expects \u201cNPA reductions of upwards of $15 million in Q4,\u201d targeting an NPL-to-loans ratio of \u201c50 basis points or less over time.\u201d",
+      "expectation_evidence": "The preview said management guided to \u201c10\u201320% NPL resolution in Q3\u201d and a \u201c~$50M year-end NPL target,\u201d implying Q3 NPLs of roughly \u201c$67\u201376M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Net charge-offs increased, contrary to the preview\u2019s modeled roughly 9 basis points annualized, but management attributed the increase to one previously identified, fully reserved commercial relationship rather than a new credit migration. The higher charge-offs were a negative result, with the explanation limiting the apparent deterioration in credit quality.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet charge-offs increased during the quarter but were attributable to a single previously identified, fully reserved commercial relationship.\u201d",
+      "expectation_evidence": "The preview modeled \u201c~9bp NCOs annualized\u201d and flagged \u201cany new credit migration\u201d as a threat to the credit-healing narrative.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "BFST continued share buybacks even though the preview expected repurchases to be dormant at the current share price, which it put well above management\u2019s stated 120%-of-tangible-book threshold. Tangible book value per share grew only about 1.7% annualized amid AOCI pressure and buybacks, although management said growth would have exceeded 14% without those headwinds.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTangible book value per share grew ~1.7% annualized despite AOCI pressure and share buybacks\u201d; management noted it \u201cwould have grown over 14% absent those headwinds.\u201d",
+      "expectation_evidence": "The preview said that at $31.82, BFST was \u201cwell clear of management\u2019s own value threshold\u201d and that \u201cthe buyback \u2026 is almost certainly switched off.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "Q3 loan discount accretion was about $1.2 million because of higher early paydowns, a temporary earnings and margin support not identified in the preview. Management expects it to fall back to about $500,000 per quarter, so the Q3 contribution is not expected to persist.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLoan discount accretion was ~$1.2 million in Q3 due to higher early paydowns but is expected to normalize to about $500,000 per quarter going forward.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 8,
+      "description": "The financial services group disclosed revenue growth of more than 20% annualized and service to over 200 banks, a stronger growth datapoint than the preview\u2019s discussion of APC, SSW, and fee-income durability had anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe financial services group (now serving 200+ banks) is growing revenue over 20% annualized.\u201d",
+      "expectation_evidence": "The preview discussed APC\u2019s full-quarter contribution, SSW\u2019s $5.6 billion AUM, and \u201cFee income durability,\u201d but gave no expectation for financial-services-group revenue growth or bank count.",
+      "expectation_source": "none",
+      "dimension": "revenue"
+    }
+  ]
+}

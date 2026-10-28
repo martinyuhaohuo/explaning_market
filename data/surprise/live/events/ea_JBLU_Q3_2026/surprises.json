@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "JetBlue recaptured 87% of higher Q3 fuel costs, well above the preview\u2019s threshold of 60% for a meaningful improvement to the 2027 outlook. The preview had highlighted fuel recapture as a key risk amid the fuel-price shock.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cJetBlue recaptured 87% of higher fuel costs in Q3.\u201d",
+      "expectation_evidence": "\u201cQ3 recapture above 60% would materially change the 2027 bridge.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "JetBlue reported $2.2 billion in liquidity and roughly $7 billion in unencumbered assets, versus the preview\u2019s base-case liquidity estimate of $1.9\u20132.0 billion and its roughly $6 billion unencumbered-asset estimate. The preview\u2019s central concern was whether the balance sheet and collateral could withstand the fuel shock.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended Q3 with $2.2 billion in liquidity (including a $600 million undrawn revolver) and roughly $7 billion in unencumbered assets,\u201d including \u201c$2.8 billion in aircraft and engines (up from ~$2 billion).\u201d",
+      "expectation_evidence": "The base scenario anticipated \u201cliquidity ~$1.9\u20132.0B\u201d; the preview also cited a \u201cclaimed ~$6B unencumbered asset base.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "JetBlue forecast Q4 RASM growth of 18% to 22% and a fifth consecutive quarter of accelerating RASM. That reaches the preview\u2019s 18% threshold for a strong Q4 guide, though it remains below the preview\u2019s estimate that roughly 24% growth was needed to hold the operating line flat against fuel alone.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 RASM growth of 18% to 22% year-over-year, marking an expected fifth consecutive quarter of accelerating RASM.\u201d",
+      "expectation_evidence": "\u201cQ4 needs ~+24% RASM just to hold the operating line flat on fuel alone\u201d; \u201canything below ~+18% confirms recapture is topping out.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite the preview\u2019s concern that Q4 would bring a wider loss as fuel costs rose, JetBlue guided to 1 to 2 points of year-over-year Q4 operating-margin expansion. That is a more favorable margin outlook, although the reported comparison is year over year rather than sequentially.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 is expected to deliver 1 to 2 points of year-over-year margin expansion.\u201d",
+      "expectation_evidence": "\u201cExpect a Q4 guide implying a wider loss than Q3.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 CASM ex-fuel rose 7%, but JetBlue attributed about 4 points to summer disruption and forecast Q4 CASM ex-fuel between -1% and +1%. This supports the preview\u2019s transitory-disruption possibility rather than a persistently high cost trend.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 CASM ex-fuel rose 7% year-over-year including ~4 points of summer disruption pressure, with Q4 guided to between negative 1% and positive 1%.\u201d",
+      "expectation_evidence": "The preview said to \u201cwatch whether this is transitory deleverage or structural.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reaffirmed the 2027 profitability target and also set out a longer-range goal of at least $1 of EPS and positive free cash flow in 2028, conditional on fuel assumptions. The preview focused on the 2027 commitment and did not flag a 2028 target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement reaffirmed targets of sustained operating profitability in 2027 and at least $1 of EPS plus positive free cash flow in 2028,\u201d assuming fuel slightly above $4 in 2027 and around $3 in 2028.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Fort Lauderdale posted nearly 15% RASM growth while capacity there increased more than 65%, with further seat-share and departure growth planned. The preview did not discuss this market-specific expansion, which also differs from its broader description of an industry prioritizing margins over volume.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFort Lauderdale RASM grew nearly 15% year-over-year on more than 65% capacity growth in Q3,\u201d with seat share expected to reach about 37% in Q4 and peak daily departures exceeding 150 this winter.",
+      "expectation_evidence": "The preview described the industry as \u201cprioritizing margins over volume.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "JetBlue reported 20% loyalty-revenue growth and an eightfold year-over-year increase in Premier Card acquisitions. The preview highlighted TrueBlue\u2019s role in the debt-service covenant but did not anticipate this growth in loyalty activity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLoyalty revenue grew 20% in Q3 (highest since 2023), Premier Card acquisitions grew eightfold year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Paisly was on track to produce nearly $100 million in operating income this year, with that amount expected to nearly double by 2028\u2014an earnings contribution and growth outlook not discussed in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPaisly is on track for nearly $100 million in operating income this year, expected to nearly double by 2028.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Blue First had launched across more than 30 routes, with about 35% of bookings as award redemptions, but fleet installation will not finish until late 2028 because of supply-chain constraints. The preview did not address the product; the reported redemption uptake is encouraging, while the extended rollout is a constraint.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBlue First domestic first-class launched December 8 across 30+ routes with ~35% of bookings as award redemptions\u201d; installation \u201cwill largely complete in 2027 but not finish until late 2028 due to supply chain constraints.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "JetBlue recaptured 87% of higher Q3 fuel costs, well above the preview\u2019s threshold of 60% for a meaningful improvement to the 2027 outlook. The preview had highlighted fuel recapture as a key risk amid the fuel-price shock.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cJetBlue recaptured 87% of higher fuel costs in Q3.\u201d",
+      "expectation_evidence": "\u201cQ3 recapture above 60% would materially change the 2027 bridge.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 1,
+      "description": "JetBlue reported $2.2 billion in liquidity and roughly $7 billion in unencumbered assets, versus the preview\u2019s base-case liquidity estimate of $1.9\u20132.0 billion and its roughly $6 billion unencumbered-asset estimate. The preview\u2019s central concern was whether the balance sheet and collateral could withstand the fuel shock.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended Q3 with $2.2 billion in liquidity (including a $600 million undrawn revolver) and roughly $7 billion in unencumbered assets,\u201d including \u201c$2.8 billion in aircraft and engines (up from ~$2 billion).\u201d",
+      "expectation_evidence": "The base scenario anticipated \u201cliquidity ~$1.9\u20132.0B\u201d; the preview also cited a \u201cclaimed ~$6B unencumbered asset base.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 2,
+      "description": "JetBlue forecast Q4 RASM growth of 18% to 22% and a fifth consecutive quarter of accelerating RASM. That reaches the preview\u2019s 18% threshold for a strong Q4 guide, though it remains below the preview\u2019s estimate that roughly 24% growth was needed to hold the operating line flat against fuel alone.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 RASM growth of 18% to 22% year-over-year, marking an expected fifth consecutive quarter of accelerating RASM.\u201d",
+      "expectation_evidence": "\u201cQ4 needs ~+24% RASM just to hold the operating line flat on fuel alone\u201d; \u201canything below ~+18% confirms recapture is topping out.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Despite the preview\u2019s concern that Q4 would bring a wider loss as fuel costs rose, JetBlue guided to 1 to 2 points of year-over-year Q4 operating-margin expansion. That is a more favorable margin outlook, although the reported comparison is year over year rather than sequentially.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 is expected to deliver 1 to 2 points of year-over-year margin expansion.\u201d",
+      "expectation_evidence": "\u201cExpect a Q4 guide implying a wider loss than Q3.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Q3 CASM ex-fuel rose 7%, but JetBlue attributed about 4 points to summer disruption and forecast Q4 CASM ex-fuel between -1% and +1%. This supports the preview\u2019s transitory-disruption possibility rather than a persistently high cost trend.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 CASM ex-fuel rose 7% year-over-year including ~4 points of summer disruption pressure, with Q4 guided to between negative 1% and positive 1%.\u201d",
+      "expectation_evidence": "The preview said to \u201cwatch whether this is transitory deleverage or structural.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Management reaffirmed the 2027 profitability target and also set out a longer-range goal of at least $1 of EPS and positive free cash flow in 2028, conditional on fuel assumptions. The preview focused on the 2027 commitment and did not flag a 2028 target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement reaffirmed targets of sustained operating profitability in 2027 and at least $1 of EPS plus positive free cash flow in 2028,\u201d assuming fuel slightly above $4 in 2027 and around $3 in 2028.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Fort Lauderdale posted nearly 15% RASM growth while capacity there increased more than 65%, with further seat-share and departure growth planned. The preview did not discuss this market-specific expansion, which also differs from its broader description of an industry prioritizing margins over volume.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFort Lauderdale RASM grew nearly 15% year-over-year on more than 65% capacity growth in Q3,\u201d with seat share expected to reach about 37% in Q4 and peak daily departures exceeding 150 this winter.",
+      "expectation_evidence": "The preview described the industry as \u201cprioritizing margins over volume.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "JetBlue reported 20% loyalty-revenue growth and an eightfold year-over-year increase in Premier Card acquisitions. The preview highlighted TrueBlue\u2019s role in the debt-service covenant but did not anticipate this growth in loyalty activity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLoyalty revenue grew 20% in Q3 (highest since 2023), Premier Card acquisitions grew eightfold year-over-year.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Paisly was on track to produce nearly $100 million in operating income this year, with that amount expected to nearly double by 2028\u2014an earnings contribution and growth outlook not discussed in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPaisly is on track for nearly $100 million in operating income this year, expected to nearly double by 2028.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Blue First had launched across more than 30 routes, with about 35% of bookings as award redemptions, but fleet installation will not finish until late 2028 because of supply-chain constraints. The preview did not address the product; the reported redemption uptake is encouraging, while the extended rollout is a constraint.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBlue First domestic first-class launched December 8 across 30+ routes with ~35% of bookings as award redemptions\u201d; installation \u201cwill largely complete in 2027 but not finish until late 2028 due to supply chain constraints.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

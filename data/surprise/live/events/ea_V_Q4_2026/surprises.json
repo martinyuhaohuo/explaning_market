@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "FY2027 EPS growth guidance of low double digits to low teens is below the preview\u2019s $15.02 consensus, which implied roughly 13.7\u201314% growth. The outlook therefore came in softer than the analyst benchmark, even though the preview had allowed for a low-to-mid-teens guide.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management guided FY2027 adjusted EPS growth to \u201clow double digits to low teens.\u201d",
+      "expectation_evidence": "\u201cFY2027 EPS (the real event)\u201d consensus was \u201c$15.02\u201d and \u201c+13.7\u201314%\u201d; the preview\u2019s base scenario described an EPS guide of \u201clow-to-mid-teens.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Client incentives rose 21% in Q4, higher than the preview\u2019s expectation of growth only slightly above Q3\u2019s 18% and above the level it flagged as a warning sign. Management also expects a larger share of payments volume to renew in 2027, implying continued incentive pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClient incentives grew 21% in Q4, a step-up of nearly 3 points from Q3,\u201d and \u201cabout 25% of payments volume\u201d is expected to renew in 2027 versus 20% in 2026, \u201cimplying further incentive growth.\u201d",
+      "expectation_evidence": "The preview said Q4 client incentives were guided to grow \u201cslightly above Q3\u2019s +18%\u201d and that \u201canything meaningfully north of +20%\u201d would reframe the pricing-power story.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Visa\u2019s FY2027 value-added services growth guide of low-to-mid 20s is weaker than the FY2026 growth rate of 30% and reaches or falls below the preview\u2019s roughly 25% concern threshold. That tempers the expectation that VAS would continue to offset pressure elsewhere.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "VAS grew 30% in constant dollars to $14 billion in FY2026, while management guided to \u201clow- to mid-20s% VAS growth in 2027.\u201d",
+      "expectation_evidence": "The preview said \u201cDeceleration below ~25% would undercut the core bull case\u201d and that the bull case required VAS to \u201chold[] >30%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The $3.48 Q4 EPS beat the $3.44 consensus, but it was below the preview\u2019s derived $3.52\u2013$3.54 whisper bar and the beat was driven primarily by a lower tax rate from legal-settlement tax benefits. The headline beat was therefore smaller and more tax-dependent than the preview\u2019s higher bar implied.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Q4 EPS was \u201c$3.48,\u201d beating expectations \u201cprimarily due to a lower-than-expected tax rate of 18.4%, driven by claim-of-right tax benefits from legal settlements.\u201d",
+      "expectation_evidence": "The preview listed non-GAAP EPS consensus of \u201c$3.44\u201d and derived a buy-side bar \u201cnearer $3.52\u20133.54.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said Q2 FY2027 will be the growth low point because of tough comparisons, adding a weak quarter to the expected growth cadence that the preview had not identified. This is a new near-term caution even alongside the full-year growth guide.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Management expects \u201cQ2 to be the growth low point due to tough comparisons.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The dividend increase was larger than the preview\u2019s 10\u201314% base case: Visa raised its quarterly dividend by 16%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Visa \u201craised its quarterly dividend by 16%.\u201d",
+      "expectation_evidence": "The preview\u2019s dividend-raise base case was \u201c10\u201314%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Visa disclosed that stablecoin settlement had reached a $25 billion annualized run rate, up 10x year over year, alongside substantial card-program and partner pipelines. That is more concrete scale and adoption than the preview\u2019s expectation that stablecoins might remain limited to qualitative commentary and a few use cases.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Stablecoin settlement \u201csurpassed $25 billion in annualized volume, up 10x year-over-year\u201d; stablecoin-linked card programs exceeded 225, with over 5 million cards, and the platform pipeline had over 300 partners.",
+      "expectation_evidence": "The preview said settlement volume or named client adoption could be a \u201cnarrative unlock,\u201d while \u201canother quarter of qualitative framing\u201d would confirm stablecoins were not yet a 2027 earnings driver.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Visa received Chinese central-bank approval to begin formal preparations for domestic processing in Mainland China, a material strategic development that the preview did not flag. The approval starts preparations rather than indicating that processing has begun.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Visa received \u201cPeople\u2019s Bank of China approval to prepare for domestic processing,\u201d beginning formal preparations to ultimately process on the Visa network in Mainland China.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "FY2027 EPS growth guidance of low double digits to low teens is below the preview\u2019s $15.02 consensus, which implied roughly 13.7\u201314% growth. The outlook therefore came in softer than the analyst benchmark, even though the preview had allowed for a low-to-mid-teens guide.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "Management guided FY2027 adjusted EPS growth to \u201clow double digits to low teens.\u201d",
+      "expectation_evidence": "\u201cFY2027 EPS (the real event)\u201d consensus was \u201c$15.02\u201d and \u201c+13.7\u201314%\u201d; the preview\u2019s base scenario described an EPS guide of \u201clow-to-mid-teens.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Client incentives rose 21% in Q4, higher than the preview\u2019s expectation of growth only slightly above Q3\u2019s 18% and above the level it flagged as a warning sign. Management also expects a larger share of payments volume to renew in 2027, implying continued incentive pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClient incentives grew 21% in Q4, a step-up of nearly 3 points from Q3,\u201d and \u201cabout 25% of payments volume\u201d is expected to renew in 2027 versus 20% in 2026, \u201cimplying further incentive growth.\u201d",
+      "expectation_evidence": "The preview said Q4 client incentives were guided to grow \u201cslightly above Q3\u2019s +18%\u201d and that \u201canything meaningfully north of +20%\u201d would reframe the pricing-power story.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 2,
+      "description": "Visa\u2019s FY2027 value-added services growth guide of low-to-mid 20s is weaker than the FY2026 growth rate of 30% and reaches or falls below the preview\u2019s roughly 25% concern threshold. That tempers the expectation that VAS would continue to offset pressure elsewhere.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "VAS grew 30% in constant dollars to $14 billion in FY2026, while management guided to \u201clow- to mid-20s% VAS growth in 2027.\u201d",
+      "expectation_evidence": "The preview said \u201cDeceleration below ~25% would undercut the core bull case\u201d and that the bull case required VAS to \u201chold[] >30%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "The $3.48 Q4 EPS beat the $3.44 consensus, but it was below the preview\u2019s derived $3.52\u2013$3.54 whisper bar and the beat was driven primarily by a lower tax rate from legal-settlement tax benefits. The headline beat was therefore smaller and more tax-dependent than the preview\u2019s higher bar implied.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Q4 EPS was \u201c$3.48,\u201d beating expectations \u201cprimarily due to a lower-than-expected tax rate of 18.4%, driven by claim-of-right tax benefits from legal settlements.\u201d",
+      "expectation_evidence": "The preview listed non-GAAP EPS consensus of \u201c$3.44\u201d and derived a buy-side bar \u201cnearer $3.52\u20133.54.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "Management said Q2 FY2027 will be the growth low point because of tough comparisons, adding a weak quarter to the expected growth cadence that the preview had not identified. This is a new near-term caution even alongside the full-year growth guide.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Management expects \u201cQ2 to be the growth low point due to tough comparisons.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The dividend increase was larger than the preview\u2019s 10\u201314% base case: Visa raised its quarterly dividend by 16%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Visa \u201craised its quarterly dividend by 16%.\u201d",
+      "expectation_evidence": "The preview\u2019s dividend-raise base case was \u201c10\u201314%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "Visa disclosed that stablecoin settlement had reached a $25 billion annualized run rate, up 10x year over year, alongside substantial card-program and partner pipelines. That is more concrete scale and adoption than the preview\u2019s expectation that stablecoins might remain limited to qualitative commentary and a few use cases.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Stablecoin settlement \u201csurpassed $25 billion in annualized volume, up 10x year-over-year\u201d; stablecoin-linked card programs exceeded 225, with over 5 million cards, and the platform pipeline had over 300 partners.",
+      "expectation_evidence": "The preview said settlement volume or named client adoption could be a \u201cnarrative unlock,\u201d while \u201canother quarter of qualitative framing\u201d would confirm stablecoins were not yet a 2027 earnings driver.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Visa received Chinese central-bank approval to begin formal preparations for domestic processing in Mainland China, a material strategic development that the preview did not flag. The approval starts preparations rather than indicating that processing has begun.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Visa received \u201cPeople\u2019s Bank of China approval to prepare for domestic processing,\u201d beginning formal preparations to ultimately process on the Visa network in Mainland China.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

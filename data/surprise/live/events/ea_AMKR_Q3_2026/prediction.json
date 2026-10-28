@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_AMKR_Q3_2026",
+  "event_datetime": "2026-10-26T21:00:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-26T23:04:04.719970+00:00",
+  "predictions": [
+    {
+      "identifier_value": "AMKR",
+      "predicted_percentile": 0.1752440477611163
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "The preview looked for organic growth of about 4.5% in H2, but Q3 organic growth was 4%. The tornado explains roughly 1 percentage point of growth: excluding it, organic growth was 5%, while business-interruption insurance offset the lost operating income.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 organic growth was 4% (5% excluding the tornado event)\u201d and the tornado \u201creduced Q3 revenue by about $40 million (roughly 1 percentage point of growth), with the lost operating income offset by business interruption insurance.\u201d",
+      "expectation_evidence": "\u201cManagement framed H2 organic at ~4.5% (Q2's pace)\u201d and the checklist called for \u201cOrganic growth \u22654.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Automotive OEM organic revenue fell 2%, rather than returning to the positive growth the preview expected. Its margin also fell 170 basis points amid resin inflation and price/cost timing lag, although ITW outperformed build rates in North America and China.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAutomotive OEM organic revenue fell 2% with operating margin down 170 basis points due to resin inflation and price/cost timing lag,\u201d while the company \u201coutperformed build rates in North America and China.\u201d",
+      "expectation_evidence": "The segment consensus was \u201c+0.5%\u201d organic, and the preview said Auto OEM was a low-expectation inflection to watch, with management\u2019s guide to outgrow builds.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Test & Measurement and Electronics delivered 16% organic growth, well above the preview\u2019s roughly 10.5% segment revenue-growth estimate; electronics alone grew 31%. Segment margin expanded 330 basis points to 28.7%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTest & Measurement and Electronics delivered 16% organic growth led by a 31% surge in electronics, with operating margin expanding 330 basis points to 28.7%.\u201d",
+      "expectation_evidence": "The preview listed Test & Measurement / Electronics consensus revenue growth of \u201c+10.5%\u201d and described it as an \u201cAI infra / semi capex engine.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Construction Products declined 1% organically instead of growing around the preview\u2019s 1.4% revenue estimate, and its margin fell 170 basis points on price/cost headwinds.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConstruction Products organic revenue declined 1% with margin down 170 basis points on price/cost headwinds.\u201d",
+      "expectation_evidence": "The preview estimated Construction Products revenue growth of \u201c+1.4%\u201d and described the segment as \u201cHousing-constrained.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Within Construction Products, commercial construction surged 19% on data-center demand, an unexpectedly strong pocket of growth despite the segment\u2019s overall decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommercial construction (15% of the region) surged 19% on data center demand.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management said customer-back innovation is contributing more than 3% to revenue growth and raised the full-year projection to 3%-plus. The preview did not flag this growth contribution or a higher projection as an expectation to watch.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer-back innovation (CBI) is contributing more than 3% to revenue growth versus 2.4% in 2025, and the full-year CBI projection was raised to 3%-plus.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management put a specific best-in-class margin range on Welding\u2019s recovery, saying margins are expected to return to 32%-34% as orders run well ahead of revenue. The preview expected orders to outpace revenue but did not anticipate this margin-range outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Welding \u201cis expected to return to best-in-class margins of 32%-34% as order growth runs well ahead of revenue.\u201d",
+      "expectation_evidence": "The preview said to watch whether \u201corder growth\u201d continued to \u201coutpace revenue growth\u201d in Welding, but gave no Welding margin-recovery range.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview looked for organic growth of about 4.5% in H2, but Q3 organic growth was 4%. The tornado explains roughly 1 percentage point of growth: excluding it, organic growth was 5%, while business-interruption insurance offset the lost operating income.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 organic growth was 4% (5% excluding the tornado event)\u201d and the tornado \u201creduced Q3 revenue by about $40 million (roughly 1 percentage point of growth), with the lost operating income offset by business interruption insurance.\u201d",
+      "expectation_evidence": "\u201cManagement framed H2 organic at ~4.5% (Q2's pace)\u201d and the checklist called for \u201cOrganic growth \u22654.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Automotive OEM organic revenue fell 2%, rather than returning to the positive growth the preview expected. Its margin also fell 170 basis points amid resin inflation and price/cost timing lag, although ITW outperformed build rates in North America and China.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAutomotive OEM organic revenue fell 2% with operating margin down 170 basis points due to resin inflation and price/cost timing lag,\u201d while the company \u201coutperformed build rates in North America and China.\u201d",
+      "expectation_evidence": "The segment consensus was \u201c+0.5%\u201d organic, and the preview said Auto OEM was a low-expectation inflection to watch, with management\u2019s guide to outgrow builds.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Test & Measurement and Electronics delivered 16% organic growth, well above the preview\u2019s roughly 10.5% segment revenue-growth estimate; electronics alone grew 31%. Segment margin expanded 330 basis points to 28.7%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTest & Measurement and Electronics delivered 16% organic growth led by a 31% surge in electronics, with operating margin expanding 330 basis points to 28.7%.\u201d",
+      "expectation_evidence": "The preview listed Test & Measurement / Electronics consensus revenue growth of \u201c+10.5%\u201d and described it as an \u201cAI infra / semi capex engine.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Construction Products declined 1% organically instead of growing around the preview\u2019s 1.4% revenue estimate, and its margin fell 170 basis points on price/cost headwinds.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cConstruction Products organic revenue declined 1% with margin down 170 basis points on price/cost headwinds.\u201d",
+      "expectation_evidence": "The preview estimated Construction Products revenue growth of \u201c+1.4%\u201d and described the segment as \u201cHousing-constrained.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Within Construction Products, commercial construction surged 19% on data-center demand, an unexpectedly strong pocket of growth despite the segment\u2019s overall decline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCommercial construction (15% of the region) surged 19% on data center demand.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Management said customer-back innovation is contributing more than 3% to revenue growth and raised the full-year projection to 3%-plus. The preview did not flag this growth contribution or a higher projection as an expectation to watch.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCustomer-back innovation (CBI) is contributing more than 3% to revenue growth versus 2.4% in 2025, and the full-year CBI projection was raised to 3%-plus.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Management put a specific best-in-class margin range on Welding\u2019s recovery, saying margins are expected to return to 32%-34% as orders run well ahead of revenue. The preview expected orders to outpace revenue but did not anticipate this margin-range outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Welding \u201cis expected to return to best-in-class margins of 32%-34% as order growth runs well ahead of revenue.\u201d",
+      "expectation_evidence": "The preview said to watch whether \u201corder growth\u201d continued to \u201coutpace revenue growth\u201d in Welding, but gave no Welding margin-recovery range.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

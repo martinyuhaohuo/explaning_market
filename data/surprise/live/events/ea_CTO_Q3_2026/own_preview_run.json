@@ -1,0 +1,116 @@
+{
+  "event_id": "ea_CTO_Q3_2026",
+  "ticker": "CTO",
+  "company": "CTO Realty Growth, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:10:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "CTO Realty Growth, Inc. (CTO), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:10 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview CTO Realty Growth, Inc. (CTO), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:10 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:10:34.211549+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Skill",
+      "detail": "earnings-preview"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "CTO Realty Growth Q3 2026 earnings preview consensus estimates FFO revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "CTO Realty Growth third quarter 2026 earnings release date conference call"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.sec.gov/Archives/edgar/data/0000023795/000110465926087536/cto-20260728xex99d1.htm"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "CTO Realty Growth stock earnings reaction history options implied move"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "e89a77b3-397a-45a6-b26d-59d934fa1d37",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 8,
+  "duration_ms": 41222,
+  "total_cost_usd": 0.042848065,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 9065,
+    "cache_read_input_tokens": 83494,
+    "output_tokens": 4934,
+    "output_tokens_details": {
+      "thinking_tokens": 816
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 9065
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3845,
+        "cache_read_input_tokens": 24118,
+        "cache_creation_input_tokens": 2984,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 2984,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:11:16.795952+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

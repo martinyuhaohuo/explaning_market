@@ -1,0 +1,111 @@
+{
+  "event_id": "ea_PFG_Q3_2026",
+  "ticker": "PFG",
+  "company": "Principal Financial Group, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-26T20:15:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "Principal Financial Group, Inc. (PFG), fiscal period Q3 FY2026, earnings release scheduled 2026-10-26 20:15 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview Principal Financial Group, Inc. (PFG), fiscal period Q3 FY2026, earnings release scheduled 2026-10-26 20:15 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:46:24.752681+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Principal Financial Group PFG Q3 2026 earnings consensus EPS revenue estimate"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Principal Financial Group Q2 2026 earnings call guidance outlook"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Principal Financial stock earnings reaction history shares after earnings"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "PFG stock options implied move earnings October 2026"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 4
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "becbecbe-c061-4b59-a6b4-75e161b9d0f8",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 6,
+  "duration_ms": 24124,
+  "total_cost_usd": 0.051170545000000005,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 8755,
+    "cache_read_input_tokens": 58957,
+    "output_tokens": 3928,
+    "output_tokens_details": {
+      "thinking_tokens": 903
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8755
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3205,
+        "cache_read_input_tokens": 21039,
+        "cache_creation_input_tokens": 5753,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 5753,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:46:49.838286+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

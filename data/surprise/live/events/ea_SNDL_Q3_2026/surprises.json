@@ -1,0 +1,222 @@
+{
+  "surprises": [
+    {
+      "description": "SNDL's cannabis operations deteriorated much more sharply than the preview's roughly C$33 million revenue base suggested: revenue was C$27.0 million, down 27.7% year over year. The preview described the prior-quarter decline as 10.1%.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCannabis operations net revenue fell 27.7% to $27.0 million\u201d",
+      "expectation_evidence": "\u201cCannabis Operations \u2014 C$32.2M, \u221210.1% YoY\u201d; the preview also referred to a \u201c~C$33M revenue base.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Instead of the partial margin recovery the preview expected, cannabis operations posted a negative 6% gross margin. The preview's base case was 8\u201312%, and it identified a margin below 5% as a key downside threshold.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCannabis operations net revenue fell 27.7% to $27.0 million with a negative 6% gross margin\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 Cannabis Ops GM ~8\u201312% (partial Jeeter recovery)\u201d; \u201cstill below 5% = the \u2018fixable\u2019 claim loses credibility.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SNDL reported a C$48.3 million operating loss, far worse than the preview's roughly C$6 million loss expectation, because it recorded a C$52 million noncash goodwill impairment tied to cannabis operations. Adjusted operating income was nevertheless positive at C$5.2 million, so the reported loss was heavily affected by the impairment.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company reported an operating loss of $48.3 million, reflecting a $52 million noncash goodwill impairment tied to cannabis operations\u201d; \u201cAdjusted operating income returned to positive territory at $5.2 million\u201d",
+      "expectation_evidence": "The preview's Q3 base table estimated \u201cOperating income (C$M) \u2026 ~(6).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The cannabis weakness prompted a strategic review, including potential asset divestitures, alongside an exit from unprofitable domestic dried flower and a workforce cut of more than 30% at Kelowna. That is a more consequential retreat than the preview's framing of the Jeeter margin problem as fixable.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201c[The results] prompt[ed] a strategic review including potential asset divestitures after the company exited the unprofitable domestic dried flower category and cut over 30% of its Kelowna facility workforce.\u201d",
+      "expectation_evidence": "The preview quoted management calling the margin shortfall \u201cfixable\u201d and said the bull case required that \u201cJeeter lines reach designed throughput and absorb overhead.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Liquor Retail same-store sales fell 6%, worse than the preview's expectation of a decline better than 4%. Its record 27% gross margin was a positive offset, but did not prevent the sales-comp miss.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLiquor Retail achieved a record 27.0% gross margin despite a 6% same-store sales decline.\u201d",
+      "expectation_evidence": "\u201cWatch for: GM \u226526% (vs. 25.1% in Q2) and a decline rate better than \u22124%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Ontario AGCO resolution creates a large reported-revenue reduction when the franchise operations are deconsolidated: about $105 million, despite only about $2 million of operating income being removed. The preview did not flag this resolution or its accounting impact.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe anticipated resolution of the Ontario AGCO regulatory matter, requiring a $200,000 penalty and ~$30 million of third-party financing, would deconsolidate Ontario franchise operations, cutting reported net revenue by ~$105 million but only ~$2 million of operating income.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Despite record free cash flow, cash fell by $50.7 million, mainly because SNDL contributed $60.8 million to equity-accounted investees and spent $10 million on repurchases. The preview highlighted the record cash flow and Q2 cash balance but did not anticipate this scale of quarterly cash deployment.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash declined by $50.7 million in the quarter, primarily due to $60.8 million of capital contributions to equity-accounted investees and $10 million of share repurchases.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "SNDL raised its stake in Parallel's take-back debt from 39.4% to 69.4% by buying additional debt at 75% of face value. The preview noted the increase in SNDL's indirect equity ownership to about 92%, but did not anticipate this additional debt acquisition.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c[SNDL] raised its stake in Parallel's take-back debt from 39.4% to 69.4% by acquiring additional debt at 75% of face value.\u201d",
+      "expectation_evidence": "The preview said SNDL had \u201craised its indirect economic interest from ~67% to ~92%\u201d; it did not mention an increase in the take-back debt stake.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SNDL's formal substantial issuer bid was expected after the release, but the reported update was a potential bid of up to $50 million rather than a clearly formalized offer with launch mechanics. The maximum price matches the preview's stated USD 1.35 ceiling.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201c[SNDL] announced a potential substantial issuer bid of up to $50 million at a price not exceeding USD 1.35 per share.\u201d",
+      "expectation_evidence": "The preview said the \u201cSIB of up to C$50M at a max C$1.92 (US$1.35) \u2026 is expected to launch formally after this earnings release.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue came in above the preview's base estimate and declined less year over year than expected: C$238 million and down 2.5%, versus a base of about C$232 million and an expected decline of about 5%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet revenue declined 2.5% year-over-year to $238 million.\u201d",
+      "expectation_evidence": "The preview's base case was \u201cNet revenue (C$) \u2026 ~C$232M (\u22125% YoY)\u201d; its consensus conversion was approximately C$229 million.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consolidated gross margin was 24.3%, below the preview's roughly 25.0% expectation, and gross profit fell 9.8%. This was a weaker margin result despite the better-than-expected revenue decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGross profit fell 9.8% to $57.9 million and gross margin contracted 2 percentage points to 24.3% due to weak cannabis operations.\u201d",
+      "expectation_evidence": "The preview's Q3 base table estimated \u201cGross margin \u2026 ~25.0%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cannabis Retail posted record revenue of $85.6 million and a 27.0% gross margin, up from the preview's Q2 reference of C$83.2 million and 26.4%. That was somewhat better than the preview's expectation of a continuing bright spot.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCannabis Retail reached $85.6 million net revenue with 27.0% gross margin.\u201d",
+      "expectation_evidence": "The preview described Cannabis Retail as \u201cthe one bright spot,\u201d citing Q2 revenue of \u201cC$83.2M\u201d and gross margin of \u201c26.4%, +improving.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "SNDL's cannabis operations deteriorated much more sharply than the preview's roughly C$33 million revenue base suggested: revenue was C$27.0 million, down 27.7% year over year. The preview described the prior-quarter decline as 10.1%.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCannabis operations net revenue fell 27.7% to $27.0 million\u201d",
+      "expectation_evidence": "\u201cCannabis Operations \u2014 C$32.2M, \u221210.1% YoY\u201d; the preview also referred to a \u201c~C$33M revenue base.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Instead of the partial margin recovery the preview expected, cannabis operations posted a negative 6% gross margin. The preview's base case was 8\u201312%, and it identified a margin below 5% as a key downside threshold.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCannabis operations net revenue fell 27.7% to $27.0 million with a negative 6% gross margin\u201d",
+      "expectation_evidence": "\u201cBase: \u2026 Cannabis Ops GM ~8\u201312% (partial Jeeter recovery)\u201d; \u201cstill below 5% = the \u2018fixable\u2019 claim loses credibility.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "SNDL reported a C$48.3 million operating loss, far worse than the preview's roughly C$6 million loss expectation, because it recorded a C$52 million noncash goodwill impairment tied to cannabis operations. Adjusted operating income was nevertheless positive at C$5.2 million, so the reported loss was heavily affected by the impairment.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe company reported an operating loss of $48.3 million, reflecting a $52 million noncash goodwill impairment tied to cannabis operations\u201d; \u201cAdjusted operating income returned to positive territory at $5.2 million\u201d",
+      "expectation_evidence": "The preview's Q3 base table estimated \u201cOperating income (C$M) \u2026 ~(6).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "The cannabis weakness prompted a strategic review, including potential asset divestitures, alongside an exit from unprofitable domestic dried flower and a workforce cut of more than 30% at Kelowna. That is a more consequential retreat than the preview's framing of the Jeeter margin problem as fixable.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201c[The results] prompt[ed] a strategic review including potential asset divestitures after the company exited the unprofitable domestic dried flower category and cut over 30% of its Kelowna facility workforce.\u201d",
+      "expectation_evidence": "The preview quoted management calling the margin shortfall \u201cfixable\u201d and said the bull case required that \u201cJeeter lines reach designed throughput and absorb overhead.\u201d",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 4,
+      "description": "Liquor Retail same-store sales fell 6%, worse than the preview's expectation of a decline better than 4%. Its record 27% gross margin was a positive offset, but did not prevent the sales-comp miss.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cLiquor Retail achieved a record 27.0% gross margin despite a 6% same-store sales decline.\u201d",
+      "expectation_evidence": "\u201cWatch for: GM \u226526% (vs. 25.1% in Q2) and a decline rate better than \u22124%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "The Ontario AGCO resolution creates a large reported-revenue reduction when the franchise operations are deconsolidated: about $105 million, despite only about $2 million of operating income being removed. The preview did not flag this resolution or its accounting impact.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cThe anticipated resolution of the Ontario AGCO regulatory matter, requiring a $200,000 penalty and ~$30 million of third-party financing, would deconsolidate Ontario franchise operations, cutting reported net revenue by ~$105 million but only ~$2 million of operating income.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "Despite record free cash flow, cash fell by $50.7 million, mainly because SNDL contributed $60.8 million to equity-accounted investees and spent $10 million on repurchases. The preview highlighted the record cash flow and Q2 cash balance but did not anticipate this scale of quarterly cash deployment.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCash declined by $50.7 million in the quarter, primarily due to $60.8 million of capital contributions to equity-accounted investees and $10 million of share repurchases.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "SNDL raised its stake in Parallel's take-back debt from 39.4% to 69.4% by buying additional debt at 75% of face value. The preview noted the increase in SNDL's indirect equity ownership to about 92%, but did not anticipate this additional debt acquisition.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c[SNDL] raised its stake in Parallel's take-back debt from 39.4% to 69.4% by acquiring additional debt at 75% of face value.\u201d",
+      "expectation_evidence": "The preview said SNDL had \u201craised its indirect economic interest from ~67% to ~92%\u201d; it did not mention an increase in the take-back debt stake.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 8,
+      "description": "SNDL's formal substantial issuer bid was expected after the release, but the reported update was a potential bid of up to $50 million rather than a clearly formalized offer with launch mechanics. The maximum price matches the preview's stated USD 1.35 ceiling.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201c[SNDL] announced a potential substantial issuer bid of up to $50 million at a price not exceeding USD 1.35 per share.\u201d",
+      "expectation_evidence": "The preview said the \u201cSIB of up to C$50M at a max C$1.92 (US$1.35) \u2026 is expected to launch formally after this earnings release.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 9,
+      "description": "Revenue came in above the preview's base estimate and declined less year over year than expected: C$238 million and down 2.5%, versus a base of about C$232 million and an expected decline of about 5%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet revenue declined 2.5% year-over-year to $238 million.\u201d",
+      "expectation_evidence": "The preview's base case was \u201cNet revenue (C$) \u2026 ~C$232M (\u22125% YoY)\u201d; its consensus conversion was approximately C$229 million.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 10,
+      "description": "Consolidated gross margin was 24.3%, below the preview's roughly 25.0% expectation, and gross profit fell 9.8%. This was a weaker margin result despite the better-than-expected revenue decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGross profit fell 9.8% to $57.9 million and gross margin contracted 2 percentage points to 24.3% due to weak cannabis operations.\u201d",
+      "expectation_evidence": "The preview's Q3 base table estimated \u201cGross margin \u2026 ~25.0%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 11,
+      "description": "Cannabis Retail posted record revenue of $85.6 million and a 27.0% gross margin, up from the preview's Q2 reference of C$83.2 million and 26.4%. That was somewhat better than the preview's expectation of a continuing bright spot.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCannabis Retail reached $85.6 million net revenue with 27.0% gross margin.\u201d",
+      "expectation_evidence": "The preview described Cannabis Retail as \u201cthe one bright spot,\u201d citing Q2 revenue of \u201cC$83.2M\u201d and gross margin of \u201c26.4%, +improving.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $13.2 million, far above the preview\u2019s $4.51 million consensus and its $2\u20134 million model, despite the preview expecting little revenue from the remaining GSK collaboration. The reported revenue was driven entirely by GSK.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue rose to $13.2 million \u2026 driven entirely by the GSK collaboration.\u201d",
+      "expectation_evidence": "\u201cRevenue: $4.51M\u201d consensus; the preview also said, \u201cI model $2\u20134M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GSK selected an siRNA development candidate, triggering a $12 million milestone due in Q4, while three other programs continue toward candidate selection. The preview discussed the live GSK collaboration but did not anticipate a candidate selection or this milestone.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGSK selected an siRNA development candidate during the quarter, triggering a $12 million milestone payment due in Q4, with 3 additional GSK programs still advancing toward candidate selection.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Wave gave a Q4 2026 timing expectation for WVE-007 600-milligram Phase I single-dose data on potency, duration, and safety. The preview focused on the timing of Phase 2a data and did not flag this specific Phase I update.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWVE-007 600-milligram Phase I single-dose data (potency, duration, safety) is expected in Q4 2026.\u201d",
+      "expectation_evidence": "The preview said management had \u201cnot committed to a data-release date\u201d for the Phase 2a trials and identified a firm Phase 2a date as a key upside possibility.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said the Phase IIa monotherapy participants have substantially higher baseline adiposity than Phase I participants and expressed confidence that this supports crossing the 5% weight-loss threshold at 12 months. The preview noted the BMI 35\u201350 enrollment but did not report this rationale or confidence.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Phase IIa monotherapy trial for WVE-007 is enrolling patients with BMI 35-50 and comorbidities whose baseline adiposity is substantially higher than Phase I, supporting management's confidence in crossing the 5% weight-loss regulatory threshold at 12 months.\u201d",
+      "expectation_evidence": "The preview said Phase 2a monotherapy dosing was underway in \u201cBMI 35\u201350, \u00b1 T2D,\u201d and highlighted the weak Phase I weight-loss result as part of the debate.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The FDA accepted Wave\u2019s validated assay for measuring M-AAT and Z-AAT across the WVE-006 program, a favorable regulatory-development update not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FDA accepted Wave's validated LCMS assay to measure M-AAT and Z-AAT proteins across the WVE-006 development program.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Wave plans to start a WVE-007 post-incretin maintenance trial in Q4 2026, an additional trial plan not identified in the preview\u2019s discussion of the ongoing monotherapy and tirzepatide combination Phase 2a trials.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cWave plans to initiate the WVE-007 post-incretin maintenance trial in Q4 2026.\u201d",
+      "expectation_evidence": "The preview described the WVE-007 monotherapy and tirzepatide combination Phase 2a trials, but did not mention a post-incretin maintenance trial.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "R&D and G&A spending both exceeded the preview\u2019s estimated ranges: R&D was $53.8 million versus $48\u201352 million, and G&A was $25.4 million versus $22\u201324 million.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cR&D expenses grew to $53.8 million and G&A rose to $25.4 million.\u201d",
+      "expectation_evidence": "The preview estimated \u201cR&D | ~$48\u201352M\u201d and \u201cG&A | ~$22\u201324M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cash and marketable securities ended the quarter at $431 million, below the preview\u2019s estimated $435\u2013455 million range. The company nevertheless retained the expected runway into Q3 2028.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company ended the quarter with $431 million in cash and marketable securities, expected to fund operations into Q3 2028.\u201d",
+      "expectation_evidence": "The preview estimated \u201cCash & marketable sec. | ~$435\u2013455M\u201d and expected runway language \u201cinto Q3 2028.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Despite the higher-than-estimated R&D and G&A expenses, the $61.9 million net loss was below the preview\u2019s modeled $64\u201367 million loss. That is a modestly better result than the preview\u2019s loss estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet loss widened to $61.9 million in Q3 2026.\u201d",
+      "expectation_evidence": "The preview modeled \u201ca ~$64\u201367M net loss.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $13.2 million, far above the preview\u2019s $4.51 million consensus and its $2\u20134 million model, despite the preview expecting little revenue from the remaining GSK collaboration. The reported revenue was driven entirely by GSK.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue rose to $13.2 million \u2026 driven entirely by the GSK collaboration.\u201d",
+      "expectation_evidence": "\u201cRevenue: $4.51M\u201d consensus; the preview also said, \u201cI model $2\u20134M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "GSK selected an siRNA development candidate, triggering a $12 million milestone due in Q4, while three other programs continue toward candidate selection. The preview discussed the live GSK collaboration but did not anticipate a candidate selection or this milestone.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGSK selected an siRNA development candidate during the quarter, triggering a $12 million milestone payment due in Q4, with 3 additional GSK programs still advancing toward candidate selection.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "Wave gave a Q4 2026 timing expectation for WVE-007 600-milligram Phase I single-dose data on potency, duration, and safety. The preview focused on the timing of Phase 2a data and did not flag this specific Phase I update.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWVE-007 600-milligram Phase I single-dose data (potency, duration, safety) is expected in Q4 2026.\u201d",
+      "expectation_evidence": "The preview said management had \u201cnot committed to a data-release date\u201d for the Phase 2a trials and identified a firm Phase 2a date as a key upside possibility.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 3,
+      "description": "Management said the Phase IIa monotherapy participants have substantially higher baseline adiposity than Phase I participants and expressed confidence that this supports crossing the 5% weight-loss threshold at 12 months. The preview noted the BMI 35\u201350 enrollment but did not report this rationale or confidence.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Phase IIa monotherapy trial for WVE-007 is enrolling patients with BMI 35-50 and comorbidities whose baseline adiposity is substantially higher than Phase I, supporting management's confidence in crossing the 5% weight-loss regulatory threshold at 12 months.\u201d",
+      "expectation_evidence": "The preview said Phase 2a monotherapy dosing was underway in \u201cBMI 35\u201350, \u00b1 T2D,\u201d and highlighted the weak Phase I weight-loss result as part of the debate.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "The FDA accepted Wave\u2019s validated assay for measuring M-AAT and Z-AAT across the WVE-006 program, a favorable regulatory-development update not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe FDA accepted Wave's validated LCMS assay to measure M-AAT and Z-AAT proteins across the WVE-006 development program.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 5,
+      "description": "Wave plans to start a WVE-007 post-incretin maintenance trial in Q4 2026, an additional trial plan not identified in the preview\u2019s discussion of the ongoing monotherapy and tirzepatide combination Phase 2a trials.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cWave plans to initiate the WVE-007 post-incretin maintenance trial in Q4 2026.\u201d",
+      "expectation_evidence": "The preview described the WVE-007 monotherapy and tirzepatide combination Phase 2a trials, but did not mention a post-incretin maintenance trial.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 6,
+      "description": "R&D and G&A spending both exceeded the preview\u2019s estimated ranges: R&D was $53.8 million versus $48\u201352 million, and G&A was $25.4 million versus $22\u201324 million.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cR&D expenses grew to $53.8 million and G&A rose to $25.4 million.\u201d",
+      "expectation_evidence": "The preview estimated \u201cR&D | ~$48\u201352M\u201d and \u201cG&A | ~$22\u201324M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 7,
+      "description": "Cash and marketable securities ended the quarter at $431 million, below the preview\u2019s estimated $435\u2013455 million range. The company nevertheless retained the expected runway into Q3 2028.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company ended the quarter with $431 million in cash and marketable securities, expected to fund operations into Q3 2028.\u201d",
+      "expectation_evidence": "The preview estimated \u201cCash & marketable sec. | ~$435\u2013455M\u201d and expected runway language \u201cinto Q3 2028.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 8,
+      "description": "Despite the higher-than-estimated R&D and G&A expenses, the $61.9 million net loss was below the preview\u2019s modeled $64\u201367 million loss. That is a modestly better result than the preview\u2019s loss estimate.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet loss widened to $61.9 million in Q3 2026.\u201d",
+      "expectation_evidence": "The preview modeled \u201ca ~$64\u201367M net loss.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    }
+  ]
+}

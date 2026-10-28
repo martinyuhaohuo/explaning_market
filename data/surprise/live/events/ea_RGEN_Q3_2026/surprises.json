@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Repligen\u2019s adjusted EPS was $0.53, well above the preview\u2019s $0.4628 consensus estimate. The roughly 15% beat was larger than the preview\u2019s deliberately low EPS bar suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS rose 15% to $0.53 from $0.46 a year earlier.\u201d",
+      "expectation_evidence": "\u201cAdj. EPS (diluted) ... $0.4628.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Capital equipment orders grew at a mid-teens rate and reached their highest level in five years, stronger than the preview\u2019s expectation of another book-to-bill-above-1 quarter and continued improvement. However, most system deliveries were pushed into 2027, consistent with the preview\u2019s expectation that the order pickup would convert later.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCapital equipment orders grew mid-teens year-over-year to the highest orders quarter in five years, but revenue declined as most system deliveries were pushed by customers into 2027.\u201d",
+      "expectation_evidence": "\u201cA second consecutive >1.0 quarter plus the third RFP is the single most important disclosure on the call.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Repligen\u2019s adjusted operating margin was 15.9%, above the preview\u2019s quarterly estimate of 15.0\u201315.3%. That is a better margin result than the preview\u2019s EPS build assumed, even though it remains within the company\u2019s existing full-year margin guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating margin expanded 170 basis points year-over-year to 15.9%.\u201d",
+      "expectation_evidence": "\u201cQ3 adj. operating margin ~15.0\u201315.3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Filtration fell 11% in the quarter, and management now expects the franchise to be flat to slightly down for the full year rather than meeting the preview\u2019s mid-single-digit growth expectation. The decline included the polymer divestiture and FX, but was still materially weaker than that forecast.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFiltration revenue fell 11% (including a 2-point polymer divestiture and FX headwind), and full-year filtration is now expected to be flat to slightly down.\u201d",
+      "expectation_evidence": "\u201cfiltration mid-single-digit\u201d for the FY target set at Q2.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The BioLife contribution included in 2026 guidance is about $24 million, below the preview\u2019s arithmetic estimate of a roughly $29\u201330 million Q4 stub. That makes the expected partial-year revenue contribution smaller than anticipated.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 guidance was raised ... including a ~$24 million partial-quarter BioLife contribution.\u201d",
+      "expectation_evidence": "\u201cBioLife did $28.5M in Q2, +21% y/y, so a ~$29\u201330M stub is the arithmetic.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The quarter included a $41 million non-cash impairment tied to an old IP license agreement, an unanticipated charge in GAAP results. It was excluded from adjusted figures, so it did not account for the adjusted EPS beat.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP results included a $41 million non-cash intangible impairment from an old IP license agreement, excluded from adjusted figures.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Chromatography grew more than 50% in the quarter, and its full-year growth outlook is now at least 30%, above the preview\u2019s expectation of more than 20%. This is a stronger franchise result and outlook than the preview\u2019s baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cChromatography grew over 50% ... in the quarter, with full-year guidance of at least 30% for chromatography and analytics.\u201d",
+      "expectation_evidence": "\u201cchromatography >20%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management\u2019s full-year analytics growth outlook of at least 30% is above the preview\u2019s expected threshold of at least 25%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year guidance of at least 30% for chromatography and analytics.\u201d",
+      "expectation_evidence": "\u201canalytics \u226525%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management set a 2027 growth floor of at least 25%, which implies revenue above $1 billion but is below the preview\u2019s 29.1% growth consensus and $1.08 billion estimate if growth lands near that floor. The wording is a minimum, not a firm ceiling or point forecast, so the gap is not definitive.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement guided to at least 25% reported top-line growth in 2027, pushing revenue above $1 billion.\u201d",
+      "expectation_evidence": "\u201cFY27 Revenue / EPS ... $1.08B / $2.70\u201d and \u201c+29.1%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Asia Pacific revenue declined slightly despite the preview\u2019s focus on regional durability after strong Q2 growth. China remained strong, but the broader region did not sustain that prior growth rate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cChina revenue grew over 40% in the quarter and over 50% year-to-date, while overall Asia Pacific revenue declined slightly against a record prior-year comparison.\u201d",
+      "expectation_evidence": "\u201cChina / APAC durability and customer mix. APAC +40% in Q2, China +60% in H1.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarterly revenue of $209 million beat the $206.71 million consensus estimate, although it landed within the preview\u2019s expected sequential revenue range of roughly $206\u2013210 million. The consensus beat was therefore modest rather than a clear break from the preview\u2019s operating scenario.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRecord Q3 2026 revenue of $209 million, up 11% reported and 12.5% organic.\u201d",
+      "expectation_evidence": "\u201cRevenue $206.71M\u201d; the preview also framed Q3 as \u201c$206\u2013210M.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Repligen\u2019s adjusted EPS was $0.53, well above the preview\u2019s $0.4628 consensus estimate. The roughly 15% beat was larger than the preview\u2019s deliberately low EPS bar suggested.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EPS rose 15% to $0.53 from $0.46 a year earlier.\u201d",
+      "expectation_evidence": "\u201cAdj. EPS (diluted) ... $0.4628.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Capital equipment orders grew at a mid-teens rate and reached their highest level in five years, stronger than the preview\u2019s expectation of another book-to-bill-above-1 quarter and continued improvement. However, most system deliveries were pushed into 2027, consistent with the preview\u2019s expectation that the order pickup would convert later.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCapital equipment orders grew mid-teens year-over-year to the highest orders quarter in five years, but revenue declined as most system deliveries were pushed by customers into 2027.\u201d",
+      "expectation_evidence": "\u201cA second consecutive >1.0 quarter plus the third RFP is the single most important disclosure on the call.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "Repligen\u2019s adjusted operating margin was 15.9%, above the preview\u2019s quarterly estimate of 15.0\u201315.3%. That is a better margin result than the preview\u2019s EPS build assumed, even though it remains within the company\u2019s existing full-year margin guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted operating margin expanded 170 basis points year-over-year to 15.9%.\u201d",
+      "expectation_evidence": "\u201cQ3 adj. operating margin ~15.0\u201315.3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Filtration fell 11% in the quarter, and management now expects the franchise to be flat to slightly down for the full year rather than meeting the preview\u2019s mid-single-digit growth expectation. The decline included the polymer divestiture and FX, but was still materially weaker than that forecast.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFiltration revenue fell 11% (including a 2-point polymer divestiture and FX headwind), and full-year filtration is now expected to be flat to slightly down.\u201d",
+      "expectation_evidence": "\u201cfiltration mid-single-digit\u201d for the FY target set at Q2.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "The BioLife contribution included in 2026 guidance is about $24 million, below the preview\u2019s arithmetic estimate of a roughly $29\u201330 million Q4 stub. That makes the expected partial-year revenue contribution smaller than anticipated.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 guidance was raised ... including a ~$24 million partial-quarter BioLife contribution.\u201d",
+      "expectation_evidence": "\u201cBioLife did $28.5M in Q2, +21% y/y, so a ~$29\u201330M stub is the arithmetic.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The quarter included a $41 million non-cash impairment tied to an old IP license agreement, an unanticipated charge in GAAP results. It was excluded from adjusted figures, so it did not account for the adjusted EPS beat.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP results included a $41 million non-cash intangible impairment from an old IP license agreement, excluded from adjusted figures.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "Chromatography grew more than 50% in the quarter, and its full-year growth outlook is now at least 30%, above the preview\u2019s expectation of more than 20%. This is a stronger franchise result and outlook than the preview\u2019s baseline.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cChromatography grew over 50% ... in the quarter, with full-year guidance of at least 30% for chromatography and analytics.\u201d",
+      "expectation_evidence": "\u201cchromatography >20%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Management\u2019s full-year analytics growth outlook of at least 30% is above the preview\u2019s expected threshold of at least 25%.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year guidance of at least 30% for chromatography and analytics.\u201d",
+      "expectation_evidence": "\u201canalytics \u226525%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Management set a 2027 growth floor of at least 25%, which implies revenue above $1 billion but is below the preview\u2019s 29.1% growth consensus and $1.08 billion estimate if growth lands near that floor. The wording is a minimum, not a firm ceiling or point forecast, so the gap is not definitive.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cManagement guided to at least 25% reported top-line growth in 2027, pushing revenue above $1 billion.\u201d",
+      "expectation_evidence": "\u201cFY27 Revenue / EPS ... $1.08B / $2.70\u201d and \u201c+29.1%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Asia Pacific revenue declined slightly despite the preview\u2019s focus on regional durability after strong Q2 growth. China remained strong, but the broader region did not sustain that prior growth rate.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cChina revenue grew over 40% in the quarter and over 50% year-to-date, while overall Asia Pacific revenue declined slightly against a record prior-year comparison.\u201d",
+      "expectation_evidence": "\u201cChina / APAC durability and customer mix. APAC +40% in Q2, China +60% in H1.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 10,
+      "description": "Quarterly revenue of $209 million beat the $206.71 million consensus estimate, although it landed within the preview\u2019s expected sequential revenue range of roughly $206\u2013210 million. The consensus beat was therefore modest rather than a clear break from the preview\u2019s operating scenario.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRecord Q3 2026 revenue of $209 million, up 11% reported and 12.5% organic.\u201d",
+      "expectation_evidence": "\u201cRevenue $206.71M\u201d; the preview also framed Q3 as \u201c$206\u2013210M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

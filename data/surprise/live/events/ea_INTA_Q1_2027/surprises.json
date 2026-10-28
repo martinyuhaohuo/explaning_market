@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Celeste contributed more than 40% of net new bookings, well above the preview\u2019s >25% thesis-validation bar and more than double the prior quarter\u2019s >20%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCeleste represented more than 40% of net new bookings in Q1, up from over 20% in the prior quarter.\u201d",
+      "expectation_evidence": "\u201c>25% = thesis validation; 20\u201322% = stall signal.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q1 total revenue beat both the preview\u2019s consensus and the company\u2019s guidance range, though by a relatively small amount.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal revenue rose 16% to $161.3 million.\u201d",
+      "expectation_evidence": "\u201cQ1 FY27 Guidance\u201d of $159.3\u2013$160.3M and \u201cQ1 FY27 Consensus\u201d of $159.6M.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Subscription revenue exceeded the preview\u2019s expected SaaS range, growing 29% rather than the roughly 27.5% expected. The preview noted that the Q1 guided $123.7\u2013$124.7M line was SaaS, despite some sources labeling it subscription revenue.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSubscription revenue grew 29% year-over-year to $125.5 million.\u201d",
+      "expectation_evidence": "\u201cSaaS revenue\u201d guidance of $123.7\u2013$124.7M and expected growth of \u201c~+27.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Non-GAAP operating income and margin came in above the preview\u2019s guidance-based expectations: income exceeded the $34.4M high end, and the 22% margin was above the roughly 21.2% implied by guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNon-GAAP operating income more than doubled to $35.4 million for a 22% margin.\u201d",
+      "expectation_evidence": "Q1 non-GAAP operating income guidance of \u201c$33.4 \u2013 $34.4M\u201d; the preview said Q1 guidance implied \u201c21.2% non-GAAP OI margin.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cloud ARR growth was a little slower than the preview\u2019s 29% target and its roughly $520M base case: it reached $515.3M and grew 28%. It stayed above the preview\u2019s 27%-handle bear-case concern, so the shortfall was limited.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCloud ARR grew 28% year-over-year to $515.3 million.\u201d",
+      "expectation_evidence": "\u201cQ1 needs \u2265$518M to hold 29%. My base is ~$520M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The FY2027 total-revenue guidance raise was smaller than the preview said the market needed: the new high end is $662.2M, only $1.7M above the previous $660.5M high end and below the preview\u2019s $664M threshold. The guidance was raised, but not by enough to meet that stated bar.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year FY2027 guidance calls for \u2026 total revenue of $658.2-$662.2 million.\u201d",
+      "expectation_evidence": "\u201cThe bar is a raise of \u2265$4\u20136M above the current $660.5M high end\u201d; the catalyst checklist also called for \u201cFY27 revenue guide raised to \u2265$664M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said Celeste demand had outpaced the company\u2019s ability to deploy it, an execution bottleneck not anticipated in the preview. The large trial pipeline\u2014including over 200 enterprise firms not yet converted to full subscriptions\u2014shows the demand but also the near-term conversion constraint.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQualified Celeste pipeline reached an all-time high, growing approximately 2.5x quarter-over-quarter, with over 200 enterprise firms running Celeste but not yet converted to full subscriptions\u201d; management said demand was \u201crunning ahead of its deployment capacity,\u201d requiring additional firm-deployed engineers.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The preview highlighted a recent pattern of 100-plus net additions to the $100,000-plus client cohort, but the cohort rose by only 11 from Q4, from 897 to 908. Its year-over-year growth was still positive, but the sequential additions were well below that recent pace.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClients above $100,000 in ARR reaching 908\u201d from 897 at Q4.",
+      "expectation_evidence": "The preview described \u201c4th straight quarter of 100+ net adds\u201d for clients above $100K ARR.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Celeste contributed more than 40% of net new bookings, well above the preview\u2019s >25% thesis-validation bar and more than double the prior quarter\u2019s >20%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCeleste represented more than 40% of net new bookings in Q1, up from over 20% in the prior quarter.\u201d",
+      "expectation_evidence": "\u201c>25% = thesis validation; 20\u201322% = stall signal.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Q1 total revenue beat both the preview\u2019s consensus and the company\u2019s guidance range, though by a relatively small amount.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTotal revenue rose 16% to $161.3 million.\u201d",
+      "expectation_evidence": "\u201cQ1 FY27 Guidance\u201d of $159.3\u2013$160.3M and \u201cQ1 FY27 Consensus\u201d of $159.6M.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Subscription revenue exceeded the preview\u2019s expected SaaS range, growing 29% rather than the roughly 27.5% expected. The preview noted that the Q1 guided $123.7\u2013$124.7M line was SaaS, despite some sources labeling it subscription revenue.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSubscription revenue grew 29% year-over-year to $125.5 million.\u201d",
+      "expectation_evidence": "\u201cSaaS revenue\u201d guidance of $123.7\u2013$124.7M and expected growth of \u201c~+27.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Non-GAAP operating income and margin came in above the preview\u2019s guidance-based expectations: income exceeded the $34.4M high end, and the 22% margin was above the roughly 21.2% implied by guidance.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNon-GAAP operating income more than doubled to $35.4 million for a 22% margin.\u201d",
+      "expectation_evidence": "Q1 non-GAAP operating income guidance of \u201c$33.4 \u2013 $34.4M\u201d; the preview said Q1 guidance implied \u201c21.2% non-GAAP OI margin.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Cloud ARR growth was a little slower than the preview\u2019s 29% target and its roughly $520M base case: it reached $515.3M and grew 28%. It stayed above the preview\u2019s 27%-handle bear-case concern, so the shortfall was limited.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cCloud ARR grew 28% year-over-year to $515.3 million.\u201d",
+      "expectation_evidence": "\u201cQ1 needs \u2265$518M to hold 29%. My base is ~$520M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "The FY2027 total-revenue guidance raise was smaller than the preview said the market needed: the new high end is $662.2M, only $1.7M above the previous $660.5M high end and below the preview\u2019s $664M threshold. The guidance was raised, but not by enough to meet that stated bar.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year FY2027 guidance calls for \u2026 total revenue of $658.2-$662.2 million.\u201d",
+      "expectation_evidence": "\u201cThe bar is a raise of \u2265$4\u20136M above the current $660.5M high end\u201d; the catalyst checklist also called for \u201cFY27 revenue guide raised to \u2265$664M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Management said Celeste demand had outpaced the company\u2019s ability to deploy it, an execution bottleneck not anticipated in the preview. The large trial pipeline\u2014including over 200 enterprise firms not yet converted to full subscriptions\u2014shows the demand but also the near-term conversion constraint.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQualified Celeste pipeline reached an all-time high, growing approximately 2.5x quarter-over-quarter, with over 200 enterprise firms running Celeste but not yet converted to full subscriptions\u201d; management said demand was \u201crunning ahead of its deployment capacity,\u201d requiring additional firm-deployed engineers.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 7,
+      "description": "The preview highlighted a recent pattern of 100-plus net additions to the $100,000-plus client cohort, but the cohort rose by only 11 from Q4, from 897 to 908. Its year-over-year growth was still positive, but the sequential additions were well below that recent pace.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cClients above $100,000 in ARR reaching 908\u201d from 897 at Q4.",
+      "expectation_evidence": "The preview described \u201c4th straight quarter of 100+ net adds\u201d for clients above $100K ARR.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

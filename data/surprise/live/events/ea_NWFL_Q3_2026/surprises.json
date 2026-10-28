@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "NWFL reported diluted EPS of $1.08, well above the preview\u2019s $0.945 consensus estimate and above even the preview\u2019s $1.02\u2013$1.08 bull-case range except at its upper end.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet income reached a record $11.8 million, or $1.08 per diluted share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS: $0.945\u201d; the preview\u2019s bull scenario projected \u201c$1.02\u20131.08.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Provision fell to just $100,000, far below the preview\u2019s roughly $1.1 million estimate. The bankrupt borrower\u2019s resolution reduced problem loans, and management said the remaining roughly $7 million exposure is real-estate secured with acceptable loan-to-values and no large loss anticipated, though the workout may take longer.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cProvision for credit losses fell sharply to $100,000 from $1.9 million in Q2, as the borrower bankruptcy resolution improved nonperforming loans\u201d; \u201cApproximately $7 million in remaining exposure\u201d is secured with \u201cacceptable loan-to-values and no large loss anticipated.\u201d",
+      "expectation_evidence": "The preview estimated \u201cProvision for credit losses\u201d at \u201c~$1.1M\u201d and identified \u201cthe $22M nonperforming commercial credit\u201d as the key credit issue.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Pre-provision net revenue was $15.4 million, above the roughly $13.9 million implied by the preview\u2019s estimated $29.7 million revenue and $15.8 million expenses. It also rose 13% sequentially, indicating stronger pre-credit earnings than the preview\u2019s model implied for the first clean post-integration quarter.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPre-provision net revenue rose 53% year-over-year to $15.4 million, up 13% from $13.6 million in the prior quarter.\u201d",
+      "expectation_evidence": "The preview estimated \u201cTotal revenue\u201d at \u201c~$29.7M\u201d and \u201cNoninterest expense\u201d at \u201c~$15.8M\u201d; those estimates imply about $13.9M of PPNR.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net interest income reached $28 million, modestly above the preview\u2019s $27.1 million estimate, although the preview already expected strong acquisition-driven growth.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income grew 37% year-over-year to $28 million, driven by strong performance and the Presence Bank acquisition.\u201d",
+      "expectation_evidence": "The preview\u2019s model estimated \u201cNet interest income\u201d at \u201c$27.1M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Reported NIM was 4.01%, above the preview\u2019s expected roughly 3.85%\u20133.92% range. However, about 11 basis points came from a one-time borrower bankruptcy resolution, leaving the underlying margin roughly in line with the preview\u2019s expectations.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded to 4.01%,\u201d up 11 basis points sequentially, \u201cthough about $400,000 (roughly 11 bps) stemmed from the one-time borrower bankruptcy resolution.\u201d",
+      "expectation_evidence": "The preview said reported NIM would \u201clikely look fine (~3.85\u20133.92%)\u201d and emphasized core NIM excluding one-time items.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview cited Q2 tangible book value of $22.96 per share, but Q3 tangible book value declined slightly to $22.35 as rising rates reduced the value of the available-for-sale portfolio. The preview did not forecast this decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTangible book value declined slightly to $22.35 per share due to lower other comprehensive income as rising rates reduced the market value of the available-for-sale portfolio.\u201d",
+      "expectation_evidence": "The preview cited \u201cTBVPS $22.96.\u201d",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management reported 41% year-over-year growth in the brokerage business after its transition to Cetera Wealth Services, a positive source of business growth the preview did not call out or forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBrokerage business grew 41% year-over-year following the transition to Cetera Wealth Services.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management supplied a go-forward tax-rate range of 21.5%\u201322%, which the preview did not anticipate or provide a comparison for.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201cguiding to a go-forward tax rate of 21.5%-22%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "NWFL reported diluted EPS of $1.08, well above the preview\u2019s $0.945 consensus estimate and above even the preview\u2019s $1.02\u2013$1.08 bull-case range except at its upper end.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet income reached a record $11.8 million, or $1.08 per diluted share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS: $0.945\u201d; the preview\u2019s bull scenario projected \u201c$1.02\u20131.08.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Provision fell to just $100,000, far below the preview\u2019s roughly $1.1 million estimate. The bankrupt borrower\u2019s resolution reduced problem loans, and management said the remaining roughly $7 million exposure is real-estate secured with acceptable loan-to-values and no large loss anticipated, though the workout may take longer.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cProvision for credit losses fell sharply to $100,000 from $1.9 million in Q2, as the borrower bankruptcy resolution improved nonperforming loans\u201d; \u201cApproximately $7 million in remaining exposure\u201d is secured with \u201cacceptable loan-to-values and no large loss anticipated.\u201d",
+      "expectation_evidence": "The preview estimated \u201cProvision for credit losses\u201d at \u201c~$1.1M\u201d and identified \u201cthe $22M nonperforming commercial credit\u201d as the key credit issue.",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 2,
+      "description": "Pre-provision net revenue was $15.4 million, above the roughly $13.9 million implied by the preview\u2019s estimated $29.7 million revenue and $15.8 million expenses. It also rose 13% sequentially, indicating stronger pre-credit earnings than the preview\u2019s model implied for the first clean post-integration quarter.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPre-provision net revenue rose 53% year-over-year to $15.4 million, up 13% from $13.6 million in the prior quarter.\u201d",
+      "expectation_evidence": "The preview estimated \u201cTotal revenue\u201d at \u201c~$29.7M\u201d and \u201cNoninterest expense\u201d at \u201c~$15.8M\u201d; those estimates imply about $13.9M of PPNR.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Net interest income reached $28 million, modestly above the preview\u2019s $27.1 million estimate, although the preview already expected strong acquisition-driven growth.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest income grew 37% year-over-year to $28 million, driven by strong performance and the Presence Bank acquisition.\u201d",
+      "expectation_evidence": "The preview\u2019s model estimated \u201cNet interest income\u201d at \u201c$27.1M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Reported NIM was 4.01%, above the preview\u2019s expected roughly 3.85%\u20133.92% range. However, about 11 basis points came from a one-time borrower bankruptcy resolution, leaving the underlying margin roughly in line with the preview\u2019s expectations.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded to 4.01%,\u201d up 11 basis points sequentially, \u201cthough about $400,000 (roughly 11 bps) stemmed from the one-time borrower bankruptcy resolution.\u201d",
+      "expectation_evidence": "The preview said reported NIM would \u201clikely look fine (~3.85\u20133.92%)\u201d and emphasized core NIM excluding one-time items.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "The preview cited Q2 tangible book value of $22.96 per share, but Q3 tangible book value declined slightly to $22.35 as rising rates reduced the value of the available-for-sale portfolio. The preview did not forecast this decline.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTangible book value declined slightly to $22.35 per share due to lower other comprehensive income as rising rates reduced the market value of the available-for-sale portfolio.\u201d",
+      "expectation_evidence": "The preview cited \u201cTBVPS $22.96.\u201d",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "Management reported 41% year-over-year growth in the brokerage business after its transition to Cetera Wealth Services, a positive source of business growth the preview did not call out or forecast.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBrokerage business grew 41% year-over-year following the transition to Cetera Wealth Services.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Management supplied a go-forward tax-rate range of 21.5%\u201322%, which the preview did not anticipate or provide a comparison for.",
+      "direction": "unclear",
+      "magnitude": "small",
+      "fact_evidence": "Management is \u201cguiding to a go-forward tax rate of 21.5%-22%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Hanmi\u2019s diluted EPS was $0.80, below both the preview\u2019s $0.808 consensus estimate and its $0.82 base case. The gap was small, but the headline result came in slightly below expectations.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net income rose to $23.7 million, or $0.80 per diluted share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS **$0.808**\u201d; the preview\u2019s base case showed \u201cDiluted EPS **$0.82**.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NIM reached 3.44%, above the preview\u2019s 3.40% base case and its 3.40% \u201cgood\u201d threshold. However, roughly half of the 8-basis-point sequential expansion came from non-recurring items, limiting the recurring improvement.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded 8 basis points to 3.44%, though roughly 4 basis points (about $700,000) came from non-recurring items like loan prepayment fees and a special FHLB dividend.\u201d",
+      "expectation_evidence": "\u201cNIM 3.40%\u201d in the base case; the checklist says \u201c\u22653.40% validates the refi math and the asset-sensitivity case.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The reported annual interest-expense saving from the subordinated-debt refinancing was far below the preview\u2019s estimate: $550,000 annually rather than about $4.1 million. That is a substantial shortfall against a benefit the preview expected management to confirm and quantify.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cHanmi refinanced subordinated debt (issuing $55 million of 2036 notes to redeem $110 million of 2031 notes), cutting annual interest expense by $550,000.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~$4.1M annualized\u201d savings from replacing the $110 million notes and said to confirm the redemption and \u201cget the Q4 run-rate benefit (~$1.0M/qtr pretax).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Credit expense rose to $4.5 million, well above the preview\u2019s $1.8 million base case, as a previously identified CRE loan generated a $3.2 million partial charge-off. The preview discussed this size of provision only in its bear scenario; the expected clean-credit/base case did not anticipate this charge-off.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCredit loss expense jumped to $4.5 million from $1.2 million, driven by a $3.2 million partial charge-off on a previously identified CRE loan now being sold in Q4, pushing annualized net charge-offs to 27 basis points.\u201d",
+      "expectation_evidence": "The base case projected \u201cprovision $1.8M\u201d and described credit as \u201cisolated,\u201d with \u201cno new classifieds\u201d; the bear case projected \u201cprovision $4.5M+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Loan production surged, but unusually high payoffs prevented balance growth, and management\u2019s 2026 outlook stepped down from the preview\u2019s low-to-mid-single-digit expectation to low-single-digit growth. The reported increase in payoffs\u2014including borrowers refinancing elsewhere for looser terms\u2014makes the growth outlook weaker than the preview\u2019s hoped-for H2 acceleration.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cLoan production surged 46.2% sequentially to $544 million \u2026 but payoffs of $283 million kept net loan balances roughly flat\u201d; year-to-date payoffs \u201cincreased 65% versus last year,\u201d with \u201cover one-third driven by borrowers refinancing to other lenders offering looser terms.\u201d Management guided to \u201clow-single-digit loan growth for full-year 2026.\u201d",
+      "expectation_evidence": "The preview said the FY guide was \u201clow-to-mid single digits\u201d and that it \u201crequires H2 acceleration\u201d; its base case expected management to \u201creaffirm low-to-mid single-digit loan growth.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Corporate Korea deposits exceeded the preview\u2019s already-record $1.2 billion level, rising to over $1.3 billion and 19% of total deposits. But USKC loans fell 5%, so the deposit growth was not accompanied by the utilization or lending inflection the preview identified as a possible upside development.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCorporate Korea (USKC) deposits grew 12% to over $1.3 billion, reaching a record 19% of total deposits, while USKC loans fell 5% to $780 million.\u201d",
+      "expectation_evidence": "The preview cited \u201c$1.2B of deposits (17% of total)\u201d and said \u201cany sign of line utilization inflecting is a 2027 earnings unlock.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Unrealized losses on available-for-sale securities increased by $16.5 million after tax, an adverse balance-sheet development not anticipated in the preview\u2019s discussion of the rate environment or earnings risks.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUnrealized AFS securities losses rose $16.5 million after-tax.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Hanmi\u2019s diluted EPS was $0.80, below both the preview\u2019s $0.808 consensus estimate and its $0.82 base case. The gap was small, but the headline result came in slightly below expectations.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 net income rose to $23.7 million, or $0.80 per diluted share.\u201d",
+      "expectation_evidence": "\u201cDiluted EPS **$0.808**\u201d; the preview\u2019s base case showed \u201cDiluted EPS **$0.82**.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "NIM reached 3.44%, above the preview\u2019s 3.40% base case and its 3.40% \u201cgood\u201d threshold. However, roughly half of the 8-basis-point sequential expansion came from non-recurring items, limiting the recurring improvement.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin expanded 8 basis points to 3.44%, though roughly 4 basis points (about $700,000) came from non-recurring items like loan prepayment fees and a special FHLB dividend.\u201d",
+      "expectation_evidence": "\u201cNIM 3.40%\u201d in the base case; the checklist says \u201c\u22653.40% validates the refi math and the asset-sensitivity case.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "The reported annual interest-expense saving from the subordinated-debt refinancing was far below the preview\u2019s estimate: $550,000 annually rather than about $4.1 million. That is a substantial shortfall against a benefit the preview expected management to confirm and quantify.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cHanmi refinanced subordinated debt (issuing $55 million of 2036 notes to redeem $110 million of 2031 notes), cutting annual interest expense by $550,000.\u201d",
+      "expectation_evidence": "The preview estimated \u201c~$4.1M annualized\u201d savings from replacing the $110 million notes and said to confirm the redemption and \u201cget the Q4 run-rate benefit (~$1.0M/qtr pretax).\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 3,
+      "description": "Credit expense rose to $4.5 million, well above the preview\u2019s $1.8 million base case, as a previously identified CRE loan generated a $3.2 million partial charge-off. The preview discussed this size of provision only in its bear scenario; the expected clean-credit/base case did not anticipate this charge-off.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cCredit loss expense jumped to $4.5 million from $1.2 million, driven by a $3.2 million partial charge-off on a previously identified CRE loan now being sold in Q4, pushing annualized net charge-offs to 27 basis points.\u201d",
+      "expectation_evidence": "The base case projected \u201cprovision $1.8M\u201d and described credit as \u201cisolated,\u201d with \u201cno new classifieds\u201d; the bear case projected \u201cprovision $4.5M+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 4,
+      "description": "Loan production surged, but unusually high payoffs prevented balance growth, and management\u2019s 2026 outlook stepped down from the preview\u2019s low-to-mid-single-digit expectation to low-single-digit growth. The reported increase in payoffs\u2014including borrowers refinancing elsewhere for looser terms\u2014makes the growth outlook weaker than the preview\u2019s hoped-for H2 acceleration.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cLoan production surged 46.2% sequentially to $544 million \u2026 but payoffs of $283 million kept net loan balances roughly flat\u201d; year-to-date payoffs \u201cincreased 65% versus last year,\u201d with \u201cover one-third driven by borrowers refinancing to other lenders offering looser terms.\u201d Management guided to \u201clow-single-digit loan growth for full-year 2026.\u201d",
+      "expectation_evidence": "The preview said the FY guide was \u201clow-to-mid single digits\u201d and that it \u201crequires H2 acceleration\u201d; its base case expected management to \u201creaffirm low-to-mid single-digit loan growth.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Corporate Korea deposits exceeded the preview\u2019s already-record $1.2 billion level, rising to over $1.3 billion and 19% of total deposits. But USKC loans fell 5%, so the deposit growth was not accompanied by the utilization or lending inflection the preview identified as a possible upside development.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCorporate Korea (USKC) deposits grew 12% to over $1.3 billion, reaching a record 19% of total deposits, while USKC loans fell 5% to $780 million.\u201d",
+      "expectation_evidence": "The preview cited \u201c$1.2B of deposits (17% of total)\u201d and said \u201cany sign of line utilization inflecting is a 2027 earnings unlock.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Unrealized losses on available-for-sale securities increased by $16.5 million after tax, an adverse balance-sheet development not anticipated in the preview\u2019s discussion of the rate environment or earnings risks.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cUnrealized AFS securities losses rose $16.5 million after-tax.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    }
+  ]
+}

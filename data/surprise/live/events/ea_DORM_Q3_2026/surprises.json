@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Dorman narrowed its FY2026 sales-growth outlook to 2%\u20133%, below the preview\u2019s expected narrowing to roughly 3%\u20134%. It also lowered the top of its adjusted EPS range from $8.80 to $8.70 rather than holding the prior range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 guidance was narrowed to net sales growth of 2% to 3% and adjusted diluted EPS of $8.50 to $8.70 (tightened from $8.50-$8.80), reflecting soft DIY demand and tariff-related price reductions.\u201d",
+      "expectation_evidence": "\u201cBest outcome: trim revenue to 3\u20134%, raise or hold adj. EPS $8.50\u2013$8.80\u201d; the preview\u2019s base case also expected the EPS band to be maintained.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Heavy-duty sales grew, but the segment operated at breakeven margin despite the preview\u2019s focus on a margin inflection and its reference to 4.2% operating margin in Q2. Higher tariff and shipping costs, with heavier tariff effects still expected later in 2026, left the segment weaker than that inflection setup suggested.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cHeavy-duty net sales rose about 5% to $66 million but operated at breakeven margin due to higher tariff and shipping costs, with the heavier tariff impact expected later in 2026.\u201d",
+      "expectation_evidence": "\u201cHeavy Duty operating margin inflection\u201d; the preview cited 4.2% in Q2'26 and said management expected second-half growth above the company average.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Light-duty sales grew about 3%, below the preview\u2019s mid-single-digit Q3 growth threshold for the volume-led thesis. DIFM was stable, but continued DIY pressure limited the segment\u2019s growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLight-duty net sales grew about 3% to $444 million\u201d; \u201cDIFM stable while DIY remained pressured.\u201d",
+      "expectation_evidence": "\u201cMid-single-digit Light Duty growth in Q3 with positive volume = thesis intact.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EPS of $2.08 exceeded the preview\u2019s $2.00 consensus estimate and its $1.97 alternative, despite falling year over year. The expected decline was about 24%\u201325%, versus the reported 21% decline.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted diluted EPS fell 21% to $2.08 from $2.62 a year earlier.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS $2.00\u201d and \u201cAdj. diluted EPS (alt.) $1.97\u201d; the preview listed implied year-over-year declines of 23.7% and 24.8%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Sales were slightly below both preview consensus estimates: $562 million versus $565.3 million and the alternative $563.1 million. The reported roughly 3% growth was also below the consensus-implied 3.6%\u20134.0% growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 consolidated net sales reached a record $562 million, up approximately 3% year-over-year.\u201d",
+      "expectation_evidence": "\u201cNet sales $565.3M\u201d and \u201cNet sales (alt.) $563.1M\u201d; the preview listed implied year-over-year growth of 4.0% and 3.6%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin came in at 39.4%, modestly above the preview\u2019s implied range of roughly 38.5%\u201339.0%. It cleared the preview\u2019s 39% catalyst, although the result remained below the roughly 40% Q4 level management was expected to reach.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted gross margin declined 500 basis points year-over-year to 39.4%,\u201d with management guiding to \u201croughly 40% gross margin in Q4 as a structural base entering 2027.\u201d",
+      "expectation_evidence": "The preview estimated \u201cGross margin: ~38.5\u201339.0%\u201d and identified \u201cGross margin \u2265 39%\u201d as its primary catalyst.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Dorman narrowed its FY2026 sales-growth outlook to 2%\u20133%, below the preview\u2019s expected narrowing to roughly 3%\u20134%. It also lowered the top of its adjusted EPS range from $8.80 to $8.70 rather than holding the prior range.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year 2026 guidance was narrowed to net sales growth of 2% to 3% and adjusted diluted EPS of $8.50 to $8.70 (tightened from $8.50-$8.80), reflecting soft DIY demand and tariff-related price reductions.\u201d",
+      "expectation_evidence": "\u201cBest outcome: trim revenue to 3\u20134%, raise or hold adj. EPS $8.50\u2013$8.80\u201d; the preview\u2019s base case also expected the EPS band to be maintained.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Heavy-duty sales grew, but the segment operated at breakeven margin despite the preview\u2019s focus on a margin inflection and its reference to 4.2% operating margin in Q2. Higher tariff and shipping costs, with heavier tariff effects still expected later in 2026, left the segment weaker than that inflection setup suggested.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cHeavy-duty net sales rose about 5% to $66 million but operated at breakeven margin due to higher tariff and shipping costs, with the heavier tariff impact expected later in 2026.\u201d",
+      "expectation_evidence": "\u201cHeavy Duty operating margin inflection\u201d; the preview cited 4.2% in Q2'26 and said management expected second-half growth above the company average.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Light-duty sales grew about 3%, below the preview\u2019s mid-single-digit Q3 growth threshold for the volume-led thesis. DIFM was stable, but continued DIY pressure limited the segment\u2019s growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cLight-duty net sales grew about 3% to $444 million\u201d; \u201cDIFM stable while DIY remained pressured.\u201d",
+      "expectation_evidence": "\u201cMid-single-digit Light Duty growth in Q3 with positive volume = thesis intact.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 3,
+      "description": "Adjusted EPS of $2.08 exceeded the preview\u2019s $2.00 consensus estimate and its $1.97 alternative, despite falling year over year. The expected decline was about 24%\u201325%, versus the reported 21% decline.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted diluted EPS fell 21% to $2.08 from $2.62 a year earlier.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS $2.00\u201d and \u201cAdj. diluted EPS (alt.) $1.97\u201d; the preview listed implied year-over-year declines of 23.7% and 24.8%.",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 4,
+      "description": "Sales were slightly below both preview consensus estimates: $562 million versus $565.3 million and the alternative $563.1 million. The reported roughly 3% growth was also below the consensus-implied 3.6%\u20134.0% growth.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 consolidated net sales reached a record $562 million, up approximately 3% year-over-year.\u201d",
+      "expectation_evidence": "\u201cNet sales $565.3M\u201d and \u201cNet sales (alt.) $563.1M\u201d; the preview listed implied year-over-year growth of 4.0% and 3.6%.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Gross margin came in at 39.4%, modestly above the preview\u2019s implied range of roughly 38.5%\u201339.0%. It cleared the preview\u2019s 39% catalyst, although the result remained below the roughly 40% Q4 level management was expected to reach.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted gross margin declined 500 basis points year-over-year to 39.4%,\u201d with management guiding to \u201croughly 40% gross margin in Q4 as a structural base entering 2027.\u201d",
+      "expectation_evidence": "The preview estimated \u201cGross margin: ~38.5\u201339.0%\u201d and identified \u201cGross margin \u2265 39%\u201d as its primary catalyst.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

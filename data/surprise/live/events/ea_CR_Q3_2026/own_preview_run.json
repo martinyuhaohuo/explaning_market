@@ -1,0 +1,112 @@
+{
+  "event_id": "ea_CR_Q3_2026",
+  "ticker": "CR",
+  "company": "Crane Company",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:15:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Crane Company (CR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:15 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Crane Company (CR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:15 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:10:11.943931+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Crane Company CR Q3 2026 earnings preview consensus EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Crane Company third quarter 2026 earnings date October 27 2026 conference call"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Crane Company second quarter 2026 results guidance outlook"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.barchart.com/story/news/3543248/cr-q2-deep-dive-acquisitions-and-aerospace-momentum-drive-results-amid-market-caution"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "8c35ee5f-280e-4634-85cc-dd67d8bfc761",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 6,
+  "duration_ms": 26037,
+  "total_cost_usd": 0.039083425,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 7693,
+    "cache_read_input_tokens": 83890,
+    "output_tokens": 3877,
+    "output_tokens_details": {
+      "thinking_tokens": 813
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7693
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2870,
+        "cache_read_input_tokens": 25046,
+        "cache_creation_input_tokens": 684,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 684,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:10:39.175286+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

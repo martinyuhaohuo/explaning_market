@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Q2 added $51 million of net new subscription ARR, above the preview\u2019s expected $42\u201346 million and its $43\u201347 million base case. That also put subscription ARR at $1.104 billion, above the preview\u2019s estimated $1.096\u20131.100 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$51 million of net new subscription ARR added on a constant currency basis in Q2\u201d; subscription ARR grew to \u201c$1.104 billion.\u201d",
+      "expectation_evidence": "\u201cThat sets the Q2 bar at ~$42\u201346M (subscription ARR ~$1,096\u20131,100M)\u201d; base case: \u201c$43\u201347M (ARR ~$1,097\u20131,101M).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised its FY27 subscription ARR outlook to $1.205\u20131.215 billion, above the preview\u2019s expected $1.20\u20131.21 billion range. The increase was modest, but it was the upward revision the preview identified as the bull case.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year FY27 guidance, lifting subscription ARR to $1.205-$1.215 billion.\u201d",
+      "expectation_evidence": "\u201cFY27 subscription ARR guide ($1.20\u20131.21B). Reiterate = relief\u2026 Raise = the bull case.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q2 non-GAAP EBIT margin was 21.9%, well above the preview\u2019s roughly 20% guide-level expectation, and the company raised its full-year margin outlook to 21.0\u201321.5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNon-GAAP EBIT margin expanded 330 basis points year-over-year to 21.9%, with full-year EBIT margin guidance raised to 21.0%-21.5%.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EBIT margin: ~20%\u201d; the preview also said \u201cconsensus = guidance, zero beat embedded.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Term software net new ARR rose to $21 million as new customer wins and conversions returned to normalized levels, rather than staying flat as the preview\u2019s base case anticipated. This also addressed the preview\u2019s concern about unusually light conversions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTerm software net new ARR improved to $21 million on a constant currency basis, driven by new customer wins and conversions returning to normalized levels.\u201d",
+      "expectation_evidence": "\u201cBase: SaaS carries the quarter while term stays flat\u201d; the preview also cited \u201clighter-than-normal perpetual-to-subscription conversions.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Subscription net dollar retention came in at 113%, slightly below the preview\u2019s roughly 114% baseline. Management attributed the decline to a greater mix of new customers rather than installed-base expansion.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSubscription net dollar retention was 113%, slightly below the ~114% baseline due to a mix shift toward new customers rather than installed-base expansion.\u201d",
+      "expectation_evidence": "\u201cNDR (114% in Q1) and the Azure / Microsoft 365 ramp.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Identity resilience and data security contributed approximately 30% of net new subscription ARR, below the preview\u2019s more-than-one-third condition for its bull case, although identity ARR nearly doubled year over year.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cIdentity resilience and data security offerings represented approximately 30% of net new subscription ARR, with identity ARR nearly doubling year-over-year.\u201d",
+      "expectation_evidence": "\u201cBull: \u2026 identity/security holds >\u2153 of net new ARR.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company also raised its FY27 free cash flow guidance to $255\u2013265 million, an upward revision not anticipated or quantified in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year FY27 guidance\u2026 and free cash flow to $255-$265 million.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q2 added $51 million of net new subscription ARR, above the preview\u2019s expected $42\u201346 million and its $43\u201347 million base case. That also put subscription ARR at $1.104 billion, above the preview\u2019s estimated $1.096\u20131.100 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c$51 million of net new subscription ARR added on a constant currency basis in Q2\u201d; subscription ARR grew to \u201c$1.104 billion.\u201d",
+      "expectation_evidence": "\u201cThat sets the Q2 bar at ~$42\u201346M (subscription ARR ~$1,096\u20131,100M)\u201d; base case: \u201c$43\u201347M (ARR ~$1,097\u20131,101M).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "The company raised its FY27 subscription ARR outlook to $1.205\u20131.215 billion, above the preview\u2019s expected $1.20\u20131.21 billion range. The increase was modest, but it was the upward revision the preview identified as the bull case.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year FY27 guidance, lifting subscription ARR to $1.205-$1.215 billion.\u201d",
+      "expectation_evidence": "\u201cFY27 subscription ARR guide ($1.20\u20131.21B). Reiterate = relief\u2026 Raise = the bull case.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Q2 non-GAAP EBIT margin was 21.9%, well above the preview\u2019s roughly 20% guide-level expectation, and the company raised its full-year margin outlook to 21.0\u201321.5%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNon-GAAP EBIT margin expanded 330 basis points year-over-year to 21.9%, with full-year EBIT margin guidance raised to 21.0%-21.5%.\u201d",
+      "expectation_evidence": "\u201cNon-GAAP EBIT margin: ~20%\u201d; the preview also said \u201cconsensus = guidance, zero beat embedded.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Term software net new ARR rose to $21 million as new customer wins and conversions returned to normalized levels, rather than staying flat as the preview\u2019s base case anticipated. This also addressed the preview\u2019s concern about unusually light conversions.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTerm software net new ARR improved to $21 million on a constant currency basis, driven by new customer wins and conversions returning to normalized levels.\u201d",
+      "expectation_evidence": "\u201cBase: SaaS carries the quarter while term stays flat\u201d; the preview also cited \u201clighter-than-normal perpetual-to-subscription conversions.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Subscription net dollar retention came in at 113%, slightly below the preview\u2019s roughly 114% baseline. Management attributed the decline to a greater mix of new customers rather than installed-base expansion.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSubscription net dollar retention was 113%, slightly below the ~114% baseline due to a mix shift toward new customers rather than installed-base expansion.\u201d",
+      "expectation_evidence": "\u201cNDR (114% in Q1) and the Azure / Microsoft 365 ramp.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "Identity resilience and data security contributed approximately 30% of net new subscription ARR, below the preview\u2019s more-than-one-third condition for its bull case, although identity ARR nearly doubled year over year.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cIdentity resilience and data security offerings represented approximately 30% of net new subscription ARR, with identity ARR nearly doubling year-over-year.\u201d",
+      "expectation_evidence": "\u201cBull: \u2026 identity/security holds >\u2153 of net new ARR.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 6,
+      "description": "The company also raised its FY27 free cash flow guidance to $255\u2013265 million, an upward revision not anticipated or quantified in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year FY27 guidance\u2026 and free cash flow to $255-$265 million.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

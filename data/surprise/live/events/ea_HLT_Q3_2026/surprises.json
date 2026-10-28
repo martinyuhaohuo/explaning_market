@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Hilton\u2019s Q3 system-wide RevPAR growth was 5.8%, above the preview\u2019s published consensus of 4.2% and its estimated 5.5% whisper. Rate and occupancy both exceeded expectations, with particularly strong business-transient and group RevPAR.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 system-wide RevPAR rose 5.8% year-over-year, with both rate and occupancy exceeding expectations,\u201d driven by business transient RevPAR up 8.3% and group RevPAR up 8.2%.",
+      "expectation_evidence": "\u201cSystem-wide RevPAR\u201d consensus was \u201c+4.2%\u201d; the preview estimated the whisper \u201cnear\u201d +5.5%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 adjusted EBITDA edged above the top of Hilton\u2019s guidance and the preview\u2019s approximate consensus, though it fell short of the preview\u2019s base-case range of $1.060\u2013$1.070 billion.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted EBITDA reached $1.058 billion in Q3 \u2026 above the high end of guidance.\u201d",
+      "expectation_evidence": "The preview listed Q3 adjusted EBITDA guidance of $1.035\u2013$1.055 billion and consensus of \u201c~$1,050M\u201d; its base case projected \u201c$1.060\u20131.070B.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Hilton raised full-year RevPAR guidance to 4%\u20134.5%, above the 3%\u20133.5% full-year range referenced in the preview. This is a firmer full-year outlook than that earlier range implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 RevPAR growth guidance to 4%-4.5%.\u201d",
+      "expectation_evidence": "The preview referred to the \u201c3.0\u20133.5% FY range\u201d when discussing the expected softer Q4 outlook.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year adjusted EPS guidance of $9.07\u2013$9.13 is above the preview\u2019s modeled expectation of a narrowed range ending at $9.01, and above its base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Hilton expects full-year adjusted diluted EPS of \u201c$9.07-$9.13.\u201d",
+      "expectation_evidence": "The preview modeled the existing FY guide as \u201c$8.89\u20139.01\u201d and expected the base case to narrow to \u201c$8.98\u20139.01\u201d; its bull case called for \u201c$9.05+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 RevPAR is expected to grow 3%\u20133.5%, while the preview warned that management might frame Q4 as below the 3%\u20133.5% full-year range. Management attributed the sequential slowdown mainly to calendar and holiday shifts and elections, rather than weaker underlying demand.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management guided Q4 RevPAR growth to \u201c3%-3.5%,\u201d attributing the deceleration mainly to \u201ccalendar/holiday shifts that benefited Q3 and elections, not weakening underlying demand.\u201d",
+      "expectation_evidence": "The preview said management had indicated Q4 would run \u201cbelow the 3.0\u20133.5% FY range\u201d and flagged an unchanged \u201cbelow the range\u201d framing as a risk.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "China RevPAR fell 5.4%, worse than the preview\u2019s expectation of a low-single-digit decline, with weak consumer activity and government-restrained business travel cited as factors.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cChina RevPAR dropped 5.4% on weak consumer and government-restrained business travel.\u201d",
+      "expectation_evidence": "The preview expected China RevPAR to be \u201cdown low-single digits.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Hilton reported unusually strong development activity and more forward growth visibility than the preview\u2019s already-record pipeline and 6%\u20137% 2027 net-unit-growth target alone implied: Q3 was a record quarter for organic openings, and most of next year\u2019s target is already secured.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Hilton added \u201cover 180 hotels and more than 27,000 rooms,\u201d its \u201clargest-ever quarter of organic openings\u201d; the pipeline reached a record 543,000 rooms. \u201cOver 80%\u201d of the 2027 net-unit-growth target is already on the books, conversions were 37% of Q3 openings, and new construction starts were up over 40% year-over-year globally.",
+      "expectation_evidence": "The preview cited a Q2 record pipeline of \u201c541,300 rooms\u201d and a FY net-unit-growth guide of 6.0%\u20137.0%, and called for tracking NUG and pipeline; it did not anticipate a record quarter of openings or that over 80% of 2027 growth was already secured.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management gave preliminary 2027 global RevPAR guidance of 3%\u20134%, above the roughly 2.1% forecasts cited in the preview and more constructive than its base-case possibility of deferring a 2027 view until February.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Chris Nassetta provided preliminary 2027 guidance pointing to global RevPAR growth in the \u201c3%-4% range,\u201d led by business transient, group, and leisure.",
+      "expectation_evidence": "The preview cited CoStar and CBRE forecasts of \u201c+2.1%\u201d for 2027 and said the base case could be that 2027 guidance was \u201cdeferred to February.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management disclosed $60\u2013$70 million of current one-time, non-structural headwinds, including Mexico, which the preview had not identified among the quantified drags. The characterization that these effects should normalize and support growth in coming years partly offsets the near-term concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRoughly $60-$70 million of one-time, non-structural headwinds from the Middle East, Mexico, and the ownership portfolio renovations are currently depressing results but are expected to normalize and support algorithm growth in coming years.\u201d",
+      "expectation_evidence": "The preview discussed Middle East & Africa, China, and ownership renovations as known drags, including an estimated \u201c>$20M EBITDA impact\u201d for MEA, but did not identify Mexico or this combined $60\u2013$70 million amount.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Hilton\u2019s Q3 system-wide RevPAR growth was 5.8%, above the preview\u2019s published consensus of 4.2% and its estimated 5.5% whisper. Rate and occupancy both exceeded expectations, with particularly strong business-transient and group RevPAR.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 system-wide RevPAR rose 5.8% year-over-year, with both rate and occupancy exceeding expectations,\u201d driven by business transient RevPAR up 8.3% and group RevPAR up 8.2%.",
+      "expectation_evidence": "\u201cSystem-wide RevPAR\u201d consensus was \u201c+4.2%\u201d; the preview estimated the whisper \u201cnear\u201d +5.5%.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Q3 adjusted EBITDA edged above the top of Hilton\u2019s guidance and the preview\u2019s approximate consensus, though it fell short of the preview\u2019s base-case range of $1.060\u2013$1.070 billion.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted EBITDA reached $1.058 billion in Q3 \u2026 above the high end of guidance.\u201d",
+      "expectation_evidence": "The preview listed Q3 adjusted EBITDA guidance of $1.035\u2013$1.055 billion and consensus of \u201c~$1,050M\u201d; its base case projected \u201c$1.060\u20131.070B.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Hilton raised full-year RevPAR guidance to 4%\u20134.5%, above the 3%\u20133.5% full-year range referenced in the preview. This is a firmer full-year outlook than that earlier range implied.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year 2026 RevPAR growth guidance to 4%-4.5%.\u201d",
+      "expectation_evidence": "The preview referred to the \u201c3.0\u20133.5% FY range\u201d when discussing the expected softer Q4 outlook.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Full-year adjusted EPS guidance of $9.07\u2013$9.13 is above the preview\u2019s modeled expectation of a narrowed range ending at $9.01, and above its base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Hilton expects full-year adjusted diluted EPS of \u201c$9.07-$9.13.\u201d",
+      "expectation_evidence": "The preview modeled the existing FY guide as \u201c$8.89\u20139.01\u201d and expected the base case to narrow to \u201c$8.98\u20139.01\u201d; its bull case called for \u201c$9.05+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Q4 RevPAR is expected to grow 3%\u20133.5%, while the preview warned that management might frame Q4 as below the 3%\u20133.5% full-year range. Management attributed the sequential slowdown mainly to calendar and holiday shifts and elections, rather than weaker underlying demand.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management guided Q4 RevPAR growth to \u201c3%-3.5%,\u201d attributing the deceleration mainly to \u201ccalendar/holiday shifts that benefited Q3 and elections, not weakening underlying demand.\u201d",
+      "expectation_evidence": "The preview said management had indicated Q4 would run \u201cbelow the 3.0\u20133.5% FY range\u201d and flagged an unchanged \u201cbelow the range\u201d framing as a risk.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "China RevPAR fell 5.4%, worse than the preview\u2019s expectation of a low-single-digit decline, with weak consumer activity and government-restrained business travel cited as factors.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cChina RevPAR dropped 5.4% on weak consumer and government-restrained business travel.\u201d",
+      "expectation_evidence": "The preview expected China RevPAR to be \u201cdown low-single digits.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Hilton reported unusually strong development activity and more forward growth visibility than the preview\u2019s already-record pipeline and 6%\u20137% 2027 net-unit-growth target alone implied: Q3 was a record quarter for organic openings, and most of next year\u2019s target is already secured.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Hilton added \u201cover 180 hotels and more than 27,000 rooms,\u201d its \u201clargest-ever quarter of organic openings\u201d; the pipeline reached a record 543,000 rooms. \u201cOver 80%\u201d of the 2027 net-unit-growth target is already on the books, conversions were 37% of Q3 openings, and new construction starts were up over 40% year-over-year globally.",
+      "expectation_evidence": "The preview cited a Q2 record pipeline of \u201c541,300 rooms\u201d and a FY net-unit-growth guide of 6.0%\u20137.0%, and called for tracking NUG and pipeline; it did not anticipate a record quarter of openings or that over 80% of 2027 growth was already secured.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Management gave preliminary 2027 global RevPAR guidance of 3%\u20134%, above the roughly 2.1% forecasts cited in the preview and more constructive than its base-case possibility of deferring a 2027 view until February.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Chris Nassetta provided preliminary 2027 guidance pointing to global RevPAR growth in the \u201c3%-4% range,\u201d led by business transient, group, and leisure.",
+      "expectation_evidence": "The preview cited CoStar and CBRE forecasts of \u201c+2.1%\u201d for 2027 and said the base case could be that 2027 guidance was \u201cdeferred to February.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 8,
+      "description": "Management disclosed $60\u2013$70 million of current one-time, non-structural headwinds, including Mexico, which the preview had not identified among the quantified drags. The characterization that these effects should normalize and support growth in coming years partly offsets the near-term concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRoughly $60-$70 million of one-time, non-structural headwinds from the Middle East, Mexico, and the ownership portfolio renovations are currently depressing results but are expected to normalize and support algorithm growth in coming years.\u201d",
+      "expectation_evidence": "The preview discussed Middle East & Africa, China, and ownership renovations as known drags, including an estimated \u201c>$20M EBITDA impact\u201d for MEA, but did not identify Mexico or this combined $60\u2013$70 million amount.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Public Storage\u2019s Q3 core FFO was $4.34 per share, $0.07 above the preview\u2019s $4.27 consensus. That also exceeded the preview\u2019s base-case range of $4.26\u2013$4.31 only slightly, while landing within its bull-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core FFO was $4.34 per share.\u201d",
+      "expectation_evidence": "\u201cCore FFO / share | Consensus | $4.27\u201d; the preview\u2019s bull scenario was \u201c$4.33\u20134.38.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised full-year core FFO guidance by $0.10 and set a $17.00 midpoint, modestly above the preview\u2019s base-case midpoint expectation of about $16.93. The new range also extends above the preview\u2019s bull-case high end of $17.05.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year 2026 core FFO guidance for the second time this year, increasing it by $0.10 (0.6%) to a range of $16.90-$17.10 with a midpoint of $17.00.\u201d",
+      "expectation_evidence": "The base case expected guidance \u201cnarrowed to $16.85\u2013$17.00 (mid ~$16.93)\u201d; the bull case expected \u201c$16.95\u2013$17.05.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Move-in rents accelerated far more than the preview\u2019s expectation of continued strength: they rose 9.3% year over year, versus a Q2 baseline of 1.6% and June\u2019s 4% pace. Management expects that sharp increase to moderate in Q4.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAverage move-in rents rose 9% year-over-year (9.3%) in Q3\u2014the strongest level since Q2 2022 and up 28% from Q4 2025\u2014though management expects this to moderate in Q4.\u201d",
+      "expectation_evidence": "The preview cited Q2 move-in rent growth of \u201c+1.6%,\u201d June at \u201c+4%,\u201d and said management guided to \u201ccontinued strength.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Same-store revenue returned to positive growth at 0.5%, beating the preview\u2019s expectation of roughly flat to modestly negative Q3 growth. The 110-basis-point sequential acceleration made the recovery more pronounced than anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame-store revenue and NOI each grew just 0.5% in Q3, but same-store revenue accelerated 110 basis points sequentially from Q2 into positive territory.\u201d",
+      "expectation_evidence": "The preview said Q3 revenue should be \u201cat or better than roughly \u22120.4%\u201d and gave a base-case range of \u201c\u22120.4% to 0.0%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year same-store guidance improved to +0.25% revenue growth and -0.3% NOI growth. Those outcomes are at or near the favorable ends of the ranges shown in the preview, with the company citing meaningful help from Los Angeles.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year same-store revenue and NOI guidance was raised to +0.25% and -0.3% respectively, improvements of 45 and 85 basis points, with roughly half the revenue lift coming from the Los Angeles recovery.\u201d",
+      "expectation_evidence": "The preview listed existing FY2026 guidance of \u201cSame-store revenue growth\u201d from \u201c(0.7)%\u201d to \u201c0.3%\u201d and \u201cSame-store NOI growth\u201d from \u201c(2.0)%\u201d to \u201c(0.3)%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Los Angeles portfolio returned to positive revenue growth, and management quantified a remaining $35\u201340 million of recapture upside across 2027 and 2028. The preview expected phased recapture to begin in Q3 and said quantification would be useful, but did not anticipate a return to positive growth already in the quarter.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Los Angeles portfolio returned to positive revenue growth after state-of-emergency pricing restrictions expired, with roughly 100 basis points of revenue recapture remaining, representing $35-40 million of upside expected across 2027 and 2028.\u201d",
+      "expectation_evidence": "The preview described Q3 as \u201cthe first quarter of the \u2018measured and phased\u2019 recapture\u201d and said, \u201cAny quantification of recapture pace is a genuine 2027 estimate input.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NSA showed stronger early operating traction than the preview\u2019s discussion of integration risk and targeted unit reactivation alone suggested: move-in volumes rose more than 30% in August and September, and the company identified over $100 million of ROI opportunities.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe NSA portfolio showed move-in volumes up over 30% in August and September after rebranding,\u201d with \u201croughly 14,000 inherited vacant/unrentable units being returned to the rental pool and over $100 million of ROI opportunities identified.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cthe ~14,000 units targeted for reactivation\u201d and \u201cNSA performance on the PS Next platform,\u201d and noted that execution risk was \u201clargely behind them.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net debt-to-EBITDA was 3.4x, above the 2.9x figure cited in the preview. Management attributed 0.4 turns of temporary elevation to transaction timing and said the acquisitions should be slightly deleveraging over time, but leverage was still higher than the stated reference level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe balance sheet remains among the strongest in the REIT sector with net debt-to-EBITDA of 3.4x, though metrics were temporarily elevated 0.4 turns due to transaction timing.\u201d",
+      "expectation_evidence": "The preview listed \u201cleverage (net debt/EBITDA 2.9x; 4.2x incl. preferred).\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Public Storage\u2019s Q3 core FFO was $4.34 per share, $0.07 above the preview\u2019s $4.27 consensus. That also exceeded the preview\u2019s base-case range of $4.26\u2013$4.31 only slightly, while landing within its bull-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 2026 core FFO was $4.34 per share.\u201d",
+      "expectation_evidence": "\u201cCore FFO / share | Consensus | $4.27\u201d; the preview\u2019s bull scenario was \u201c$4.33\u20134.38.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The company raised full-year core FFO guidance by $0.10 and set a $17.00 midpoint, modestly above the preview\u2019s base-case midpoint expectation of about $16.93. The new range also extends above the preview\u2019s bull-case high end of $17.05.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRaised full-year 2026 core FFO guidance for the second time this year, increasing it by $0.10 (0.6%) to a range of $16.90-$17.10 with a midpoint of $17.00.\u201d",
+      "expectation_evidence": "The base case expected guidance \u201cnarrowed to $16.85\u2013$17.00 (mid ~$16.93)\u201d; the bull case expected \u201c$16.95\u2013$17.05.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Move-in rents accelerated far more than the preview\u2019s expectation of continued strength: they rose 9.3% year over year, versus a Q2 baseline of 1.6% and June\u2019s 4% pace. Management expects that sharp increase to moderate in Q4.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAverage move-in rents rose 9% year-over-year (9.3%) in Q3\u2014the strongest level since Q2 2022 and up 28% from Q4 2025\u2014though management expects this to moderate in Q4.\u201d",
+      "expectation_evidence": "The preview cited Q2 move-in rent growth of \u201c+1.6%,\u201d June at \u201c+4%,\u201d and said management guided to \u201ccontinued strength.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Same-store revenue returned to positive growth at 0.5%, beating the preview\u2019s expectation of roughly flat to modestly negative Q3 growth. The 110-basis-point sequential acceleration made the recovery more pronounced than anticipated.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSame-store revenue and NOI each grew just 0.5% in Q3, but same-store revenue accelerated 110 basis points sequentially from Q2 into positive territory.\u201d",
+      "expectation_evidence": "The preview said Q3 revenue should be \u201cat or better than roughly \u22120.4%\u201d and gave a base-case range of \u201c\u22120.4% to 0.0%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "Full-year same-store guidance improved to +0.25% revenue growth and -0.3% NOI growth. Those outcomes are at or near the favorable ends of the ranges shown in the preview, with the company citing meaningful help from Los Angeles.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFull-year same-store revenue and NOI guidance was raised to +0.25% and -0.3% respectively, improvements of 45 and 85 basis points, with roughly half the revenue lift coming from the Los Angeles recovery.\u201d",
+      "expectation_evidence": "The preview listed existing FY2026 guidance of \u201cSame-store revenue growth\u201d from \u201c(0.7)%\u201d to \u201c0.3%\u201d and \u201cSame-store NOI growth\u201d from \u201c(2.0)%\u201d to \u201c(0.3)%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The Los Angeles portfolio returned to positive revenue growth, and management quantified a remaining $35\u201340 million of recapture upside across 2027 and 2028. The preview expected phased recapture to begin in Q3 and said quantification would be useful, but did not anticipate a return to positive growth already in the quarter.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe Los Angeles portfolio returned to positive revenue growth after state-of-emergency pricing restrictions expired, with roughly 100 basis points of revenue recapture remaining, representing $35-40 million of upside expected across 2027 and 2028.\u201d",
+      "expectation_evidence": "The preview described Q3 as \u201cthe first quarter of the \u2018measured and phased\u2019 recapture\u201d and said, \u201cAny quantification of recapture pace is a genuine 2027 estimate input.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 6,
+      "description": "NSA showed stronger early operating traction than the preview\u2019s discussion of integration risk and targeted unit reactivation alone suggested: move-in volumes rose more than 30% in August and September, and the company identified over $100 million of ROI opportunities.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe NSA portfolio showed move-in volumes up over 30% in August and September after rebranding,\u201d with \u201croughly 14,000 inherited vacant/unrentable units being returned to the rental pool and over $100 million of ROI opportunities identified.\u201d",
+      "expectation_evidence": "The preview said to watch \u201cthe ~14,000 units targeted for reactivation\u201d and \u201cNSA performance on the PS Next platform,\u201d and noted that execution risk was \u201clargely behind them.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 7,
+      "description": "Net debt-to-EBITDA was 3.4x, above the 2.9x figure cited in the preview. Management attributed 0.4 turns of temporary elevation to transaction timing and said the acquisitions should be slightly deleveraging over time, but leverage was still higher than the stated reference level.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe balance sheet remains among the strongest in the REIT sector with net debt-to-EBITDA of 3.4x, though metrics were temporarily elevated 0.4 turns due to transaction timing.\u201d",
+      "expectation_evidence": "The preview listed \u201cleverage (net debt/EBITDA 2.9x; 4.2x incl. preferred).\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "surprises": [
+    {
+      "description": "Nautilus was selected for the ARPA-H-funded SEEDS Consortium, which was not flagged in the preview. The company expects to receive up to $6 million over four years for tau and Ewing sarcoma work.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNautilus was selected for the ARPA-H-funded SEEDS Consortium\u201d and \u201cexpects to receive up to $6 million over the 4-year program.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Three oncology assays reached low median CVs after about a year of development, matching the mature tau assay\u2019s precision much faster than the preview\u2019s discussion of assay cadence and AKT1\u2019s planned Early Access timing would imply. This is encouraging technical evidence beyond the preview\u2019s stated expectations.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThree new oncology assays (AKT1, EGFR, P53) achieved median CVs of 8.8%, 3.6% and 6.6% after only ~1 year of development,\u201d matching the tau assay at 5.5% CV and \u201cbeating industry norms near 25%.\u201d",
+      "expectation_evidence": "The preview called AKT1\u2019s move into Early Access \u201cthe proof that the \u2018new assay every few months\u2019 cadence toward ~20 proteoform assays by mid-2028 is real.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Full-year 2026 revenue is now expected to exceed the approximately $0.5 million prior outlook, rather than merely maintaining it as the preview\u2019s base case assumed. The amount of the expected increase was not specified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 revenue now expected to exceed the prior outlook of approximately $0.5 million.\u201d",
+      "expectation_evidence": "The preview\u2019s base case said \u201cFY26 revenue ~$0.5M maintained.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarterly operating expenses were $16.9 million, above the preview\u2019s $16.2 million estimate, although below the preview\u2019s $17.5 million level for a notable step-up. This points to somewhat higher spending than forecast, not the larger increase the preview identified as a possible narrative-positive threshold.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOperating expenses rose roughly 10% to $16.9 million.\u201d",
+      "expectation_evidence": "The preview estimated \u201cOperating expenses $16.2M\u201d and said \u201ca Q3 opex print above ~$17.5M\u201d would be narrative-positive but burn-negative.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management set a new target to reduce sample-input requirements roughly 100-fold by late 2027, a platform capability goal not discussed in the preview. It could broaden the range of proteins and sample types the platform can measure, though this remains a future target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to reduce sample input requirements roughly 100-fold by late 2027, aiming to enable measurement of low-abundance proteins in blood and other biofluids.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Nautilus was selected for the ARPA-H-funded SEEDS Consortium, which was not flagged in the preview. The company expects to receive up to $6 million over four years for tau and Ewing sarcoma work.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNautilus was selected for the ARPA-H-funded SEEDS Consortium\u201d and \u201cexpects to receive up to $6 million over the 4-year program.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "financing_capital_structure"
+    },
+    {
+      "position": 1,
+      "description": "Three oncology assays reached low median CVs after about a year of development, matching the mature tau assay\u2019s precision much faster than the preview\u2019s discussion of assay cadence and AKT1\u2019s planned Early Access timing would imply. This is encouraging technical evidence beyond the preview\u2019s stated expectations.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThree new oncology assays (AKT1, EGFR, P53) achieved median CVs of 8.8%, 3.6% and 6.6% after only ~1 year of development,\u201d matching the tau assay at 5.5% CV and \u201cbeating industry norms near 25%.\u201d",
+      "expectation_evidence": "The preview called AKT1\u2019s move into Early Access \u201cthe proof that the \u2018new assay every few months\u2019 cadence toward ~20 proteoform assays by mid-2028 is real.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "Full-year 2026 revenue is now expected to exceed the approximately $0.5 million prior outlook, rather than merely maintaining it as the preview\u2019s base case assumed. The amount of the expected increase was not specified.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year 2026 revenue now expected to exceed the prior outlook of approximately $0.5 million.\u201d",
+      "expectation_evidence": "The preview\u2019s base case said \u201cFY26 revenue ~$0.5M maintained.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Quarterly operating expenses were $16.9 million, above the preview\u2019s $16.2 million estimate, although below the preview\u2019s $17.5 million level for a notable step-up. This points to somewhat higher spending than forecast, not the larger increase the preview identified as a possible narrative-positive threshold.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cOperating expenses rose roughly 10% to $16.9 million.\u201d",
+      "expectation_evidence": "The preview estimated \u201cOperating expenses $16.2M\u201d and said \u201ca Q3 opex print above ~$17.5M\u201d would be narrative-positive but burn-negative.",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "Management set a new target to reduce sample-input requirements roughly 100-fold by late 2027, a platform capability goal not discussed in the preview. It could broaden the range of proteins and sample types the platform can measure, though this remains a future target.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company plans to reduce sample input requirements roughly 100-fold by late 2027, aiming to enable measurement of low-abundance proteins in blood and other biofluids.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

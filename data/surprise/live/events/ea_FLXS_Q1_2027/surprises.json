@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "The preview\u2019s $112.70 million sales consensus was exceeded: Flexsteel reported $114.0 million, near the top of its $111\u2013115 million guidance range. This was a modest beat rather than a result above the company\u2019s guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ1 FY2027 net sales rose 3.2% year-over-year to $114.0 million, near the top of the 1%-4% guidance range.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q1 FY27 Consensus | $112.70M\u201d; company guidance was \u201c$111\u2013115M (+1% to +4%).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Demand and volume in the continuing Flexsteel-branded business were stronger than the preview\u2019s base case of roughly flat volume ex-Homestyles. Continuing branded sales and orders each grew about 5%, with backlog up 8.2%, and growth initiatives delivered meaningful unit gains.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExcluding the exited Home Styles ready-to-assemble category, continuing Flexsteel-branded sales grew approximately 5%, with orders up ~5% and ending backlog up 8.2% to $77.7 million\u201d; \u201cseveral growth initiatives also delivered meaningful unit volume gains.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cvolume roughly flat ex-Homestyles\u201d; its bull case expected unit volume up year over year ex-Homestyles.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "GAAP operating margin fell below even the low end of the 6.5%\u20137.0% guide, at about 6.0%. Management attributed 70 basis points of the shortfall to an unfavorable foreign-currency translation loss; gross margin was 22.0%, with the currency swing accounting for a 130-basis-point year-over-year impact.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP operating margin was approximately 6.0%, falling below the 6.5%-7.0% guidance due to an $800,000 (70 basis point) unfavorable foreign currency translation loss\u201d; \u201cGross margin declined to 22.0% from 23.5% a year earlier, driven by a 130 basis point swing in foreign currency.\u201d",
+      "expectation_evidence": "The preview said the \u201cgenuine bar is revenue \u2265 ~$113M with GAAP operating margin at or above the 7.0% high end,\u201d and flagged a print below 6.5% as a bear outcome.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Freight and diesel-related cost inflation emerged as an additional near-term pressure beyond the tariff costs emphasized in the preview: management cited $1.5\u2013$2 million of incremental inflation in Q1 and expected it to recur in Q2. The company plans a further 2%\u20133% average price increase to help offset the pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOcean freight rates have nearly doubled over the past six months and diesel-driven inflation is pressuring materials, with incremental inflation of $1.5M-$2M in Q1 and expected to repeat in Q2\u201d; \u201cManagement plans an additional average price increase of approximately 2%-3% to help offset rising cost pressures.\u201d",
+      "expectation_evidence": "The preview discussed tariff costs and existing pricing of roughly 10%\u201311%, but did not flag this additional freight- and diesel-driven inflation or a further 2%\u20133% price increase.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The Q2 sales outlook calls for growth against the difficult $118.2 million prior-year comparison, rather than merely a flat result. The guided range implies approximately 1%\u20134% growth, which is a modestly better forward signal than the preview\u2019s cautious flat-to-up base case.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ2 FY2027 guidance calls for sales of $119.5M-$123.0M (1%-4% growth).\u201d",
+      "expectation_evidence": "The preview described its base case as \u201cQ2 guided cautiously flat-to-up\u201d and said that guiding Q2 to growth against the $118.2 million comparison \u201cwould be a genuine positive surprise.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Quarter-end cash was much lower than the preview\u2019s hoped-for cash build: Flexsteel reported $4.4 million of cash and slightly negative operating cash flow. The preview did note that Q1 is seasonally the weakest working-capital quarter, which tempers the shortfall versus its cash-build scenario.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended the quarter with $4.4 million in cash, $80.5 million in working capital, and no bank debt, while operating cash flow was slightly negative due to seasonal Q1 outflows.\u201d",
+      "expectation_evidence": "The preview said \u201ca cash build toward $30M+ without revolver draw supports continued repurchase capacity,\u201d while also noting that Q1 is seasonally the weakest working-capital quarter.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "The preview\u2019s $112.70 million sales consensus was exceeded: Flexsteel reported $114.0 million, near the top of its $111\u2013115 million guidance range. This was a modest beat rather than a result above the company\u2019s guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ1 FY2027 net sales rose 3.2% year-over-year to $114.0 million, near the top of the 1%-4% guidance range.\u201d",
+      "expectation_evidence": "\u201cNet sales | Q1 FY27 Consensus | $112.70M\u201d; company guidance was \u201c$111\u2013115M (+1% to +4%).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Demand and volume in the continuing Flexsteel-branded business were stronger than the preview\u2019s base case of roughly flat volume ex-Homestyles. Continuing branded sales and orders each grew about 5%, with backlog up 8.2%, and growth initiatives delivered meaningful unit gains.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cExcluding the exited Home Styles ready-to-assemble category, continuing Flexsteel-branded sales grew approximately 5%, with orders up ~5% and ending backlog up 8.2% to $77.7 million\u201d; \u201cseveral growth initiatives also delivered meaningful unit volume gains.\u201d",
+      "expectation_evidence": "The preview\u2019s base case expected \u201cvolume roughly flat ex-Homestyles\u201d; its bull case expected unit volume up year over year ex-Homestyles.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 2,
+      "description": "GAAP operating margin fell below even the low end of the 6.5%\u20137.0% guide, at about 6.0%. Management attributed 70 basis points of the shortfall to an unfavorable foreign-currency translation loss; gross margin was 22.0%, with the currency swing accounting for a 130-basis-point year-over-year impact.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cGAAP operating margin was approximately 6.0%, falling below the 6.5%-7.0% guidance due to an $800,000 (70 basis point) unfavorable foreign currency translation loss\u201d; \u201cGross margin declined to 22.0% from 23.5% a year earlier, driven by a 130 basis point swing in foreign currency.\u201d",
+      "expectation_evidence": "The preview said the \u201cgenuine bar is revenue \u2265 ~$113M with GAAP operating margin at or above the 7.0% high end,\u201d and flagged a print below 6.5% as a bear outcome.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Freight and diesel-related cost inflation emerged as an additional near-term pressure beyond the tariff costs emphasized in the preview: management cited $1.5\u2013$2 million of incremental inflation in Q1 and expected it to recur in Q2. The company plans a further 2%\u20133% average price increase to help offset the pressure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cOcean freight rates have nearly doubled over the past six months and diesel-driven inflation is pressuring materials, with incremental inflation of $1.5M-$2M in Q1 and expected to repeat in Q2\u201d; \u201cManagement plans an additional average price increase of approximately 2%-3% to help offset rising cost pressures.\u201d",
+      "expectation_evidence": "The preview discussed tariff costs and existing pricing of roughly 10%\u201311%, but did not flag this additional freight- and diesel-driven inflation or a further 2%\u20133% price increase.",
+      "expectation_source": "none",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 4,
+      "description": "The Q2 sales outlook calls for growth against the difficult $118.2 million prior-year comparison, rather than merely a flat result. The guided range implies approximately 1%\u20134% growth, which is a modestly better forward signal than the preview\u2019s cautious flat-to-up base case.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ2 FY2027 guidance calls for sales of $119.5M-$123.0M (1%-4% growth).\u201d",
+      "expectation_evidence": "The preview described its base case as \u201cQ2 guided cautiously flat-to-up\u201d and said that guiding Q2 to growth against the $118.2 million comparison \u201cwould be a genuine positive surprise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Quarter-end cash was much lower than the preview\u2019s hoped-for cash build: Flexsteel reported $4.4 million of cash and slightly negative operating cash flow. The preview did note that Q1 is seasonally the weakest working-capital quarter, which tempers the shortfall versus its cash-build scenario.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company ended the quarter with $4.4 million in cash, $80.5 million in working capital, and no bank debt, while operating cash flow was slightly negative due to seasonal Q1 outflows.\u201d",
+      "expectation_evidence": "The preview said \u201ca cash build toward $30M+ without revolver draw supports continued repurchase capacity,\u201d while also noting that Q1 is seasonally the weakest working-capital quarter.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

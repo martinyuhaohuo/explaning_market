@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $759 million, about 4% above the roughly $727 million consensus and above the $750 million top end of company guidance. The preview had described revenue as nearly de-risked, but the reported result still cleared both reference points.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT reported record Q3 2026 revenue of $759 million, up 17.7% sequentially, exceeding the high end of guidance.",
+      "expectation_evidence": "Revenue consensus was \u201c~$727M\u201d; company guide was \u201c$700\u2013750M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 EPS of $1.15 materially exceeded the preview\u2019s $0.91\u2013$0.94 consensus range. Operating margin reached 9.0%, above the preview\u2019s roughly 8.5% estimate, indicating stronger margin leverage than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 EPS reached $1.15,\u201d and operating margin expanded 200 basis points to \u201c9.0%.\u201d",
+      "expectation_evidence": "Non-GAAP EPS consensus was \u201c$0.91\u2013$0.94\u201d; the preview said $0.94 required roughly \u201c8.5% non-GAAP operating margin.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q4 revenue guide midpoint of $830 million is above the $813.1 million consensus, and the EPS midpoint of $1.23 is above the $1.13 consensus. The revenue range starts slightly below consensus, but its midpoint is stronger than the preview\u2019s base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance calls for revenue of \u201c$800 million to $860 million\u201d and EPS of \u201c$1.11 to $1.35.\u201d",
+      "expectation_evidence": "Q4 consensus was \u201c$813.1M rev / $1.13 EPS\u201d; the preview\u2019s base case was \u201c$790\u2013820M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "UCT said it expects to reach approximately $4 billion of capacity in Q1, earlier than the preview\u2019s expected $4 billion run rate by mid-2027. It also plans incremental investment to scale toward more than $5 billion of revenue capacity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The company expects to reach \u201capproximately $4 billion of capacity in Q1\u201d and plans to invest \u201c$80\u2013100 million incrementally through 2027\u20132028\u201d toward \u201c$5 billion-plus in revenue capacity.\u201d",
+      "expectation_evidence": "The preview cited \u201c$4B run rate by mid-2027\u201d and \u201c$5B evaluated for H2 2028.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin reached 17.3%, modestly above the preview\u2019s roughly 17.0% expectation and the threshold it highlighted. That provides somewhat stronger evidence for the stated path toward the 20% target than the preview\u2019s base case anticipated.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Gross margin improved 60 basis points sequentially to \u201c17.3%,\u201d with the company maintaining a path to a \u201c20% gross margin target at $4 billion in revenue.\u201d",
+      "expectation_evidence": "The preview expected non-GAAP gross margin of \u201c~17%\u201d and flagged \u201c\u226517.0%\u201d as the key threshold.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The two largest customers accounted for 61% of revenue, above the preview\u2019s expectation that their share had fallen into the high 50s. That suggests concentration remained higher than the preview\u2019s anticipated trend.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company's two largest customers accounted for 61% of total revenue.\u201d",
+      "expectation_evidence": "The preview said the top two \u201cfell from 64% to \u2018high 50s.\u2019\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "UCT disclosed raising roughly $203 million through ATM share sales across Q3 and early Q4, selling about 2.6 million shares\u2014an unanticipated equity issuance. The proceeds helped pay off the revolver, partly offsetting the dilution concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT raised \u201croughly $203 million through its ATM equity program\u201d by selling \u201c~2.6 million shares,\u201d and used proceeds partly to pay off its revolving credit facility.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management endorsed analyst estimates of more than $250 billion in WFE spending for 2028, adding a notably bullish longer-range demand view beyond the preview\u2019s discussion of the 2027 outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201cendorsed analyst estimates of $250 billion+ WFE for 2028.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "UCT reported eight new MPX program wins across several process applications, with a similar number in qualification. The preview did not identify these specific wins, which management said could support margin expansion and share gains over the next two to three years.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT \u201csecured 8 new MPX program wins across etch, ALD, PVD, and lithography applications, with a similar number in qualification,\u201d positioned to drive margin expansion and share gains over the next 2\u20133 years.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $759 million, about 4% above the roughly $727 million consensus and above the $750 million top end of company guidance. The preview had described revenue as nearly de-risked, but the reported result still cleared both reference points.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT reported record Q3 2026 revenue of $759 million, up 17.7% sequentially, exceeding the high end of guidance.",
+      "expectation_evidence": "Revenue consensus was \u201c~$727M\u201d; company guide was \u201c$700\u2013750M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Q3 EPS of $1.15 materially exceeded the preview\u2019s $0.91\u2013$0.94 consensus range. Operating margin reached 9.0%, above the preview\u2019s roughly 8.5% estimate, indicating stronger margin leverage than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 EPS reached $1.15,\u201d and operating margin expanded 200 basis points to \u201c9.0%.\u201d",
+      "expectation_evidence": "Non-GAAP EPS consensus was \u201c$0.91\u2013$0.94\u201d; the preview said $0.94 required roughly \u201c8.5% non-GAAP operating margin.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 2,
+      "description": "The Q4 revenue guide midpoint of $830 million is above the $813.1 million consensus, and the EPS midpoint of $1.23 is above the $1.13 consensus. The revenue range starts slightly below consensus, but its midpoint is stronger than the preview\u2019s base-case range.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q4 guidance calls for revenue of \u201c$800 million to $860 million\u201d and EPS of \u201c$1.11 to $1.35.\u201d",
+      "expectation_evidence": "Q4 consensus was \u201c$813.1M rev / $1.13 EPS\u201d; the preview\u2019s base case was \u201c$790\u2013820M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "UCT said it expects to reach approximately $4 billion of capacity in Q1, earlier than the preview\u2019s expected $4 billion run rate by mid-2027. It also plans incremental investment to scale toward more than $5 billion of revenue capacity.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "The company expects to reach \u201capproximately $4 billion of capacity in Q1\u201d and plans to invest \u201c$80\u2013100 million incrementally through 2027\u20132028\u201d toward \u201c$5 billion-plus in revenue capacity.\u201d",
+      "expectation_evidence": "The preview cited \u201c$4B run rate by mid-2027\u201d and \u201c$5B evaluated for H2 2028.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "Gross margin reached 17.3%, modestly above the preview\u2019s roughly 17.0% expectation and the threshold it highlighted. That provides somewhat stronger evidence for the stated path toward the 20% target than the preview\u2019s base case anticipated.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Gross margin improved 60 basis points sequentially to \u201c17.3%,\u201d with the company maintaining a path to a \u201c20% gross margin target at $4 billion in revenue.\u201d",
+      "expectation_evidence": "The preview expected non-GAAP gross margin of \u201c~17%\u201d and flagged \u201c\u226517.0%\u201d as the key threshold.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "The two largest customers accounted for 61% of revenue, above the preview\u2019s expectation that their share had fallen into the high 50s. That suggests concentration remained higher than the preview\u2019s anticipated trend.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company's two largest customers accounted for 61% of total revenue.\u201d",
+      "expectation_evidence": "The preview said the top two \u201cfell from 64% to \u2018high 50s.\u2019\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 6,
+      "description": "UCT disclosed raising roughly $203 million through ATM share sales across Q3 and early Q4, selling about 2.6 million shares\u2014an unanticipated equity issuance. The proceeds helped pay off the revolver, partly offsetting the dilution concern.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT raised \u201croughly $203 million through its ATM equity program\u201d by selling \u201c~2.6 million shares,\u201d and used proceeds partly to pay off its revolving credit facility.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "financing_capital_structure"
+    },
+    {
+      "position": 7,
+      "description": "Management endorsed analyst estimates of more than $250 billion in WFE spending for 2028, adding a notably bullish longer-range demand view beyond the preview\u2019s discussion of the 2027 outlook.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Management \u201cendorsed analyst estimates of $250 billion+ WFE for 2028.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 8,
+      "description": "UCT reported eight new MPX program wins across several process applications, with a similar number in qualification. The preview did not identify these specific wins, which management said could support margin expansion and share gains over the next two to three years.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "UCT \u201csecured 8 new MPX program wins across etch, ALD, PVD, and lithography applications, with a similar number in qualification,\u201d positioned to drive margin expansion and share gains over the next 2\u20133 years.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

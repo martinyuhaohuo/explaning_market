@@ -1,0 +1,107 @@
+{
+  "event_id": "ea_GRMN_Q3_2026",
+  "ticker": "GRMN",
+  "company": "Garmin Ltd.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T11:00:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Garmin Ltd. (GRMN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Garmin Ltd. (GRMN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:14:15.081362+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Garmin GRMN Q3 2026 earnings preview consensus EPS revenue estimate"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Garmin Q2 2026 earnings call guidance fitness outdoor marine aviation"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Garmin stock earnings reaction history shares moved after results"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "c9663f61-e395-447f-8eda-0a4ce9a5bf42",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 5,
+  "duration_ms": 25812,
+  "total_cost_usd": 0.03934698,
+  "usage": {
+    "input_tokens": 6,
+    "cache_creation_input_tokens": 7404,
+    "cache_read_input_tokens": 58908,
+    "output_tokens": 4055,
+    "output_tokens_details": {
+      "thinking_tokens": 706
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 7404
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3526,
+        "cache_read_input_tokens": 20996,
+        "cache_creation_input_tokens": 4445,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 4445,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:14:42.124783+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

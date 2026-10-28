@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "NBN reported diluted EPS of $3.42, essentially matching the published $3.41 consensus but falling short of the preview\u2019s stated $3.60\u2013$3.75 functional buy-side bar. The preview explicitly warned that an in-line consensus result would disappoint.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ1 FY2027 net income was $29 million, or $3.42 per diluted share.\u201d",
+      "expectation_evidence": "\u201cThe functional buy-side bar is $3.60\u2013$3.75, not $3.41. An in-line $3.41 is a disappointment.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NIM fell to 4.57%, below the preview\u2019s 4.70%\u20134.80% base-case range and below its 4.60% warning threshold. The call attributed the compression to purchased-loan prepayments and a shift toward lower-yielding originated loans, contrary to the preview\u2019s expectation that NIM would remain relatively steady.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin compressed to 4.57% from 4.80% in the linked quarter, driven by purchased loan prepayments and a mix shift toward lower-yielding originated loans.\u201d",
+      "expectation_evidence": "\u201cManagement guided NIM to \u2018remain relatively steady\u2019\u201d; base case: \u201cNIM 4.70\u20134.80%\u201d; \u201cAnything below ~4.60% reframes the story.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Total loan generation reached $534 million, well above the preview\u2019s $350\u2013$400 million base-case volume range. This is distinct from the national lending origination record, which was roughly in line with the preview\u2019s bar.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal loan generation of $534 million across purchased, originated, and SBA loans.\u201d",
+      "expectation_evidence": "\u201cBase\u201d scenario: \u201ctotal volume $350\u2013400M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The purchased-loan portfolio return was 9.11%, above the preview\u2019s expectation of an approximately 8% yield, with a $5.9 million credit-discount release contributing to the reported return. The release ran through provision rather than interest income under CECL, making it a notable accounting and portfolio-return detail not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA $5.9 million release of credit discount on purchased loans flowed through the provision (not interest income under CECL), boosting the total purchased loan portfolio return to 9.11%.\u201d",
+      "expectation_evidence": "\u201cThe purchased book \u2026 still yields ~8%\u201d; management was expected to repeat \u201capproximately 8%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said about $1.4 billion of CDs maturing within three months are expected to reprice roughly 50 basis points higher, adding about 15 basis points to next-quarter cost of funds. The preview flagged funding costs as something to watch but did not anticipate this specific near-term increase.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $1.4 billion of CDs mature within three months and are expected to reprice roughly 50 basis points higher, adding about 15 basis points to cost of funds next quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The quarter benefited from stock-vesting tax benefits, leaving the effective tax rate at 26.2%, while management said to expect a normalized rate of about 29% going forward. The preview did not flag this temporary tax benefit or the higher forward run rate.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe effective tax rate was 26.2% (down from 28.3% a year ago) due to Q1 stock vesting benefits, but management guided to a normalized ~29% run rate going forward.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "NBN reported $1.58 billion of loan capacity without a capital raise and said deployment would require minimal added operating expense. That modestly exceeds the preview\u2019s roughly $1.5 billion capacity estimate and adds a favorable detail on the cost of using that capacity.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe bank has $1.58 billion of loan capacity available without any capital raise, with management indicating minimal added operating expense to deploy it.\u201d",
+      "expectation_evidence": "\u201cTier 1 leverage was 11.9% at June 30 with ~$1.5B of remaining loan capacity\u201d; the preview identified a capital raise as a concern to monitor.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "NBN reported diluted EPS of $3.42, essentially matching the published $3.41 consensus but falling short of the preview\u2019s stated $3.60\u2013$3.75 functional buy-side bar. The preview explicitly warned that an in-line consensus result would disappoint.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ1 FY2027 net income was $29 million, or $3.42 per diluted share.\u201d",
+      "expectation_evidence": "\u201cThe functional buy-side bar is $3.60\u2013$3.75, not $3.41. An in-line $3.41 is a disappointment.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "NIM fell to 4.57%, below the preview\u2019s 4.70%\u20134.80% base-case range and below its 4.60% warning threshold. The call attributed the compression to purchased-loan prepayments and a shift toward lower-yielding originated loans, contrary to the preview\u2019s expectation that NIM would remain relatively steady.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet interest margin compressed to 4.57% from 4.80% in the linked quarter, driven by purchased loan prepayments and a mix shift toward lower-yielding originated loans.\u201d",
+      "expectation_evidence": "\u201cManagement guided NIM to \u2018remain relatively steady\u2019\u201d; base case: \u201cNIM 4.70\u20134.80%\u201d; \u201cAnything below ~4.60% reframes the story.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Total loan generation reached $534 million, well above the preview\u2019s $350\u2013$400 million base-case volume range. This is distinct from the national lending origination record, which was roughly in line with the preview\u2019s bar.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cTotal loan generation of $534 million across purchased, originated, and SBA loans.\u201d",
+      "expectation_evidence": "\u201cBase\u201d scenario: \u201ctotal volume $350\u2013400M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "The purchased-loan portfolio return was 9.11%, above the preview\u2019s expectation of an approximately 8% yield, with a $5.9 million credit-discount release contributing to the reported return. The release ran through provision rather than interest income under CECL, making it a notable accounting and portfolio-return detail not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA $5.9 million release of credit discount on purchased loans flowed through the provision (not interest income under CECL), boosting the total purchased loan portfolio return to 9.11%.\u201d",
+      "expectation_evidence": "\u201cThe purchased book \u2026 still yields ~8%\u201d; management was expected to repeat \u201capproximately 8%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Management said about $1.4 billion of CDs maturing within three months are expected to reprice roughly 50 basis points higher, adding about 15 basis points to next-quarter cost of funds. The preview flagged funding costs as something to watch but did not anticipate this specific near-term increase.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $1.4 billion of CDs mature within three months and are expected to reprice roughly 50 basis points higher, adding about 15 basis points to cost of funds next quarter.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 5,
+      "description": "The quarter benefited from stock-vesting tax benefits, leaving the effective tax rate at 26.2%, while management said to expect a normalized rate of about 29% going forward. The preview did not flag this temporary tax benefit or the higher forward run rate.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe effective tax rate was 26.2% (down from 28.3% a year ago) due to Q1 stock vesting benefits, but management guided to a normalized ~29% run rate going forward.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 6,
+      "description": "NBN reported $1.58 billion of loan capacity without a capital raise and said deployment would require minimal added operating expense. That modestly exceeds the preview\u2019s roughly $1.5 billion capacity estimate and adds a favorable detail on the cost of using that capacity.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe bank has $1.58 billion of loan capacity available without any capital raise, with management indicating minimal added operating expense to deploy it.\u201d",
+      "expectation_evidence": "\u201cTier 1 leverage was 11.9% at June 30 with ~$1.5B of remaining loan capacity\u201d; the preview identified a capital raise as a concern to monitor.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    }
+  ]
+}

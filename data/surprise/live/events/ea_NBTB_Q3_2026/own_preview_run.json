@@ -1,0 +1,116 @@
+{
+  "event_id": "ea_NBTB_Q3_2026",
+  "ticker": "NBTB",
+  "company": "NBT Bancorp Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:15:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "NBT Bancorp Inc. (NBTB), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:15 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview NBT Bancorp Inc. (NBTB), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:15 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:18:04.884485+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "NBT Bancorp NBTB Q3 2026 earnings consensus EPS revenue estimate"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "NBT Bancorp second quarter 2026 results net interest margin guidance"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "NBT Bancorp stock earnings reaction history NBTB shares after earnings"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.barchart.com/story/news/3486527/nbt-bancorp-inc-announces-second-quarter-2026-results-and-approves-an-8-1-cash-dividend-increase"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.webull.com/news/15306698490913792"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 2
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "6eba30ff-6575-4b76-988d-14d21ba3068d",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 7,
+  "duration_ms": 36899,
+  "total_cost_usd": 0.041083405,
+  "usage": {
+    "input_tokens": 10,
+    "cache_creation_input_tokens": 8545,
+    "cache_read_input_tokens": 109908,
+    "output_tokens": 4306,
+    "output_tokens_details": {
+      "thinking_tokens": 944
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8545
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3199,
+        "cache_read_input_tokens": 25726,
+        "cache_creation_input_tokens": 856,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 856,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:18:43.619243+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

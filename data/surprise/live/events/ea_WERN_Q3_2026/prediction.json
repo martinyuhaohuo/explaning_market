@@ -1,0 +1,17 @@
+{
+  "event_id": "ea_WERN_Q3_2026",
+  "event_datetime": "2026-10-27T21:00:00Z",
+  "knowledge_cutoff": null,
+  "preview_source": "competition",
+  "branch": "surprise_ridge",
+  "reasons": null,
+  "error": null,
+  "model": "em_agent/artifacts/pooled_ridge_v2.joblib",
+  "created_at": "2026-10-28T02:03:46.954507+00:00",
+  "predictions": [
+    {
+      "identifier_value": "WERN",
+      "predicted_percentile": 0.5660971095608706
+    }
+  ]
+}

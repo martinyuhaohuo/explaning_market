@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "Boeing\u2019s BCA revenue was $10.7 billion, down 3% year over year, versus preview consensus of $11.67 billion and 5.2% growth; its 6.5% operating loss was also far worse than the preview\u2019s roughly 2%\u20133% loss expectation. This was a pronounced miss on both the segment\u2019s revenue and margin.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBCA generating $10.7 billion in revenue (down 3% year-over-year) and an operating margin of negative 6.5%.\u201d",
+      "expectation_evidence": "\u201cCommercial Airplanes (BCA) | Revenue $11.67B | YoY +5.2%\u201d; the preview\u2019s base case expected \u201cBCA ~\u22122% to \u22123%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The expected recovery in free cash flow is now about a year later than previously envisaged: management described a roughly one-year shift to the right, even though it said the recovery\u2019s slope and ultimate endpoint are unchanged. The new path is about $2 billion in 2026, $3 billion in 2027, $6 billion in 2028, and $10 billion in 2029.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $2 billion in 2026, $3 billion in 2027, $6 billion in 2028, and $10 billion in 2029\u201d; management called this \u201croughly a one-year shift to the right, with no change to the slope or ultimate endpoint of the recovery.\u201d",
+      "expectation_evidence": "\u201cFY26 FCF: $1\u20133B (reaffirmed)\u201d; the preview also framed the debate as whether FY26 FCF was \u201con track for $1\u20133B\u201d or moving toward the low end.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 737 delivery target of 500 for 2026 will be missed, and roughly 30 prebuilt 737-7 and -10 aircraft are now expected to start delivering only in early 2027 after certification. That falls short of the preview\u2019s expectation that the 500-aircraft target would be held.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c737 deliveries will fall shy of the 500 target for the year,\u201d with \u201croughly 30 prebuilt 737-7 and -10 aircraft now expected to begin delivering in early 2027 following FAA certification of both models.\u201d",
+      "expectation_evidence": "The preview identified a 737 \u201cFY target\u201d of 500 and described the bull case as \u201c737=500 ... both held.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Stabilizing 737 production at 47 per month is taking longer than expected, and the rate-52 target has moved to the back half of 2027. That is a setback from the preview\u2019s more favorable early-2027 rate-52 scenario and its focus on confirming stable rate 47.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cStabilizing 737 production at 47 per month is taking longer than expected and will push full stability into next year, with the rate 52 target now set for the back half of 2027.\u201d",
+      "expectation_evidence": "The preview\u2019s bull-case signal was \u201crate 47 is stable\u201d and \u201crate 52 confirmed for early 2027.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Boeing won the Navy\u2019s FAXX sixth-generation fighter selection, making it the exclusive sixth-generation fighter company for both the Air Force and Navy. Management consequently raised expected BDS growth to mid-single-digit or higher from prior low-single-digit expectations.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBoeing was selected by the U.S. Navy for the FAXX sixth-generation fighter,\u201d making it \u201cthe exclusive sixth-gen fighter company for both the Air Force and Navy,\u201d and \u201craising expected BDS growth to mid-single-digit or higher versus prior low-single-digit expectations.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "call"
+    },
+    {
+      "description": "Q3 free cash flow was $464 million despite roughly $700 million in DOJ settlement payments\u2014above the preview\u2019s expectation of only low hundreds of millions, while still meeting the key expectation of remaining positive after the payment.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPositive free cash flow of $464 million, despite roughly $700 million in DOJ settlement payments.\u201d",
+      "expectation_evidence": "The preview expected positive free cash flow in the \u201clow hundreds of millions\u201d and highlighted whether it would \u201cstay positive after absorbing a $700M DOJ payment.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Consolidated Q3 revenue was $24.2 billion, slightly below the $24.37 billion consensus estimate, despite growing 4% year over year.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 consolidated revenue rose 4% to $24.2 billion.\u201d",
+      "expectation_evidence": "\u201cRevenue $24.37B\u201d consensus.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company reported a record $745 billion backlog, up from the $619 billion total backlog cited for Q2 in the preview. The preview did not anticipate this record level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal backlog reached a record $745 billion.\u201d",
+      "expectation_evidence": "The preview said \u201ctotal company backlog was $619B at Q2.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management added a longer-range margin outlook: BCA is expected to reach roughly breakeven in early 2028, the 787 margin is expected to exceed 2018 levels by 2029, but the 737 is not expected to do so. The preview focused on near-term BCA margin progress and did not lay out this later, model-by-model outlook.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBCA margins expected to reach roughly breakeven in early 2028 and the 787 margin to exceed 2018 levels by 2029 while the 737 will not.\u201d",
+      "expectation_evidence": "The preview called BCA margin \u201cthe main EPS swing factor\u201d and said the key question was whether \u201chigher volume is actually absorbing fixed cost\u201d; it gave no comparable long-range margin targets by aircraft program.",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Management said a possible midyear certification slip for the 777X could be absorbed within the $3 billion 2027 free-cash-flow guide. This is more reassuring than the preview\u2019s emphasis on a 777X schedule slip as a potential multibillion-dollar charge risk, although the first-delivery target remains 2027.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe 777X remains on track for first delivery in 2027,\u201d with \u201c10-15 deliveries expected in 2027\u201d; \u201ca slip to midyear certification could be absorbed within the $3 billion 2027 cash guide.\u201d",
+      "expectation_evidence": "The preview warned that \u201cAny language that slips 2027 is a multi-billion-dollar reach-forward loss risk.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Boeing\u2019s BCA revenue was $10.7 billion, down 3% year over year, versus preview consensus of $11.67 billion and 5.2% growth; its 6.5% operating loss was also far worse than the preview\u2019s roughly 2%\u20133% loss expectation. This was a pronounced miss on both the segment\u2019s revenue and margin.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBCA generating $10.7 billion in revenue (down 3% year-over-year) and an operating margin of negative 6.5%.\u201d",
+      "expectation_evidence": "\u201cCommercial Airplanes (BCA) | Revenue $11.67B | YoY +5.2%\u201d; the preview\u2019s base case expected \u201cBCA ~\u22122% to \u22123%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "The expected recovery in free cash flow is now about a year later than previously envisaged: management described a roughly one-year shift to the right, even though it said the recovery\u2019s slope and ultimate endpoint are unchanged. The new path is about $2 billion in 2026, $3 billion in 2027, $6 billion in 2028, and $10 billion in 2029.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cApproximately $2 billion in 2026, $3 billion in 2027, $6 billion in 2028, and $10 billion in 2029\u201d; management called this \u201croughly a one-year shift to the right, with no change to the slope or ultimate endpoint of the recovery.\u201d",
+      "expectation_evidence": "\u201cFY26 FCF: $1\u20133B (reaffirmed)\u201d; the preview also framed the debate as whether FY26 FCF was \u201con track for $1\u20133B\u201d or moving toward the low end.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The 737 delivery target of 500 for 2026 will be missed, and roughly 30 prebuilt 737-7 and -10 aircraft are now expected to start delivering only in early 2027 after certification. That falls short of the preview\u2019s expectation that the 500-aircraft target would be held.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201c737 deliveries will fall shy of the 500 target for the year,\u201d with \u201croughly 30 prebuilt 737-7 and -10 aircraft now expected to begin delivering in early 2027 following FAA certification of both models.\u201d",
+      "expectation_evidence": "The preview identified a 737 \u201cFY target\u201d of 500 and described the bull case as \u201c737=500 ... both held.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Stabilizing 737 production at 47 per month is taking longer than expected, and the rate-52 target has moved to the back half of 2027. That is a setback from the preview\u2019s more favorable early-2027 rate-52 scenario and its focus on confirming stable rate 47.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cStabilizing 737 production at 47 per month is taking longer than expected and will push full stability into next year, with the rate 52 target now set for the back half of 2027.\u201d",
+      "expectation_evidence": "The preview\u2019s bull-case signal was \u201crate 47 is stable\u201d and \u201crate 52 confirmed for early 2027.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 4,
+      "description": "Boeing won the Navy\u2019s FAXX sixth-generation fighter selection, making it the exclusive sixth-generation fighter company for both the Air Force and Navy. Management consequently raised expected BDS growth to mid-single-digit or higher from prior low-single-digit expectations.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cBoeing was selected by the U.S. Navy for the FAXX sixth-generation fighter,\u201d making it \u201cthe exclusive sixth-gen fighter company for both the Air Force and Navy,\u201d and \u201craising expected BDS growth to mid-single-digit or higher versus prior low-single-digit expectations.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "call",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "Q3 free cash flow was $464 million despite roughly $700 million in DOJ settlement payments\u2014above the preview\u2019s expectation of only low hundreds of millions, while still meeting the key expectation of remaining positive after the payment.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cPositive free cash flow of $464 million, despite roughly $700 million in DOJ settlement payments.\u201d",
+      "expectation_evidence": "The preview expected positive free cash flow in the \u201clow hundreds of millions\u201d and highlighted whether it would \u201cstay positive after absorbing a $700M DOJ payment.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 6,
+      "description": "Consolidated Q3 revenue was $24.2 billion, slightly below the $24.37 billion consensus estimate, despite growing 4% year over year.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 consolidated revenue rose 4% to $24.2 billion.\u201d",
+      "expectation_evidence": "\u201cRevenue $24.37B\u201d consensus.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "The company reported a record $745 billion backlog, up from the $619 billion total backlog cited for Q2 in the preview. The preview did not anticipate this record level.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal backlog reached a record $745 billion.\u201d",
+      "expectation_evidence": "The preview said \u201ctotal company backlog was $619B at Q2.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Management added a longer-range margin outlook: BCA is expected to reach roughly breakeven in early 2028, the 787 margin is expected to exceed 2018 levels by 2029, but the 737 is not expected to do so. The preview focused on near-term BCA margin progress and did not lay out this later, model-by-model outlook.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBCA margins expected to reach roughly breakeven in early 2028 and the 787 margin to exceed 2018 levels by 2029 while the 737 will not.\u201d",
+      "expectation_evidence": "The preview called BCA margin \u201cthe main EPS swing factor\u201d and said the key question was whether \u201chigher volume is actually absorbing fixed cost\u201d; it gave no comparable long-range margin targets by aircraft program.",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 9,
+      "description": "Management said a possible midyear certification slip for the 777X could be absorbed within the $3 billion 2027 free-cash-flow guide. This is more reassuring than the preview\u2019s emphasis on a 777X schedule slip as a potential multibillion-dollar charge risk, although the first-delivery target remains 2027.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe 777X remains on track for first delivery in 2027,\u201d with \u201c10-15 deliveries expected in 2027\u201d; \u201ca slip to midyear certification could be absorbed within the $3 billion 2027 cash guide.\u201d",
+      "expectation_evidence": "The preview warned that \u201cAny language that slips 2027 is a multi-billion-dollar reach-forward loss risk.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    }
+  ]
+}

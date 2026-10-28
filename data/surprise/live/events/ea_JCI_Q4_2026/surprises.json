@@ -1,0 +1,186 @@
+{
+  "surprises": [
+    {
+      "description": "JCI guided FY27 organic growth to 11%\u201312%, above the preview\u2019s 9%\u201310% base expectation and the 9%\u201310% consensus framework. The guide\u2019s $6.15\u2013$6.30 adjusted EPS range is also modestly above the $6.13 consensus at its midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFY27 guidance calls for organic revenue growth of 11% to 12%\u201d and \u201cadjusted EPS of $6.15 to $6.30.\u201d",
+      "expectation_evidence": "\u201cFY27 \u2026 consensus is $6.13 (+20.7%)\u201d; the base scenario expected \u201c$6.10\u20136.20, organic +9\u201310%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 organic revenue growth was 12%, exceeding the preview\u2019s 9%\u201310% expectation and even the bull scenario\u2019s 11%+ threshold.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 FY26 organic revenue grew 12%.\u201d",
+      "expectation_evidence": "Q4 company guidance was \u201corganic +9\u201310%\u201d; the bull scenario called for \u201corganic +11%+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q4 orders accelerated sharply to 44%, rather than continuing the deceleration the preview highlighted from 39% to 30% to 27%. They also substantially exceeded the preview\u2019s 20% threshold for a bullish result.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 orders surged 44%.\u201d",
+      "expectation_evidence": "The preview highlighted orders \u201cdecelerating (39\u219230\u219227%)\u201d and said the bull case required Q4 orders to \u201chold \u226520% organic.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Backlog reached a record $23 billion, above the preview\u2019s base expectation of $21.5\u2013$22.0 billion and the bullish scenario\u2019s $23 billion-plus mark. The reported $2 billion increase from the preview\u2019s $21.0 billion Q3 level also exceeded the base sequential build implied there.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBacklog grew 43% to a record $23 billion.\u201d",
+      "expectation_evidence": "The base scenario expected backlog of \u201c$21.5\u201322.0B\u201d; the bull scenario said \u201c$23B+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY26 adjusted free-cash-flow conversion reached 103%, slightly above the preview\u2019s approximately 100% expectation and exceeding the company\u2019s prior guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted free cash flow conversion reached 103% ($3.2 billion), all exceeding prior guidance.\u201d",
+      "expectation_evidence": "The preview listed FY26 adjusted FCF conversion at \u201c~100%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "FY26 adjusted EPS growth was 37%, modestly ahead of the preview\u2019s 35.1% consensus growth expectation and above the company\u2019s prior guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted EPS grew 37%\u201d for FY26, \u201cexceeding prior guidance.\u201d",
+      "expectation_evidence": "The preview showed FY26 adjusted EPS consensus growth of \u201c+35.1%\u201d and company guidance of \u201c~$5.05.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "JCI announced a new restructuring program with approximately $400 million of FY27\u2013FY28 expense to generate about $600 million in annualized savings by FY29. The preview mentioned possible portfolio actions but did not anticipate this specific program or its cost-and-savings targets.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new restructuring program targets approximately $400 million in expense over FY27-FY28 to deliver about $600 million in gross annualized savings by FY29.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The prior restructuring program generated run-rate savings $100 million to $150 million above its original $500 million target, a favorable outcome not discussed in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe prior restructuring program delivered run-rate savings $100 million to $150 million above its original $500 million target.\u201d",
+      "expectation_evidence": "The original target was \u201c$500 million.\u201d",
+      "expectation_source": "call"
+    },
+    {
+      "description": "JCI disclosed that its pending sale of the global intrusion business is expected to close around Q2 FY27 and carry about $0.15 of annualized EPS dilution. The preview discussed a prior HVAC divestiture and possible portfolio actions, but did not flag this transaction or its dilution.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe pending divestiture of the ~$500 million-revenue global intrusion (residential/light commercial) business is expected to close around Q2 FY27 and be dilutive by about $0.15 annualized.\u201d",
+      "expectation_evidence": "The preview\u2019s catalyst checklist included \u201cany portfolio action,\u201d but did not identify this divestiture or quantify dilution.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management said the Armada partnership\u2019s 500 MW target has higher TAM per megawatt than typical data-center work. The preview already cited the 500 MW target, but did not flag this higher-TAM characterization.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe Armada partnership targets 500 megawatts of distributed edge compute capacity in 2027 at a higher TAM per megawatt than typical data center work.\u201d",
+      "expectation_evidence": "The preview described \u201cArmada \u2026 to deploy 500 MW\u201d by 2027.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "JCI guided FY27 organic growth to 11%\u201312%, above the preview\u2019s 9%\u201310% base expectation and the 9%\u201310% consensus framework. The guide\u2019s $6.15\u2013$6.30 adjusted EPS range is also modestly above the $6.13 consensus at its midpoint.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cFY27 guidance calls for organic revenue growth of 11% to 12%\u201d and \u201cadjusted EPS of $6.15 to $6.30.\u201d",
+      "expectation_evidence": "\u201cFY27 \u2026 consensus is $6.13 (+20.7%)\u201d; the base scenario expected \u201c$6.10\u20136.20, organic +9\u201310%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "Q4 organic revenue growth was 12%, exceeding the preview\u2019s 9%\u201310% expectation and even the bull scenario\u2019s 11%+ threshold.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ4 FY26 organic revenue grew 12%.\u201d",
+      "expectation_evidence": "Q4 company guidance was \u201corganic +9\u201310%\u201d; the bull scenario called for \u201corganic +11%+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Q4 orders accelerated sharply to 44%, rather than continuing the deceleration the preview highlighted from 39% to 30% to 27%. They also substantially exceeded the preview\u2019s 20% threshold for a bullish result.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ4 orders surged 44%.\u201d",
+      "expectation_evidence": "The preview highlighted orders \u201cdecelerating (39\u219230\u219227%)\u201d and said the bull case required Q4 orders to \u201chold \u226520% organic.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 3,
+      "description": "Backlog reached a record $23 billion, above the preview\u2019s base expectation of $21.5\u2013$22.0 billion and the bullish scenario\u2019s $23 billion-plus mark. The reported $2 billion increase from the preview\u2019s $21.0 billion Q3 level also exceeded the base sequential build implied there.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cBacklog grew 43% to a record $23 billion.\u201d",
+      "expectation_evidence": "The base scenario expected backlog of \u201c$21.5\u201322.0B\u201d; the bull scenario said \u201c$23B+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "FY26 adjusted free-cash-flow conversion reached 103%, slightly above the preview\u2019s approximately 100% expectation and exceeding the company\u2019s prior guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted free cash flow conversion reached 103% ($3.2 billion), all exceeding prior guidance.\u201d",
+      "expectation_evidence": "The preview listed FY26 adjusted FCF conversion at \u201c~100%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "FY26 adjusted EPS growth was 37%, modestly ahead of the preview\u2019s 35.1% consensus growth expectation and above the company\u2019s prior guidance.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted EPS grew 37%\u201d for FY26, \u201cexceeding prior guidance.\u201d",
+      "expectation_evidence": "The preview showed FY26 adjusted EPS consensus growth of \u201c+35.1%\u201d and company guidance of \u201c~$5.05.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 6,
+      "description": "JCI announced a new restructuring program with approximately $400 million of FY27\u2013FY28 expense to generate about $600 million in annualized savings by FY29. The preview mentioned possible portfolio actions but did not anticipate this specific program or its cost-and-savings targets.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cA new restructuring program targets approximately $400 million in expense over FY27-FY28 to deliver about $600 million in gross annualized savings by FY29.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 7,
+      "description": "The prior restructuring program generated run-rate savings $100 million to $150 million above its original $500 million target, a favorable outcome not discussed in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe prior restructuring program delivered run-rate savings $100 million to $150 million above its original $500 million target.\u201d",
+      "expectation_evidence": "The original target was \u201c$500 million.\u201d",
+      "expectation_source": "call",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 8,
+      "description": "JCI disclosed that its pending sale of the global intrusion business is expected to close around Q2 FY27 and carry about $0.15 of annualized EPS dilution. The preview discussed a prior HVAC divestiture and possible portfolio actions, but did not flag this transaction or its dilution.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe pending divestiture of the ~$500 million-revenue global intrusion (residential/light commercial) business is expected to close around Q2 FY27 and be dilutive by about $0.15 annualized.\u201d",
+      "expectation_evidence": "The preview\u2019s catalyst checklist included \u201cany portfolio action,\u201d but did not identify this divestiture or quantify dilution.",
+      "expectation_source": "preview",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 9,
+      "description": "Management said the Armada partnership\u2019s 500 MW target has higher TAM per megawatt than typical data-center work. The preview already cited the 500 MW target, but did not flag this higher-TAM characterization.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe Armada partnership targets 500 megawatts of distributed edge compute capacity in 2027 at a higher TAM per megawatt than typical data center work.\u201d",
+      "expectation_evidence": "The preview described \u201cArmada \u2026 to deploy 500 MW\u201d by 2027.",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    }
+  ]
+}

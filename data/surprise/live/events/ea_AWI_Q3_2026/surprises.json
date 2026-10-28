@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "AWI\u2019s adjusted diluted EPS grew 10%, well below the preview\u2019s implied 16.6% growth and $2.39 consensus. That implies roughly $2.26 per share, a material shortfall against the estimate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS increased 10%.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $2.39\u201d; implied year-over-year growth \u201c+16.6%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company lowered its adjusted EBITDA growth outlook to 8\u201310% from 9\u201312%, despite the preview\u2019s expectation that the existing full-year guide would be narrowed rather than cut. The reduction reflects a weaker profit outlook than the preview\u2019s expected H2 acceleration.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement lowered the adjusted EBITDA growth guidance to 8-10% (from 9-12%), citing the highest input cost inflation since 2022 and tariff impacts.\u201d",
+      "expectation_evidence": "\u201cFull-year 2026 guidance: Adj. EBITDA $605\u2013620M (+9\u201312%)\u201d; the base case expected guidance to be \u201cnarrowed rather than raised.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Freight inflation was running at roughly 20%, above the preview\u2019s mid-teens expectation. Total input cost inflation was at the high end of mid-single digits, adding more cost pressure than the preview\u2019s setup anticipated.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal input cost inflation is now tracking at the higher end of mid-single digits, led by roughly 20% freight inflation with diesel above $6 per gallon.\u201d",
+      "expectation_evidence": "The preview cited \u201cmid-teens freight inflation\u201d and said it would \u201cweigh more heavily in H2.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Mineral Fiber\u2019s full-year sales growth outlook was about 6.5%, slightly above the preview\u2019s roughly 6% target, but management now expects full-year EBITDA margin to be roughly flat because of mix headwinds. That margin outlook is weaker than the preview\u2019s emphasis on AUV as the support for the segment\u2019s margin story.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMineral Fiber full-year net sales growth was cut to approximately 6.5% (1 point volume, 5.5% AUV) with full-year EBITDA margin now expected roughly flat versus the prior year due to mix headwinds.\u201d",
+      "expectation_evidence": "\u201cMineral Fiber AUV \u2014 FY target ~+6%\u201d; the preview called it \u201cthe entire margin story.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Architectural Specialties outperformed the preview\u2019s Q3 segment model: total sales rose 22% versus an expected 19% increase, and margin reached 19.4% versus the modeled 18.9%. Organic growth was a strong 16%, even though acquisitions continued to dilute margin.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cArchitectural Specialties delivered record organic growth of 16% (total net sales +22%) and expanded adjusted EBITDA margin 60 basis points to 19.4%, though acquisitions were dilutive to margin.\u201d",
+      "expectation_evidence": "The preview\u2019s Q3 segment model put Architectural Specialties at \u201c~$180M (+19%) at ~18.9% margin.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "AWI raised full-year net sales growth guidance to 10\u201311% from 9\u201311%, helped by lifting the Architectural Specialties growth outlook to 18\u201319% from 15\u201317%. The higher AS outlook more than offset lower contributions from recent acquisitions.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year net sales guidance was raised slightly to 10-11%, driven by AS segment growth now expected at 18-19% (up from 15-17%), offset by lower contributions from recent acquisitions.\u201d",
+      "expectation_evidence": "The preview listed full-year net sales guidance of \u201c$1,770\u20131,800M (+9\u201311%)\u201d and described the base case as guidance being narrowed.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Canadian customers accelerated purchases ahead of anticipated tariffs, creating a timing-related shift toward lower-AUV channels. The preview discussed tariff costs and refunds but did not flag this pull-forward and mix effect.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCanadian customers accelerated purchases ahead of anticipated tariffs, driving a timing-related mix shift toward lower-AUV channels that is expected to moderate by year-end.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Sales of ceiling and DynaMax structural grid products into data centers had already exceeded their full-year revenue plans. The preview highlighted data-center wins and asked for revenue or pipeline quantification, but did not anticipate that sales would be ahead of plan.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBoth ceiling and DynaMax structural grid data center sales exceeded full-year revenue plans.\u201d",
+      "expectation_evidence": "The preview said investors wanted the data-center opportunity \u201cquantified (revenue or pipeline dollars, not just \u2018wins up X%\u2019).\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "AWI\u2019s adjusted diluted EPS grew 10%, well below the preview\u2019s implied 16.6% growth and $2.39 consensus. That implies roughly $2.26 per share, a material shortfall against the estimate.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted diluted EPS increased 10%.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS: $2.39\u201d; implied year-over-year growth \u201c+16.6%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "The company lowered its adjusted EBITDA growth outlook to 8\u201310% from 9\u201312%, despite the preview\u2019s expectation that the existing full-year guide would be narrowed rather than cut. The reduction reflects a weaker profit outlook than the preview\u2019s expected H2 acceleration.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cManagement lowered the adjusted EBITDA growth guidance to 8-10% (from 9-12%), citing the highest input cost inflation since 2022 and tariff impacts.\u201d",
+      "expectation_evidence": "\u201cFull-year 2026 guidance: Adj. EBITDA $605\u2013620M (+9\u201312%)\u201d; the base case expected guidance to be \u201cnarrowed rather than raised.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Freight inflation was running at roughly 20%, above the preview\u2019s mid-teens expectation. Total input cost inflation was at the high end of mid-single digits, adding more cost pressure than the preview\u2019s setup anticipated.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal input cost inflation is now tracking at the higher end of mid-single digits, led by roughly 20% freight inflation with diesel above $6 per gallon.\u201d",
+      "expectation_evidence": "The preview cited \u201cmid-teens freight inflation\u201d and said it would \u201cweigh more heavily in H2.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 3,
+      "description": "Mineral Fiber\u2019s full-year sales growth outlook was about 6.5%, slightly above the preview\u2019s roughly 6% target, but management now expects full-year EBITDA margin to be roughly flat because of mix headwinds. That margin outlook is weaker than the preview\u2019s emphasis on AUV as the support for the segment\u2019s margin story.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMineral Fiber full-year net sales growth was cut to approximately 6.5% (1 point volume, 5.5% AUV) with full-year EBITDA margin now expected roughly flat versus the prior year due to mix headwinds.\u201d",
+      "expectation_evidence": "\u201cMineral Fiber AUV \u2014 FY target ~+6%\u201d; the preview called it \u201cthe entire margin story.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Architectural Specialties outperformed the preview\u2019s Q3 segment model: total sales rose 22% versus an expected 19% increase, and margin reached 19.4% versus the modeled 18.9%. Organic growth was a strong 16%, even though acquisitions continued to dilute margin.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cArchitectural Specialties delivered record organic growth of 16% (total net sales +22%) and expanded adjusted EBITDA margin 60 basis points to 19.4%, though acquisitions were dilutive to margin.\u201d",
+      "expectation_evidence": "The preview\u2019s Q3 segment model put Architectural Specialties at \u201c~$180M (+19%) at ~18.9% margin.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "AWI raised full-year net sales growth guidance to 10\u201311% from 9\u201311%, helped by lifting the Architectural Specialties growth outlook to 18\u201319% from 15\u201317%. The higher AS outlook more than offset lower contributions from recent acquisitions.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cFull-year net sales guidance was raised slightly to 10-11%, driven by AS segment growth now expected at 18-19% (up from 15-17%), offset by lower contributions from recent acquisitions.\u201d",
+      "expectation_evidence": "The preview listed full-year net sales guidance of \u201c$1,770\u20131,800M (+9\u201311%)\u201d and described the base case as guidance being narrowed.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "Canadian customers accelerated purchases ahead of anticipated tariffs, creating a timing-related shift toward lower-AUV channels. The preview discussed tariff costs and refunds but did not flag this pull-forward and mix effect.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCanadian customers accelerated purchases ahead of anticipated tariffs, driving a timing-related mix shift toward lower-AUV channels that is expected to moderate by year-end.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 7,
+      "description": "Sales of ceiling and DynaMax structural grid products into data centers had already exceeded their full-year revenue plans. The preview highlighted data-center wins and asked for revenue or pipeline quantification, but did not anticipate that sales would be ahead of plan.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBoth ceiling and DynaMax structural grid data center sales exceeded full-year revenue plans.\u201d",
+      "expectation_evidence": "The preview said investors wanted the data-center opportunity \u201cquantified (revenue or pipeline dollars, not just \u2018wins up X%\u2019).\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    }
+  ]
+}

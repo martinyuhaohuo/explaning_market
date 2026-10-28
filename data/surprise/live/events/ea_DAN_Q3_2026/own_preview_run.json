@@ -1,0 +1,115 @@
+{
+  "event_id": "ea_DAN_Q3_2026",
+  "ticker": "DAN",
+  "company": "Dana Incorporated",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T11:00:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Dana Incorporated (DAN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Dana Incorporated (DAN), fiscal period Q3 FY2026, earnings release scheduled 2026-10-28 11:00 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:10:42.051021+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "Skill",
+      "detail": "earnings-preview"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Dana Incorporated DAN Q3 2026 earnings consensus estimate EPS revenue"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Dana Incorporated second quarter 2026 results guidance earnings call"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Dana Incorporated third quarter 2026 earnings release date October 28 2026"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Dana DAN stock earnings reaction history implied move options Q2 2026 shares"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 4
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "2536d7bf-3433-49a0-a12e-d5ca32948b2b",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 8,
+  "duration_ms": 28393,
+  "total_cost_usd": 0.05094783,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 8166,
+    "cache_read_input_tokens": 84138,
+    "output_tokens": 3860,
+    "output_tokens_details": {
+      "thinking_tokens": 496
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8166
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3019,
+        "cache_read_input_tokens": 24959,
+        "cache_creation_input_tokens": 1244,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 1244,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:11:11.672688+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Adjusted EPS was $1.03, above the preview\u2019s operative $0.95\u2013$1.00 bar. The beat was modest, though adjusted PPNR came in below the preview\u2019s build.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted net income was $48.2 million, or $1.03 per diluted share,\u201d excluding $0.21 per share of after-tax merger expenses.",
+      "expectation_evidence": "\u201cTreat $0.95\u20131.00 adjusted as the operative bar.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NIM expanded to 3.82%, ahead of the preview\u2019s 3.78% base case and above the 3.76% June exit rate. This was a favorable but relatively narrow gap; the Q4 outlook remained in the expected mid-3.80s.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 24 basis points to 3.82% in Q3 from 3.58% in Q2, with Q4 guidance in the mid-3.80s.\u201d",
+      "expectation_evidence": "The preview modeled Q3 NIM at \u201c3.78%\u201d and said \u201cNIM at or above 3.78% keeps the bridge intact.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted PPNR was weaker than the preview\u2019s base build: Q3 was $1.42 per share, while the preview modeled about $72 million of adjusted PPNR, roughly $1.56 per share using its 46.2 million share assumption. This contrasts with the EPS beat and reflects a weaker underlying pre-provision result than expected.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted PPNR was $1.42 per share in Q3, down from $1.50 in Q2.\u201d",
+      "expectation_evidence": "The preview\u2019s base-case build listed \u201cAdj. PPNR\u201d at \u201c~$72M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Credit results were somewhat better than the expected mid-teens-basis-point H2 charge-off level: Q3 net charge-offs were 11 basis points annualized, while special mention and substandard loans both declined. This was favorable evidence on the credit concerns highlighted in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSpecial mention loans down ~$23.8 million and substandard loans down ~$39.9 million,\u201d with \u201cnet charge-offs \u2026 $3.3 million (11 basis points annualized).\u201d",
+      "expectation_evidence": "The preview said management guided H2 net charge-offs to the \u201cmid-teens\u201d bps and flagged that NPAs needed to stop rising.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Loan performance and the Q4 outlook fell short of the preview\u2019s anticipated growth pace: total loans declined 3.8% annualized in Q3, and management guided to only mid-single-digit Q4 growth rather than the preview\u2019s low-double-digit annualized H2 guide. Higher pipelines and C&I production provide some offset, but paydowns in other portfolios outweighed them.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal loan balances declined ~$110 million (3.8% annualized),\u201d as C&I growth was \u201cmore than offset\u201d by paydowns; management guided to \u201cmid-single-digit Q4 loan \u2026 growth.\u201d",
+      "expectation_evidence": "The preview identified a \u201clow double-digit annualized\u201d H2 loan-growth guide and modeled a base case of \u201chigh-single-digit rather than low-double\u201d growth.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company repurchased more shares in Q3 than the preview expected, buying about $50 million against an anticipated $35\u201340 million. Management also expects to finish the remaining $100 million over the next three quarters, maintaining a clear execution timetable for the authorization.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company repurchased approximately $50 million of common shares in Q3\u201d and \u201cexpects to complete the remaining $100 million over the next three quarters.\u201d",
+      "expectation_evidence": "The preview said to \u201cexpect ~$35\u201340M\u201d in Q3 and described the $150 million authorization as being executed over four quarters.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Tangible book value per share reached $35.60, below the preview\u2019s expected $35.80\u2013$36.30 range despite retained earnings and the buyback. The shortfall was modest, but the anticipated degree of TBVPS accretion did not materialize.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTangible book value per share increased to $35.60 from $35.16 despite the $50 million buyback.\u201d",
+      "expectation_evidence": "The preview expected TBVPS \u201cto still accrete to roughly $35.8\u201336.3 on retained earnings.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Deposits fell by about $447 million, a significant decline not quantified in the preview. The explanation tempers the concern: roughly 80% was described as intentional runoff or seasonal contraction, and management guided to mid-single-digit Q4 deposit growth excluding brokered deposits.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits fell ~$447 million, with roughly 80% from intentional runoff or seasonal contraction,\u201d including higher-rate non-relationship balances and brokered deposits.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Adjusted EPS was $1.03, above the preview\u2019s operative $0.95\u2013$1.00 bar. The beat was modest, though adjusted PPNR came in below the preview\u2019s build.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 adjusted net income was $48.2 million, or $1.03 per diluted share,\u201d excluding $0.21 per share of after-tax merger expenses.",
+      "expectation_evidence": "\u201cTreat $0.95\u20131.00 adjusted as the operative bar.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "NIM expanded to 3.82%, ahead of the preview\u2019s 3.78% base case and above the 3.76% June exit rate. This was a favorable but relatively narrow gap; the Q4 outlook remained in the expected mid-3.80s.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cNet interest margin expanded 24 basis points to 3.82% in Q3 from 3.58% in Q2, with Q4 guidance in the mid-3.80s.\u201d",
+      "expectation_evidence": "The preview modeled Q3 NIM at \u201c3.78%\u201d and said \u201cNIM at or above 3.78% keeps the bridge intact.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted PPNR was weaker than the preview\u2019s base build: Q3 was $1.42 per share, while the preview modeled about $72 million of adjusted PPNR, roughly $1.56 per share using its 46.2 million share assumption. This contrasts with the EPS beat and reflects a weaker underlying pre-provision result than expected.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted PPNR was $1.42 per share in Q3, down from $1.50 in Q2.\u201d",
+      "expectation_evidence": "The preview\u2019s base-case build listed \u201cAdj. PPNR\u201d at \u201c~$72M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Credit results were somewhat better than the expected mid-teens-basis-point H2 charge-off level: Q3 net charge-offs were 11 basis points annualized, while special mention and substandard loans both declined. This was favorable evidence on the credit concerns highlighted in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cSpecial mention loans down ~$23.8 million and substandard loans down ~$39.9 million,\u201d with \u201cnet charge-offs \u2026 $3.3 million (11 basis points annualized).\u201d",
+      "expectation_evidence": "The preview said management guided H2 net charge-offs to the \u201cmid-teens\u201d bps and flagged that NPAs needed to stop rising.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Loan performance and the Q4 outlook fell short of the preview\u2019s anticipated growth pace: total loans declined 3.8% annualized in Q3, and management guided to only mid-single-digit Q4 growth rather than the preview\u2019s low-double-digit annualized H2 guide. Higher pipelines and C&I production provide some offset, but paydowns in other portfolios outweighed them.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal loan balances declined ~$110 million (3.8% annualized),\u201d as C&I growth was \u201cmore than offset\u201d by paydowns; management guided to \u201cmid-single-digit Q4 loan \u2026 growth.\u201d",
+      "expectation_evidence": "The preview identified a \u201clow double-digit annualized\u201d H2 loan-growth guide and modeled a base case of \u201chigh-single-digit rather than low-double\u201d growth.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 5,
+      "description": "The company repurchased more shares in Q3 than the preview expected, buying about $50 million against an anticipated $35\u201340 million. Management also expects to finish the remaining $100 million over the next three quarters, maintaining a clear execution timetable for the authorization.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company repurchased approximately $50 million of common shares in Q3\u201d and \u201cexpects to complete the remaining $100 million over the next three quarters.\u201d",
+      "expectation_evidence": "The preview said to \u201cexpect ~$35\u201340M\u201d in Q3 and described the $150 million authorization as being executed over four quarters.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "Tangible book value per share reached $35.60, below the preview\u2019s expected $35.80\u2013$36.30 range despite retained earnings and the buyback. The shortfall was modest, but the anticipated degree of TBVPS accretion did not materialize.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cTangible book value per share increased to $35.60 from $35.16 despite the $50 million buyback.\u201d",
+      "expectation_evidence": "The preview expected TBVPS \u201cto still accrete to roughly $35.8\u201336.3 on retained earnings.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 7,
+      "description": "Deposits fell by about $447 million, a significant decline not quantified in the preview. The explanation tempers the concern: roughly 80% was described as intentional runoff or seasonal contraction, and management guided to mid-single-digit Q4 deposit growth excluding brokered deposits.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cTotal deposits fell ~$447 million, with roughly 80% from intentional runoff or seasonal contraction,\u201d including higher-rate non-relationship balances and brokered deposits.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "event_id": "ea_CZR_Q3_2026",
+  "ticker": "CZR",
+  "company": "Caesars Entertainment, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T20:01:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Caesars Entertainment, Inc. (CZR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:01 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Caesars Entertainment, Inc. (CZR), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 20:01 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:10:41.590482+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Caesars Entertainment CZR Q3 2026 earnings consensus estimates revenue EPS"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Caesars Entertainment third quarter 2026 earnings release date conference call"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Caesars Entertainment second quarter 2026 results Las Vegas same-store revenue guidance adjusted EBITDA"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Caesars CZR stock earnings reaction history options implied move Fertitta merger"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://s202.q4cdn.com/508919455/files/doc_news/Caesars-Entertainment-Inc--Reports-Second-Quarter-2026-Results-2026.pdf"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 4,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "190d91d4-b733-4ecb-ba90-3ed913c849c0",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 7,
+  "duration_ms": 36001,
+  "total_cost_usd": 0.05808469999999999,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 9572,
+    "cache_read_input_tokens": 88290,
+    "output_tokens": 4380,
+    "output_tokens_details": {
+      "thinking_tokens": 1205
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 9572
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 3046,
+        "cache_read_input_tokens": 26699,
+        "cache_creation_input_tokens": 910,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 910,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:11:19.033360+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

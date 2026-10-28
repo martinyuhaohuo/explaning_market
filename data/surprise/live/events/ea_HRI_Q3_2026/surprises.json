@@ -1,0 +1,150 @@
+{
+  "surprises": [
+    {
+      "description": "Herc reported adjusted EPS of $3.91, far above the preview\u2019s $2.92 consensus estimate. That is a much larger result than the preview\u2019s view that EPS risk skewed down.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted net income was $131 million or $3.91 per diluted share.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Q3'26 Consensus: $2.92\u201d; \u201cEPS risk is skewed down.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Herc raised its full-year equipment rental revenue and adjusted EBITDA guidance, rather than holding the existing ranges as the preview\u2019s base case anticipated. The new midpoints are about 2% above the prior guidance midpoints.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year guidance to midpoint equipment rental revenue of $4.513 billion and adjusted EBITDA of $2.13 billion, up about 2% from prior guidance.\u201d",
+      "expectation_evidence": "\u201cBase (50%) ... FY guide reaffirmed at midpoint\u201d; \u201cWatch whether the $4.375\u20134.475B ERR range is narrowed up, held, or trimmed.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA margin reached 44.2%, expanding 190 basis points, above the preview\u2019s implied margin of about 43.5% and roughly 120 basis points of expected year-over-year expansion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA rose about 9% with margin expanding 190 basis points to 44.2%.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA margin | ~43.5% (implied)\u201d; the preview said the margin needed to be \u201cup ~120bps YoY.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Dollar utilization rose 360 basis points year over year, well above the preview\u2019s 40.3%+ level for confirming fleet absorption. The preview identified local-market weakness and a sub-40% utilization result as concerns.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDollar utilization up 360 basis points in the quarter.\u201d",
+      "expectation_evidence": "\u201cA print of 40.3%+ confirms the fleet is being absorbed\u201d; \u201csub-40% says HRI is buying revenue with capex.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net fleet CapEx guidance rose to about $1.05 billion at the midpoint, above the preview\u2019s $850\u2013950 million net rental CapEx range. Some of the increase is a pull-forward of specialty fleet spending for committed mega projects, rather than entirely new 2026 spending.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet fleet CapEx guidance was increased to approximately $1.05 billion at the midpoint, with roughly $150 million representing specialty fleet effectively pulled forward from the 2027 budget for committed mega projects.\u201d",
+      "expectation_evidence": "\u201cNet rental capex | $850\u2013950M\u201d; the preview flagged \u201cleverage and capex discipline\u201d as a key issue.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Herc disclosed that CEO Larry Silber will become Executive Chairman and that long-time President and COO Aaron Birnbaum will become CEO on January 1. The preview did not anticipate or discuss a leadership transition.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCEO Larry Silber will transition to Executive Chairman on January 1, with President and COO Aaron Birnbaum (35+ year Herc veteran) stepping in as CEO.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Herc raised its targeted mega-project rental share to 20% from a prior 15% top end, a more ambitious long-term goal than the preview discussed. Management cautioned that this is a multi-year journey and not expected to be achieved in 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its targeted mega project rental share goal to 20% (from a prior 15% top end), framed as a multi-year journey not expected to be reached in 2027.\u201d",
+      "expectation_evidence": "The preview said the \u201c2027 framing\u201d was important and its base case assumed \u201cno 2027 numbers,\u201d but did not anticipate a higher mega-project share target.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Alongside adjusted EBITDA margin expansion, REBITDA margin fell 70 basis points to 45% as fuel, freight, operating-cost inflation and higher field incentives outweighed pricing and H&E synergy benefits. That signals more cost pressure than the preview\u2019s margin-improvement and synergy-realization case suggested, though REBITDA margin is a separate measure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cREBITDA margin fell 70 basis points to 45% as fuel, freight, operating cost inflation and higher field incentive compensation outweighed pricing and H&E synergy benefits.\u201d",
+      "expectation_evidence": "The preview said the quarter should show the $125M synergy program becoming visible and that adjusted EBITDA margin was implied at \u201c~43.5%,\u201d up about 120 basis points year over year.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Herc reported adjusted EPS of $3.91, far above the preview\u2019s $2.92 consensus estimate. That is a much larger result than the preview\u2019s view that EPS risk skewed down.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cAdjusted net income was $131 million or $3.91 per diluted share.\u201d",
+      "expectation_evidence": "\u201cAdj. diluted EPS | Q3'26 Consensus: $2.92\u201d; \u201cEPS risk is skewed down.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 1,
+      "description": "Herc raised its full-year equipment rental revenue and adjusted EBITDA guidance, rather than holding the existing ranges as the preview\u2019s base case anticipated. The new midpoints are about 2% above the prior guidance midpoints.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised full-year guidance to midpoint equipment rental revenue of $4.513 billion and adjusted EBITDA of $2.13 billion, up about 2% from prior guidance.\u201d",
+      "expectation_evidence": "\u201cBase (50%) ... FY guide reaffirmed at midpoint\u201d; \u201cWatch whether the $4.375\u20134.475B ERR range is narrowed up, held, or trimmed.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "Adjusted EBITDA margin reached 44.2%, expanding 190 basis points, above the preview\u2019s implied margin of about 43.5% and roughly 120 basis points of expected year-over-year expansion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA rose about 9% with margin expanding 190 basis points to 44.2%.\u201d",
+      "expectation_evidence": "\u201cAdj. EBITDA margin | ~43.5% (implied)\u201d; the preview said the margin needed to be \u201cup ~120bps YoY.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Dollar utilization rose 360 basis points year over year, well above the preview\u2019s 40.3%+ level for confirming fleet absorption. The preview identified local-market weakness and a sub-40% utilization result as concerns.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDollar utilization up 360 basis points in the quarter.\u201d",
+      "expectation_evidence": "\u201cA print of 40.3%+ confirms the fleet is being absorbed\u201d; \u201csub-40% says HRI is buying revenue with capex.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 4,
+      "description": "Net fleet CapEx guidance rose to about $1.05 billion at the midpoint, above the preview\u2019s $850\u2013950 million net rental CapEx range. Some of the increase is a pull-forward of specialty fleet spending for committed mega projects, rather than entirely new 2026 spending.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNet fleet CapEx guidance was increased to approximately $1.05 billion at the midpoint, with roughly $150 million representing specialty fleet effectively pulled forward from the 2027 budget for committed mega projects.\u201d",
+      "expectation_evidence": "\u201cNet rental capex | $850\u2013950M\u201d; the preview flagged \u201cleverage and capex discipline\u201d as a key issue.",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 5,
+      "description": "Herc disclosed that CEO Larry Silber will become Executive Chairman and that long-time President and COO Aaron Birnbaum will become CEO on January 1. The preview did not anticipate or discuss a leadership transition.",
+      "direction": "unclear",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cCEO Larry Silber will transition to Executive Chairman on January 1, with President and COO Aaron Birnbaum (35+ year Herc veteran) stepping in as CEO.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "strategy_corporate_events"
+    },
+    {
+      "position": 6,
+      "description": "Herc raised its targeted mega-project rental share to 20% from a prior 15% top end, a more ambitious long-term goal than the preview discussed. Management cautioned that this is a multi-year journey and not expected to be achieved in 2027.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company raised its targeted mega project rental share goal to 20% (from a prior 15% top end), framed as a multi-year journey not expected to be reached in 2027.\u201d",
+      "expectation_evidence": "The preview said the \u201c2027 framing\u201d was important and its base case assumed \u201cno 2027 numbers,\u201d but did not anticipate a higher mega-project share target.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 7,
+      "description": "Alongside adjusted EBITDA margin expansion, REBITDA margin fell 70 basis points to 45% as fuel, freight, operating-cost inflation and higher field incentives outweighed pricing and H&E synergy benefits. That signals more cost pressure than the preview\u2019s margin-improvement and synergy-realization case suggested, though REBITDA margin is a separate measure.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cREBITDA margin fell 70 basis points to 45% as fuel, freight, operating cost inflation and higher field incentive compensation outweighed pricing and H&E synergy benefits.\u201d",
+      "expectation_evidence": "The preview said the quarter should show the $125M synergy program becoming visible and that adjusted EBITDA margin was implied at \u201c~43.5%,\u201d up about 120 basis points year over year.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    }
+  ]
+}

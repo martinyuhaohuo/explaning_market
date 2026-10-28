@@ -1,0 +1,204 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 sales were $172.8 million, above both the preview\u2019s $161.1 million consensus and the high end of the company\u2019s $158\u2013168 million guidance. The result was a clear upside to the preview\u2019s conservative revenue setup.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 consolidated sales reached $172.8 million,\u201d coming in \u201ccomfortably above the high end of guidance.\u201d",
+      "expectation_evidence": "Revenue consensus: \u201c$161.1M\u201d; company guidance: \u201cSales $158\u2013168M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA attributable to DMC was $13.6 million excluding tariff refunds, above the $10\u201313 million guidance range and the preview\u2019s roughly $11.4 million estimate. That means the underlying operating result topped expectations even before counting the unexpected refunds.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA attributable to DMC excluding $5.4 million in DynaEnergetics tariff refunds was $13.6 million.\u201d",
+      "expectation_evidence": "Company guidance: \u201cadj. EBITDA attributable to DMC $10\u201313M\u201d; preview estimate: \u201c~$11.4M attrib.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "DMC received $5.4 million in DynaEnergetics tariff refunds despite the preview expecting no further refunds in Q3. The refunds added a substantial, non-recurring boost to the quarter\u2019s reported EBITDA.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Adjusted EBITDA attributable to DMC was reported \u201cexcluding $5.4 million in DynaEnergetics tariff refunds.\u201d",
+      "expectation_evidence": "The preview said management \u201cexplicitly assumed no further refunds in Q3.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Arcadia sales substantially exceeded the preview\u2019s $67 million estimate: its reported 14% sequential increase implies roughly $77 million compared with Q2 sales of $67.4 million. Arcadia\u2019s 14.7% margin also beat the preview\u2019s 13.5% estimate, showing stronger growth and profitability than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cArcadia building products sales rose 25% year-over-year and 14% sequentially,\u201d and its adjusted EBITDA margin improved to \u201c14.7%.\u201d",
+      "expectation_evidence": "Preview estimate: Arcadia sales \u201c$67M\u201d and \u201cQ3 margin est. 13.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "DynaEnergetics\u2019 underlying margin reached 9.7%, above the preview\u2019s 8.5% estimate and despite excluding tariff refunds. Cost savings and favorable mix produced a better operating margin than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "DynaEnergetics\u2019 adjusted EBITDA margin \u201cexcluding refunds\u201d improved to \u201c9.7%\u201d from 7.1% a year ago, aided by \u201ccost savings and favorable mix.\u201d",
+      "expectation_evidence": "Preview estimate: DynaEnergetics \u201cQ3 margin est. 8.5%\u201d; it also expected \u201cno further refunds in Q3.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "DynaEnergetics volumes fell even as industry rig count and completion spreads increased 5\u201310%, indicating a loss of wallet share. That runs against the preview\u2019s expectation that the tightening completions market would support DynaEnergetics volume.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDynaEnergetics volumes declined in the quarter despite industry rig count and completion spreads rising 5-10%, indicating a loss of wallet share.\u201d",
+      "expectation_evidence": "The preview said the tighter market \u201csupports DynaEnergetics volume.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NobelClad rebounded more strongly than the preview\u2019s $25 million sales and 14.5% margin estimates suggested: sales rose 38% year over year, EBITDA surged 120%, and margin reached 15.9%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNobelClad sales jumped 38% year-over-year while adjusted EBITDA surged 120%, with margin expanding to 15.9%.\u201d",
+      "expectation_evidence": "Preview estimate: NobelClad sales \u201c$25M\u201d and \u201cQ3 margin est. 14.5%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "NobelClad disclosed a $72.4 million backlog, up from $63.5 million, and a quarterly record $16 million in U.S. Navy vessel construction orders. The preview described the backlog only as \u201chealthy\u201d and had no quantified backlog or record-order expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNobelClad's order backlog grew to $72.4 million from $63.5 million, including a quarterly record $16 million in U.S. Navy vessel construction orders.\u201d",
+      "expectation_evidence": "The preview said NobelClad backlog was \u201chealthy\u201d but \u201cunquantified.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Net debt fell sharply to $13.7 million from $30.5 million at Q2, supported by $16.6 million of free cash flow. This reversed the preview\u2019s concern about H1 cash burn and the possibility of a third consecutive quarter of cash burn.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet debt improved to $13.7 million, the lowest since the December 2021 Arcadia acquisition, down from $30.5 million at the end of Q2, supported by $16.6 million of free cash flow.\u201d",
+      "expectation_evidence": "The preview noted H1 operating cash flow of \u201c\u2013$10.3M\u201d and warned that \u201ca third straight quarter of cash burn materially worsens the put math.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management identified a $0.75 million defense/drone detonator contribution as a one-time \u201cbluebird\u201d and advised modeling DynaEnergetics margins 50\u2013100 basis points lower because guidance includes no defense revenue. The preview did not anticipate this contribution or the resulting caution on future margins.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management flagged a \u201c$0.75 million defense/drone detonator contribution\u201d as a non-recurring \u201cbluebird\u201d and advised modeling DynaEnergetics margins \u201c50-100 basis points lower\u201d since no defense revenue is in guidance.",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Q4 guidance cites a California finishing-facility maintenance shutdown, a specific temporary headwind not identified in the preview. The preview did expect seasonal moderation, so the shutdown is an additional factor rather than a wholesale change to the Q4 outlook.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Q4 guidance reflects \u201cseasonal moderation and a California finishing facility maintenance shutdown.\u201d",
+      "expectation_evidence": "The preview expected Q4 to be \u201cseasonally weaker,\u201d but did not mention a California facility shutdown.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 sales were $172.8 million, above both the preview\u2019s $161.1 million consensus and the high end of the company\u2019s $158\u2013168 million guidance. The result was a clear upside to the preview\u2019s conservative revenue setup.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 consolidated sales reached $172.8 million,\u201d coming in \u201ccomfortably above the high end of guidance.\u201d",
+      "expectation_evidence": "Revenue consensus: \u201c$161.1M\u201d; company guidance: \u201cSales $158\u2013168M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "Adjusted EBITDA attributable to DMC was $13.6 million excluding tariff refunds, above the $10\u201313 million guidance range and the preview\u2019s roughly $11.4 million estimate. That means the underlying operating result topped expectations even before counting the unexpected refunds.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA attributable to DMC excluding $5.4 million in DynaEnergetics tariff refunds was $13.6 million.\u201d",
+      "expectation_evidence": "Company guidance: \u201cadj. EBITDA attributable to DMC $10\u201313M\u201d; preview estimate: \u201c~$11.4M attrib.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "DMC received $5.4 million in DynaEnergetics tariff refunds despite the preview expecting no further refunds in Q3. The refunds added a substantial, non-recurring boost to the quarter\u2019s reported EBITDA.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "Adjusted EBITDA attributable to DMC was reported \u201cexcluding $5.4 million in DynaEnergetics tariff refunds.\u201d",
+      "expectation_evidence": "The preview said management \u201cexplicitly assumed no further refunds in Q3.\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 3,
+      "description": "Arcadia sales substantially exceeded the preview\u2019s $67 million estimate: its reported 14% sequential increase implies roughly $77 million compared with Q2 sales of $67.4 million. Arcadia\u2019s 14.7% margin also beat the preview\u2019s 13.5% estimate, showing stronger growth and profitability than expected.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cArcadia building products sales rose 25% year-over-year and 14% sequentially,\u201d and its adjusted EBITDA margin improved to \u201c14.7%.\u201d",
+      "expectation_evidence": "Preview estimate: Arcadia sales \u201c$67M\u201d and \u201cQ3 margin est. 13.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "DynaEnergetics\u2019 underlying margin reached 9.7%, above the preview\u2019s 8.5% estimate and despite excluding tariff refunds. Cost savings and favorable mix produced a better operating margin than expected.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "DynaEnergetics\u2019 adjusted EBITDA margin \u201cexcluding refunds\u201d improved to \u201c9.7%\u201d from 7.1% a year ago, aided by \u201ccost savings and favorable mix.\u201d",
+      "expectation_evidence": "Preview estimate: DynaEnergetics \u201cQ3 margin est. 8.5%\u201d; it also expected \u201cno further refunds in Q3.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "DynaEnergetics volumes fell even as industry rig count and completion spreads increased 5\u201310%, indicating a loss of wallet share. That runs against the preview\u2019s expectation that the tightening completions market would support DynaEnergetics volume.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDynaEnergetics volumes declined in the quarter despite industry rig count and completion spreads rising 5-10%, indicating a loss of wallet share.\u201d",
+      "expectation_evidence": "The preview said the tighter market \u201csupports DynaEnergetics volume.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "NobelClad rebounded more strongly than the preview\u2019s $25 million sales and 14.5% margin estimates suggested: sales rose 38% year over year, EBITDA surged 120%, and margin reached 15.9%.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNobelClad sales jumped 38% year-over-year while adjusted EBITDA surged 120%, with margin expanding to 15.9%.\u201d",
+      "expectation_evidence": "Preview estimate: NobelClad sales \u201c$25M\u201d and \u201cQ3 margin est. 14.5%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 7,
+      "description": "NobelClad disclosed a $72.4 million backlog, up from $63.5 million, and a quarterly record $16 million in U.S. Navy vessel construction orders. The preview described the backlog only as \u201chealthy\u201d and had no quantified backlog or record-order expectation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cNobelClad's order backlog grew to $72.4 million from $63.5 million, including a quarterly record $16 million in U.S. Navy vessel construction orders.\u201d",
+      "expectation_evidence": "The preview said NobelClad backlog was \u201chealthy\u201d but \u201cunquantified.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 8,
+      "description": "Net debt fell sharply to $13.7 million from $30.5 million at Q2, supported by $16.6 million of free cash flow. This reversed the preview\u2019s concern about H1 cash burn and the possibility of a third consecutive quarter of cash burn.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet debt improved to $13.7 million, the lowest since the December 2021 Arcadia acquisition, down from $30.5 million at the end of Q2, supported by $16.6 million of free cash flow.\u201d",
+      "expectation_evidence": "The preview noted H1 operating cash flow of \u201c\u2013$10.3M\u201d and warned that \u201ca third straight quarter of cash burn materially worsens the put math.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 9,
+      "description": "Management identified a $0.75 million defense/drone detonator contribution as a one-time \u201cbluebird\u201d and advised modeling DynaEnergetics margins 50\u2013100 basis points lower because guidance includes no defense revenue. The preview did not anticipate this contribution or the resulting caution on future margins.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Management flagged a \u201c$0.75 million defense/drone detonator contribution\u201d as a non-recurring \u201cbluebird\u201d and advised modeling DynaEnergetics margins \u201c50-100 basis points lower\u201d since no defense revenue is in guidance.",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 10,
+      "description": "Q4 guidance cites a California finishing-facility maintenance shutdown, a specific temporary headwind not identified in the preview. The preview did expect seasonal moderation, so the shutdown is an additional factor rather than a wholesale change to the Q4 outlook.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Q4 guidance reflects \u201cseasonal moderation and a California finishing facility maintenance shutdown.\u201d",
+      "expectation_evidence": "The preview expected Q4 to be \u201cseasonally weaker,\u201d but did not mention a California facility shutdown.",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "surprises": [
+    {
+      "description": "Welltower raised the 2026 normalized FFO guidance midpoint to $6.50, above the preview\u2019s base-case expectation of a $6.44\u2013$6.48 midpoint and its $6.50+ bull case threshold. The increase was larger than the preview\u2019s expected modest raise.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWelltower raised its full-year 2026 FFO guidance midpoint by $0.10 to $6.50 per share.\u201d",
+      "expectation_evidence": "\u201cBase (55%) \u2026 FY nudged to ~$6.44\u2013$6.48\u201d; \u201cBull (25%) \u2026 FY raised to ~$6.50+.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SHOP same-store NOI grew 21%, above the preview\u2019s estimated 18\u201320% range and at the high end of the company\u2019s prior full-year guidance range. The preview said a result with a \u201c2\u201d handle would be a clear beat, though it also described a 20%+ quarter as the whisper expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201c21% growth in the senior housing operating (SHOP) portfolio,\u201d its \u201c16th consecutive quarter of SHOP same-store NOI growth exceeding 20%.\u201d",
+      "expectation_evidence": "\u201cSHO SSNOI growth ~18\u201320% (est.)\u201d; \u201canything with a \u20182\u2019 handle is a clear beat\u201d; \u201cthe 16th straight 20%+ quarter is the whisper.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Q3 normalized FFO of $1.67 per share beat the $1.64 consensus estimate by $0.03, a modest beat that also reached the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 normalized FFO was $1.67 per diluted share.\u201d",
+      "expectation_evidence": "\u201cNormalized FFO/share $1.64.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Revenue growth of 38% exceeded the preview\u2019s expected 35% year-over-year growth, implying revenue above the cited $3.63\u2013$3.66 billion consensus range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRevenue up 38%.\u201d",
+      "expectation_evidence": "\u201cTotal revenue: $3.63B (Zacks) / $3.66B (Investing.com)\u201d; \u201cY/Y +35%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SHOP expenses rose only 4.3%, with ExpPOR up 80 basis points, well below the preview\u2019s base-case expectation of 1.5\u20132.5% and below its 2% checkpoint. Margins expanded 310 basis points, but the 31.7% margin was slightly below the preview\u2019s 32% threshold.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSHOP same-store OpEx grew only 4.3% (ExpPOR up just 80 bps), expanding margins 310 bps to 31.7%.\u201d",
+      "expectation_evidence": "\u201cExpPOR drifts to 1.5\u20132.5%\u201d in the base case; catalyst checklist: \u201cExpPOR \u22642% and NOI margin \u226532%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "SHOP flow-through reached a post-COVID high of 66%, and management said rate-driven revenue growth carries essentially no associated cost. The preview watched the RevPOR/ExpPOR spread but did not anticipate this level of flow-through or this explicit rate-versus-cost characterization.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe SHOP flow-through margin reached a post-COVID high of 66%,\u201d with management emphasizing \u201crate-driven revenue carries essentially no associated cost.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "Year-to-date investment activity rose to $21 billion from the $15.5 billion reported at Q2, while the company acquired less than 3% of screened assets. Much of the remaining activity was sourced off-market and more than half involved sellers taking Welltower units as partial consideration, details not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cYear-to-date investment activity reached $21 billion across 196 granular transactions\u201d; \u201cacquired less than 3% of assets screened\u201d; \u201cNearly 85% of the remaining $7.7 billion of activity was sourced off-market and more than 50% involved sellers taking Welltower units as partial consideration.\u201d",
+      "expectation_evidence": "\u201c$15.5B pro rata YTD investment activity at Q2\u201d; preview said to watch \u201cnew announced volume\u201d and \u201cequity funded vs. leverage.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q3 acquisitions included SHOP communities bought at a 10\u201315% discount to replacement cost and skilled nursing deals at roughly 9% rent yields. The preview focused on deployment volume and funding but did not set expectations for these deal terms or yields.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 acquisitions included 43 SHOP communities \u2026 bought at a 10-15% discount to replacement cost, plus ~$850 million of skilled nursing deals at ~9% rent yields.\u201d",
+      "expectation_evidence": "\u201cCapital deployment pace and funding mix\u201d was a key metric to watch; the preview cited prior acquired assets averaging six years old and ~75% occupancy.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Welltower received full repayment of its $130 million Genesis senior secured term loans when Genesis completed Chapter 11, bringing its total IRR on Genesis investments since 2011 to nearly 9%. This repayment and investment outcome were not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cWellower received full repayment of its $130 million Genesis Healthcare senior secured term loans upon the company's Chapter 11 completion,\u201d bringing total IRR \u201cto nearly 9%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Welltower raised the 2026 normalized FFO guidance midpoint to $6.50, above the preview\u2019s base-case expectation of a $6.44\u2013$6.48 midpoint and its $6.50+ bull case threshold. The increase was larger than the preview\u2019s expected modest raise.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cWelltower raised its full-year 2026 FFO guidance midpoint by $0.10 to $6.50 per share.\u201d",
+      "expectation_evidence": "\u201cBase (55%) \u2026 FY nudged to ~$6.44\u2013$6.48\u201d; \u201cBull (25%) \u2026 FY raised to ~$6.50+.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 1,
+      "description": "SHOP same-store NOI grew 21%, above the preview\u2019s estimated 18\u201320% range and at the high end of the company\u2019s prior full-year guidance range. The preview said a result with a \u201c2\u201d handle would be a clear beat, though it also described a 20%+ quarter as the whisper expectation.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201c21% growth in the senior housing operating (SHOP) portfolio,\u201d its \u201c16th consecutive quarter of SHOP same-store NOI growth exceeding 20%.\u201d",
+      "expectation_evidence": "\u201cSHO SSNOI growth ~18\u201320% (est.)\u201d; \u201canything with a \u20182\u2019 handle is a clear beat\u201d; \u201cthe 16th straight 20%+ quarter is the whisper.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "Q3 normalized FFO of $1.67 per share beat the $1.64 consensus estimate by $0.03, a modest beat that also reached the preview\u2019s bull-case range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cQ3 2026 normalized FFO was $1.67 per diluted share.\u201d",
+      "expectation_evidence": "\u201cNormalized FFO/share $1.64.\u201d",
+      "expectation_source": "preview",
+      "dimension": "bottom_line_earnings"
+    },
+    {
+      "position": 3,
+      "description": "Revenue growth of 38% exceeded the preview\u2019s expected 35% year-over-year growth, implying revenue above the cited $3.63\u2013$3.66 billion consensus range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cRevenue up 38%.\u201d",
+      "expectation_evidence": "\u201cTotal revenue: $3.63B (Zacks) / $3.66B (Investing.com)\u201d; \u201cY/Y +35%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 4,
+      "description": "SHOP expenses rose only 4.3%, with ExpPOR up 80 basis points, well below the preview\u2019s base-case expectation of 1.5\u20132.5% and below its 2% checkpoint. Margins expanded 310 basis points, but the 31.7% margin was slightly below the preview\u2019s 32% threshold.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cSHOP same-store OpEx grew only 4.3% (ExpPOR up just 80 bps), expanding margins 310 bps to 31.7%.\u201d",
+      "expectation_evidence": "\u201cExpPOR drifts to 1.5\u20132.5%\u201d in the base case; catalyst checklist: \u201cExpPOR \u22642% and NOI margin \u226532%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "costs_expenses"
+    },
+    {
+      "position": 5,
+      "description": "SHOP flow-through reached a post-COVID high of 66%, and management said rate-driven revenue growth carries essentially no associated cost. The preview watched the RevPOR/ExpPOR spread but did not anticipate this level of flow-through or this explicit rate-versus-cost characterization.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe SHOP flow-through margin reached a post-COVID high of 66%,\u201d with management emphasizing \u201crate-driven revenue carries essentially no associated cost.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 6,
+      "description": "Year-to-date investment activity rose to $21 billion from the $15.5 billion reported at Q2, while the company acquired less than 3% of screened assets. Much of the remaining activity was sourced off-market and more than half involved sellers taking Welltower units as partial consideration, details not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cYear-to-date investment activity reached $21 billion across 196 granular transactions\u201d; \u201cacquired less than 3% of assets screened\u201d; \u201cNearly 85% of the remaining $7.7 billion of activity was sourced off-market and more than 50% involved sellers taking Welltower units as partial consideration.\u201d",
+      "expectation_evidence": "\u201c$15.5B pro rata YTD investment activity at Q2\u201d; preview said to watch \u201cnew announced volume\u201d and \u201cequity funded vs. leverage.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 7,
+      "description": "The Q3 acquisitions included SHOP communities bought at a 10\u201315% discount to replacement cost and skilled nursing deals at roughly 9% rent yields. The preview focused on deployment volume and funding but did not set expectations for these deal terms or yields.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 acquisitions included 43 SHOP communities \u2026 bought at a 10-15% discount to replacement cost, plus ~$850 million of skilled nursing deals at ~9% rent yields.\u201d",
+      "expectation_evidence": "\u201cCapital deployment pace and funding mix\u201d was a key metric to watch; the preview cited prior acquired assets averaging six years old and ~75% occupancy.",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    },
+    {
+      "position": 8,
+      "description": "Welltower received full repayment of its $130 million Genesis senior secured term loans when Genesis completed Chapter 11, bringing its total IRR on Genesis investments since 2011 to nearly 9%. This repayment and investment outcome were not anticipated in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cWellower received full repayment of its $130 million Genesis Healthcare senior secured term loans upon the company's Chapter 11 completion,\u201d bringing total IRR \u201cto nearly 9%.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}

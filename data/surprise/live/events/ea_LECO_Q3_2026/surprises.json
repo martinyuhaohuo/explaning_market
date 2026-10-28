@@ -1,0 +1,240 @@
+{
+  "surprises": [
+    {
+      "description": "LECO reported $1.221 billion of sales and adjusted EPS of $2.98, above the preview\u2019s $1.17 billion consensus and $2.81 EPS consensus, as well as its own estimates of about $1.188 billion and $2.88. The gaps were meaningful, particularly against the consensus revenue estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 adjusted EPS rose 21% to a record $2.98, with sales up 15% to $1.221 billion.",
+      "expectation_evidence": "\u201cQ3 FY2026 Consensus\u201d: Net sales $1.17B; adjusted EPS $2.81. The preview\u2019s model estimated total sales of ~$1,188M and adjusted EPS of ~$2.88.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The preview focused on whether volume could take over from decelerating price, but LECO\u2019s 9% volume growth exceeded its 6% price contribution. This was the first quarter in over 2.5 years that volume growth outpaced price.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Sales growth was driven by \u201c9% volume growth and 6% price\u201d\u2014the first quarter in over 2.5 years that volume growth outpaced price.",
+      "expectation_evidence": "The \u201ccentral question\u201d was whether \u201cvolume growth can take the baton from a decelerating price contribution\u201d; the preview also said price comps harden materially in 2H and asked whether volume was visibly accelerating.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin fell much more sharply than the preview\u2019s price-cost concerns suggested: it declined 190 basis points, and LECO was still 100 basis points behind its neutral price/cost target year-to-date. Management now expects to close that gap in Q4.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Gross profit margin compressed 190 basis points to 34.8% due to late-quarter price increases and unfavorable mix; the company was 100 basis points behind its neutral price/cost target year-to-date and expects to close the gap in Q4.",
+      "expectation_evidence": "The preview said price-cost was \u201cguided to neutral in 2H after -10bp in Q2,\u201d flagged the \u201cLIFO drag,\u201d and called gross-margin direction a key metric to watch.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted operating margin was slightly below the preview model, and incremental margin was below the preview\u2019s assumed mid-20s level. Year-over-year operating margin still improved, but less than the preview\u2019s modeled margin and incremental leverage implied.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Adjusted operating income margin improved 60 basis points to 18% at a 22% incremental margin.",
+      "expectation_evidence": "The preview modeled \u201c~18.3% adj. operating margin\u201d and a \u201c25% incremental margin,\u201d consistent with the \u201cmid-20%\u201d 2H guide.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Americas Welding sales exceeded the preview\u2019s segment estimate, growing 16% rather than the estimated 10.6%. Its 20.1% margin also cleared the preview\u2019s 19\u201320% 2H range, and management\u2019s Q4 margin outlook is higher still.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Americas Welding sales rose 16% to $801 million and adjusted EBIT margin expanded 190 basis points to 20.1%.",
+      "expectation_evidence": "The preview estimated Americas Welding at \u201c~$765M\u201d and \u201c+10.6%\u201d; it said the 2H margin guide was 19\u201320%.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management guided to a 20\u201321% Americas Welding margin in Q4, above the preview\u2019s 19\u201320% 2H margin range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management guided to a 20%-21% Americas Welding margin in Q4.",
+      "expectation_evidence": "The preview identified the Americas Welding \u201c19\u201320% 2H guide.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "International Welding sales were materially below the preview\u2019s segment estimate: $227 million versus about $238 million, with growth of just 3% rather than the estimated 8.4%. Its 10.3% margin, however, remained within the preview\u2019s expected 10\u201311% area.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "International Welding sales rose only 3% to $227 million, with EBIT margin at 10.3%.",
+      "expectation_evidence": "The preview estimated International Welding at \u201c~$238M\u201d and \u201c+8.4%,\u201d and said it was watching for performance \u201ctoward 10\u201311%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The Q3 Middle East conflict headwind was smaller than the preview\u2019s stated quarterly $6\u20137 million headwind. The company still expects a $6\u20137 million impact in Q4, consistent with the preview\u2019s concern for that quarter.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The Q3 impact was approximately $5 million; the expected Q4 impact is $6\u20137 million.",
+      "expectation_evidence": "The preview flagged a \u201c$6\u20137M quarterly Middle East conflict headwind.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Harris Products Group sales exceeded the preview estimate, reaching $193 million versus about $185 million, but its 17.3% margin fell below the preview\u2019s 18\u201319% range. The revenue growth was heavily driven by silver-related price increases, while mix and operational inefficiencies weighed on margin.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Harris sales jumped 29% to $193 million on approximately 26% higher price, largely due to silver costs; EBIT margin fell 100 basis points to 17.3%.",
+      "expectation_evidence": "The preview estimated Harris sales of \u201c~$185M\u201d and said to watch for an \u201c18\u201319%\u201d margin, while warning that metals pass-through could make a revenue beat low quality.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Automation growth and orders were stronger than the preview\u2019s expected high-single- to low-double-digit trajectory: sales grew at a high-teens organic rate, and strong orders pushed backlog to new records.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Automation sales reached $232 million on high-teens percent organic growth, and strong orders in automation and equipment pushed backlog to new record levels.",
+      "expectation_evidence": "The preview described a \u201chigh-single to low-double-digit trajectory\u201d and said order or pipeline quantification would be upside optionality.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Demand was broader than the preview\u2019s base case required: all five end markets grew, including transportation, which the preview singled out as needing to turn positive in the bull case. U.S. sales grew over 20%, with general fabrication up mid-20s and energy and structural steel up mid-teens.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "U.S. sales grew over 20% and all five end markets grew; transportation was up low double digits.",
+      "expectation_evidence": "The preview\u2019s bull case called for \u201ctransportation turning positive after Q2\u2019s mid-single-digit decline.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "LECO raised full-year sales-growth guidance to the low-teens range, rather than merely reaffirming the low-double-digit outlook described in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company raised full-year sales growth guidance to the low-teens percent range.",
+      "expectation_evidence": "The preview said current guidance was \u201clow-double-digit net sales growth\u201d and framed a reaffirmation as the base case, with another raise in the bull case.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The 2026 CapEx plan increased beyond the range in the preview, raising planned investment by roughly $30 million at the midpoint. The added spending is intended to fund capacity and RISE initiatives.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "2026 CapEx increased to $140\u2013150 million from an initial $110\u2013130 million to fund capacity and RISE initiatives.",
+      "expectation_evidence": "The preview listed \u201cCapex $110\u2013130M FY.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "LECO reported $1.221 billion of sales and adjusted EPS of $2.98, above the preview\u2019s $1.17 billion consensus and $2.81 EPS consensus, as well as its own estimates of about $1.188 billion and $2.88. The gaps were meaningful, particularly against the consensus revenue estimate.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Q3 adjusted EPS rose 21% to a record $2.98, with sales up 15% to $1.221 billion.",
+      "expectation_evidence": "\u201cQ3 FY2026 Consensus\u201d: Net sales $1.17B; adjusted EPS $2.81. The preview\u2019s model estimated total sales of ~$1,188M and adjusted EPS of ~$2.88.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "The preview focused on whether volume could take over from decelerating price, but LECO\u2019s 9% volume growth exceeded its 6% price contribution. This was the first quarter in over 2.5 years that volume growth outpaced price.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Sales growth was driven by \u201c9% volume growth and 6% price\u201d\u2014the first quarter in over 2.5 years that volume growth outpaced price.",
+      "expectation_evidence": "The \u201ccentral question\u201d was whether \u201cvolume growth can take the baton from a decelerating price contribution\u201d; the preview also said price comps harden materially in 2H and asked whether volume was visibly accelerating.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 2,
+      "description": "Gross margin fell much more sharply than the preview\u2019s price-cost concerns suggested: it declined 190 basis points, and LECO was still 100 basis points behind its neutral price/cost target year-to-date. Management now expects to close that gap in Q4.",
+      "direction": "negative",
+      "magnitude": "large",
+      "fact_evidence": "Gross profit margin compressed 190 basis points to 34.8% due to late-quarter price increases and unfavorable mix; the company was 100 basis points behind its neutral price/cost target year-to-date and expects to close the gap in Q4.",
+      "expectation_evidence": "The preview said price-cost was \u201cguided to neutral in 2H after -10bp in Q2,\u201d flagged the \u201cLIFO drag,\u201d and called gross-margin direction a key metric to watch.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Adjusted operating margin was slightly below the preview model, and incremental margin was below the preview\u2019s assumed mid-20s level. Year-over-year operating margin still improved, but less than the preview\u2019s modeled margin and incremental leverage implied.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "Adjusted operating income margin improved 60 basis points to 18% at a 22% incremental margin.",
+      "expectation_evidence": "The preview modeled \u201c~18.3% adj. operating margin\u201d and a \u201c25% incremental margin,\u201d consistent with the \u201cmid-20%\u201d 2H guide.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Americas Welding sales exceeded the preview\u2019s segment estimate, growing 16% rather than the estimated 10.6%. Its 20.1% margin also cleared the preview\u2019s 19\u201320% 2H range, and management\u2019s Q4 margin outlook is higher still.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Americas Welding sales rose 16% to $801 million and adjusted EBIT margin expanded 190 basis points to 20.1%.",
+      "expectation_evidence": "The preview estimated Americas Welding at \u201c~$765M\u201d and \u201c+10.6%\u201d; it said the 2H margin guide was 19\u201320%.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 5,
+      "description": "Management guided to a 20\u201321% Americas Welding margin in Q4, above the preview\u2019s 19\u201320% 2H margin range.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "Management guided to a 20%-21% Americas Welding margin in Q4.",
+      "expectation_evidence": "The preview identified the Americas Welding \u201c19\u201320% 2H guide.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 6,
+      "description": "International Welding sales were materially below the preview\u2019s segment estimate: $227 million versus about $238 million, with growth of just 3% rather than the estimated 8.4%. Its 10.3% margin, however, remained within the preview\u2019s expected 10\u201311% area.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "International Welding sales rose only 3% to $227 million, with EBIT margin at 10.3%.",
+      "expectation_evidence": "The preview estimated International Welding at \u201c~$238M\u201d and \u201c+8.4%,\u201d and said it was watching for performance \u201ctoward 10\u201311%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 7,
+      "description": "The Q3 Middle East conflict headwind was smaller than the preview\u2019s stated quarterly $6\u20137 million headwind. The company still expects a $6\u20137 million impact in Q4, consistent with the preview\u2019s concern for that quarter.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The Q3 impact was approximately $5 million; the expected Q4 impact is $6\u20137 million.",
+      "expectation_evidence": "The preview flagged a \u201c$6\u20137M quarterly Middle East conflict headwind.\u201d",
+      "expectation_source": "preview",
+      "dimension": "external_environment"
+    },
+    {
+      "position": 8,
+      "description": "Harris Products Group sales exceeded the preview estimate, reaching $193 million versus about $185 million, but its 17.3% margin fell below the preview\u2019s 18\u201319% range. The revenue growth was heavily driven by silver-related price increases, while mix and operational inefficiencies weighed on margin.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "Harris sales jumped 29% to $193 million on approximately 26% higher price, largely due to silver costs; EBIT margin fell 100 basis points to 17.3%.",
+      "expectation_evidence": "The preview estimated Harris sales of \u201c~$185M\u201d and said to watch for an \u201c18\u201319%\u201d margin, while warning that metals pass-through could make a revenue beat low quality.",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 9,
+      "description": "Automation growth and orders were stronger than the preview\u2019s expected high-single- to low-double-digit trajectory: sales grew at a high-teens organic rate, and strong orders pushed backlog to new records.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "Automation sales reached $232 million on high-teens percent organic growth, and strong orders in automation and equipment pushed backlog to new record levels.",
+      "expectation_evidence": "The preview described a \u201chigh-single to low-double-digit trajectory\u201d and said order or pipeline quantification would be upside optionality.",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 10,
+      "description": "Demand was broader than the preview\u2019s base case required: all five end markets grew, including transportation, which the preview singled out as needing to turn positive in the bull case. U.S. sales grew over 20%, with general fabrication up mid-20s and energy and structural steel up mid-teens.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "U.S. sales grew over 20% and all five end markets grew; transportation was up low double digits.",
+      "expectation_evidence": "The preview\u2019s bull case called for \u201ctransportation turning positive after Q2\u2019s mid-single-digit decline.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 11,
+      "description": "LECO raised full-year sales-growth guidance to the low-teens range, rather than merely reaffirming the low-double-digit outlook described in the preview.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "The company raised full-year sales growth guidance to the low-teens percent range.",
+      "expectation_evidence": "The preview said current guidance was \u201clow-double-digit net sales growth\u201d and framed a reaffirmation as the base case, with another raise in the bull case.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 12,
+      "description": "The 2026 CapEx plan increased beyond the range in the preview, raising planned investment by roughly $30 million at the midpoint. The added spending is intended to fund capacity and RISE initiatives.",
+      "direction": "mixed",
+      "magnitude": "moderate",
+      "fact_evidence": "2026 CapEx increased to $140\u2013150 million from an initial $110\u2013130 million to fund capacity and RISE initiatives.",
+      "expectation_evidence": "The preview listed \u201cCapex $110\u2013130M FY.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

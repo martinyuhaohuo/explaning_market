@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 gross margin came in at 57.3%, below the preview\u2019s roughly 59% expectation and down 178 basis points sequentially. Management attributed the shortfall to unfavorable DME revenue mix from distributor stocking dynamics.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 gross margin was 57.3%\u201d and was \u201cdown 178 basis points sequentially and below expectations due to unfavorable DME revenue mix from distributor stocking dynamics.\u201d",
+      "expectation_evidence": "\u201cGross margin ~59% (no formal consensus)\u201d and \u201cMy Est. 59.3%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The FDA asked Beta Bionics to withdraw the 3D Intelligence 510(k) submission, with resubmission now planned for mid-Q4 and clearance likely in 2027. The preview flagged timing risk, but this is a concrete regulatory setback; management said the questions concerned simulator validation, not the algorithm or outcomes.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FDA requested withdrawal of the 3D Intelligence 510(k) submission over simulator validation questions (not algorithm or outcome concerns), with resubmission planned for mid-Q4 2026 and clearance likely in 2027.\u201d",
+      "expectation_evidence": "\u201cWatch for re-inspection status and timing on the 3D Intelligence 510(k) (submitted 9/14/26)\u201d and the bear case included \u201cany ... 3D Intelligence delay.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The company raised the low end of its FY26 revenue guidance by $3 million, to $124 million, while leaving the high end at $126 million. That is better than the preview\u2019s base case of reiterating the $121\u2013126 million range, though it falls short of a high-end guide increase.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised the low end of full year 2026 revenue guidance to $124 million-$126 million (from $121 million-$126 million).\u201d",
+      "expectation_evidence": "The base case expected \u201cFY26 $121\u2013126M reiterated\u201d; the bull case called for \u201cFY26 raised/narrowed to the high end (\u2265$126M).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management reduced the maximum potential Q4 revenue deferral from patients waiting for Mint from $10 million to $8.5 million, indicating a smaller near-term headwind than the preview\u2019s stated framing. It still expects to more than recover the deferral in 2027.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe potential Q4 revenue deferral from patients awaiting Mint was reduced to up to $8.5 million (from up to $10 million), with management expecting to more than make up the deferral in 2027.\u201d",
+      "expectation_evidence": "The preview said the 9/14 cut was attributed to \u201cup to $10M\u201d of Q4 deferral, recapturable in 2027.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cash and investments ended Q3 at about $374 million, above the preview\u2019s estimated $330\u2013345 million. The preview expected roughly $140 million of net proceeds from the offering, versus approximately $161 million reported.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company completed a public offering raising approximately $161 million in net proceeds, ending Q3 with about $374 million in cash, equivalents, and investments.\u201d",
+      "expectation_evidence": "\u201cQ2 ended with $225.2M; +$140.1M net from the September raise, less ~$20\u201325M of Q3 burn and Mint capex \u2192 ~$330\u2013345M expected.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management supplied a favorable per-patient revenue comparison for Mint: roughly six times the monthly revenue from iLet DME supplies. The preview identified Mint economics as a major unknown but did not provide an expected per-patient comparison.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMint generating roughly 6x the monthly revenue per patient versus iLet DME supply revenue of around $70 per month.\u201d",
+      "expectation_evidence": "The preview called \u201cquantified 2027 Mint revenue framing\u201d the \u201csingle biggest swing factor for the multiple\u201d and said the base case had \u201cno new quantification.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 gross margin came in at 57.3%, below the preview\u2019s roughly 59% expectation and down 178 basis points sequentially. Management attributed the shortfall to unfavorable DME revenue mix from distributor stocking dynamics.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ3 gross margin was 57.3%\u201d and was \u201cdown 178 basis points sequentially and below expectations due to unfavorable DME revenue mix from distributor stocking dynamics.\u201d",
+      "expectation_evidence": "\u201cGross margin ~59% (no formal consensus)\u201d and \u201cMy Est. 59.3%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 1,
+      "description": "The FDA asked Beta Bionics to withdraw the 3D Intelligence 510(k) submission, with resubmission now planned for mid-Q4 and clearance likely in 2027. The preview flagged timing risk, but this is a concrete regulatory setback; management said the questions concerned simulator validation, not the algorithm or outcomes.",
+      "direction": "negative",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe FDA requested withdrawal of the 3D Intelligence 510(k) submission over simulator validation questions (not algorithm or outcome concerns), with resubmission planned for mid-Q4 2026 and clearance likely in 2027.\u201d",
+      "expectation_evidence": "\u201cWatch for re-inspection status and timing on the 3D Intelligence 510(k) (submitted 9/14/26)\u201d and the bear case included \u201cany ... 3D Intelligence delay.\u201d",
+      "expectation_source": "preview",
+      "dimension": "development_execution_regulatory"
+    },
+    {
+      "position": 2,
+      "description": "The company raised the low end of its FY26 revenue guidance by $3 million, to $124 million, while leaving the high end at $126 million. That is better than the preview\u2019s base case of reiterating the $121\u2013126 million range, though it falls short of a high-end guide increase.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe company raised the low end of full year 2026 revenue guidance to $124 million-$126 million (from $121 million-$126 million).\u201d",
+      "expectation_evidence": "The base case expected \u201cFY26 $121\u2013126M reiterated\u201d; the bull case called for \u201cFY26 raised/narrowed to the high end (\u2265$126M).\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 3,
+      "description": "Management reduced the maximum potential Q4 revenue deferral from patients waiting for Mint from $10 million to $8.5 million, indicating a smaller near-term headwind than the preview\u2019s stated framing. It still expects to more than recover the deferral in 2027.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cThe potential Q4 revenue deferral from patients awaiting Mint was reduced to up to $8.5 million (from up to $10 million), with management expecting to more than make up the deferral in 2027.\u201d",
+      "expectation_evidence": "The preview said the 9/14 cut was attributed to \u201cup to $10M\u201d of Q4 deferral, recapturable in 2027.",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 4,
+      "description": "Cash and investments ended Q3 at about $374 million, above the preview\u2019s estimated $330\u2013345 million. The preview expected roughly $140 million of net proceeds from the offering, versus approximately $161 million reported.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cThe company completed a public offering raising approximately $161 million in net proceeds, ending Q3 with about $374 million in cash, equivalents, and investments.\u201d",
+      "expectation_evidence": "\u201cQ2 ended with $225.2M; +$140.1M net from the September raise, less ~$20\u201325M of Q3 burn and Mint capex \u2192 ~$330\u2013345M expected.\u201d",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    },
+    {
+      "position": 5,
+      "description": "Management supplied a favorable per-patient revenue comparison for Mint: roughly six times the monthly revenue from iLet DME supplies. The preview identified Mint economics as a major unknown but did not provide an expected per-patient comparison.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMint generating roughly 6x the monthly revenue per patient versus iLet DME supply revenue of around $70 per month.\u201d",
+      "expectation_evidence": "The preview called \u201cquantified 2027 Mint revenue framing\u201d the \u201csingle biggest swing factor for the multiple\u201d and said the base case had \u201cno new quantification.\u201d",
+      "expectation_source": "preview",
+      "dimension": "commercial_economics"
+    }
+  ]
+}

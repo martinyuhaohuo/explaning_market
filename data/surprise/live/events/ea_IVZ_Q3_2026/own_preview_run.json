@@ -1,0 +1,112 @@
+{
+  "event_id": "ea_IVZ_Q3_2026",
+  "ticker": "IVZ",
+  "company": "Invesco Ltd.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-27T10:55:00Z",
+  "knowledge_cutoff": "2026-10-26T20:00:00Z",
+  "request": "Invesco Ltd. (IVZ), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:55 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "prompt": "/earnings-preview Invesco Ltd. (IVZ), fiscal period Q3 FY2026, earnings release scheduled 2026-10-27 10:55 UTC. Knowledge cutoff: 2026-10-26T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-26T16:43:20.112598+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Invesco IVZ Q3 2026 earnings preview consensus EPS revenue estimate October 2026"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Invesco second quarter 2026 results adjusted EPS AUM net long-term flows outlook"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Invesco IVZ stock earnings reaction history options implied move"
+    },
+    {
+      "tool": "WebFetch",
+      "detail": "https://www.sec.gov/Archives/edgar/data/0000914208/000091420826000229/ivzpressrelease2q2026.htm"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 3,
+    "WebFetch": 1
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "2e2e8eec-2cc1-4c1a-b141-2c5491139050",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 6,
+  "duration_ms": 32340,
+  "total_cost_usd": 0.042167094999999995,
+  "usage": {
+    "input_tokens": 8,
+    "cache_creation_input_tokens": 8717,
+    "cache_read_input_tokens": 84057,
+    "output_tokens": 3420,
+    "output_tokens_details": {
+      "thinking_tokens": 618
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 8717
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2497,
+        "cache_read_input_tokens": 25184,
+        "cache_creation_input_tokens": 1570,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 1570,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-26T16:43:53.723977+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

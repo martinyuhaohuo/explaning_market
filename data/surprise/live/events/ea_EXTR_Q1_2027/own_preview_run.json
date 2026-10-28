@@ -1,0 +1,103 @@
+{
+  "event_id": "ea_EXTR_Q1_2027",
+  "ticker": "EXTR",
+  "company": "Extreme Networks, Inc.",
+  "company_source": "yahoo",
+  "event_datetime": "2026-10-28T11:05:00Z",
+  "knowledge_cutoff": "2026-10-27T20:00:00Z",
+  "request": "Extreme Networks, Inc. (EXTR), fiscal period Q1 FY2027, earnings release scheduled 2026-10-28 11:05 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "prompt": "/earnings-preview Extreme Networks, Inc. (EXTR), fiscal period Q1 FY2027, earnings release scheduled 2026-10-28 11:05 UTC. Knowledge cutoff: 2026-10-27T20:00:00Z.",
+  "model": "claude-haiku-5-5",
+  "settings": {
+    "model": "claude-haiku-5-5",
+    "effort": "low",
+    "max_turns": 12,
+    "max_budget_usd": 0.1,
+    "max_searches": 4,
+    "max_fetches": 3
+  },
+  "skill_path": "root/preview_agent/workspace/.claude/skills/earnings-preview/SKILL.md",
+  "skill_sha256": "a30d383a6f1c06b732b4d34e422dd2ff18f6340db67229a3347d057d52697f33",
+  "started_at": "2026-10-27T08:12:43.563829+00:00",
+  "tool_calls": [
+    {
+      "tool": "ToolSearch",
+      "detail": "select:WebSearch,WebFetch"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Extreme Networks EXTR Q1 fiscal 2027 earnings preview consensus revenue EPS"
+    },
+    {
+      "tool": "WebSearch",
+      "detail": "Extreme Networks fiscal 2027 first quarter results date October 28 2026"
+    }
+  ],
+  "web_calls": {
+    "WebSearch": 2
+  },
+  "skills_loaded": [
+    "earnings-preview",
+    "deep-research",
+    "design",
+    "design-sync",
+    "dataviz",
+    "update-config",
+    "verify",
+    "debug",
+    "code-review",
+    "simplify",
+    "batch",
+    "fewer-permission-prompts",
+    "doctor",
+    "loop",
+    "claude-api",
+    "workflow-authoring",
+    "run",
+    "run-skill-generator",
+    "plugin-authoring"
+  ],
+  "session_id": "bd9f08d9-e746-4c12-bf8c-91afe7a6317b",
+  "subtype": "success",
+  "is_error": false,
+  "num_turns": 4,
+  "duration_ms": 20777,
+  "total_cost_usd": 0.026265029999999998,
+  "usage": {
+    "input_tokens": 4,
+    "cache_creation_input_tokens": 5494,
+    "cache_read_input_tokens": 37918,
+    "output_tokens": 3159,
+    "output_tokens_details": {
+      "thinking_tokens": 306
+    },
+    "server_tool_use": {
+      "web_search_requests": 0,
+      "web_fetch_requests": 0
+    },
+    "service_tier": "standard",
+    "cache_creation": {
+      "ephemeral_1h_input_tokens": 0,
+      "ephemeral_5m_input_tokens": 5494
+    },
+    "inference_geo": "global",
+    "iterations": [
+      {
+        "input_tokens": 2,
+        "output_tokens": 2735,
+        "cache_read_input_tokens": 19881,
+        "cache_creation_input_tokens": 3650,
+        "cache_creation": {
+          "ephemeral_5m_input_tokens": 3650,
+          "ephemeral_1h_input_tokens": 0
+        },
+        "type": "message"
+      }
+    ],
+    "speed": "standard",
+    "fallback_credit": null
+  },
+  "finished_at": "2026-10-27T08:13:05.630406+00:00",
+  "finished_before_cutoff": true,
+  "usable": true
+}

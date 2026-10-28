@@ -1,0 +1,114 @@
+{
+  "surprises": [
+    {
+      "description": "Gross bookings came in above the preview\u2019s base and bull cases: MakeMyTrip reported $2.7 billion, up 20.9% in constant currency, versus a base case of $2.57\u20132.60 billion and a bull case of about $2.65 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ2 FY27 gross bookings of $2.7 billion, up 20.9% year-on-year in constant currency.\u201d",
+      "expectation_evidence": "\u201cBase: $2.57\u20132.60B (+5\u20136% rep / +14\u201315% cc)\u201d; \u201cBull: ~$2.65B (+8% rep / +17\u201318% cc).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Air ticketing adjusted margin growth was stronger than the preview\u2019s roughly 10\u201311% run rate despite falling departures. MakeMyTrip reported 14.3% constant-currency growth while domestic departures declined 7% and international departures declined 4%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAir ticketing adjusted margin grew 14.3% in constant currency to $108.6 million \u2026 despite declining passenger volumes\u201d; domestic air departures \u201cdeclined 7%\u201d and international departures \u201cfell 4%.\u201d",
+      "expectation_evidence": "\u201cAir ticketing cc adjusted margin vs. ~+10\u201311% run-rate\u201d; \u201cHolding double-digit cc with volumes down 6.5% would be a genuine positive surprise.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The operating-profit margin was below the preview\u2019s 1.8% anchor, at 1.7% of gross bookings. Management attributed the compression primarily to higher payment-gateway costs from 25%\u201330% higher airfares without a corresponding increase in per-ticket revenue.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted operating profit margin compressed slightly to 1.7% of gross bookings from 1.8%,\u201d primarily because higher airfares raised payment gateway costs without a corresponding rise in per-ticket revenue.",
+      "expectation_evidence": "\u201cManagement has anchored on 1.8%\u201d; base case: \u201c$46\u201348M (1.8% of GB).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Bus adjusted-margin growth exceeded the preview\u2019s roughly 26% consensus expectation: it grew 29% in constant currency. The call also attributed roughly half of the growth to inventory additions and half to market-share gains.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBus ticketing posted 24.7% volume growth and 29% adjusted margin growth in constant currency, with roughly half the growth driven by inventory additions and the rest from market share gains.\u201d",
+      "expectation_evidence": "\u201cBus ticketing cc growth \u2026 consensus ~+26%.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The call disclosed substantial Myra usage and conversion results that the preview had not anticipated as an earnings debate: the assistant handles over 90,000 daily conversations, assists over 3,000 bookings a day, and Myra-engaged customers convert at 1.7 times the rate of non-users.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMyra now handles over 90,000 daily conversations and assists over 3,000 bookings a day,\u201d with Myra-engaged customers converting at \u201c1.7x the rate of non-users\u201d and resolving \u201c53% of post-booking queries autonomously.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none"
+    },
+    {
+      "description": "The company deployed $17.2 million on buybacks, well above the $7.8 million repurchased in the prior quarter; the preview had identified an upsized buyback as a possible confidence signal.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDeployed $17.2 million on buybacks covering 37% of shares tied to 2028 convertible bonds.\u201d",
+      "expectation_evidence": "\u201cCapital return \u2014 $7.8M repurchased in Q1 FY27; \u2026 an upsized buyback would read as a confidence signal.\u201d",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Gross bookings came in above the preview\u2019s base and bull cases: MakeMyTrip reported $2.7 billion, up 20.9% in constant currency, versus a base case of $2.57\u20132.60 billion and a bull case of about $2.65 billion.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cQ2 FY27 gross bookings of $2.7 billion, up 20.9% year-on-year in constant currency.\u201d",
+      "expectation_evidence": "\u201cBase: $2.57\u20132.60B (+5\u20136% rep / +14\u201315% cc)\u201d; \u201cBull: ~$2.65B (+8% rep / +17\u201318% cc).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 1,
+      "description": "Air ticketing adjusted margin growth was stronger than the preview\u2019s roughly 10\u201311% run rate despite falling departures. MakeMyTrip reported 14.3% constant-currency growth while domestic departures declined 7% and international departures declined 4%.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAir ticketing adjusted margin grew 14.3% in constant currency to $108.6 million \u2026 despite declining passenger volumes\u201d; domestic air departures \u201cdeclined 7%\u201d and international departures \u201cfell 4%.\u201d",
+      "expectation_evidence": "\u201cAir ticketing cc adjusted margin vs. ~+10\u201311% run-rate\u201d; \u201cHolding double-digit cc with volumes down 6.5% would be a genuine positive surprise.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 2,
+      "description": "The operating-profit margin was below the preview\u2019s 1.8% anchor, at 1.7% of gross bookings. Management attributed the compression primarily to higher payment-gateway costs from 25%\u201330% higher airfares without a corresponding increase in per-ticket revenue.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cAdjusted operating profit margin compressed slightly to 1.7% of gross bookings from 1.8%,\u201d primarily because higher airfares raised payment gateway costs without a corresponding rise in per-ticket revenue.",
+      "expectation_evidence": "\u201cManagement has anchored on 1.8%\u201d; base case: \u201c$46\u201348M (1.8% of GB).\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 3,
+      "description": "Bus adjusted-margin growth exceeded the preview\u2019s roughly 26% consensus expectation: it grew 29% in constant currency. The call also attributed roughly half of the growth to inventory additions and half to market-share gains.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBus ticketing posted 24.7% volume growth and 29% adjusted margin growth in constant currency, with roughly half the growth driven by inventory additions and the rest from market share gains.\u201d",
+      "expectation_evidence": "\u201cBus ticketing cc growth \u2026 consensus ~+26%.\u201d",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "The call disclosed substantial Myra usage and conversion results that the preview had not anticipated as an earnings debate: the assistant handles over 90,000 daily conversations, assists over 3,000 bookings a day, and Myra-engaged customers convert at 1.7 times the rate of non-users.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cMyra now handles over 90,000 daily conversations and assists over 3,000 bookings a day,\u201d with Myra-engaged customers converting at \u201c1.7x the rate of non-users\u201d and resolving \u201c53% of post-booking queries autonomously.\u201d",
+      "expectation_evidence": "",
+      "expectation_source": "none",
+      "dimension": "operating_kpis"
+    },
+    {
+      "position": 5,
+      "description": "The company deployed $17.2 million on buybacks, well above the $7.8 million repurchased in the prior quarter; the preview had identified an upsized buyback as a possible confidence signal.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cDeployed $17.2 million on buybacks covering 37% of shares tied to 2028 convertible bonds.\u201d",
+      "expectation_evidence": "\u201cCapital return \u2014 $7.8M repurchased in Q1 FY27; \u2026 an upsized buyback would read as a confidence signal.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    }
+  ]
+}

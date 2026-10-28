@@ -1,0 +1,132 @@
+{
+  "surprises": [
+    {
+      "description": "Q3 revenue was $43.6M, well above the preview's $37.5M estimate and its roughly $39M midpoint-pacing benchmark. Revenue also grew 31% year over year, with sequential growth accelerating sharply.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 31% year-over-year to $43.6 million\u201d; quarter-over-quarter growth accelerated from 6.7% in Q2 to 18.6% in Q3.",
+      "expectation_evidence": "\u201cMy estimate: revenue $37.5M\u201d; the preview also identified \u201c~$39M\u201d as straight-line midpoint pacing and said the bull scenario was \u201c\u2265$42M.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "BigBear.ai raised its full-year revenue guidance to $150\u2013165M, lifting the floor by $15M and the midpoint by 5% rather than reaffirming the prior range. The range remained wide, but the higher floor was better than the preview's concern about another full-range affirmation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its full-year 2026 revenue guidance for the first time to $150-165 million\u201d and noted \u201ca 5% increase versus prior guidance.\u201d",
+      "expectation_evidence": "The prior range was \u201c$135M\u2013$165M\u201d; the preview said that \u201caffirming the full wide range for a third straight quarter is itself a soft negative\u201d and that buyers wanted \u201c$145M+ floor language.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "The reported loss per share was much larger than the preview's estimate, but it was driven primarily by an unanticipated, noncash goodwill impairment. The impairment was $0.16 per share versus an expected loss of $0.05 per share, making the headline gap look substantially worse than the underlying operating result.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet loss of $91.9 million ($0.19 per share)\u201d; the loss was \u201cdriven primarily by a noncash goodwill impairment charge of $76.7 million ($0.16 per share).\u201d",
+      "expectation_evidence": "\u201cMy estimate: ... EPS $(0.05).\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Gross margin improved year over year but fell short of the preview's expected range and its 32% watch threshold: it came in at 31.2%, not around 33% or higher.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGross margin expanded 878 basis points year-over-year to 31.2%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cGM ~33%,\u201d expected \u201cGM 32\u201334%\u201d in its base case, and listed \u201cGross margin \u226532%\u201d as a catalyst checklist item.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Adjusted EBITDA loss was narrower than expected and improved from the prior quarter, contrary to the preview's concern that losses were worsening. It was still roughly flat year over year, so the improvement was not a year-over-year turnaround.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA was negative $9.1 million,\u201d versus negative $9.4 million a year earlier.",
+      "expectation_evidence": "The preview estimated adjusted EBITDA of \u201c$(11)M,\u201d described a base case of \u201c$(10)\u2013$(12)M,\u201d and said losses had widened to \u201c$(11.6)M\u201d in Q2.",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Management emphasized a less capital-intensive strategy, whereas the preview had identified deploying cash into accretive M&A as an H2 priority and a possible catalyst. The call's emphasis was instead on the company's AI positioning and broader defense-AI investment tailwinds.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Management emphasized \u201ca less capital-intensive strategy positioned in AI value-chain layers 4 and 5,\u201d citing defense AI/autonomy budget requests and expected G7 investment.",
+      "expectation_evidence": "The preview said commentary on deploying cash into \u201caccretive M&A\u201d was an H2 priority and called an M&A announcement a \u201clive possibility.\u201d",
+      "expectation_source": "preview"
+    },
+    {
+      "description": "Cash and investments at quarter-end were nearly $400M, above the roughly $388M level implied by the preview's $409.8M June balance and its estimate of about $22M of quarterly cash burn.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBigBear ended Q3 with nearly $400 million in cash and investments.\u201d",
+      "expectation_evidence": "The preview cited \u201c$409.8M (6/30/26), ~$22M/qtr.\u201d cash burn.",
+      "expectation_source": "preview"
+    }
+  ],
+  "items": [
+    {
+      "position": 0,
+      "description": "Q3 revenue was $43.6M, well above the preview's $37.5M estimate and its roughly $39M midpoint-pacing benchmark. Revenue also grew 31% year over year, with sequential growth accelerating sharply.",
+      "direction": "positive",
+      "magnitude": "large",
+      "fact_evidence": "\u201cQ3 2026 revenue grew 31% year-over-year to $43.6 million\u201d; quarter-over-quarter growth accelerated from 6.7% in Q2 to 18.6% in Q3.",
+      "expectation_evidence": "\u201cMy estimate: revenue $37.5M\u201d; the preview also identified \u201c~$39M\u201d as straight-line midpoint pacing and said the bull scenario was \u201c\u2265$42M.\u201d",
+      "expectation_source": "preview",
+      "dimension": "revenue"
+    },
+    {
+      "position": 1,
+      "description": "BigBear.ai raised its full-year revenue guidance to $150\u2013165M, lifting the floor by $15M and the midpoint by 5% rather than reaffirming the prior range. The range remained wide, but the higher floor was better than the preview's concern about another full-range affirmation.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cRaised its full-year 2026 revenue guidance for the first time to $150-165 million\u201d and noted \u201ca 5% increase versus prior guidance.\u201d",
+      "expectation_evidence": "The prior range was \u201c$135M\u2013$165M\u201d; the preview said that \u201caffirming the full wide range for a third straight quarter is itself a soft negative\u201d and that buyers wanted \u201c$145M+ floor language.\u201d",
+      "expectation_source": "preview",
+      "dimension": "forward_guidance"
+    },
+    {
+      "position": 2,
+      "description": "The reported loss per share was much larger than the preview's estimate, but it was driven primarily by an unanticipated, noncash goodwill impairment. The impairment was $0.16 per share versus an expected loss of $0.05 per share, making the headline gap look substantially worse than the underlying operating result.",
+      "direction": "mixed",
+      "magnitude": "large",
+      "fact_evidence": "\u201cNet loss of $91.9 million ($0.19 per share)\u201d; the loss was \u201cdriven primarily by a noncash goodwill impairment charge of $76.7 million ($0.16 per share).\u201d",
+      "expectation_evidence": "\u201cMy estimate: ... EPS $(0.05).\u201d",
+      "expectation_source": "preview",
+      "dimension": "accounting_tax_special_items"
+    },
+    {
+      "position": 3,
+      "description": "Gross margin improved year over year but fell short of the preview's expected range and its 32% watch threshold: it came in at 31.2%, not around 33% or higher.",
+      "direction": "negative",
+      "magnitude": "small",
+      "fact_evidence": "\u201cGross margin expanded 878 basis points year-over-year to 31.2%.\u201d",
+      "expectation_evidence": "The preview estimated \u201cGM ~33%,\u201d expected \u201cGM 32\u201334%\u201d in its base case, and listed \u201cGross margin \u226532%\u201d as a catalyst checklist item.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 4,
+      "description": "Adjusted EBITDA loss was narrower than expected and improved from the prior quarter, contrary to the preview's concern that losses were worsening. It was still roughly flat year over year, so the improvement was not a year-over-year turnaround.",
+      "direction": "positive",
+      "magnitude": "moderate",
+      "fact_evidence": "\u201cAdjusted EBITDA was negative $9.1 million,\u201d versus negative $9.4 million a year earlier.",
+      "expectation_evidence": "The preview estimated adjusted EBITDA of \u201c$(11)M,\u201d described a base case of \u201c$(10)\u2013$(12)M,\u201d and said losses had widened to \u201c$(11.6)M\u201d in Q2.",
+      "expectation_source": "preview",
+      "dimension": "operating_profitability"
+    },
+    {
+      "position": 5,
+      "description": "Management emphasized a less capital-intensive strategy, whereas the preview had identified deploying cash into accretive M&A as an H2 priority and a possible catalyst. The call's emphasis was instead on the company's AI positioning and broader defense-AI investment tailwinds.",
+      "direction": "mixed",
+      "magnitude": "small",
+      "fact_evidence": "Management emphasized \u201ca less capital-intensive strategy positioned in AI value-chain layers 4 and 5,\u201d citing defense AI/autonomy budget requests and expected G7 investment.",
+      "expectation_evidence": "The preview said commentary on deploying cash into \u201caccretive M&A\u201d was an H2 priority and called an M&A announcement a \u201clive possibility.\u201d",
+      "expectation_source": "preview",
+      "dimension": "capital_allocation"
+    },
+    {
+      "position": 6,
+      "description": "Cash and investments at quarter-end were nearly $400M, above the roughly $388M level implied by the preview's $409.8M June balance and its estimate of about $22M of quarterly cash burn.",
+      "direction": "positive",
+      "magnitude": "small",
+      "fact_evidence": "\u201cBigBear ended Q3 with nearly $400 million in cash and investments.\u201d",
+      "expectation_evidence": "The preview cited \u201c$409.8M (6/30/26), ~$22M/qtr.\u201d cash burn.",
+      "expectation_source": "preview",
+      "dimension": "cash_balance_sheet_liquidity"
+    }
+  ]
+}
